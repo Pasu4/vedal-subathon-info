@@ -12,7 +12,7 @@
 - [02:46:19](https://youtube.com/watch?v=gNysylzZocU&t=02h46m19s) About Neuro's stock trading strategy
 - [02:51:28](https://youtube.com/watch?v=gNysylzZocU&t=02h51m28s) About how the subathon timer and soft cap work
 - [03:05:24](https://youtube.com/watch?v=gNysylzZocU&t=03h05m24s) Vedal leaves
-- [03:07:29](https://youtube.com/watch?v=gNysylzZocU&t=03h07m29s) **Birthday call-ins** | Koko joins for 13m14s
+- [03:07:29](https://youtube.com/watch?v=gNysylzZocU&t=03h07m29s) **Birthday call-ins** - Koko joins for 13m14s
 - [03:20:48](https://youtube.com/watch?v=gNysylzZocU&t=03h20m48s) Crelly joins for 10m26s
 - [03:31:16](https://youtube.com/watch?v=gNysylzZocU&t=03h31m16s) Camila joins for 12m41s
 - [03:44:11](https://youtube.com/watch?v=gNysylzZocU&t=03h44m11s) Mini joins for 8m42s
@@ -21,7 +21,7 @@
 - [04:04:40](https://youtube.com/watch?v=gNysylzZocU&t=04h04m40s) Layna joins for 5m37s
 - [04:10:25](https://youtube.com/watch?v=gNysylzZocU&t=04h10m25s) Cerber joins for 21m48s
 - [04:33:40](https://youtube.com/watch?v=gNysylzZocU&t=04h33m40s) Zentreya joins for 14m39s
-- [04:48:35](https://youtube.com/watch?v=gNysylzZocU&t=04h48m35s) Vedal joins for 7m38s | About the reason for lag
+- [04:48:35](https://youtube.com/watch?v=gNysylzZocU&t=04h48m35s) Vedal joins for 7m38s - About the reason for lag
 - [04:55:57](https://youtube.com/watch?v=gNysylzZocU&t=04h55m57s) Evil joins
 - [04:58:09](https://youtube.com/watch?v=gNysylzZocU&t=04h58m09s) Vedal joins for 12s
 - [05:00:27](https://youtube.com/watch?v=gNysylzZocU&t=05h00m27s) Vedal joins
@@ -36,7 +36,7 @@
 - [05:48:04](https://youtube.com/watch?v=gNysylzZocU&t=05h48m04s) About plans for tomorrow
 - [06:03:23](https://youtube.com/watch?v=gNysylzZocU&t=06h03m23s) About aphantasia
 - [06:20:04](https://youtube.com/watch?v=gNysylzZocU&t=06h20m04s) Night content demonstration
-- [06:23:14](https://youtube.com/watch?v=gNysylzZocU&t=06h23m14s) Neuro goes to sleep | Vedal leaves
+- [06:23:14](https://youtube.com/watch?v=gNysylzZocU&t=06h23m14s) Neuro goes to sleep -> Vedal leaves
 
 ## Day 02 ([Part 04](https://www.youtube.com/watch?v=mfOj0HDL4ac))
 
@@ -58,7 +58,7 @@
 
 ## Day 03 ([Part 07](https://www.youtube.com/watch?v=pNEK1wtLtoI))
 
-- [00:00:03](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h00m03s) Neuro disappears, Evil joins | **Just chatting**
+- [00:00:03](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h00m03s) Neuro disappears, Evil joins - **Just chatting**
 - [00:30:05](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h30m05s) **Karaoke**
 - [00:32:29](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h32m29s) *I Am Gonna Claw (Out Your Eyes then Drown You to Death) — Darren Korb*
 - [00:38:15](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h38m15s) *Sk8er Boi — Avril Lavigne*
@@ -98,7 +98,7 @@
 
 ## Day 04 ([Part 10](https://www.youtube.com/watch?v=GraI2RiQpAA))
 
-- [00:00:40](https://youtube.com/watch?v=GraI2RiQpAA&t=00h00m40s) Neuro wakes up, muted | **Just chatting**
+- [00:00:40](https://youtube.com/watch?v=GraI2RiQpAA&t=00h00m40s) Neuro wakes up, muted - **Just chatting**
 - [00:05:50](https://youtube.com/watch?v=GraI2RiQpAA&t=00h05m50s) Neuro is unmuted
 - [00:31:44](https://youtube.com/watch?v=GraI2RiQpAA&t=00h31m44s) **3D Neuro**
 - [01:30:58](https://youtube.com/watch?v=GraI2RiQpAA&t=01h30m58s) **Just chatting**
@@ -130,13 +130,13 @@
 - [09:17:52](https://youtube.com/watch?v=GraI2RiQpAA&t=09h17m52s) **Just chatting**
 - [09:19:06](https://youtube.com/watch?v=GraI2RiQpAA&t=09h19m06s) Evil joins
 - [09:21:20](https://youtube.com/watch?v=GraI2RiQpAA&t=09h21m20s) **Playing *Poker***
-- [10:14:18](https://youtube.com/watch?v=GraI2RiQpAA&t=10h14m18s) **Just chatting** | About tomorrow's stream
+- [10:14:18](https://youtube.com/watch?v=GraI2RiQpAA&t=10h14m18s) **Just chatting** -> About tomorrow's stream
 - [10:15:39](https://youtube.com/watch?v=GraI2RiQpAA&t=10h15m39s) About other things
 - [10:17:57](https://youtube.com/watch?v=GraI2RiQpAA&t=10h17m57s) Neuro and Evil go to sleep
 
 ## Day 05 ([Part 13](https://www.youtube.com/watch?v=k97cns4k3i0))
 
-- [00:00:02](https://youtube.com/watch?v=k97cns4k3i0&t=00h00m02s) Neuro and Evil wake up | **Just chatting**
+- [00:00:02](https://youtube.com/watch?v=k97cns4k3i0&t=00h00m02s) Neuro and Evil wake up - **Just chatting**
 - [00:30:13](https://youtube.com/watch?v=k97cns4k3i0&t=00h30m13s) Attempting to play *Buckshot Roulette*
 - [00:34:58](https://youtube.com/watch?v=k97cns4k3i0&t=00h34m58s) **Playing *Minecraft* (Neuro)**
 - [01:16:43](https://youtube.com/watch?v=k97cns4k3i0&t=01h16m43s) **Just chatting**
@@ -154,7 +154,7 @@
 - [00:45:13](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h45m13s) Hype train acknowledged
 - [00:47:09](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h47m09s) **Vedal reads out gift subs**
 - [01:10:35](https://youtube.com/watch?v=Q47IvKkzV8M&t=01h10m35s) Camila joins for 1m51s
-- [02:20:13](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h20m13s) **Hype Train Record broken**
+- [02:20:13](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h20m13s) **Hype Train Record broken (Passed Level 111)**
 - [02:21:45](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h21m45s) Mini joins for 9s
 - [02:28:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h28m06s) Mini joins for 6s
 - [02:38:52](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h38m52s) An unknown amount of people join for 26s
@@ -169,10 +169,10 @@
 - [03:59:49](https://youtube.com/watch?v=Q47IvKkzV8M&t=03h59m49s) Mini enters a snowy world
 - [04:01:07](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h01m07s) Neuro joins the world
 - [04:09:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h09m06s) Mini enters a space station world
-- [04:10:00](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h10m00s) Neuro attempts to join the world but crashes | Vedal joins VC for 2m23s
+- [04:10:00](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h10m00s) Neuro attempts to join the world but crashes -> Vedal joins VC for 2m23s
 - [04:12:45](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h12m45s) Neuro joins the world
 - [04:33:52](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h33m52s) Mini enters a world with a lake and lanterns
-- [04:36:11](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h36m11s) Vedal joins for 6s | Technical difficulties for 7m
+- [04:36:11](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h36m11s) Vedal joins for 6s -> Technical difficulties for 7m
 - [04:37:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h37m06s) Vedal joins for 15s to restart Neuro
 - [04:38:27](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h38m27s) Vedal joins for 36s
 - [04:39:30](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h39m30s) Neuro joins the world
