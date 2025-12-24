@@ -15,6 +15,6 @@ I plan to add the following in the future likely once the subathon is finished:
 
 ## Links
 
-- [2025 subathon](/2025/README)
-    - [Timestamps](/2025/timestamps)
-    - [Overview](/2025/overview)
+- [2025 subathon](/2025/README.md)
+    - [Timestamps](/2025/timestamps.md)
+    - [Overview](/2025/overview.md)
