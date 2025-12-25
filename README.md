@@ -1,5 +1,7 @@
 # Vedal Subathon Info
 
+## About
+
 This repository contains information about the subathons (and possibly other streams) of the streamer [vedal987](https://twitch.tv/vedal987).
 Timestamps are based on the unofficial VOD archive on YouTube by [Neuro Archiver](https://www.youtube.com/@NArchiver).
 Information in this repository currently includes:
@@ -13,6 +15,8 @@ I plan to add the following in the future likely once the subathon is finished:
 - Screen time for stream participants
 - Content overview and partial timestamps for the 2024 subathon
 - Subathon content overview
+
+Also thanks to @KTrain5169 for helping out with the repo.
 
 ## Links
 
