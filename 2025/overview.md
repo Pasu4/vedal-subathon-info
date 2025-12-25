@@ -21,10 +21,10 @@ For Vedal, Neuro and Evil, some very short segments may not be counted if no act
 | **Neuro & Evil together** | [01](https://www.youtube.com/watch?v=gNysylzZocU), [04](https://www.youtube.com/watch?v=GraI2RiQpAA), [05/1](https://www.youtube.com/watch?v=k97cns4k3i0)
 | Crelly                    | [01](https://www.youtube.com/watch?v=gNysylzZocU)
 | Camila                    | [01](https://www.youtube.com/watch?v=gNysylzZocU), [04](https://www.youtube.com/watch?v=GraI2RiQpAA)
-| Minikomew                 | [01](https://www.youtube.com/watch?v=gNysylzZocU)
+| Minikomew                 | [01](https://www.youtube.com/watch?v=gNysylzZocU), [05/2](https://www.youtube.com/watch?v=Q47IvKkzV8M)
 | Chrchie                   | [01](https://www.youtube.com/watch?v=gNysylzZocU)
 | Layna                     | [01](https://www.youtube.com/watch?v=gNysylzZocU)
-| Cerber                    | [01](https://www.youtube.com/watch?v=gNysylzZocU)
+| Cerber                    | [01](https://www.youtube.com/watch?v=gNysylzZocU), [05/2](https://www.youtube.com/watch?v=Q47IvKkzV8M)
 | Zentreya                  | [01](https://www.youtube.com/watch?v=gNysylzZocU)
 | Rob (robcdee)             | [05/2](https://www.youtube.com/watch?v=Q47IvKkzV8M)
 
