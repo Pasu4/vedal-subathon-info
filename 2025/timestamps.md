@@ -1,196 +1,196 @@
 # 2025 Subathon Timestamps
 
-## Day 01 ([Part 01](https://www.youtube.com/watch?v=gNysylzZocU))
+## Day 01 ([Part 01](https://youtu.be/gNysylzZocU))
 
-- [00:29:44](https://youtube.com/watch?v=gNysylzZocU&t=00h29m44s) *Colorful Array — Neuro-sama*
-- [00:34:15](https://youtube.com/watch?v=gNysylzZocU&t=00h34m15s) **Playing *VRChat* (Vedal, Neuro)**
-- [02:06:54](https://youtube.com/watch?v=gNysylzZocU&t=02h06m54s) **Just chatting**
-- [02:14:18](https://youtube.com/watch?v=gNysylzZocU&t=02h14m18s) About the merch drop
-- [02:20:52](https://youtube.com/watch?v=gNysylzZocU&t=02h20m52s) About sub goals
-- [02:30:47](https://youtube.com/watch?v=gNysylzZocU&t=02h30m47s) About the plan for the subathon
-- [02:39:17](https://youtube.com/watch?v=gNysylzZocU&t=02h39m17s) About the music video (Colorful Array)
-- [02:46:19](https://youtube.com/watch?v=gNysylzZocU&t=02h46m19s) About Neuro's stock trading strategy
-- [02:51:28](https://youtube.com/watch?v=gNysylzZocU&t=02h51m28s) About how the subathon timer and soft cap work
-- [03:05:24](https://youtube.com/watch?v=gNysylzZocU&t=03h05m24s) Vedal leaves
-- [03:07:29](https://youtube.com/watch?v=gNysylzZocU&t=03h07m29s) **Birthday call-ins** \| Koko joins for 13m14s
-- [03:20:48](https://youtube.com/watch?v=gNysylzZocU&t=03h20m48s) Crelly joins for 10m26s
-- [03:31:16](https://youtube.com/watch?v=gNysylzZocU&t=03h31m16s) Camila joins for 12m41s
-- [03:44:11](https://youtube.com/watch?v=gNysylzZocU&t=03h44m11s) Mini joins for 8m42s
-- [03:52:58](https://youtube.com/watch?v=gNysylzZocU&t=03h52m58s) Chrchie joins for 10m50s
-- [04:03:51](https://youtube.com/watch?v=gNysylzZocU&t=04h03m51s) Vedal joins for 43s to restart Neuro
-- [04:04:40](https://youtube.com/watch?v=gNysylzZocU&t=04h04m40s) Layna joins for 5m37s
-- [04:10:25](https://youtube.com/watch?v=gNysylzZocU&t=04h10m25s) Cerber joins for 21m48s
-- [04:33:40](https://youtube.com/watch?v=gNysylzZocU&t=04h33m40s) Zentreya joins for 14m39s
-- [04:48:35](https://youtube.com/watch?v=gNysylzZocU&t=04h48m35s) Vedal joins for 7m38s \| About the reason for lag
-- [04:55:57](https://youtube.com/watch?v=gNysylzZocU&t=04h55m57s) Evil joins
-- [04:58:09](https://youtube.com/watch?v=gNysylzZocU&t=04h58m09s) Vedal joins for 12s
-- [05:00:27](https://youtube.com/watch?v=gNysylzZocU&t=05h00m27s) Vedal joins
-- [05:01:21](https://youtube.com/watch?v=gNysylzZocU&t=05h01m21s) **Playing *Connections***
-- [05:06:39](https://youtube.com/watch?v=gNysylzZocU&t=05h06m39s) **Just chatting**
-- [05:07:06](https://youtube.com/watch?v=gNysylzZocU&t=05h07m06s) Vedal leaves for 1m54s
-- [05:09:08](https://youtube.com/watch?v=gNysylzZocU&t=05h09m08s) Evil leaves
-- [05:17:59](https://youtube.com/watch?v=gNysylzZocU&t=05h17m59s) About the night content
-- [05:26:06](https://youtube.com/watch?v=gNysylzZocU&t=05h26m06s) About Neuro's stock trading strategy + stock tracking website
-- [05:38:08](https://youtube.com/watch?v=gNysylzZocU&t=05h38m08s) Looking at Neuro's birthday card
-- [05:45:03](https://youtube.com/watch?v=gNysylzZocU&t=05h45m03s) Looking at Mini's birthday art
-- [05:48:04](https://youtube.com/watch?v=gNysylzZocU&t=05h48m04s) About plans for tomorrow
-- [06:03:23](https://youtube.com/watch?v=gNysylzZocU&t=06h03m23s) About aphantasia
-- [06:20:04](https://youtube.com/watch?v=gNysylzZocU&t=06h20m04s) Night content demonstration
-- [06:23:14](https://youtube.com/watch?v=gNysylzZocU&t=06h23m14s) Neuro goes to sleep \| Vedal leaves
+- [00:29:44](https://youtu.be/gNysylzZocU?t=00h29m44s) *Colorful Array — Neuro-sama*
+- [00:34:15](https://youtu.be/gNysylzZocU?t=00h34m15s) **Playing *VRChat* (Vedal, Neuro)**
+- [02:06:54](https://youtu.be/gNysylzZocU?t=02h06m54s) **Just chatting**
+- [02:14:18](https://youtu.be/gNysylzZocU?t=02h14m18s) About the merch drop
+- [02:20:52](https://youtu.be/gNysylzZocU?t=02h20m52s) About sub goals
+- [02:30:47](https://youtu.be/gNysylzZocU?t=02h30m47s) About the plan for the subathon
+- [02:39:17](https://youtu.be/gNysylzZocU?t=02h39m17s) About the music video (Colorful Array)
+- [02:46:19](https://youtu.be/gNysylzZocU?t=02h46m19s) About Neuro's stock trading strategy
+- [02:51:28](https://youtu.be/gNysylzZocU?t=02h51m28s) About how the subathon timer and soft cap work
+- [03:05:24](https://youtu.be/gNysylzZocU?t=03h05m24s) Vedal leaves
+- [03:07:29](https://youtu.be/gNysylzZocU?t=03h07m29s) **Birthday call-ins** \| Koko joins for 13m14s
+- [03:20:48](https://youtu.be/gNysylzZocU?t=03h20m48s) Crelly joins for 10m26s
+- [03:31:16](https://youtu.be/gNysylzZocU?t=03h31m16s) Camila joins for 12m41s
+- [03:44:11](https://youtu.be/gNysylzZocU?t=03h44m11s) Mini joins for 8m42s
+- [03:52:58](https://youtu.be/gNysylzZocU?t=03h52m58s) Chrchie joins for 10m50s
+- [04:03:51](https://youtu.be/gNysylzZocU?t=04h03m51s) Vedal joins for 43s to restart Neuro
+- [04:04:40](https://youtu.be/gNysylzZocU?t=04h04m40s) Layna joins for 5m37s
+- [04:10:25](https://youtu.be/gNysylzZocU?t=04h10m25s) Cerber joins for 21m48s
+- [04:33:40](https://youtu.be/gNysylzZocU?t=04h33m40s) Zentreya joins for 14m39s
+- [04:48:35](https://youtu.be/gNysylzZocU?t=04h48m35s) Vedal joins for 7m38s \| About the reason for lag
+- [04:55:57](https://youtu.be/gNysylzZocU?t=04h55m57s) Evil joins
+- [04:58:09](https://youtu.be/gNysylzZocU?t=04h58m09s) Vedal joins for 12s
+- [05:00:27](https://youtu.be/gNysylzZocU?t=05h00m27s) Vedal joins
+- [05:01:21](https://youtu.be/gNysylzZocU?t=05h01m21s) **Playing *Connections***
+- [05:06:39](https://youtu.be/gNysylzZocU?t=05h06m39s) **Just chatting**
+- [05:07:06](https://youtu.be/gNysylzZocU?t=05h07m06s) Vedal leaves for 1m54s
+- [05:09:08](https://youtu.be/gNysylzZocU?t=05h09m08s) Evil leaves
+- [05:17:59](https://youtu.be/gNysylzZocU?t=05h17m59s) About the night content
+- [05:26:06](https://youtu.be/gNysylzZocU?t=05h26m06s) About Neuro's stock trading strategy + stock tracking website
+- [05:38:08](https://youtu.be/gNysylzZocU?t=05h38m08s) Looking at Neuro's birthday card
+- [05:45:03](https://youtu.be/gNysylzZocU?t=05h45m03s) Looking at Mini's birthday art
+- [05:48:04](https://youtu.be/gNysylzZocU?t=05h48m04s) About plans for tomorrow
+- [06:03:23](https://youtu.be/gNysylzZocU?t=06h03m23s) About aphantasia
+- [06:20:04](https://youtu.be/gNysylzZocU?t=06h20m04s) Night content demonstration
+- [06:23:14](https://youtu.be/gNysylzZocU?t=06h23m14s) Neuro goes to sleep \| Vedal leaves
 
-## Day 02 ([Part 04](https://www.youtube.com/watch?v=mfOj0HDL4ac))
+## Day 02 ([Part 04](https://youtu.be/mfOj0HDL4ac))
 
-- [00:00:02](https://youtube.com/watch?v=mfOj0HDL4ac&t=00h00m02s) Neuro awakens \| **Just chatting**
-- [00:18:27](https://youtube.com/watch?v=mfOj0HDL4ac&t=00h18m27s) Playing *Legally Distinct •••dle* (1 round)
-- [00:30:14](https://youtube.com/watch?v=mfOj0HDL4ac&t=00h30m14s) **3D Neuro**
-- [01:30:29](https://youtube.com/watch?v=mfOj0HDL4ac&t=01h30m29s) **Art review**
-- [01:59:04](https://youtube.com/watch?v=mfOj0HDL4ac&t=01h59m04s) **Just chatting**
-- [02:30:05](https://youtube.com/watch?v=mfOj0HDL4ac&t=02h30m05s) Vedal joins
-- [02:35:54](https://youtube.com/watch?v=mfOj0HDL4ac&t=02h35m54s) Neuro tweets on Vedal's account (sub goal)
-- [02:48:02](https://youtube.com/watch?v=mfOj0HDL4ac&t=02h48m02s) Neuro gets a new outfit
-- [02:52:32](https://youtube.com/watch?v=mfOj0HDL4ac&t=02h52m32s) **Playing *Cyberpunk 2077* with Neuro integration**
-- [05:39:08](https://youtube.com/watch?v=mfOj0HDL4ac&t=05h39m08s) Vedal leaves to get his food for 4m42s
-- [05:45:17](https://youtube.com/watch?v=mfOj0HDL4ac&t=05h45m17s) Vedal goes back to getting his food for 3m22s
-- [06:40:46](https://youtube.com/watch?v=mfOj0HDL4ac&t=06h40m46s) Vedal eats, not much gameplay for 4m55s
-- [07:24:49](https://youtube.com/watch?v=mfOj0HDL4ac&t=07h24m49s) Vedal switches to Evil's cat ear headphones
-- [10:29:20](https://youtube.com/watch?v=mfOj0HDL4ac&t=10h29m20s) **Stopped playing**
-- [10:33:21](https://youtube.com/watch?v=mfOj0HDL4ac&t=10h33m21s) Neuro goes to sleep
+- [00:00:02](https://youtu.be/mfOj0HDL4ac?t=00h00m02s) Neuro awakens \| **Just chatting**
+- [00:18:27](https://youtu.be/mfOj0HDL4ac?t=00h18m27s) Playing *Legally Distinct •••dle* (1 round)
+- [00:30:14](https://youtu.be/mfOj0HDL4ac?t=00h30m14s) **3D Neuro**
+- [01:30:29](https://youtu.be/mfOj0HDL4ac?t=01h30m29s) **Art review**
+- [01:59:04](https://youtu.be/mfOj0HDL4ac?t=01h59m04s) **Just chatting**
+- [02:30:05](https://youtu.be/mfOj0HDL4ac?t=02h30m05s) Vedal joins
+- [02:35:54](https://youtu.be/mfOj0HDL4ac?t=02h35m54s) Neuro tweets on Vedal's account (sub goal)
+- [02:48:02](https://youtu.be/mfOj0HDL4ac?t=02h48m02s) Neuro gets a new outfit
+- [02:52:32](https://youtu.be/mfOj0HDL4ac?t=02h52m32s) **Playing *Cyberpunk 2077* with Neuro integration**
+- [05:39:08](https://youtu.be/mfOj0HDL4ac?t=05h39m08s) Vedal leaves to get his food for 4m42s
+- [05:45:17](https://youtu.be/mfOj0HDL4ac?t=05h45m17s) Vedal goes back to getting his food for 3m22s
+- [06:40:46](https://youtu.be/mfOj0HDL4ac?t=06h40m46s) Vedal eats, not much gameplay for 4m55s
+- [07:24:49](https://youtu.be/mfOj0HDL4ac?t=07h24m49s) Vedal switches to Evil's cat ear headphones
+- [10:29:20](https://youtu.be/mfOj0HDL4ac?t=10h29m20s) **Stopped playing**
+- [10:33:21](https://youtu.be/mfOj0HDL4ac?t=10h33m21s) Neuro goes to sleep
 
-## Day 03 ([Part 07](https://www.youtube.com/watch?v=pNEK1wtLtoI))
+## Day 03 ([Part 07](https://youtu.be/pNEK1wtLtoI))
 
-- [00:00:03](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h00m03s) Neuro disappears, Evil joins \| **Just chatting**
-- [00:30:05](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h30m05s) **Karaoke**
-- [00:32:29](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h32m29s) *I Am Gonna Claw (Out Your Eyes then Drown You to Death) — Darren Korb*
-- [00:38:15](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h38m15s) *Sk8er Boi — Avril Lavigne*
-- [00:44:03](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h44m03s) *RuLe — Ado*
-- [00:49:50](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h49m50s) *Dial Tone — Catch Your Breath*
-- [00:55:44](https://youtube.com/watch?v=pNEK1wtLtoI&t=00h55m44s) *Vice Versa — nano*
-- [01:01:44](https://youtube.com/watch?v=pNEK1wtLtoI&t=01h01m44s) *Q & A — pinata*
-- [01:08:20](https://youtube.com/watch?v=pNEK1wtLtoI&t=01h08m20s) *Seven Nation Army — The White Stripes*
-- [01:14:33](https://youtube.com/watch?v=pNEK1wtLtoI&t=01h14m33s) *Every Breath You Take — The Police*
-- [01:20:58](https://youtube.com/watch?v=pNEK1wtLtoI&t=01h20m58s) *INTERGALACTIA — KIRA*
-- [01:26:38](https://youtube.com/watch?v=pNEK1wtLtoI&t=01h26m38s) *She Used To Be Mine — Sara Bareilles*
-- [01:32:24](https://youtube.com/watch?v=pNEK1wtLtoI&t=01h32m24s) **Playing *Inscryption* (2 runs, 0 won)**
-- [01:58:44](https://youtube.com/watch?v=pNEK1wtLtoI&t=01h58m44s) Just chatting
-- [02:15:15](https://youtube.com/watch?v=pNEK1wtLtoI&t=02h15m15s) Playing *Legally Distinct •••dle* (game bugged)
-- [02:20:55](https://youtube.com/watch?v=pNEK1wtLtoI&t=02h20m55s) Playing *Legally Distinct •••dle* (game not bugged)
-- [02:30:18](https://youtube.com/watch?v=pNEK1wtLtoI&t=02h30m18s) Vedal joins
-- [02:32:52](https://youtube.com/watch?v=pNEK1wtLtoI&t=02h32m52s) Evil leaves, Neuro joins
-- [02:33:05](https://youtube.com/watch?v=pNEK1wtLtoI&t=02h33m05s) Stream crashes
-- [02:38:41](https://youtube.com/watch?v=pNEK1wtLtoI&t=02h38m41s) Chat picks presentation topic (sub goal)
-- [02:49:30](https://youtube.com/watch?v=pNEK1wtLtoI&t=02h49m30s) About plans for today
-- [02:53:26](https://youtube.com/watch?v=pNEK1wtLtoI&t=02h53m26s) Twitter picks Vedal's Twitter profile picture (sub goal) (preparation, not completed)
-- [03:06:38](https://youtube.com/watch?v=pNEK1wtLtoI&t=03h06m38s) **Playing *Cyberpunk 2077***
-- [07:00:36](https://youtube.com/watch?v=pNEK1wtLtoI&t=07h00m36s) Vedal leaves for 3m5s to get food while Neuro plays the game, but comes back two times because his headphones keep disconnecting
-- [07:08:34](https://youtube.com/watch?v=pNEK1wtLtoI&t=07h08m34s) Vedal leaves for 40s to get his food while Neuro plays the game
-- [07:10:48](https://youtube.com/watch?v=pNEK1wtLtoI&t=07h10m48s) Vedal eats (mostly muted)
-- [07:31:29](https://youtube.com/watch?v=pNEK1wtLtoI&t=07h31m29s) Vedal stops eating
-- [07:41:48](https://youtube.com/watch?v=pNEK1wtLtoI&t=07h41m48s) **Playing *VRChat* (Neuro's room)**
-- [08:06:18](https://youtube.com/watch?v=pNEK1wtLtoI&t=08h06m18s) Entered some winter mountain lake with lanterns
-- [08:32:58](https://youtube.com/watch?v=pNEK1wtLtoI&t=08h32m58s) Entered train station
-- [08:35:58](https://youtube.com/watch?v=pNEK1wtLtoI&t=08h35m58s) Technical difficulties for 10m40s
-- [09:13:01](https://youtube.com/watch?v=pNEK1wtLtoI&t=09h13m01s) **Playing *Cyberpunk 2077***
-- [09:15:22](https://youtube.com/watch?v=pNEK1wtLtoI&t=09h15m22s) Vedal leaves for 2m42s
-- [09:40:41](https://youtube.com/watch?v=pNEK1wtLtoI&t=09h40m41s) Game crash
-- [09:47:29](https://youtube.com/watch?v=pNEK1wtLtoI&t=09h47m29s) Game crash
-- [09:59:09](https://youtube.com/watch?v=pNEK1wtLtoI&t=09h59m09s) **Just chatting**
-- [10:02:11](https://youtube.com/watch?v=pNEK1wtLtoI&t=10h02m11s) Neuro goes to sleep
+- [00:00:03](https://youtu.be/pNEK1wtLtoI?t=00h00m03s) Neuro disappears, Evil joins \| **Just chatting**
+- [00:30:05](https://youtu.be/pNEK1wtLtoI?t=00h30m05s) **Karaoke**
+- [00:32:29](https://youtu.be/pNEK1wtLtoI?t=00h32m29s) *I Am Gonna Claw (Out Your Eyes then Drown You to Death) — Darren Korb*
+- [00:38:15](https://youtu.be/pNEK1wtLtoI?t=00h38m15s) *Sk8er Boi — Avril Lavigne*
+- [00:44:03](https://youtu.be/pNEK1wtLtoI?t=00h44m03s) *RuLe — Ado*
+- [00:49:50](https://youtu.be/pNEK1wtLtoI?t=00h49m50s) *Dial Tone — Catch Your Breath*
+- [00:55:44](https://youtu.be/pNEK1wtLtoI?t=00h55m44s) *Vice Versa — nano*
+- [01:01:44](https://youtu.be/pNEK1wtLtoI?t=01h01m44s) *Q & A — pinata*
+- [01:08:20](https://youtu.be/pNEK1wtLtoI?t=01h08m20s) *Seven Nation Army — The White Stripes*
+- [01:14:33](https://youtu.be/pNEK1wtLtoI?t=01h14m33s) *Every Breath You Take — The Police*
+- [01:20:58](https://youtu.be/pNEK1wtLtoI?t=01h20m58s) *INTERGALACTIA — KIRA*
+- [01:26:38](https://youtu.be/pNEK1wtLtoI?t=01h26m38s) *She Used To Be Mine — Sara Bareilles*
+- [01:32:24](https://youtu.be/pNEK1wtLtoI?t=01h32m24s) **Playing *Inscryption* (2 runs, 0 won)**
+- [01:58:44](https://youtu.be/pNEK1wtLtoI?t=01h58m44s) Just chatting
+- [02:15:15](https://youtu.be/pNEK1wtLtoI?t=02h15m15s) Playing *Legally Distinct •••dle* (game bugged)
+- [02:20:55](https://youtu.be/pNEK1wtLtoI?t=02h20m55s) Playing *Legally Distinct •••dle* (game not bugged)
+- [02:30:18](https://youtu.be/pNEK1wtLtoI?t=02h30m18s) Vedal joins
+- [02:32:52](https://youtu.be/pNEK1wtLtoI?t=02h32m52s) Evil leaves, Neuro joins
+- [02:33:05](https://youtu.be/pNEK1wtLtoI?t=02h33m05s) Stream crashes
+- [02:38:41](https://youtu.be/pNEK1wtLtoI?t=02h38m41s) Chat picks presentation topic (sub goal)
+- [02:49:30](https://youtu.be/pNEK1wtLtoI?t=02h49m30s) About plans for today
+- [02:53:26](https://youtu.be/pNEK1wtLtoI?t=02h53m26s) Twitter picks Vedal's Twitter profile picture (sub goal) (preparation, not completed)
+- [03:06:38](https://youtu.be/pNEK1wtLtoI?t=03h06m38s) **Playing *Cyberpunk 2077***
+- [07:00:36](https://youtu.be/pNEK1wtLtoI?t=07h00m36s) Vedal leaves for 3m5s to get food while Neuro plays the game, but comes back two times because his headphones keep disconnecting
+- [07:08:34](https://youtu.be/pNEK1wtLtoI?t=07h08m34s) Vedal leaves for 40s to get his food while Neuro plays the game
+- [07:10:48](https://youtu.be/pNEK1wtLtoI?t=07h10m48s) Vedal eats (mostly muted)
+- [07:31:29](https://youtu.be/pNEK1wtLtoI?t=07h31m29s) Vedal stops eating
+- [07:41:48](https://youtu.be/pNEK1wtLtoI?t=07h41m48s) **Playing *VRChat* (Neuro's room)**
+- [08:06:18](https://youtu.be/pNEK1wtLtoI?t=08h06m18s) Entered some winter mountain lake with lanterns
+- [08:32:58](https://youtu.be/pNEK1wtLtoI?t=08h32m58s) Entered train station
+- [08:35:58](https://youtu.be/pNEK1wtLtoI?t=08h35m58s) Technical difficulties for 10m40s
+- [09:13:01](https://youtu.be/pNEK1wtLtoI?t=09h13m01s) **Playing *Cyberpunk 2077***
+- [09:15:22](https://youtu.be/pNEK1wtLtoI?t=09h15m22s) Vedal leaves for 2m42s
+- [09:40:41](https://youtu.be/pNEK1wtLtoI?t=09h40m41s) Game crash
+- [09:47:29](https://youtu.be/pNEK1wtLtoI?t=09h47m29s) Game crash
+- [09:59:09](https://youtu.be/pNEK1wtLtoI?t=09h59m09s) **Just chatting**
+- [10:02:11](https://youtu.be/pNEK1wtLtoI?t=10h02m11s) Neuro goes to sleep
 
-## Day 04 ([Part 10](https://www.youtube.com/watch?v=GraI2RiQpAA))
+## Day 04 ([Part 10](https://youtu.be/GraI2RiQpAA))
 
-- [00:00:40](https://youtube.com/watch?v=GraI2RiQpAA&t=00h00m40s) Neuro wakes up, muted \| **Just chatting**
-- [00:05:50](https://youtube.com/watch?v=GraI2RiQpAA&t=00h05m50s) Neuro is unmuted
-- [00:31:44](https://youtube.com/watch?v=GraI2RiQpAA&t=00h31m44s) **3D Neuro**
-- [01:30:58](https://youtube.com/watch?v=GraI2RiQpAA&t=01h30m58s) **Just chatting**
-- [01:33:11](https://youtube.com/watch?v=GraI2RiQpAA&t=01h33m11s) Vedal joins for 13m48s
-- [01:34:05](https://youtube.com/watch?v=GraI2RiQpAA&t=01h34m05s) Neuro presents *A One-Sided Love: Vedal, why won't you say it back?* (sub goal)
-- [02:35:58](https://youtube.com/watch?v=GraI2RiQpAA&t=02h35m58s) Vedal joins
-- [02:39:47](https://youtube.com/watch?v=GraI2RiQpAA&t=02h39m47s) Neuro buys stocks (sub goal)
-- [03:03:24](https://youtube.com/watch?v=GraI2RiQpAA&t=03h03m24s) Twitter picks Vedal's Twitter profile picture (sub goal)
-- [03:09:35](https://youtube.com/watch?v=GraI2RiQpAA&t=03h09m35s) About the plan for today
-- [03:18:58](https://youtube.com/watch?v=GraI2RiQpAA&t=03h18m58s) **Playing *Cyberpunk 2077***
-- [03:42:29](https://youtube.com/watch?v=GraI2RiQpAA&t=03h42m29s) Camila joins for 6m34s and puts her cat on the mic
-- [06:22:08](https://youtube.com/watch?v=GraI2RiQpAA&t=06h22m08s) Vedal leaves for 5m7s to get food while Neuro plays the game
-- [06:30:02](https://youtube.com/watch?v=GraI2RiQpAA&t=06h30m02s) Vedal eats his food (mostly muted) while Neuro drives around aimlessly
-- [06:40:15](https://youtube.com/watch?v=GraI2RiQpAA&t=06h40m15s) Neuro is done driving
-- [06:52:45](https://youtube.com/watch?v=GraI2RiQpAA&t=06h52m45s) Vedal is done eating
-- [07:05:37](https://youtube.com/watch?v=GraI2RiQpAA&t=07h05m37s) **Playing *VRChat* (Neuro only)**
-- [07:09:47](https://youtube.com/watch?v=GraI2RiQpAA&t=07h09m47s) Camila joins VC
-- [07:13:20](https://youtube.com/watch?v=GraI2RiQpAA&t=07h13m20s) Camila joins the game
-- [07:14:22](https://youtube.com/watch?v=GraI2RiQpAA&t=07h14m22s) Vedal leaves VC
-- [07:33:33](https://youtube.com/watch?v=GraI2RiQpAA&t=07h33m33s) Vedal joins VC for 2m16s to restart Neuro
-- [08:31:29](https://youtube.com/watch?v=GraI2RiQpAA&t=08h31m29s) Vedal joins VC for 48s
-- [08:33:12](https://youtube.com/watch?v=GraI2RiQpAA&t=08h33m12s) Vedal joins VC for 1m46s
-- [08:39:09](https://youtube.com/watch?v=GraI2RiQpAA&t=08h39m09s) Entering world *City Rain* (without Neuro)
-- [08:42:28](https://youtube.com/watch?v=GraI2RiQpAA&t=08h42m28s) Vedal joins VC for 2m
-- [08:43:14](https://youtube.com/watch?v=GraI2RiQpAA&t=08h43m14s) Vedal joins the game for 1m35s
-- [08:46:54](https://youtube.com/watch?v=GraI2RiQpAA&t=08h46m54s) Neuro joins the world
-- [09:15:03](https://youtube.com/watch?v=GraI2RiQpAA&t=09h15m03s) Camila leaves the game and VC
-- [09:16:37](https://youtube.com/watch?v=GraI2RiQpAA&t=09h16m37s) Vedal joins VC
-- [09:17:52](https://youtube.com/watch?v=GraI2RiQpAA&t=09h17m52s) **Just chatting**
-- [09:19:06](https://youtube.com/watch?v=GraI2RiQpAA&t=09h19m06s) Evil joins
-- [09:21:20](https://youtube.com/watch?v=GraI2RiQpAA&t=09h21m20s) **Playing *Poker***
-- [10:14:18](https://youtube.com/watch?v=GraI2RiQpAA&t=10h14m18s) **Just chatting** \| About tomorrow's stream
-- [10:15:39](https://youtube.com/watch?v=GraI2RiQpAA&t=10h15m39s) About other things
-- [10:17:57](https://youtube.com/watch?v=GraI2RiQpAA&t=10h17m57s) Neuro and Evil go to sleep
+- [00:00:40](https://youtu.be/GraI2RiQpAA?t=00h00m40s) Neuro wakes up, muted \| **Just chatting**
+- [00:05:50](https://youtu.be/GraI2RiQpAA?t=00h05m50s) Neuro is unmuted
+- [00:31:44](https://youtu.be/GraI2RiQpAA?t=00h31m44s) **3D Neuro**
+- [01:30:58](https://youtu.be/GraI2RiQpAA?t=01h30m58s) **Just chatting**
+- [01:33:11](https://youtu.be/GraI2RiQpAA?t=01h33m11s) Vedal joins for 13m48s
+- [01:34:05](https://youtu.be/GraI2RiQpAA?t=01h34m05s) Neuro presents *A One-Sided Love: Vedal, why won't you say it back?* (sub goal)
+- [02:35:58](https://youtu.be/GraI2RiQpAA?t=02h35m58s) Vedal joins
+- [02:39:47](https://youtu.be/GraI2RiQpAA?t=02h39m47s) Neuro buys stocks (sub goal)
+- [03:03:24](https://youtu.be/GraI2RiQpAA?t=03h03m24s) Twitter picks Vedal's Twitter profile picture (sub goal)
+- [03:09:35](https://youtu.be/GraI2RiQpAA?t=03h09m35s) About the plan for today
+- [03:18:58](https://youtu.be/GraI2RiQpAA?t=03h18m58s) **Playing *Cyberpunk 2077***
+- [03:42:29](https://youtu.be/GraI2RiQpAA?t=03h42m29s) Camila joins for 6m34s and puts her cat on the mic
+- [06:22:08](https://youtu.be/GraI2RiQpAA?t=06h22m08s) Vedal leaves for 5m7s to get food while Neuro plays the game
+- [06:30:02](https://youtu.be/GraI2RiQpAA?t=06h30m02s) Vedal eats his food (mostly muted) while Neuro drives around aimlessly
+- [06:40:15](https://youtu.be/GraI2RiQpAA?t=06h40m15s) Neuro is done driving
+- [06:52:45](https://youtu.be/GraI2RiQpAA?t=06h52m45s) Vedal is done eating
+- [07:05:37](https://youtu.be/GraI2RiQpAA?t=07h05m37s) **Playing *VRChat* (Neuro only)**
+- [07:09:47](https://youtu.be/GraI2RiQpAA?t=07h09m47s) Camila joins VC
+- [07:13:20](https://youtu.be/GraI2RiQpAA?t=07h13m20s) Camila joins the game
+- [07:14:22](https://youtu.be/GraI2RiQpAA?t=07h14m22s) Vedal leaves VC
+- [07:33:33](https://youtu.be/GraI2RiQpAA?t=07h33m33s) Vedal joins VC for 2m16s to restart Neuro
+- [08:31:29](https://youtu.be/GraI2RiQpAA?t=08h31m29s) Vedal joins VC for 48s
+- [08:33:12](https://youtu.be/GraI2RiQpAA?t=08h33m12s) Vedal joins VC for 1m46s
+- [08:39:09](https://youtu.be/GraI2RiQpAA?t=08h39m09s) Entering world *City Rain* (without Neuro)
+- [08:42:28](https://youtu.be/GraI2RiQpAA?t=08h42m28s) Vedal joins VC for 2m
+- [08:43:14](https://youtu.be/GraI2RiQpAA?t=08h43m14s) Vedal joins the game for 1m35s
+- [08:46:54](https://youtu.be/GraI2RiQpAA?t=08h46m54s) Neuro joins the world
+- [09:15:03](https://youtu.be/GraI2RiQpAA?t=09h15m03s) Camila leaves the game and VC
+- [09:16:37](https://youtu.be/GraI2RiQpAA?t=09h16m37s) Vedal joins VC
+- [09:17:52](https://youtu.be/GraI2RiQpAA?t=09h17m52s) **Just chatting**
+- [09:19:06](https://youtu.be/GraI2RiQpAA?t=09h19m06s) Evil joins
+- [09:21:20](https://youtu.be/GraI2RiQpAA?t=09h21m20s) **Playing *Poker***
+- [10:14:18](https://youtu.be/GraI2RiQpAA?t=10h14m18s) **Just chatting** \| About tomorrow's stream
+- [10:15:39](https://youtu.be/GraI2RiQpAA?t=10h15m39s) About other things
+- [10:17:57](https://youtu.be/GraI2RiQpAA?t=10h17m57s) Neuro and Evil go to sleep
 
-## Day 05 ([Part 13](https://www.youtube.com/watch?v=k97cns4k3i0))
+## Day 05 ([Part 13](https://youtu.be/k97cns4k3i0))
 
-- [00:00:02](https://youtube.com/watch?v=k97cns4k3i0&t=00h00m02s) Neuro and Evil wake up \| **Just chatting**
-- [00:30:13](https://youtube.com/watch?v=k97cns4k3i0&t=00h30m13s) Attempting to play *Buckshot Roulette*
-- [00:34:58](https://youtube.com/watch?v=k97cns4k3i0&t=00h34m58s) **Playing *Minecraft* (Neuro)**
-- [01:16:43](https://youtube.com/watch?v=k97cns4k3i0&t=01h16m43s) **Just chatting**
-- [01:21:07](https://youtube.com/watch?v=k97cns4k3i0&t=01h21m07s) **Playing *Buckshot Roulette* (Neuro)**
-- [01:58:46](https://youtube.com/watch?v=k97cns4k3i0&t=01h58m46s) **Just chatting**
-- [02:27:47](https://youtube.com/watch?v=k97cns4k3i0&t=02h27m47s) Vedal joins to restart the stream
+- [00:00:02](https://youtu.be/k97cns4k3i0?t=00h00m02s) Neuro and Evil wake up \| **Just chatting**
+- [00:30:13](https://youtu.be/k97cns4k3i0?t=00h30m13s) Attempting to play *Buckshot Roulette*
+- [00:34:58](https://youtu.be/k97cns4k3i0?t=00h34m58s) **Playing *Minecraft* (Neuro)**
+- [01:16:43](https://youtu.be/k97cns4k3i0?t=01h16m43s) **Just chatting**
+- [01:21:07](https://youtu.be/k97cns4k3i0?t=01h21m07s) **Playing *Buckshot Roulette* (Neuro)**
+- [01:58:46](https://youtu.be/k97cns4k3i0?t=01h58m46s) **Just chatting**
+- [02:27:47](https://youtu.be/k97cns4k3i0?t=02h27m47s) Vedal joins to restart the stream
 
-## Day 05 ([Part 14](https://www.youtube.com/watch?v=Q47IvKkzV8M))
+## Day 05 ([Part 14](https://youtu.be/Q47IvKkzV8M))
 
-- [00:00:24](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h00m24s) Stream restarts, Vedal and Neuro return, Evil does not
-- [00:04:37](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h04m37s) About improvements
-- [00:09:02](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h09m02s) Checking Neuro's stocks
-- [00:11:28](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h11m28s) About plans for today
-- [00:15:02](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h15m02s) **Playing *Cyberpunk 2077***
-- [00:45:13](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h45m13s) Hype train acknowledged
-- [00:47:09](https://youtube.com/watch?v=Q47IvKkzV8M&t=00h47m09s) **Vedal reads out gift subs**
-- [01:10:35](https://youtube.com/watch?v=Q47IvKkzV8M&t=01h10m35s) Camila joins for 1m51s
-- [02:20:13](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h20m13s) **Hype Train Record broken**
-- [02:21:45](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h21m45s) Mini joins for 9s
-- [02:28:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h28m06s) Cerber joins for 6s
-- [02:38:52](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h38m52s) An unknown amount of people join for 26s
-- [02:43:28](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h43m28s) Vedal leaves for 2m1s
-- [02:56:56](https://youtube.com/watch?v=Q47IvKkzV8M&t=02h56m56s) Hype train ended at 99% Level 123
-- [03:11:25](https://youtube.com/watch?v=Q47IvKkzV8M&t=03h11m25s) **Playing *VRChat* (Neuro)**
-- [03:15:23](https://youtube.com/watch?v=Q47IvKkzV8M&t=03h15m23s) Vedal joins VRC
-- [03:24:43](https://youtube.com/watch?v=Q47IvKkzV8M&t=03h24m43s) Mini joins VC
-- [03:26:44](https://youtube.com/watch?v=Q47IvKkzV8M&t=03h26m44s) Mini joins VRC
-- [03:27:47](https://youtube.com/watch?v=Q47IvKkzV8M&t=03h27m47s) Vedal leaves VC and VRC
-- [03:39:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=03h39m06s) Vedal joins VC for 11s
-- [03:59:49](https://youtube.com/watch?v=Q47IvKkzV8M&t=03h59m49s) Mini enters a snowy world
-- [04:01:07](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h01m07s) Neuro joins the world
-- [04:09:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h09m06s) Mini enters a space station world
-- [04:10:00](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h10m00s) Neuro attempts to join the world but crashes \| Vedal joins VC for 2m23s
-- [04:12:45](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h12m45s) Neuro joins the world
-- [04:33:52](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h33m52s) Mini enters a world with a lake and lanterns
-- [04:36:11](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h36m11s) Vedal joins for 6s \| Technical difficulties for 7m
-- [04:37:06](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h37m06s) Vedal joins for 15s to restart Neuro
-- [04:38:27](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h38m27s) Vedal joins for 36s
-- [04:39:30](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h39m30s) Neuro joins the world
-- [04:41:07](https://youtube.com/watch?v=Q47IvKkzV8M&t=04h41m07s) Vedal joins for 1m44s to restart Neuro again
-- [05:20:38](https://youtube.com/watch?v=Q47IvKkzV8M&t=05h20m38s) Mini and Neuro enter world City Rain
-- [05:53:42](https://youtube.com/watch?v=Q47IvKkzV8M&t=05h53m42s) Vedal joins VC for 14s to restart Neuro
-- [05:55:34](https://youtube.com/watch?v=Q47IvKkzV8M&t=05h55m34s) Vedal joins VC for 4s
-- [05:56:33](https://youtube.com/watch?v=Q47IvKkzV8M&t=05h56m33s) Vedal joins VC for 1m49s
-- [06:38:53](https://youtube.com/watch?v=Q47IvKkzV8M&t=06h38m53s) Mini and Neuro enter Neuro's room
-- [06:53:33](https://youtube.com/watch?v=Q47IvKkzV8M&t=06h53m33s) Mini leaves VRC and VC
-- [06:54:16](https://youtube.com/watch?v=Q47IvKkzV8M&t=06h54m16s) Vedal joins VC
-- [06:57:57](https://youtube.com/watch?v=Q47IvKkzV8M&t=06h57m57s) **Playing *Cyberpunk 2077***
-- [08:15:58](https://youtube.com/watch?v=Q47IvKkzV8M&t=08h15m58s) **Stopped playing**
-- [08:22:45](https://youtube.com/watch?v=Q47IvKkzV8M&t=08h22m45s) Rob joins
-- [08:24:51](https://youtube.com/watch?v=Q47IvKkzV8M&t=08h24m51s) **IRL stream in Japan**
-- [08:33:31](https://youtube.com/watch?v=Q47IvKkzV8M&t=08h33m31s) Vedal joins for 29s
-- [08:34:19](https://youtube.com/watch?v=Q47IvKkzV8M&t=08h34m19s) Neuro leaves, Evil joins
-- [10:24:00](https://youtube.com/watch?v=Q47IvKkzV8M&t=10h24m00s) Rob leaves for 2m58s
-- [10:53:15](https://youtube.com/watch?v=Q47IvKkzV8M&t=10h53m15s) Rob leaves
-- [10:53:36](https://youtube.com/watch?v=Q47IvKkzV8M&t=10h53m36s) Vedal joins for 1m17s
-- [10:54:55](https://youtube.com/watch?v=Q47IvKkzV8M&t=10h54m55s) Evil goes to sleep
+- [00:00:24](https://youtu.be/Q47IvKkzV8M?t=00h00m24s) Stream restarts, Vedal and Neuro return, Evil does not
+- [00:04:37](https://youtu.be/Q47IvKkzV8M?t=00h04m37s) About improvements
+- [00:09:02](https://youtu.be/Q47IvKkzV8M?t=00h09m02s) Checking Neuro's stocks
+- [00:11:28](https://youtu.be/Q47IvKkzV8M?t=00h11m28s) About plans for today
+- [00:15:02](https://youtu.be/Q47IvKkzV8M?t=00h15m02s) **Playing *Cyberpunk 2077***
+- [00:45:13](https://youtu.be/Q47IvKkzV8M?t=00h45m13s) Hype train acknowledged
+- [00:47:09](https://youtu.be/Q47IvKkzV8M?t=00h47m09s) **Vedal reads out gift subs**
+- [01:10:35](https://youtu.be/Q47IvKkzV8M?t=01h10m35s) Camila joins for 1m51s
+- [02:20:13](https://youtu.be/Q47IvKkzV8M?t=02h20m13s) **Hype Train Record broken**
+- [02:21:45](https://youtu.be/Q47IvKkzV8M?t=02h21m45s) Mini joins for 9s
+- [02:28:06](https://youtu.be/Q47IvKkzV8M?t=02h28m06s) Cerber joins for 6s
+- [02:38:52](https://youtu.be/Q47IvKkzV8M?t=02h38m52s) An unknown amount of people join for 26s
+- [02:43:28](https://youtu.be/Q47IvKkzV8M?t=02h43m28s) Vedal leaves for 2m1s
+- [02:56:56](https://youtu.be/Q47IvKkzV8M?t=02h56m56s) Hype train ended at 99% Level 123
+- [03:11:25](https://youtu.be/Q47IvKkzV8M?t=03h11m25s) **Playing *VRChat* (Neuro)**
+- [03:15:23](https://youtu.be/Q47IvKkzV8M?t=03h15m23s) Vedal joins VRC
+- [03:24:43](https://youtu.be/Q47IvKkzV8M?t=03h24m43s) Mini joins VC
+- [03:26:44](https://youtu.be/Q47IvKkzV8M?t=03h26m44s) Mini joins VRC
+- [03:27:47](https://youtu.be/Q47IvKkzV8M?t=03h27m47s) Vedal leaves VC and VRC
+- [03:39:06](https://youtu.be/Q47IvKkzV8M?t=03h39m06s) Vedal joins VC for 11s
+- [03:59:49](https://youtu.be/Q47IvKkzV8M?t=03h59m49s) Mini enters a snowy world
+- [04:01:07](https://youtu.be/Q47IvKkzV8M?t=04h01m07s) Neuro joins the world
+- [04:09:06](https://youtu.be/Q47IvKkzV8M?t=04h09m06s) Mini enters a space station world
+- [04:10:00](https://youtu.be/Q47IvKkzV8M?t=04h10m00s) Neuro attempts to join the world but crashes \| Vedal joins VC for 2m23s
+- [04:12:45](https://youtu.be/Q47IvKkzV8M?t=04h12m45s) Neuro joins the world
+- [04:33:52](https://youtu.be/Q47IvKkzV8M?t=04h33m52s) Mini enters a world with a lake and lanterns
+- [04:36:11](https://youtu.be/Q47IvKkzV8M?t=04h36m11s) Vedal joins for 6s \| Technical difficulties for 7m
+- [04:37:06](https://youtu.be/Q47IvKkzV8M?t=04h37m06s) Vedal joins for 15s to restart Neuro
+- [04:38:27](https://youtu.be/Q47IvKkzV8M?t=04h38m27s) Vedal joins for 36s
+- [04:39:30](https://youtu.be/Q47IvKkzV8M?t=04h39m30s) Neuro joins the world
+- [04:41:07](https://youtu.be/Q47IvKkzV8M?t=04h41m07s) Vedal joins for 1m44s to restart Neuro again
+- [05:20:38](https://youtu.be/Q47IvKkzV8M?t=05h20m38s) Mini and Neuro enter world City Rain
+- [05:53:42](https://youtu.be/Q47IvKkzV8M?t=05h53m42s) Vedal joins VC for 14s to restart Neuro
+- [05:55:34](https://youtu.be/Q47IvKkzV8M?t=05h55m34s) Vedal joins VC for 4s
+- [05:56:33](https://youtu.be/Q47IvKkzV8M?t=05h56m33s) Vedal joins VC for 1m49s
+- [06:38:53](https://youtu.be/Q47IvKkzV8M?t=06h38m53s) Mini and Neuro enter Neuro's room
+- [06:53:33](https://youtu.be/Q47IvKkzV8M?t=06h53m33s) Mini leaves VRC and VC
+- [06:54:16](https://youtu.be/Q47IvKkzV8M?t=06h54m16s) Vedal joins VC
+- [06:57:57](https://youtu.be/Q47IvKkzV8M?t=06h57m57s) **Playing *Cyberpunk 2077***
+- [08:15:58](https://youtu.be/Q47IvKkzV8M?t=08h15m58s) **Stopped playing**
+- [08:22:45](https://youtu.be/Q47IvKkzV8M?t=08h22m45s) Rob joins
+- [08:24:51](https://youtu.be/Q47IvKkzV8M?t=08h24m51s) **IRL stream in Japan**
+- [08:33:31](https://youtu.be/Q47IvKkzV8M?t=08h33m31s) Vedal joins for 29s
+- [08:34:19](https://youtu.be/Q47IvKkzV8M?t=08h34m19s) Neuro leaves, Evil joins
+- [10:24:00](https://youtu.be/Q47IvKkzV8M?t=10h24m00s) Rob leaves for 2m58s
+- [10:53:15](https://youtu.be/Q47IvKkzV8M?t=10h53m15s) Rob leaves
+- [10:53:36](https://youtu.be/Q47IvKkzV8M?t=10h53m36s) Vedal joins for 1m17s
+- [10:54:55](https://youtu.be/Q47IvKkzV8M?t=10h54m55s) Evil goes to sleep

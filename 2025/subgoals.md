@@ -1,12 +1,12 @@
 # 2025 Subathon Subgoals
 
 <!--
-[01](https://www.youtube.com/watch?v=gNysylzZocU)
-[02](https://www.youtube.com/watch?v=mfOj0HDL4ac)
-[03](https://www.youtube.com/watch?v=pNEK1wtLtoI)
-[04](https://www.youtube.com/watch?v=GraI2RiQpAA)
-[05/1](https://www.youtube.com/watch?v=k97cns4k3i0)
-[05/2](https://www.youtube.com/watch?v=Q47IvKkzV8M)
+[01](https://youtu.be/gNysylzZocU)
+[02](https://youtu.be/mfOj0HDL4ac)
+[03](https://youtu.be/pNEK1wtLtoI)
+[04](https://youtu.be/GraI2RiQpAA)
+[05/1](https://youtu.be/k97cns4k3i0)
+[05/2](https://youtu.be/Q47IvKkzV8M)
 -->
 
 ## Table
