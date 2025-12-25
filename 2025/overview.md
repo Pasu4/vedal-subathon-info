@@ -31,7 +31,7 @@ For Vedal, Neuro and Evil, some very short segments may not be counted if no act
 ## Recurring content
 
 Also contains games, even if they have not (yet) recurred.
-"Integrated" means that Neuro/Evil has some or full control over the game.
+"Integrated" means that Neuro/Evil has some or full control over the game (via the [Neuro API](https://github.com/VedalAI/neuro-sdk)).
 
 | Content                                   | Days
 |:------------------------------------------|:------
