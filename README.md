@@ -10,7 +10,7 @@ Information in this repository currently includes:
 - Content overview (i.e. what happened on what day) for the ongoing 2025 subathon
 - Subgoals for the ongoing 2025 subathon
 
-I plan to add the following in the future likely once the subathon is finished:
+I ([Pasu4](https://github.com/Pasu4)) plan to add the following in the future likely once the subathon is finished:
 
 - Screen time for stream participants
 - Content overview and partial timestamps for the 2024 subathon
