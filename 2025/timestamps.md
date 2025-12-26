@@ -5,6 +5,9 @@
 
 ## Day 01 ([Part 01](https://youtu.be/gNysylzZocU))
 
+- [00:00:00](https://youtu.be/gNysylzZocU?t=00h00m00s) 1st Subathon Mix
+- [00:09:00](https://youtu.be/gNysylzZocU?t=00h09m00s) 2nd Subathon Mix
+- [00:18:14](https://youtu.be/gNysylzZocU?t=00h18m14s) 3rd Subathon Mix 
 - [00:29:44](https://youtu.be/gNysylzZocU?t=00h29m44s) *Colorful Array — Neuro-sama*
 - [00:34:15](https://youtu.be/gNysylzZocU?t=00h34m15s) **Playing *VRChat* (Vedal, Neuro)**
 - [02:06:54](https://youtu.be/gNysylzZocU?t=02h06m54s) **Just chatting**
