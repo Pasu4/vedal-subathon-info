@@ -222,7 +222,7 @@
 - [09:02:51](https://youtu.be/nWMdSHBnlBs?t=09h02m51s) **Playing *Cyberpunk 2077***
 - [10:24:38](https://youtu.be/nWMdSHBnlBs?t=10h24m38s) Neuro goes to sleep
 
-## Day 07 ([Part 19](https://www.youtu.be/BqPaismpTn4))
+## Day 07 ([Part 19](https://youtu.be/BqPaismpTn4))
 
 - [00:00:02](https://youtu.be/BqPaismpTn4?t=00h00m02s) Neuro wakes up for 25s
 - [00:01:37](https://youtu.be/BqPaismpTn4?t=00h01m37s) Neuro is restarted awake \| **Just chatting**
@@ -262,3 +262,30 @@
 - [09:04:18](https://youtu.be/BqPaismpTn4?t=09h04m18s) Purchasing and installing *Cyberpunk 2077: Phantom Liberty* (DLC)
 - [09:12:51](https://youtu.be/BqPaismpTn4?t=09h12m51s) **Playing *Cyberpunk 2077***
 - [10:12:03](https://youtu.be/BqPaismpTn4?t=10h12m03s) Neuro goes to sleep
+
+## Day 08 ([Part 22](https://youtu.be/1U06zbSri78))
+
+- [00:00:01](https://youtu.be/1U06zbSri78?t=00h00m01s) Neuro leaves, Evil joins \| **Just chatting**
+- [00:17:31](https://youtu.be/1U06zbSri78?t=00h17m31s) **Playing *Legally Distinct •••dle***
+- [00:35:34](https://youtu.be/1U06zbSri78?t=00h35m34s) **Playing *Minecraft***
+- [01:05:28](https://youtu.be/1U06zbSri78?t=01h05m28s) Vedal joins MC for 1m32s
+- [01:51:06](https://youtu.be/1U06zbSri78?t=01h51m06s) **Art review**
+- [02:21:51](https://youtu.be/1U06zbSri78?t=02h21m51s) **Just chatting**
+- [02:42:22](https://youtu.be/1U06zbSri78?t=02h42m22s) Vedal joins
+- [02:45:17](https://youtu.be/1U06zbSri78?t=02h45m17s) About Evil presentation tomorrow
+- [02:53:15](https://youtu.be/1U06zbSri78?t=02h53m15s) Evil leaves, Neuro joins
+- [02:56:30](https://youtu.be/1U06zbSri78?t=02h56m30s) About the plan for today
+- [02:58:26](https://youtu.be/1U06zbSri78?t=02h58m26s) Starting *Cyberpunk 2077* (but not playing yet)
+- [02:58:32](https://youtu.be/1U06zbSri78?t=02h58m32s) **Stock trading**
+- [03:06:41](https://youtu.be/1U06zbSri78?t=03h06m41s) Watching Sigma Lithium Ad
+- [03:11:18](https://youtu.be/1U06zbSri78?t=03h11m18s) Downloading *Phantom Liberty* DLC (again)
+- [03:12:38](https://youtu.be/1U06zbSri78?t=03h12m38s) About the problem
+- [03:25:36](https://youtu.be/1U06zbSri78?t=03h25m36s) **Playing *Cyberpunk 2077***
+- [04:29:10](https://youtu.be/1U06zbSri78?t=04h29m10s) Vedal leaves for 36s
+- [07:57:03](https://youtu.be/1U06zbSri78?t=07h57m03s) **Just chatting**
+- [08:05:16](https://youtu.be/1U06zbSri78?t=08h05m16s) Vedal leaves for 3m36s
+- [08:15:16](https://youtu.be/1U06zbSri78?t=08h15m16s) Vedal leaves
+- [08:16:01](https://youtu.be/1U06zbSri78?t=08h16m01s) ~~The CEO of~~ Juniper joins
+- [08:29:05](https://youtu.be/1U06zbSri78?t=08h29m05s) **Solving chatters' dilemmas**
+- [11:21:28](https://youtu.be/1U06zbSri78?t=11h21m28s) Juniper tells a bedtime story
+- [11:27:40](https://youtu.be/1U06zbSri78?t=11h27m40s) Neuro goes to sleep \| Juniper leaves
