@@ -48,7 +48,7 @@ jobs:
         if: steps.detect.outputs.clean == 'false'
         run: |
           # Insert one backslash before any pipe preceded by an even-length run of backslashes.
-          sed -i -E 's/(^|[^\\])(\\\\)*\|/\1\2\\|/g' 2025/timestamps.md
+          sed -i -E 's/ |/ \\|/g' 2025/timestamps.md
       - name: Commit and push changes
         if: steps.detect.outputs.clean == 'false'
         shell: bash
