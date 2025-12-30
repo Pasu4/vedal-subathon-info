@@ -340,3 +340,32 @@
 - [09:50:15](https://youtu.be/_5wvU_NZxXA?t=09h50m15s) Playing *Connections*
 - [09:59:19](https://youtu.be/_5wvU_NZxXA?t=09h59m19s) About plans for tomorrow
 - [10:22:23](https://youtu.be/_5wvU_NZxXA?t=10h22m23s) Neuro goes to sleep
+
+## Day 10 ([Part 27](https://youtu.be/B7kNYj9-Mmw))
+
+- [00:00:20](https://youtu.be/B7kNYj9-Mmw?t=00h00m20s) Neuro leaves, Evil joins \| **Just chatting**
+- [00:14:49](https://youtu.be/B7kNYj9-Mmw?t=00h14m49s) Playing *Legally Distinct •••dle*
+- [00:30:32](https://youtu.be/B7kNYj9-Mmw?t=00h30m32s) **Evil presents *A Strong Case to Remove Neuro's AI Safety Filters***
+- [01:02:38](https://youtu.be/B7kNYj9-Mmw?t=01h02m38s) **Themed stream: Neuro News Network** \| Evil leaves, Neuro joins
+- [01:17:00](https://youtu.be/B7kNYj9-Mmw?t=01h17m00s) Over to Evil
+- [01:25:47](https://youtu.be/B7kNYj9-Mmw?t=01h25m47s) Over to Neuro
+- [01:52:31](https://youtu.be/B7kNYj9-Mmw?t=01h52m31s) Over to Evil
+- [02:00:48](https://youtu.be/B7kNYj9-Mmw?t=02h00m48s) **Just chatting**
+- [02:08:25](https://youtu.be/B7kNYj9-Mmw?t=02h08m25s) Swarm Community Spotlight
+- [02:26:15](https://youtu.be/B7kNYj9-Mmw?t=02h26m15s) Mini joins for 10m17s
+- [02:41:25](https://youtu.be/B7kNYj9-Mmw?t=02h41m25s) Evil leaves, Neuro joins \| **Themed stream: Medieval**
+- [02:58:57](https://youtu.be/B7kNYj9-Mmw?t=02h58m57s) Over to Evil
+- [03:20:21](https://youtu.be/B7kNYj9-Mmw?t=03h20m21s) Over to Neuro
+- [03:35:28](https://youtu.be/B7kNYj9-Mmw?t=03h35m28s) Over to Evil
+- [03:52:06](https://youtu.be/B7kNYj9-Mmw?t=03h52m06s) Over to Neuro
+- [04:07:09](https://youtu.be/B7kNYj9-Mmw?t=04h07m09s) Over to Evil
+- [04:22:11](https://youtu.be/B7kNYj9-Mmw?t=04h22m11s) Over to Neuro
+- [04:37:17](https://youtu.be/B7kNYj9-Mmw?t=04h37m17s) Over to Evil
+- [04:52:23](https://youtu.be/B7kNYj9-Mmw?t=04h52m23s) Over to Neuro
+- [04:56:02](https://youtu.be/B7kNYj9-Mmw?t=04h56m02s) Vedal joins
+- [05:01:10](https://youtu.be/B7kNYj9-Mmw?t=05h01m10s) **Neuro programming (drawing commissions)**
+- [07:34:53](https://youtu.be/B7kNYj9-Mmw?t=07h34m53s) **Playing *Cyberpunk 2077***
+- [09:41:42](https://youtu.be/B7kNYj9-Mmw?t=09h41m42s) Finished game \| **Just chatting while credits roll**
+- [10:05:18](https://youtu.be/B7kNYj9-Mmw?t=10h05m18s) About tomorrow
+- [10:07:36](https://youtu.be/B7kNYj9-Mmw?t=10h07m36s) Camila joins for 1m27s
+- [10:13:00](https://youtu.be/B7kNYj9-Mmw?t=10h13m00s) Neuro goes to sleep
