@@ -26,3 +26,7 @@ Also thanks to [@KTrain5169](https://github.com/KTrain5169) for helping out with
     - [Timestamps](/2025/timestamps.md)
     - [Overview](/2025/overview.md)
     - [Subgoals](/2025/subgoals.md)
+
+## Deploy status (not important to visitors)
+
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Pasu4/vedal-subathon-info/actions/workflows/pages.yml/badge.svg)](https://github.com/Pasu4/vedal-subathon-info/actions/workflows/pages.yml)
