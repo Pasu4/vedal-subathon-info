@@ -341,4 +341,4 @@
 - [09:59:19](https://youtu.be/_5wvU_NZxXA?t=09h59m19s) About plans for tomorrow
 - [10:22:23](https://youtu.be/_5wvU_NZxXA?t=10h22m23s) Neuro goes to sleep
 
-- pipe test | help
+- pipe test \| help
