@@ -27,6 +27,20 @@ Also thanks to [@KTrain5169](https://github.com/KTrain5169) for helping out with
     - [Overview](/2025/overview.md)
     - [Subgoals](/2025/subgoals.md)
 
+## How to read timestamps
+
+Information about how I format timestamps, for better reading comprehension or for contributors.
+Note that timestamps from early in the 2024 subathon (once I add them) may not use this exact format, since I wrote them before I started using this format consistently.
+
+**Bold** entries are meant to be categories that span from one bold entry to the next.
+They are not necessarily real stream categories from Twitch, just a way to loosely split the stream into thematic chunks ("chapters" if you will).
+
+The parts of entries in *italics* are titles, used for songs, games, presentations, etc.
+Songs with no official name (e.g. the subathon mixes) are not in italics.
+
+Songs use the format "\<title\> — \<author\>".
+That is an emdash (—), not a dash (-).
+
 ## Deploy status (not important to visitors)
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Pasu4/vedal-subathon-info/actions/workflows/pages.yml/badge.svg)](https://github.com/Pasu4/vedal-subathon-info/actions/workflows/pages.yml)
