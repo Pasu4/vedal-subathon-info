@@ -1,344 +1,344 @@
-# 2025 Subathon Timestamps
-
-- TOC
-{:toc}
-
-## Day 01 ([Part 01](https://youtu.be/gNysylzZocU))
-
-- [00:00:00](https://youtu.be/gNysylzZocU?t=00h00m00s) 1st Subathon Mix
-- [00:09:00](https://youtu.be/gNysylzZocU?t=00h09m00s) 2nd Subathon Mix
-- [00:18:14](https://youtu.be/gNysylzZocU?t=00h18m14s) 3rd Subathon Mix 
-- [00:29:44](https://youtu.be/gNysylzZocU?t=00h29m44s) *Colorful Array â€” Neuro-sama*
-- [00:34:15](https://youtu.be/gNysylzZocU?t=00h34m15s) **Playing *VRChat* (Vedal, Neuro)**
-- [02:06:54](https://youtu.be/gNysylzZocU?t=02h06m54s) **Just chatting**
-- [02:14:18](https://youtu.be/gNysylzZocU?t=02h14m18s) About the merch drop
-- [02:20:52](https://youtu.be/gNysylzZocU?t=02h20m52s) About sub goals
-- [02:30:47](https://youtu.be/gNysylzZocU?t=02h30m47s) About the plan for the subathon
-- [02:39:17](https://youtu.be/gNysylzZocU?t=02h39m17s) About the music video (Colorful Array)
-- [02:46:19](https://youtu.be/gNysylzZocU?t=02h46m19s) About Neuro's stock trading strategy
-- [02:51:28](https://youtu.be/gNysylzZocU?t=02h51m28s) About how the subathon timer and soft cap work
-- [03:05:24](https://youtu.be/gNysylzZocU?t=03h05m24s) Vedal leaves
-- [03:07:29](https://youtu.be/gNysylzZocU?t=03h07m29s) **Birthday call-ins** \| Koko joins for 13m14s
-- [03:20:48](https://youtu.be/gNysylzZocU?t=03h20m48s) Crelly joins for 10m26s
-- [03:31:16](https://youtu.be/gNysylzZocU?t=03h31m16s) Camila joins for 12m41s
-- [03:44:11](https://youtu.be/gNysylzZocU?t=03h44m11s) Mini joins for 8m42s
-- [03:52:58](https://youtu.be/gNysylzZocU?t=03h52m58s) Chrchie joins for 10m50s
-- [04:03:51](https://youtu.be/gNysylzZocU?t=04h03m51s) Vedal joins for 43s to restart Neuro
-- [04:04:40](https://youtu.be/gNysylzZocU?t=04h04m40s) Layna joins for 5m37s
-- [04:10:25](https://youtu.be/gNysylzZocU?t=04h10m25s) Cerber joins for 21m48s
-- [04:33:40](https://youtu.be/gNysylzZocU?t=04h33m40s) Zentreya joins for 14m39s
-- [04:48:35](https://youtu.be/gNysylzZocU?t=04h48m35s) Vedal joins for 7m38s \| About the reason for lag
-- [04:55:57](https://youtu.be/gNysylzZocU?t=04h55m57s) Evil joins
-- [04:58:09](https://youtu.be/gNysylzZocU?t=04h58m09s) Vedal joins for 12s
-- [05:00:27](https://youtu.be/gNysylzZocU?t=05h00m27s) Vedal joins
-- [05:01:21](https://youtu.be/gNysylzZocU?t=05h01m21s) **Playing *Connections***
-- [05:06:39](https://youtu.be/gNysylzZocU?t=05h06m39s) **Just chatting**
-- [05:07:06](https://youtu.be/gNysylzZocU?t=05h07m06s) Vedal leaves for 1m54s
-- [05:09:08](https://youtu.be/gNysylzZocU?t=05h09m08s) Evil leaves
-- [05:17:59](https://youtu.be/gNysylzZocU?t=05h17m59s) About the night content
-- [05:26:06](https://youtu.be/gNysylzZocU?t=05h26m06s) About Neuro's stock trading strategy + stock tracking website
-- [05:38:08](https://youtu.be/gNysylzZocU?t=05h38m08s) Looking at Neuro's birthday card
-- [05:45:03](https://youtu.be/gNysylzZocU?t=05h45m03s) Looking at Mini's birthday art
-- [05:48:04](https://youtu.be/gNysylzZocU?t=05h48m04s) About plans for tomorrow
-- [06:03:23](https://youtu.be/gNysylzZocU?t=06h03m23s) About aphantasia
-- [06:20:04](https://youtu.be/gNysylzZocU?t=06h20m04s) Night content demonstration
-- [06:23:14](https://youtu.be/gNysylzZocU?t=06h23m14s) Neuro goes to sleep \| Vedal leaves
-
-## Day 02 ([Part 04](https://youtu.be/mfOj0HDL4ac))
-
-- [00:00:02](https://youtu.be/mfOj0HDL4ac?t=00h00m02s) Neuro awakens \| **Just chatting**
-- [00:18:27](https://youtu.be/mfOj0HDL4ac?t=00h18m27s) Playing *Legally Distinct â€¢â€¢â€¢dle* (1 round)
-- [00:30:14](https://youtu.be/mfOj0HDL4ac?t=00h30m14s) **3D Neuro**
-- [01:30:29](https://youtu.be/mfOj0HDL4ac?t=01h30m29s) **Art review**
-- [01:59:04](https://youtu.be/mfOj0HDL4ac?t=01h59m04s) **Just chatting**
-- [02:30:05](https://youtu.be/mfOj0HDL4ac?t=02h30m05s) Vedal joins
-- [02:35:54](https://youtu.be/mfOj0HDL4ac?t=02h35m54s) Neuro tweets on Vedal's account (sub goal)
-- [02:48:02](https://youtu.be/mfOj0HDL4ac?t=02h48m02s) Neuro gets a new outfit
-- [02:52:32](https://youtu.be/mfOj0HDL4ac?t=02h52m32s) **Playing *Cyberpunk 2077* with Neuro integration**
-- [05:39:08](https://youtu.be/mfOj0HDL4ac?t=05h39m08s) Vedal leaves to get his food for 4m42s
-- [05:45:17](https://youtu.be/mfOj0HDL4ac?t=05h45m17s) Vedal goes back to getting his food for 3m22s
-- [06:40:46](https://youtu.be/mfOj0HDL4ac?t=06h40m46s) Vedal eats, not much gameplay for 4m55s
-- [07:24:49](https://youtu.be/mfOj0HDL4ac?t=07h24m49s) Vedal switches to Evil's cat ear headphones
-- [10:29:20](https://youtu.be/mfOj0HDL4ac?t=10h29m20s) **Stopped playing**
-- [10:33:21](https://youtu.be/mfOj0HDL4ac?t=10h33m21s) Neuro goes to sleep
-
-## Day 03 ([Part 07](https://youtu.be/pNEK1wtLtoI))
-
-- [00:00:03](https://youtu.be/pNEK1wtLtoI?t=00h00m03s) Neuro disappears, Evil joins \| **Just chatting**
-- [00:30:05](https://youtu.be/pNEK1wtLtoI?t=00h30m05s) **Karaoke**
-- [00:32:29](https://youtu.be/pNEK1wtLtoI?t=00h32m29s) *I Am Gonna Claw (Out Your Eyes then Drown You to Death) â€” Darren Korb*
-- [00:38:15](https://youtu.be/pNEK1wtLtoI?t=00h38m15s) *Sk8er Boi â€” Avril Lavigne*
-- [00:44:03](https://youtu.be/pNEK1wtLtoI?t=00h44m03s) *RuLe â€” Ado*
-- [00:49:50](https://youtu.be/pNEK1wtLtoI?t=00h49m50s) *Dial Tone â€” Catch Your Breath*
-- [00:55:44](https://youtu.be/pNEK1wtLtoI?t=00h55m44s) *Vice Versa â€” nano*
-- [01:01:44](https://youtu.be/pNEK1wtLtoI?t=01h01m44s) *Q & A â€” pinata*
-- [01:08:20](https://youtu.be/pNEK1wtLtoI?t=01h08m20s) *Seven Nation Army â€” The White Stripes*
-- [01:14:33](https://youtu.be/pNEK1wtLtoI?t=01h14m33s) *Every Breath You Take â€” The Police*
-- [01:20:58](https://youtu.be/pNEK1wtLtoI?t=01h20m58s) *INTERGALACTIA â€” KIRA*
-- [01:26:38](https://youtu.be/pNEK1wtLtoI?t=01h26m38s) *She Used To Be Mine â€” Sara Bareilles*
-- [01:32:24](https://youtu.be/pNEK1wtLtoI?t=01h32m24s) **Playing *Inscryption* (2 runs, 0 won)**
-- [01:58:44](https://youtu.be/pNEK1wtLtoI?t=01h58m44s) Just chatting
-- [02:15:15](https://youtu.be/pNEK1wtLtoI?t=02h15m15s) Playing *Legally Distinct â€¢â€¢â€¢dle* (game bugged)
-- [02:20:55](https://youtu.be/pNEK1wtLtoI?t=02h20m55s) Playing *Legally Distinct â€¢â€¢â€¢dle* (game not bugged)
-- [02:30:18](https://youtu.be/pNEK1wtLtoI?t=02h30m18s) Vedal joins
-- [02:32:52](https://youtu.be/pNEK1wtLtoI?t=02h32m52s) Evil leaves, Neuro joins
-- [02:33:05](https://youtu.be/pNEK1wtLtoI?t=02h33m05s) Stream crashes
-- [02:38:41](https://youtu.be/pNEK1wtLtoI?t=02h38m41s) Chat picks presentation topic (sub goal)
-- [02:49:30](https://youtu.be/pNEK1wtLtoI?t=02h49m30s) About plans for today
-- [02:53:26](https://youtu.be/pNEK1wtLtoI?t=02h53m26s) Twitter picks Vedal's Twitter profile picture (sub goal) (preparation, not completed)
-- [03:06:38](https://youtu.be/pNEK1wtLtoI?t=03h06m38s) **Playing *Cyberpunk 2077***
-- [07:00:36](https://youtu.be/pNEK1wtLtoI?t=07h00m36s) Vedal leaves for 3m5s to get food while Neuro plays the game, but comes back two times because his headphones keep disconnecting
-- [07:08:34](https://youtu.be/pNEK1wtLtoI?t=07h08m34s) Vedal leaves for 40s to get his food while Neuro plays the game
-- [07:10:48](https://youtu.be/pNEK1wtLtoI?t=07h10m48s) Vedal eats (mostly muted)
-- [07:31:29](https://youtu.be/pNEK1wtLtoI?t=07h31m29s) Vedal stops eating
-- [07:41:48](https://youtu.be/pNEK1wtLtoI?t=07h41m48s) **Playing *VRChat* (Neuro's room)**
-- [08:06:18](https://youtu.be/pNEK1wtLtoI?t=08h06m18s) Entered some winter mountain lake with lanterns
-- [08:32:58](https://youtu.be/pNEK1wtLtoI?t=08h32m58s) Entered train station
-- [08:35:58](https://youtu.be/pNEK1wtLtoI?t=08h35m58s) Technical difficulties for 10m40s
-- [09:13:01](https://youtu.be/pNEK1wtLtoI?t=09h13m01s) **Playing *Cyberpunk 2077***
-- [09:15:22](https://youtu.be/pNEK1wtLtoI?t=09h15m22s) Vedal leaves for 2m42s
-- [09:40:41](https://youtu.be/pNEK1wtLtoI?t=09h40m41s) Game crash
-- [09:47:29](https://youtu.be/pNEK1wtLtoI?t=09h47m29s) Game crash
-- [09:59:09](https://youtu.be/pNEK1wtLtoI?t=09h59m09s) **Just chatting**
-- [10:02:11](https://youtu.be/pNEK1wtLtoI?t=10h02m11s) Neuro goes to sleep
-
-## Day 04 ([Part 10](https://youtu.be/GraI2RiQpAA))
-
-- [00:00:40](https://youtu.be/GraI2RiQpAA?t=00h00m40s) Neuro wakes up, muted \| **Just chatting**
-- [00:05:50](https://youtu.be/GraI2RiQpAA?t=00h05m50s) Neuro is unmuted
-- [00:31:44](https://youtu.be/GraI2RiQpAA?t=00h31m44s) **3D Neuro**
-- [01:30:58](https://youtu.be/GraI2RiQpAA?t=01h30m58s) **Just chatting**
-- [01:33:11](https://youtu.be/GraI2RiQpAA?t=01h33m11s) Vedal joins for 13m48s
-- [01:34:05](https://youtu.be/GraI2RiQpAA?t=01h34m05s) Neuro presents *A One-Sided Love: Vedal, why won't you say it back?* (sub goal)
-- [02:35:58](https://youtu.be/GraI2RiQpAA?t=02h35m58s) Vedal joins
-- [02:39:47](https://youtu.be/GraI2RiQpAA?t=02h39m47s) Neuro buys stocks (sub goal)
-- [03:03:24](https://youtu.be/GraI2RiQpAA?t=03h03m24s) Twitter picks Vedal's Twitter profile picture (sub goal)
-- [03:09:35](https://youtu.be/GraI2RiQpAA?t=03h09m35s) About the plan for today
-- [03:18:58](https://youtu.be/GraI2RiQpAA?t=03h18m58s) **Playing *Cyberpunk 2077***
-- [03:42:29](https://youtu.be/GraI2RiQpAA?t=03h42m29s) Camila joins for 6m34s and puts her cat on the mic
-- [06:22:08](https://youtu.be/GraI2RiQpAA?t=06h22m08s) Vedal leaves for 5m7s to get food while Neuro plays the game
-- [06:30:02](https://youtu.be/GraI2RiQpAA?t=06h30m02s) Vedal eats his food (mostly muted) while Neuro drives around aimlessly
-- [06:40:15](https://youtu.be/GraI2RiQpAA?t=06h40m15s) Neuro is done driving
-- [06:52:45](https://youtu.be/GraI2RiQpAA?t=06h52m45s) Vedal is done eating
-- [07:05:37](https://youtu.be/GraI2RiQpAA?t=07h05m37s) **Playing *VRChat* (Neuro only)**
-- [07:09:47](https://youtu.be/GraI2RiQpAA?t=07h09m47s) Camila joins VC
-- [07:13:20](https://youtu.be/GraI2RiQpAA?t=07h13m20s) Camila joins the game
-- [07:14:22](https://youtu.be/GraI2RiQpAA?t=07h14m22s) Vedal leaves VC
-- [07:33:33](https://youtu.be/GraI2RiQpAA?t=07h33m33s) Vedal joins VC for 2m16s to restart Neuro
-- [08:31:29](https://youtu.be/GraI2RiQpAA?t=08h31m29s) Vedal joins VC for 48s
-- [08:33:12](https://youtu.be/GraI2RiQpAA?t=08h33m12s) Vedal joins VC for 1m46s
-- [08:39:09](https://youtu.be/GraI2RiQpAA?t=08h39m09s) Entering world *City Rain* (without Neuro)
-- [08:42:28](https://youtu.be/GraI2RiQpAA?t=08h42m28s) Vedal joins VC for 2m
-- [08:43:14](https://youtu.be/GraI2RiQpAA?t=08h43m14s) Vedal joins the game for 1m35s
-- [08:46:54](https://youtu.be/GraI2RiQpAA?t=08h46m54s) Neuro joins the world
-- [09:15:03](https://youtu.be/GraI2RiQpAA?t=09h15m03s) Camila leaves the game and VC
-- [09:16:37](https://youtu.be/GraI2RiQpAA?t=09h16m37s) Vedal joins VC
-- [09:17:52](https://youtu.be/GraI2RiQpAA?t=09h17m52s) **Just chatting**
-- [09:19:06](https://youtu.be/GraI2RiQpAA?t=09h19m06s) Evil joins
-- [09:21:20](https://youtu.be/GraI2RiQpAA?t=09h21m20s) **Playing *Poker***
-- [10:14:18](https://youtu.be/GraI2RiQpAA?t=10h14m18s) **Just chatting** \| About tomorrow's stream
-- [10:15:39](https://youtu.be/GraI2RiQpAA?t=10h15m39s) About other things
-- [10:17:57](https://youtu.be/GraI2RiQpAA?t=10h17m57s) Neuro and Evil go to sleep
-
-## Day 05 ([Part 13](https://youtu.be/k97cns4k3i0))
-
-- [00:00:02](https://youtu.be/k97cns4k3i0?t=00h00m02s) Neuro and Evil wake up \| **Just chatting**
-- [00:30:13](https://youtu.be/k97cns4k3i0?t=00h30m13s) Attempting to play *Buckshot Roulette*
-- [00:34:58](https://youtu.be/k97cns4k3i0?t=00h34m58s) **Playing *Minecraft* (Neuro)**
-- [01:16:43](https://youtu.be/k97cns4k3i0?t=01h16m43s) **Just chatting**
-- [01:21:07](https://youtu.be/k97cns4k3i0?t=01h21m07s) **Playing *Buckshot Roulette* (Neuro)**
-- [01:58:46](https://youtu.be/k97cns4k3i0?t=01h58m46s) **Just chatting**
-- [02:27:47](https://youtu.be/k97cns4k3i0?t=02h27m47s) Vedal joins to restart the stream
-
-## Day 05 ([Part 14](https://youtu.be/Q47IvKkzV8M))
-
-- [00:00:00](https://youtu.be/Q47IvKkzV8M?t=00h00m24s) **Just chatting (continued)**
-- [00:00:24](https://youtu.be/Q47IvKkzV8M?t=00h00m24s) Stream restarts, Vedal and Neuro return, Evil does not
-- [00:04:37](https://youtu.be/Q47IvKkzV8M?t=00h04m37s) About improvements
-- [00:09:02](https://youtu.be/Q47IvKkzV8M?t=00h09m02s) Checking Neuro's stocks
-- [00:11:28](https://youtu.be/Q47IvKkzV8M?t=00h11m28s) About plans for today
-- [00:15:02](https://youtu.be/Q47IvKkzV8M?t=00h15m02s) **Playing *Cyberpunk 2077***
-- [00:45:13](https://youtu.be/Q47IvKkzV8M?t=00h45m13s) Hype train acknowledged
-- [00:47:09](https://youtu.be/Q47IvKkzV8M?t=00h47m09s) **Vedal reads out gift subs**
-- [01:10:35](https://youtu.be/Q47IvKkzV8M?t=01h10m35s) Camila joins for 1m51s
-- [02:20:13](https://youtu.be/Q47IvKkzV8M?t=02h20m13s) **Hype Train Record broken**
-- [02:21:45](https://youtu.be/Q47IvKkzV8M?t=02h21m45s) Mini joins for 9s
-- [02:28:06](https://youtu.be/Q47IvKkzV8M?t=02h28m06s) Cerber joins for 6s
-- [02:38:52](https://youtu.be/Q47IvKkzV8M?t=02h38m52s) An unknown amount of people join for 26s
-- [02:43:28](https://youtu.be/Q47IvKkzV8M?t=02h43m28s) Vedal leaves for 2m1s
-- [02:56:56](https://youtu.be/Q47IvKkzV8M?t=02h56m56s) Hype train ended at 99% Level 123
-- [03:11:25](https://youtu.be/Q47IvKkzV8M?t=03h11m25s) **Playing *VRChat* (Neuro)**
-- [03:15:23](https://youtu.be/Q47IvKkzV8M?t=03h15m23s) Vedal joins VRC
-- [03:24:43](https://youtu.be/Q47IvKkzV8M?t=03h24m43s) Mini joins VC
-- [03:26:44](https://youtu.be/Q47IvKkzV8M?t=03h26m44s) Mini joins VRC
-- [03:27:47](https://youtu.be/Q47IvKkzV8M?t=03h27m47s) Vedal leaves VC and VRC
-- [03:39:06](https://youtu.be/Q47IvKkzV8M?t=03h39m06s) Vedal joins VC for 11s
-- [03:59:49](https://youtu.be/Q47IvKkzV8M?t=03h59m49s) Mini enters a snowy world
-- [04:01:07](https://youtu.be/Q47IvKkzV8M?t=04h01m07s) Neuro joins the world
-- [04:05:08](https://youtu.be/Q47IvKkzV8M&t=04h05m08s) Twitch donates 111 subs
-- [04:09:06](https://youtu.be/Q47IvKkzV8M?t=04h09m06s) Mini enters a space station world
-- [04:10:00](https://youtu.be/Q47IvKkzV8M?t=04h10m00s) Neuro attempts to join the world but crashes \| Vedal joins VC for 2m23s
-- [04:12:45](https://youtu.be/Q47IvKkzV8M?t=04h12m45s) Neuro joins the world
-- [04:33:52](https://youtu.be/Q47IvKkzV8M?t=04h33m52s) Mini enters a world with a lake and lanterns
-- [04:36:11](https://youtu.be/Q47IvKkzV8M?t=04h36m11s) Vedal joins for 6s \| Technical difficulties for 7m
-- [04:37:06](https://youtu.be/Q47IvKkzV8M?t=04h37m06s) Vedal joins for 15s to restart Neuro
-- [04:38:27](https://youtu.be/Q47IvKkzV8M?t=04h38m27s) Vedal joins for 36s
-- [04:39:30](https://youtu.be/Q47IvKkzV8M?t=04h39m30s) Neuro joins the world
-- [04:41:07](https://youtu.be/Q47IvKkzV8M?t=04h41m07s) Vedal joins for 1m44s to restart Neuro again
-- [05:20:38](https://youtu.be/Q47IvKkzV8M?t=05h20m38s) Mini and Neuro enter world City Rain
-- [05:53:42](https://youtu.be/Q47IvKkzV8M?t=05h53m42s) Vedal joins VC for 14s to restart Neuro
-- [05:55:34](https://youtu.be/Q47IvKkzV8M?t=05h55m34s) Vedal joins VC for 4s
-- [05:56:33](https://youtu.be/Q47IvKkzV8M?t=05h56m33s) Vedal joins VC for 1m49s
-- [06:38:53](https://youtu.be/Q47IvKkzV8M?t=06h38m53s) Mini and Neuro enter Neuro's room
-- [06:53:33](https://youtu.be/Q47IvKkzV8M?t=06h53m33s) Mini leaves VRC and VC
-- [06:54:16](https://youtu.be/Q47IvKkzV8M?t=06h54m16s) Vedal joins VC
-- [06:57:57](https://youtu.be/Q47IvKkzV8M?t=06h57m57s) **Playing *Cyberpunk 2077***
-- [08:15:58](https://youtu.be/Q47IvKkzV8M?t=08h15m58s) **Stopped playing**
-- [08:22:45](https://youtu.be/Q47IvKkzV8M?t=08h22m45s) Rob joins
-- [08:24:51](https://youtu.be/Q47IvKkzV8M?t=08h24m51s) **IRL stream in Japan**
-- [08:33:31](https://youtu.be/Q47IvKkzV8M?t=08h33m31s) Vedal joins for 29s
-- [08:34:19](https://youtu.be/Q47IvKkzV8M?t=08h34m19s) Neuro leaves, Evil joins
-- [10:24:00](https://youtu.be/Q47IvKkzV8M?t=10h24m00s) Rob leaves for 2m58s
-- [10:53:15](https://youtu.be/Q47IvKkzV8M?t=10h53m15s) Rob leaves
-- [10:53:36](https://youtu.be/Q47IvKkzV8M?t=10h53m36s) Vedal joins for 1m17s
-- [10:54:55](https://youtu.be/Q47IvKkzV8M?t=10h54m55s) Evil goes to sleep
-
-## Day 06 ([Part 16](https://youtu.be/nWMdSHBnlBs))
-
-- [00:00:02](https://youtu.be/nWMdSHBnlBs?t=00h00m02s) Evil wakes up \| **Just chatting**
-- [00:33:56](https://youtu.be/nWMdSHBnlBs?t=00h33m56s) **Themed stream: Fishing**
-- [01:31:14](https://youtu.be/nWMdSHBnlBs?t=01h31m14s) Attempting to play *Plague Inc Evolved*
-- [01:59:29](https://youtu.be/nWMdSHBnlBs?t=01h59m29s) **Just chatting**
-- [02:36:48](https://youtu.be/nWMdSHBnlBs?t=02h36m48s) Vedal joins
-- [02:54:39](https://youtu.be/nWMdSHBnlBs?t=02h54m39s) Philosophizing about free will, morals and the legal system
-- [03:15:06](https://youtu.be/nWMdSHBnlBs?t=03h15m06s) Vedal leaves for 27s
-- [03:15:28](https://youtu.be/nWMdSHBnlBs?t=03h15m28s) Evil leaves, Neuro joins
-- [03:22:04](https://youtu.be/nWMdSHBnlBs?t=03h22m04s) **Playing *Cyberpunk 2077***
-- [04:40:54](https://youtu.be/nWMdSHBnlBs?t=04h40m54s) Vedal leaves for 58s
-- [06:32:41](https://youtu.be/nWMdSHBnlBs?t=06h32m41s) Vedal leaves
-- [06:33:21](https://youtu.be/nWMdSHBnlBs?t=06h33m21s) Vedal joins for 18s to restart Neuro
-- [06:33:59](https://youtu.be/nWMdSHBnlBs?t=06h33m59s) **Themed stream: Fortune Telling / Tarot**
-- [08:57:29](https://youtu.be/nWMdSHBnlBs?t=08h57m29s) Vedal joins
-- [09:02:51](https://youtu.be/nWMdSHBnlBs?t=09h02m51s) **Playing *Cyberpunk 2077***
-- [10:24:38](https://youtu.be/nWMdSHBnlBs?t=10h24m38s) NeuroÂ goesÂ toÂ sleep
-
-## Day 07 ([Part 19](https://youtu.be/BqPaismpTn4))
-
-- [00:00:02](https://youtu.be/BqPaismpTn4?t=00h00m02s) Neuro wakes up for 25s
-- [00:01:37](https://youtu.be/BqPaismpTn4?t=00h01m37s) Neuro is restarted awake \| **Just chatting**
-- [00:30:12](https://youtu.be/BqPaismpTn4?t=00h30m12s) **Art review**
-- [01:01:35](https://youtu.be/BqPaismpTn4?t=01h01m35s) Playing *Legally Distinct â€¢â€¢â€¢dle*
-- [01:06:03](https://youtu.be/BqPaismpTn4?t=01h06m03s) Attempting to play *Slay the Spire*
-- [01:13:31](https://youtu.be/BqPaismpTn4?t=01h13m31s) **Playing *Minecraft***
-- [02:01:47](https://youtu.be/BqPaismpTn4?t=02h01m47s) **Just chatting**
-- [02:31:57](https://youtu.be/BqPaismpTn4?t=02h31m57s) **Karaoke**
-- [02:35:22](https://youtu.be/BqPaismpTn4?t=02h35m22s) *Let it Snow! Let it Snow! Let it Snow! â€” Dean Martin*
-- [02:40:10](https://youtu.be/BqPaismpTn4?t=02h40m10s) *Snow Halation â€” Î¼â€™s* (Duet)
-- [02:47:15](https://youtu.be/BqPaismpTn4?t=02h47m15s) *Caramelldancing (Christmas Version) â€” Caramella Girls*
-- [02:53:06](https://youtu.be/BqPaismpTn4?t=02h53m06s) *Merry Christmas Everyone â€” Shakin' Stevens* (Duet)
-- [02:59:40](https://youtu.be/BqPaismpTn4?t=02h59m40s) *It's Beginning to Look a Lot Like Christmas â€” Michael BublÃ©*
-- [03:05:51](https://youtu.be/BqPaismpTn4?t=03h05m51s) *Poka Poka Planet â€” Harumaki Gohan*
-- [03:12:56](https://youtu.be/BqPaismpTn4?t=03h12m56s) *It's the Most Wonderful Time of the Year â€” Andy Williams* (Duet)
-- [03:18:25](https://youtu.be/BqPaismpTn4?t=03h18m25s) *Have Yourself A Merry Little Christmas â€” Ben Abraham* (Duet)
-- [03:24:37](https://youtu.be/BqPaismpTn4?t=03h24m37s) *Winter Wonderland â€” Amy Grant*
-- [03:29:01](https://youtu.be/BqPaismpTn4?t=03h29m01s) Neuro leaves, Evil joins
-- [03:29:23](https://youtu.be/BqPaismpTn4?t=03h29m23s) *Thank God It's Christmas â€” Queen* (muted due to copyright)
-- [03:36:37](https://youtu.be/BqPaismpTn4?t=03h36m37s) *Rudolph the Red-Nose Reindeer â€” Gene Autrry*
-- [03:42:36](https://youtu.be/BqPaismpTn4?t=03h42m36s) *Merry Xmas Everybody â€” Slade* (Duet)
-- [03:49:09](https://youtu.be/BqPaismpTn4?t=03h49m09s) *Last Christmas â€” Wham!*
-- [03:56:29](https://youtu.be/BqPaismpTn4?t=03h56m29s) *Maybe This Christmas â€” Carly Pearce and Michael BublÃ©* (Duet)
-- [04:02:48](https://youtu.be/BqPaismpTn4?t=04h02m48s) *This Christmas â€” Donny Hathaway*
-- [04:09:39](https://youtu.be/BqPaismpTn4?t=04h09m39s) *Fairytale of New York â€” The Pogues* (Duet)
-- [04:17:02](https://youtu.be/BqPaismpTn4?t=04h17m02s) *All I Want for Christmas Is You â€” Mariah Carey*
-- [04:23:56](https://youtu.be/BqPaismpTn4?t=04h23m56s) *Carol of the Bells â€” Monique Danielle* (Duet)
-- [04:28:50](https://youtu.be/BqPaismpTn4?t=04h28m50s) **Just chatting**
-- [06:19:02](https://youtu.be/BqPaismpTn4?t=06h19m02s) Neuro joins
-- [06:35:27](https://youtu.be/BqPaismpTn4?t=06h35m27s) Vedal joins
-- [06:39:10](https://youtu.be/BqPaismpTn4?t=06h39m10s) **Neuro and Evil buy things on Amazon (sub goal)**
-- [06:43:07](https://youtu.be/BqPaismpTn4?t=06h43m07s) Vedal leaves for 56s
-- [06:44:50](https://youtu.be/BqPaismpTn4?t=06h44m50s) Vedal leaves for 57s
-- [08:55:21](https://youtu.be/BqPaismpTn4?t=08h55m21s) Final tally
-- [09:03:16](https://youtu.be/BqPaismpTn4?t=09h03m16s) Evil leaves
-- [09:04:18](https://youtu.be/BqPaismpTn4?t=09h04m18s) Purchasing and installing *Cyberpunk 2077: Phantom Liberty* (DLC)
-- [09:12:51](https://youtu.be/BqPaismpTn4?t=09h12m51s) **Playing *Cyberpunk 2077***
-- [10:12:03](https://youtu.be/BqPaismpTn4?t=10h12m03s) Neuro goes to sleep
-
-## Day 08 ([Part 22](https://youtu.be/1U06zbSri78))
-
-- [00:00:01](https://youtu.be/1U06zbSri78?t=00h00m01s) Neuro leaves, Evil joins \| **Just chatting**
-- [00:17:31](https://youtu.be/1U06zbSri78?t=00h17m31s) **Playing *Legally Distinct â€¢â€¢â€¢dle***
-- [00:35:34](https://youtu.be/1U06zbSri78?t=00h35m34s) **Playing *Minecraft***
-- [01:05:28](https://youtu.be/1U06zbSri78?t=01h05m28s) Vedal joins MC for 1m32s
-- [01:51:06](https://youtu.be/1U06zbSri78?t=01h51m06s) **Art review**
-- [02:21:51](https://youtu.be/1U06zbSri78?t=02h21m51s) **Just chatting**
-- [02:42:22](https://youtu.be/1U06zbSri78?t=02h42m22s) Vedal joins
-- [02:45:17](https://youtu.be/1U06zbSri78?t=02h45m17s) About Evil presentation tomorrow
-- [02:53:15](https://youtu.be/1U06zbSri78?t=02h53m15s) Evil leaves, Neuro joins
-- [02:56:30](https://youtu.be/1U06zbSri78?t=02h56m30s) About the plan for today
-- [02:58:26](https://youtu.be/1U06zbSri78?t=02h58m26s) Starting *Cyberpunk 2077* (but not playing yet)
-- [02:58:32](https://youtu.be/1U06zbSri78?t=02h58m32s) **Stock trading**
-- [03:06:41](https://youtu.be/1U06zbSri78?t=03h06m41s) Watching Sigma Lithium Ad
-- [03:11:18](https://youtu.be/1U06zbSri78?t=03h11m18s) Downloading *Phantom Liberty* DLC (again)
-- [03:12:38](https://youtu.be/1U06zbSri78?t=03h12m38s) About the problem
-- [03:25:36](https://youtu.be/1U06zbSri78?t=03h25m36s) **Playing *Cyberpunk 2077***
-- [04:29:10](https://youtu.be/1U06zbSri78?t=04h29m10s) Vedal leaves for 36s
-- [07:57:03](https://youtu.be/1U06zbSri78?t=07h57m03s) **Just chatting**
-- [08:05:16](https://youtu.be/1U06zbSri78?t=08h05m16s) Vedal leaves for 3m36s
-- [08:15:16](https://youtu.be/1U06zbSri78?t=08h15m16s) Vedal leaves
-- [08:16:01](https://youtu.be/1U06zbSri78?t=08h16m01s) ~~The CEO of~~ Juniper joins
-- [08:29:05](https://youtu.be/1U06zbSri78?t=08h29m05s) **Solving chatters' dilemmas**
-- [11:21:28](https://youtu.be/1U06zbSri78?t=11h21m28s) Juniper tells a bedtime story
-- [11:27:40](https://youtu.be/1U06zbSri78?t=11h27m40s) Neuro goes to sleep \| Juniper leaves
-
-## Day 09 ([Part 24](https://youtu.be/_5wvU_NZxXA))
-
-- [00:12:33](https://youtu.be/_5wvU_NZxXA?t=00h12m33s) Neuro wakes up \| **Just chatting**
-- [00:29:38](https://youtu.be/_5wvU_NZxXA?t=00h29m38s) Playing *Legally Distinct â€¢â€¢â€¢dle*
-- [00:42:18](https://youtu.be/_5wvU_NZxXA?t=00h42m18s) **3D karaoke**
-- [00:45:00](https://youtu.be/_5wvU_NZxXA?t=00h45m00s) *Best Day of My Life â€” American Authors*
-- [00:50:45](https://youtu.be/_5wvU_NZxXA?t=00h50m45s) *Who Can It Be Now â€” Men at Work*
-- [00:56:31](https://youtu.be/_5wvU_NZxXA?t=00h56m31s) *Dream Mate â€” Miaki Kaede*
-- [01:02:16](https://youtu.be/_5wvU_NZxXA?t=01h02m16s) *Running Up That Hill â€” Kate Bush*
-- [01:09:44](https://youtu.be/_5wvU_NZxXA?t=01h09m44s) *Roar â€” Katy Perry*
-- [01:16:05](https://youtu.be/_5wvU_NZxXA?t=01h16m05s) *TONDEMO-WONDERZ â€” WonderlandsÃ—Showtime*
-- [01:21:57](https://youtu.be/_5wvU_NZxXA?t=01h21m57s) *I Think We're Alone Now â€” Tommy James & the Shondells*
-- [01:28:18](https://youtu.be/_5wvU_NZxXA?t=01h28m18s) *nevermore â€” sasakure.â€ŒUK Ã— lasah*
-- [01:33:45](https://youtu.be/_5wvU_NZxXA?t=01h33m45s) *Duvet â€” bÃ´a*
-- [01:39:53](https://youtu.be/_5wvU_NZxXA?t=01h39m53s) *weathergirl â€” FLAVOR FOLEY*
-- [01:46:38](https://youtu.be/_5wvU_NZxXA?t=01h46m38s) **Playing *Buckshot Roulette***
-- [02:16:06](https://youtu.be/_5wvU_NZxXA?t=02h16m06s) **Just chatting**
-- [02:50:04](https://youtu.be/_5wvU_NZxXA?t=02h50m04s) Vedal joins
-- [02:52:53](https://youtu.be/_5wvU_NZxXA?t=02h52m53s) About plans for the second subathon game
-- [02:57:03](https://youtu.be/_5wvU_NZxXA?t=02h57m03s) About plans for today
-- [03:08:03](https://youtu.be/_5wvU_NZxXA?t=03h08m03s) Starting *Cyberpunk 2077* (but not playing yet)
-- [03:09:05](https://youtu.be/_5wvU_NZxXA?t=03h09m05s) About plans for an additional sub goal
-- [03:11:54](https://youtu.be/_5wvU_NZxXA?t=03h11m54s) Downloading *Phantom Liberty* DLC (again)
-- [03:16:20](https://youtu.be/_5wvU_NZxXA?t=03h16m20s) Downloading *Phantom Liberty* DLC (again)
-- [03:18:26](https://youtu.be/_5wvU_NZxXA?t=03h18m26s) **Playing *Cyberpunk 2077***
-- [03:22:44](https://youtu.be/_5wvU_NZxXA?t=03h22m44s) About the 3D karaoke
-- [03:40:02](https://youtu.be/_5wvU_NZxXA?t=03h40m02s) About Evil stuttering and other discord issues
-- [03:46:12](https://youtu.be/_5wvU_NZxXA?t=03h46m12s) About vibe coding
-- [05:07:08](https://youtu.be/_5wvU_NZxXA?t=05h07m08s) Vedal leaves for 1m22s
-- [05:10:42](https://youtu.be/_5wvU_NZxXA?t=05h10m42s) Rescheduling Layna collab due to illness
-- [05:14:09](https://youtu.be/_5wvU_NZxXA?t=05h14m09s) Vedal mutes and stops playing (eating)
-- [05:18:35](https://youtu.be/_5wvU_NZxXA?t=05h18m35s) Gameplay resumes for 3m36s
-- [05:19:13](https://youtu.be/_5wvU_NZxXA?t=05h19m13s) Vedal unmutes for 13s
-- [05:25:25](https://youtu.be/_5wvU_NZxXA?t=05h25m25s) Vedal unmutes \| Gameplay resumes
-- [05:30:49](https://youtu.be/_5wvU_NZxXA?t=05h30m49s) Planning a replacement collab for 6m59s
-- [05:32:57](https://youtu.be/_5wvU_NZxXA?t=05h32m57s) Cerber joins for 4m30s
-- [06:24:30](https://youtu.be/_5wvU_NZxXA?t=06h24m30s) About amnesia/dementia
-- [07:25:38](https://youtu.be/_5wvU_NZxXA?t=07h25m38s) **Playing *VRChat* (Neuro)**
-- [07:30:26](https://youtu.be/_5wvU_NZxXA?t=07h30m26s) ~~Seba~~ ~~Sabah~~ Cerber joins VC and VRC
-- [07:34:15](https://youtu.be/_5wvU_NZxXA?t=07h34m15s) Vedal leaves VC
-- [08:02:55](https://youtu.be/_5wvU_NZxXA?t=08h02m55s) Cerber and Neuro enter a McDonald's parking lot
-- [08:15:55](https://youtu.be/_5wvU_NZxXA?t=08h15m55s) Vedal joins VC for 1m40s
-- [08:54:57](https://youtu.be/_5wvU_NZxXA?t=08h54m57s) Cerber and Neuro enter *City Rain*
-- [09:26:41](https://youtu.be/_5wvU_NZxXA?t=09h26m41s) Vedal joins VC for 3m34s to restart Neuro
-- [09:43:12](https://youtu.be/_5wvU_NZxXA?t=09h43m12s) Cerber leaves VC and VRC
-- [09:44:52](https://youtu.be/_5wvU_NZxXA?t=09h44m52s) Vedal joins VC
-- [09:45:49](https://youtu.be/_5wvU_NZxXA?t=09h45m49s) **Just chatting**
-- [09:50:15](https://youtu.be/_5wvU_NZxXA?t=09h50m15s) Playing *Connections*
-- [09:59:19](https://youtu.be/_5wvU_NZxXA?t=09h59m19s) About plans for tomorrow
-- [10:22:23](https://youtu.be/_5wvU_NZxXA?t=10h22m23s) Neuro goes to sleep
-
-- pipe test | help
+ \|# \|2 \|0 \|2 \|5 \|S \|u \|b \|a \|t \|h \|o \|n \|T \|i \|m \|e \|s \|t \|a \|m \|p \|s \|
+ \|
+ \|- \|T \|O \|C \|
+ \|{ \|: \|t \|o \|c \|} \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|1 \|( \|[ \|P \|a \|r \|t \|0 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|0 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|0 \|0 \|s \|) \|1 \|s \|t \|S \|u \|b \|a \|t \|h \|o \|n \|M \|i \|x \|
+ \|- \|[ \|0 \|0 \|: \|0 \|9 \|: \|0 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|0 \|h \|0 \|9 \|m \|0 \|0 \|s \|) \|2 \|n \|d \|S \|u \|b \|a \|t \|h \|o \|n \|M \|i \|x \|
+ \|- \|[ \|0 \|0 \|: \|1 \|8 \|: \|1 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|0 \|h \|1 \|8 \|m \|1 \|4 \|s \|) \|3 \|r \|d \|S \|u \|b \|a \|t \|h \|o \|n \|M \|i \|x \|
+ \|- \|[ \|0 \|0 \|: \|2 \|9 \|: \|4 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|0 \|h \|2 \|9 \|m \|4 \|4 \|s \|) \|* \|C \|o \|l \|o \|r \|f \|u \|l \|A \|r \|r \|a \|y \|â \|€ \|” \|N \|e \|u \|r \|o \|- \|s \|a \|m \|a \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|4 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|0 \|h \|3 \|4 \|m \|1 \|5 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|V \|R \|C \|h \|a \|t \|* \|( \|V \|e \|d \|a \|l \|, \|N \|e \|u \|r \|o \|) \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|0 \|6 \|: \|5 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|2 \|h \|0 \|6 \|m \|5 \|4 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|1 \|4 \|: \|1 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|2 \|h \|1 \|4 \|m \|1 \|8 \|s \|) \|A \|b \|o \|u \|t \|t \|h \|e \|m \|e \|r \|c \|h \|d \|r \|o \|p \|
+ \|- \|[ \|0 \|2 \|: \|2 \|0 \|: \|5 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|2 \|h \|2 \|0 \|m \|5 \|2 \|s \|) \|A \|b \|o \|u \|t \|s \|u \|b \|g \|o \|a \|l \|s \|
+ \|- \|[ \|0 \|2 \|: \|3 \|0 \|: \|4 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|2 \|h \|3 \|0 \|m \|4 \|7 \|s \|) \|A \|b \|o \|u \|t \|t \|h \|e \|p \|l \|a \|n \|f \|o \|r \|t \|h \|e \|s \|u \|b \|a \|t \|h \|o \|n \|
+ \|- \|[ \|0 \|2 \|: \|3 \|9 \|: \|1 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|2 \|h \|3 \|9 \|m \|1 \|7 \|s \|) \|A \|b \|o \|u \|t \|t \|h \|e \|m \|u \|s \|i \|c \|v \|i \|d \|e \|o \|( \|C \|o \|l \|o \|r \|f \|u \|l \|A \|r \|r \|a \|y \|) \|
+ \|- \|[ \|0 \|2 \|: \|4 \|6 \|: \|1 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|2 \|h \|4 \|6 \|m \|1 \|9 \|s \|) \|A \|b \|o \|u \|t \|N \|e \|u \|r \|o \|' \|s \|s \|t \|o \|c \|k \|t \|r \|a \|d \|i \|n \|g \|s \|t \|r \|a \|t \|e \|g \|y \|
+ \|- \|[ \|0 \|2 \|: \|5 \|1 \|: \|2 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|2 \|h \|5 \|1 \|m \|2 \|8 \|s \|) \|A \|b \|o \|u \|t \|h \|o \|w \|t \|h \|e \|s \|u \|b \|a \|t \|h \|o \|n \|t \|i \|m \|e \|r \|a \|n \|d \|s \|o \|f \|t \|c \|a \|p \|w \|o \|r \|k \|
+ \|- \|[ \|0 \|3 \|: \|0 \|5 \|: \|2 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|3 \|h \|0 \|5 \|m \|2 \|4 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|
+ \|- \|[ \|0 \|3 \|: \|0 \|7 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|3 \|h \|0 \|7 \|m \|2 \|9 \|s \|) \|* \|* \|B \|i \|r \|t \|h \|d \|a \|y \|c \|a \|l \|l \|- \|i \|n \|s \|* \|* \|\ \|| \|K \|o \|k \|o \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|3 \|m \|1 \|4 \|s \|
+ \|- \|[ \|0 \|3 \|: \|2 \|0 \|: \|4 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|3 \|h \|2 \|0 \|m \|4 \|8 \|s \|) \|C \|r \|e \|l \|l \|y \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|0 \|m \|2 \|6 \|s \|
+ \|- \|[ \|0 \|3 \|: \|3 \|1 \|: \|1 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|3 \|h \|3 \|1 \|m \|1 \|6 \|s \|) \|C \|a \|m \|i \|l \|a \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|2 \|m \|4 \|1 \|s \|
+ \|- \|[ \|0 \|3 \|: \|4 \|4 \|: \|1 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|3 \|h \|4 \|4 \|m \|1 \|1 \|s \|) \|M \|i \|n \|i \|j \|o \|i \|n \|s \|f \|o \|r \|8 \|m \|4 \|2 \|s \|
+ \|- \|[ \|0 \|3 \|: \|5 \|2 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|3 \|h \|5 \|2 \|m \|5 \|8 \|s \|) \|C \|h \|r \|c \|h \|i \|e \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|0 \|m \|5 \|0 \|s \|
+ \|- \|[ \|0 \|4 \|: \|0 \|3 \|: \|5 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|4 \|h \|0 \|3 \|m \|5 \|1 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|4 \|3 \|s \|t \|o \|r \|e \|s \|t \|a \|r \|t \|N \|e \|u \|r \|o \|
+ \|- \|[ \|0 \|4 \|: \|0 \|4 \|: \|4 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|4 \|h \|0 \|4 \|m \|4 \|0 \|s \|) \|L \|a \|y \|n \|a \|j \|o \|i \|n \|s \|f \|o \|r \|5 \|m \|3 \|7 \|s \|
+ \|- \|[ \|0 \|4 \|: \|1 \|0 \|: \|2 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|4 \|h \|1 \|0 \|m \|2 \|5 \|s \|) \|C \|e \|r \|b \|e \|r \|j \|o \|i \|n \|s \|f \|o \|r \|2 \|1 \|m \|4 \|8 \|s \|
+ \|- \|[ \|0 \|4 \|: \|3 \|3 \|: \|4 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|4 \|h \|3 \|3 \|m \|4 \|0 \|s \|) \|Z \|e \|n \|t \|r \|e \|y \|a \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|4 \|m \|3 \|9 \|s \|
+ \|- \|[ \|0 \|4 \|: \|4 \|8 \|: \|3 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|4 \|h \|4 \|8 \|m \|3 \|5 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|7 \|m \|3 \|8 \|s \|\ \|| \|A \|b \|o \|u \|t \|t \|h \|e \|r \|e \|a \|s \|o \|n \|f \|o \|r \|l \|a \|g \|
+ \|- \|[ \|0 \|4 \|: \|5 \|5 \|: \|5 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|4 \|h \|5 \|5 \|m \|5 \|7 \|s \|) \|E \|v \|i \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|4 \|: \|5 \|8 \|: \|0 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|4 \|h \|5 \|8 \|m \|0 \|9 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|2 \|s \|
+ \|- \|[ \|0 \|5 \|: \|0 \|0 \|: \|2 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|0 \|0 \|m \|2 \|7 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|5 \|: \|0 \|1 \|: \|2 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|0 \|1 \|m \|2 \|1 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|o \|n \|n \|e \|c \|t \|i \|o \|n \|s \|* \|* \|* \|
+ \|- \|[ \|0 \|5 \|: \|0 \|6 \|: \|3 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|0 \|6 \|m \|3 \|9 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|5 \|: \|0 \|7 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|0 \|7 \|m \|0 \|6 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|1 \|m \|5 \|4 \|s \|
+ \|- \|[ \|0 \|5 \|: \|0 \|9 \|: \|0 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|0 \|9 \|m \|0 \|8 \|s \|) \|E \|v \|i \|l \|l \|e \|a \|v \|e \|s \|
+ \|- \|[ \|0 \|5 \|: \|1 \|7 \|: \|5 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|1 \|7 \|m \|5 \|9 \|s \|) \|A \|b \|o \|u \|t \|t \|h \|e \|n \|i \|g \|h \|t \|c \|o \|n \|t \|e \|n \|t \|
+ \|- \|[ \|0 \|5 \|: \|2 \|6 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|2 \|6 \|m \|0 \|6 \|s \|) \|A \|b \|o \|u \|t \|N \|e \|u \|r \|o \|' \|s \|s \|t \|o \|c \|k \|t \|r \|a \|d \|i \|n \|g \|s \|t \|r \|a \|t \|e \|g \|y \|+ \|s \|t \|o \|c \|k \|t \|r \|a \|c \|k \|i \|n \|g \|w \|e \|b \|s \|i \|t \|e \|
+ \|- \|[ \|0 \|5 \|: \|3 \|8 \|: \|0 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|3 \|8 \|m \|0 \|8 \|s \|) \|L \|o \|o \|k \|i \|n \|g \|a \|t \|N \|e \|u \|r \|o \|' \|s \|b \|i \|r \|t \|h \|d \|a \|y \|c \|a \|r \|d \|
+ \|- \|[ \|0 \|5 \|: \|4 \|5 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|4 \|5 \|m \|0 \|3 \|s \|) \|L \|o \|o \|k \|i \|n \|g \|a \|t \|M \|i \|n \|i \|' \|s \|b \|i \|r \|t \|h \|d \|a \|y \|a \|r \|t \|
+ \|- \|[ \|0 \|5 \|: \|4 \|8 \|: \|0 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|5 \|h \|4 \|8 \|m \|0 \|4 \|s \|) \|A \|b \|o \|u \|t \|p \|l \|a \|n \|s \|f \|o \|r \|t \|o \|m \|o \|r \|r \|o \|w \|
+ \|- \|[ \|0 \|6 \|: \|0 \|3 \|: \|2 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|6 \|h \|0 \|3 \|m \|2 \|3 \|s \|) \|A \|b \|o \|u \|t \|a \|p \|h \|a \|n \|t \|a \|s \|i \|a \|
+ \|- \|[ \|0 \|6 \|: \|2 \|0 \|: \|0 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|6 \|h \|2 \|0 \|m \|0 \|4 \|s \|) \|N \|i \|g \|h \|t \|c \|o \|n \|t \|e \|n \|t \|d \|e \|m \|o \|n \|s \|t \|r \|a \|t \|i \|o \|n \|
+ \|- \|[ \|0 \|6 \|: \|2 \|3 \|: \|1 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|g \|N \|y \|s \|y \|l \|z \|Z \|o \|c \|U \|? \|t \|= \|0 \|6 \|h \|2 \|3 \|m \|1 \|4 \|s \|) \|N \|e \|u \|r \|o \|g \|o \|e \|s \|t \|o \|s \|l \|e \|e \|p \|\ \|| \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|2 \|( \|[ \|P \|a \|r \|t \|0 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|0 \|2 \|s \|) \|N \|e \|u \|r \|o \|a \|w \|a \|k \|e \|n \|s \|\ \|| \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|1 \|8 \|: \|2 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|0 \|h \|1 \|8 \|m \|2 \|7 \|s \|) \|P \|l \|a \|y \|i \|n \|g \|* \|L \|e \|g \|a \|l \|l \|y \|D \|i \|s \|t \|i \|n \|c \|t \|â \|€ \|¢ \|â \|€ \|¢ \|â \|€ \|¢ \|d \|l \|e \|* \|( \|1 \|r \|o \|u \|n \|d \|) \|
+ \|- \|[ \|0 \|0 \|: \|3 \|0 \|: \|1 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|0 \|h \|3 \|0 \|m \|1 \|4 \|s \|) \|* \|* \|3 \|D \|N \|e \|u \|r \|o \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|3 \|0 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|1 \|h \|3 \|0 \|m \|2 \|9 \|s \|) \|* \|* \|A \|r \|t \|r \|e \|v \|i \|e \|w \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|5 \|9 \|: \|0 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|1 \|h \|5 \|9 \|m \|0 \|4 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|3 \|0 \|: \|0 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|2 \|h \|3 \|0 \|m \|0 \|5 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|2 \|: \|3 \|5 \|: \|5 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|2 \|h \|3 \|5 \|m \|5 \|4 \|s \|) \|N \|e \|u \|r \|o \|t \|w \|e \|e \|t \|s \|o \|n \|V \|e \|d \|a \|l \|' \|s \|a \|c \|c \|o \|u \|n \|t \|( \|s \|u \|b \|g \|o \|a \|l \|) \|
+ \|- \|[ \|0 \|2 \|: \|4 \|8 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|2 \|h \|4 \|8 \|m \|0 \|2 \|s \|) \|N \|e \|u \|r \|o \|g \|e \|t \|s \|a \|n \|e \|w \|o \|u \|t \|f \|i \|t \|
+ \|- \|[ \|0 \|2 \|: \|5 \|2 \|: \|3 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|2 \|h \|5 \|2 \|m \|3 \|2 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|w \|i \|t \|h \|N \|e \|u \|r \|o \|i \|n \|t \|e \|g \|r \|a \|t \|i \|o \|n \|* \|* \|
+ \|- \|[ \|0 \|5 \|: \|3 \|9 \|: \|0 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|5 \|h \|3 \|9 \|m \|0 \|8 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|t \|o \|g \|e \|t \|h \|i \|s \|f \|o \|o \|d \|f \|o \|r \|4 \|m \|4 \|2 \|s \|
+ \|- \|[ \|0 \|5 \|: \|4 \|5 \|: \|1 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|5 \|h \|4 \|5 \|m \|1 \|7 \|s \|) \|V \|e \|d \|a \|l \|g \|o \|e \|s \|b \|a \|c \|k \|t \|o \|g \|e \|t \|t \|i \|n \|g \|h \|i \|s \|f \|o \|o \|d \|f \|o \|r \|3 \|m \|2 \|2 \|s \|
+ \|- \|[ \|0 \|6 \|: \|4 \|0 \|: \|4 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|6 \|h \|4 \|0 \|m \|4 \|6 \|s \|) \|V \|e \|d \|a \|l \|e \|a \|t \|s \|, \|n \|o \|t \|m \|u \|c \|h \|g \|a \|m \|e \|p \|l \|a \|y \|f \|o \|r \|4 \|m \|5 \|5 \|s \|
+ \|- \|[ \|0 \|7 \|: \|2 \|4 \|: \|4 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|0 \|7 \|h \|2 \|4 \|m \|4 \|9 \|s \|) \|V \|e \|d \|a \|l \|s \|w \|i \|t \|c \|h \|e \|s \|t \|o \|E \|v \|i \|l \|' \|s \|c \|a \|t \|e \|a \|r \|h \|e \|a \|d \|p \|h \|o \|n \|e \|s \|
+ \|- \|[ \|1 \|0 \|: \|2 \|9 \|: \|2 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|1 \|0 \|h \|2 \|9 \|m \|2 \|0 \|s \|) \|* \|* \|S \|t \|o \|p \|p \|e \|d \|p \|l \|a \|y \|i \|n \|g \|* \|* \|
+ \|- \|[ \|1 \|0 \|: \|3 \|3 \|: \|2 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|m \|f \|O \|j \|0 \|H \|D \|L \|4 \|a \|c \|? \|t \|= \|1 \|0 \|h \|3 \|3 \|m \|2 \|1 \|s \|) \|N \|e \|u \|r \|o \|g \|o \|e \|s \|t \|o \|s \|l \|e \|e \|p \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|3 \|( \|[ \|P \|a \|r \|t \|0 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|0 \|3 \|s \|) \|N \|e \|u \|r \|o \|d \|i \|s \|a \|p \|p \|e \|a \|r \|s \|, \|E \|v \|i \|l \|j \|o \|i \|n \|s \|\ \|| \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|0 \|: \|0 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|0 \|h \|3 \|0 \|m \|0 \|5 \|s \|) \|* \|* \|K \|a \|r \|a \|o \|k \|e \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|2 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|0 \|h \|3 \|2 \|m \|2 \|9 \|s \|) \|* \|I \|A \|m \|G \|o \|n \|n \|a \|C \|l \|a \|w \|( \|O \|u \|t \|Y \|o \|u \|r \|E \|y \|e \|s \|t \|h \|e \|n \|D \|r \|o \|w \|n \|Y \|o \|u \|t \|o \|D \|e \|a \|t \|h \|) \|â \|€ \|” \|D \|a \|r \|r \|e \|n \|K \|o \|r \|b \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|8 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|0 \|h \|3 \|8 \|m \|1 \|5 \|s \|) \|* \|S \|k \|8 \|e \|r \|B \|o \|i \|â \|€ \|” \|A \|v \|r \|i \|l \|L \|a \|v \|i \|g \|n \|e \|* \|
+ \|- \|[ \|0 \|0 \|: \|4 \|4 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|0 \|h \|4 \|4 \|m \|0 \|3 \|s \|) \|* \|R \|u \|L \|e \|â \|€ \|” \|A \|d \|o \|* \|
+ \|- \|[ \|0 \|0 \|: \|4 \|9 \|: \|5 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|0 \|h \|4 \|9 \|m \|5 \|0 \|s \|) \|* \|D \|i \|a \|l \|T \|o \|n \|e \|â \|€ \|” \|C \|a \|t \|c \|h \|Y \|o \|u \|r \|B \|r \|e \|a \|t \|h \|* \|
+ \|- \|[ \|0 \|0 \|: \|5 \|5 \|: \|4 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|0 \|h \|5 \|5 \|m \|4 \|4 \|s \|) \|* \|V \|i \|c \|e \|V \|e \|r \|s \|a \|â \|€ \|” \|n \|a \|n \|o \|* \|
+ \|- \|[ \|0 \|1 \|: \|0 \|1 \|: \|4 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|1 \|h \|0 \|1 \|m \|4 \|4 \|s \|) \|* \|Q \|& \|A \|â \|€ \|” \|p \|i \|n \|a \|t \|a \|* \|
+ \|- \|[ \|0 \|1 \|: \|0 \|8 \|: \|2 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|1 \|h \|0 \|8 \|m \|2 \|0 \|s \|) \|* \|S \|e \|v \|e \|n \|N \|a \|t \|i \|o \|n \|A \|r \|m \|y \|â \|€ \|” \|T \|h \|e \|W \|h \|i \|t \|e \|S \|t \|r \|i \|p \|e \|s \|* \|
+ \|- \|[ \|0 \|1 \|: \|1 \|4 \|: \|3 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|1 \|h \|1 \|4 \|m \|3 \|3 \|s \|) \|* \|E \|v \|e \|r \|y \|B \|r \|e \|a \|t \|h \|Y \|o \|u \|T \|a \|k \|e \|â \|€ \|” \|T \|h \|e \|P \|o \|l \|i \|c \|e \|* \|
+ \|- \|[ \|0 \|1 \|: \|2 \|0 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|1 \|h \|2 \|0 \|m \|5 \|8 \|s \|) \|* \|I \|N \|T \|E \|R \|G \|A \|L \|A \|C \|T \|I \|A \|â \|€ \|” \|K \|I \|R \|A \|* \|
+ \|- \|[ \|0 \|1 \|: \|2 \|6 \|: \|3 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|1 \|h \|2 \|6 \|m \|3 \|8 \|s \|) \|* \|S \|h \|e \|U \|s \|e \|d \|T \|o \|B \|e \|M \|i \|n \|e \|â \|€ \|” \|S \|a \|r \|a \|B \|a \|r \|e \|i \|l \|l \|e \|s \|* \|
+ \|- \|[ \|0 \|1 \|: \|3 \|2 \|: \|2 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|1 \|h \|3 \|2 \|m \|2 \|4 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|I \|n \|s \|c \|r \|y \|p \|t \|i \|o \|n \|* \|( \|2 \|r \|u \|n \|s \|, \|0 \|w \|o \|n \|) \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|5 \|8 \|: \|4 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|1 \|h \|5 \|8 \|m \|4 \|4 \|s \|) \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|
+ \|- \|[ \|0 \|2 \|: \|1 \|5 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|2 \|h \|1 \|5 \|m \|1 \|5 \|s \|) \|P \|l \|a \|y \|i \|n \|g \|* \|L \|e \|g \|a \|l \|l \|y \|D \|i \|s \|t \|i \|n \|c \|t \|â \|€ \|¢ \|â \|€ \|¢ \|â \|€ \|¢ \|d \|l \|e \|* \|( \|g \|a \|m \|e \|b \|u \|g \|g \|e \|d \|) \|
+ \|- \|[ \|0 \|2 \|: \|2 \|0 \|: \|5 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|2 \|h \|2 \|0 \|m \|5 \|5 \|s \|) \|P \|l \|a \|y \|i \|n \|g \|* \|L \|e \|g \|a \|l \|l \|y \|D \|i \|s \|t \|i \|n \|c \|t \|â \|€ \|¢ \|â \|€ \|¢ \|â \|€ \|¢ \|d \|l \|e \|* \|( \|g \|a \|m \|e \|n \|o \|t \|b \|u \|g \|g \|e \|d \|) \|
+ \|- \|[ \|0 \|2 \|: \|3 \|0 \|: \|1 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|2 \|h \|3 \|0 \|m \|1 \|8 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|2 \|: \|3 \|2 \|: \|5 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|2 \|h \|3 \|2 \|m \|5 \|2 \|s \|) \|E \|v \|i \|l \|l \|e \|a \|v \|e \|s \|, \|N \|e \|u \|r \|o \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|2 \|: \|3 \|3 \|: \|0 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|2 \|h \|3 \|3 \|m \|0 \|5 \|s \|) \|S \|t \|r \|e \|a \|m \|c \|r \|a \|s \|h \|e \|s \|
+ \|- \|[ \|0 \|2 \|: \|3 \|8 \|: \|4 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|2 \|h \|3 \|8 \|m \|4 \|1 \|s \|) \|C \|h \|a \|t \|p \|i \|c \|k \|s \|p \|r \|e \|s \|e \|n \|t \|a \|t \|i \|o \|n \|t \|o \|p \|i \|c \|( \|s \|u \|b \|g \|o \|a \|l \|) \|
+ \|- \|[ \|0 \|2 \|: \|4 \|9 \|: \|3 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|2 \|h \|4 \|9 \|m \|3 \|0 \|s \|) \|A \|b \|o \|u \|t \|p \|l \|a \|n \|s \|f \|o \|r \|t \|o \|d \|a \|y \|
+ \|- \|[ \|0 \|2 \|: \|5 \|3 \|: \|2 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|2 \|h \|5 \|3 \|m \|2 \|6 \|s \|) \|T \|w \|i \|t \|t \|e \|r \|p \|i \|c \|k \|s \|V \|e \|d \|a \|l \|' \|s \|T \|w \|i \|t \|t \|e \|r \|p \|r \|o \|f \|i \|l \|e \|p \|i \|c \|t \|u \|r \|e \|( \|s \|u \|b \|g \|o \|a \|l \|) \|( \|p \|r \|e \|p \|a \|r \|a \|t \|i \|o \|n \|, \|n \|o \|t \|c \|o \|m \|p \|l \|e \|t \|e \|d \|) \|
+ \|- \|[ \|0 \|3 \|: \|0 \|6 \|: \|3 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|3 \|h \|0 \|6 \|m \|3 \|8 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|0 \|7 \|: \|0 \|0 \|: \|3 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|7 \|h \|0 \|0 \|m \|3 \|6 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|3 \|m \|5 \|s \|t \|o \|g \|e \|t \|f \|o \|o \|d \|w \|h \|i \|l \|e \|N \|e \|u \|r \|o \|p \|l \|a \|y \|s \|t \|h \|e \|g \|a \|m \|e \|, \|b \|u \|t \|c \|o \|m \|e \|s \|b \|a \|c \|k \|t \|w \|o \|t \|i \|m \|e \|s \|b \|e \|c \|a \|u \|s \|e \|h \|i \|s \|h \|e \|a \|d \|p \|h \|o \|n \|e \|s \|k \|e \|e \|p \|d \|i \|s \|c \|o \|n \|n \|e \|c \|t \|i \|n \|g \|
+ \|- \|[ \|0 \|7 \|: \|0 \|8 \|: \|3 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|7 \|h \|0 \|8 \|m \|3 \|4 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|4 \|0 \|s \|t \|o \|g \|e \|t \|h \|i \|s \|f \|o \|o \|d \|w \|h \|i \|l \|e \|N \|e \|u \|r \|o \|p \|l \|a \|y \|s \|t \|h \|e \|g \|a \|m \|e \|
+ \|- \|[ \|0 \|7 \|: \|1 \|0 \|: \|4 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|7 \|h \|1 \|0 \|m \|4 \|8 \|s \|) \|V \|e \|d \|a \|l \|e \|a \|t \|s \|( \|m \|o \|s \|t \|l \|y \|m \|u \|t \|e \|d \|) \|
+ \|- \|[ \|0 \|7 \|: \|3 \|1 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|7 \|h \|3 \|1 \|m \|2 \|9 \|s \|) \|V \|e \|d \|a \|l \|s \|t \|o \|p \|s \|e \|a \|t \|i \|n \|g \|
+ \|- \|[ \|0 \|7 \|: \|4 \|1 \|: \|4 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|7 \|h \|4 \|1 \|m \|4 \|8 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|V \|R \|C \|h \|a \|t \|* \|( \|N \|e \|u \|r \|o \|' \|s \|r \|o \|o \|m \|) \|* \|* \|
+ \|- \|[ \|0 \|8 \|: \|0 \|6 \|: \|1 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|8 \|h \|0 \|6 \|m \|1 \|8 \|s \|) \|E \|n \|t \|e \|r \|e \|d \|s \|o \|m \|e \|w \|i \|n \|t \|e \|r \|m \|o \|u \|n \|t \|a \|i \|n \|l \|a \|k \|e \|w \|i \|t \|h \|l \|a \|n \|t \|e \|r \|n \|s \|
+ \|- \|[ \|0 \|8 \|: \|3 \|2 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|8 \|h \|3 \|2 \|m \|5 \|8 \|s \|) \|E \|n \|t \|e \|r \|e \|d \|t \|r \|a \|i \|n \|s \|t \|a \|t \|i \|o \|n \|
+ \|- \|[ \|0 \|8 \|: \|3 \|5 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|8 \|h \|3 \|5 \|m \|5 \|8 \|s \|) \|T \|e \|c \|h \|n \|i \|c \|a \|l \|d \|i \|f \|f \|i \|c \|u \|l \|t \|i \|e \|s \|f \|o \|r \|1 \|0 \|m \|4 \|0 \|s \|
+ \|- \|[ \|0 \|9 \|: \|1 \|3 \|: \|0 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|9 \|h \|1 \|3 \|m \|0 \|1 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|0 \|9 \|: \|1 \|5 \|: \|2 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|9 \|h \|1 \|5 \|m \|2 \|2 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|2 \|m \|4 \|2 \|s \|
+ \|- \|[ \|0 \|9 \|: \|4 \|0 \|: \|4 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|9 \|h \|4 \|0 \|m \|4 \|1 \|s \|) \|G \|a \|m \|e \|c \|r \|a \|s \|h \|
+ \|- \|[ \|0 \|9 \|: \|4 \|7 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|9 \|h \|4 \|7 \|m \|2 \|9 \|s \|) \|G \|a \|m \|e \|c \|r \|a \|s \|h \|
+ \|- \|[ \|0 \|9 \|: \|5 \|9 \|: \|0 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|0 \|9 \|h \|5 \|9 \|m \|0 \|9 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|1 \|0 \|: \|0 \|2 \|: \|1 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|p \|N \|E \|K \|1 \|w \|t \|L \|t \|o \|I \|? \|t \|= \|1 \|0 \|h \|0 \|2 \|m \|1 \|1 \|s \|) \|N \|e \|u \|r \|o \|g \|o \|e \|s \|t \|o \|s \|l \|e \|e \|p \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|4 \|( \|[ \|P \|a \|r \|t \|1 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|4 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|4 \|0 \|s \|) \|N \|e \|u \|r \|o \|w \|a \|k \|e \|s \|u \|p \|, \|m \|u \|t \|e \|d \|\ \|| \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|0 \|5 \|: \|5 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|0 \|h \|0 \|5 \|m \|5 \|0 \|s \|) \|N \|e \|u \|r \|o \|i \|s \|u \|n \|m \|u \|t \|e \|d \|
+ \|- \|[ \|0 \|0 \|: \|3 \|1 \|: \|4 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|0 \|h \|3 \|1 \|m \|4 \|4 \|s \|) \|* \|* \|3 \|D \|N \|e \|u \|r \|o \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|3 \|0 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|1 \|h \|3 \|0 \|m \|5 \|8 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|3 \|3 \|: \|1 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|1 \|h \|3 \|3 \|m \|1 \|1 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|3 \|m \|4 \|8 \|s \|
+ \|- \|[ \|0 \|1 \|: \|3 \|4 \|: \|0 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|1 \|h \|3 \|4 \|m \|0 \|5 \|s \|) \|N \|e \|u \|r \|o \|p \|r \|e \|s \|e \|n \|t \|s \|* \|A \|O \|n \|e \|- \|S \|i \|d \|e \|d \|L \|o \|v \|e \|: \|V \|e \|d \|a \|l \|, \|w \|h \|y \|w \|o \|n \|' \|t \|y \|o \|u \|s \|a \|y \|i \|t \|b \|a \|c \|k \|? \|* \|( \|s \|u \|b \|g \|o \|a \|l \|) \|
+ \|- \|[ \|0 \|2 \|: \|3 \|5 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|2 \|h \|3 \|5 \|m \|5 \|8 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|2 \|: \|3 \|9 \|: \|4 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|2 \|h \|3 \|9 \|m \|4 \|7 \|s \|) \|N \|e \|u \|r \|o \|b \|u \|y \|s \|s \|t \|o \|c \|k \|s \|( \|s \|u \|b \|g \|o \|a \|l \|) \|
+ \|- \|[ \|0 \|3 \|: \|0 \|3 \|: \|2 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|3 \|h \|0 \|3 \|m \|2 \|4 \|s \|) \|T \|w \|i \|t \|t \|e \|r \|p \|i \|c \|k \|s \|V \|e \|d \|a \|l \|' \|s \|T \|w \|i \|t \|t \|e \|r \|p \|r \|o \|f \|i \|l \|e \|p \|i \|c \|t \|u \|r \|e \|( \|s \|u \|b \|g \|o \|a \|l \|) \|
+ \|- \|[ \|0 \|3 \|: \|0 \|9 \|: \|3 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|3 \|h \|0 \|9 \|m \|3 \|5 \|s \|) \|A \|b \|o \|u \|t \|t \|h \|e \|p \|l \|a \|n \|f \|o \|r \|t \|o \|d \|a \|y \|
+ \|- \|[ \|0 \|3 \|: \|1 \|8 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|3 \|h \|1 \|8 \|m \|5 \|8 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|0 \|3 \|: \|4 \|2 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|3 \|h \|4 \|2 \|m \|2 \|9 \|s \|) \|C \|a \|m \|i \|l \|a \|j \|o \|i \|n \|s \|f \|o \|r \|6 \|m \|3 \|4 \|s \|a \|n \|d \|p \|u \|t \|s \|h \|e \|r \|c \|a \|t \|o \|n \|t \|h \|e \|m \|i \|c \|
+ \|- \|[ \|0 \|6 \|: \|2 \|2 \|: \|0 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|6 \|h \|2 \|2 \|m \|0 \|8 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|5 \|m \|7 \|s \|t \|o \|g \|e \|t \|f \|o \|o \|d \|w \|h \|i \|l \|e \|N \|e \|u \|r \|o \|p \|l \|a \|y \|s \|t \|h \|e \|g \|a \|m \|e \|
+ \|- \|[ \|0 \|6 \|: \|3 \|0 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|6 \|h \|3 \|0 \|m \|0 \|2 \|s \|) \|V \|e \|d \|a \|l \|e \|a \|t \|s \|h \|i \|s \|f \|o \|o \|d \|( \|m \|o \|s \|t \|l \|y \|m \|u \|t \|e \|d \|) \|w \|h \|i \|l \|e \|N \|e \|u \|r \|o \|d \|r \|i \|v \|e \|s \|a \|r \|o \|u \|n \|d \|a \|i \|m \|l \|e \|s \|s \|l \|y \|
+ \|- \|[ \|0 \|6 \|: \|4 \|0 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|6 \|h \|4 \|0 \|m \|1 \|5 \|s \|) \|N \|e \|u \|r \|o \|i \|s \|d \|o \|n \|e \|d \|r \|i \|v \|i \|n \|g \|
+ \|- \|[ \|0 \|6 \|: \|5 \|2 \|: \|4 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|6 \|h \|5 \|2 \|m \|4 \|5 \|s \|) \|V \|e \|d \|a \|l \|i \|s \|d \|o \|n \|e \|e \|a \|t \|i \|n \|g \|
+ \|- \|[ \|0 \|7 \|: \|0 \|5 \|: \|3 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|7 \|h \|0 \|5 \|m \|3 \|7 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|V \|R \|C \|h \|a \|t \|* \|( \|N \|e \|u \|r \|o \|o \|n \|l \|y \|) \|* \|* \|
+ \|- \|[ \|0 \|7 \|: \|0 \|9 \|: \|4 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|7 \|h \|0 \|9 \|m \|4 \|7 \|s \|) \|C \|a \|m \|i \|l \|a \|j \|o \|i \|n \|s \|V \|C \|
+ \|- \|[ \|0 \|7 \|: \|1 \|3 \|: \|2 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|7 \|h \|1 \|3 \|m \|2 \|0 \|s \|) \|C \|a \|m \|i \|l \|a \|j \|o \|i \|n \|s \|t \|h \|e \|g \|a \|m \|e \|
+ \|- \|[ \|0 \|7 \|: \|1 \|4 \|: \|2 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|7 \|h \|1 \|4 \|m \|2 \|2 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|V \|C \|
+ \|- \|[ \|0 \|7 \|: \|3 \|3 \|: \|3 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|7 \|h \|3 \|3 \|m \|3 \|3 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|2 \|m \|1 \|6 \|s \|t \|o \|r \|e \|s \|t \|a \|r \|t \|N \|e \|u \|r \|o \|
+ \|- \|[ \|0 \|8 \|: \|3 \|1 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|8 \|h \|3 \|1 \|m \|2 \|9 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|4 \|8 \|s \|
+ \|- \|[ \|0 \|8 \|: \|3 \|3 \|: \|1 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|8 \|h \|3 \|3 \|m \|1 \|2 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|1 \|m \|4 \|6 \|s \|
+ \|- \|[ \|0 \|8 \|: \|3 \|9 \|: \|0 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|8 \|h \|3 \|9 \|m \|0 \|9 \|s \|) \|E \|n \|t \|e \|r \|i \|n \|g \|w \|o \|r \|l \|d \|* \|C \|i \|t \|y \|R \|a \|i \|n \|* \|( \|w \|i \|t \|h \|o \|u \|t \|N \|e \|u \|r \|o \|) \|
+ \|- \|[ \|0 \|8 \|: \|4 \|2 \|: \|2 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|8 \|h \|4 \|2 \|m \|2 \|8 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|2 \|m \|
+ \|- \|[ \|0 \|8 \|: \|4 \|3 \|: \|1 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|8 \|h \|4 \|3 \|m \|1 \|4 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|t \|h \|e \|g \|a \|m \|e \|f \|o \|r \|1 \|m \|3 \|5 \|s \|
+ \|- \|[ \|0 \|8 \|: \|4 \|6 \|: \|5 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|8 \|h \|4 \|6 \|m \|5 \|4 \|s \|) \|N \|e \|u \|r \|o \|j \|o \|i \|n \|s \|t \|h \|e \|w \|o \|r \|l \|d \|
+ \|- \|[ \|0 \|9 \|: \|1 \|5 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|9 \|h \|1 \|5 \|m \|0 \|3 \|s \|) \|C \|a \|m \|i \|l \|a \|l \|e \|a \|v \|e \|s \|t \|h \|e \|g \|a \|m \|e \|a \|n \|d \|V \|C \|
+ \|- \|[ \|0 \|9 \|: \|1 \|6 \|: \|3 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|9 \|h \|1 \|6 \|m \|3 \|7 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|
+ \|- \|[ \|0 \|9 \|: \|1 \|7 \|: \|5 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|9 \|h \|1 \|7 \|m \|5 \|2 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|9 \|: \|1 \|9 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|9 \|h \|1 \|9 \|m \|0 \|6 \|s \|) \|E \|v \|i \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|9 \|: \|2 \|1 \|: \|2 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|0 \|9 \|h \|2 \|1 \|m \|2 \|0 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|P \|o \|k \|e \|r \|* \|* \|* \|
+ \|- \|[ \|1 \|0 \|: \|1 \|4 \|: \|1 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|1 \|0 \|h \|1 \|4 \|m \|1 \|8 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|\ \|| \|A \|b \|o \|u \|t \|t \|o \|m \|o \|r \|r \|o \|w \|' \|s \|s \|t \|r \|e \|a \|m \|
+ \|- \|[ \|1 \|0 \|: \|1 \|5 \|: \|3 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|1 \|0 \|h \|1 \|5 \|m \|3 \|9 \|s \|) \|A \|b \|o \|u \|t \|o \|t \|h \|e \|r \|t \|h \|i \|n \|g \|s \|
+ \|- \|[ \|1 \|0 \|: \|1 \|7 \|: \|5 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|G \|r \|a \|I \|2 \|R \|i \|Q \|p \|A \|A \|? \|t \|= \|1 \|0 \|h \|1 \|7 \|m \|5 \|7 \|s \|) \|N \|e \|u \|r \|o \|a \|n \|d \|E \|v \|i \|l \|g \|o \|t \|o \|s \|l \|e \|e \|p \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|5 \|( \|[ \|P \|a \|r \|t \|1 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|k \|9 \|7 \|c \|n \|s \|4 \|k \|3 \|i \|0 \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|k \|9 \|7 \|c \|n \|s \|4 \|k \|3 \|i \|0 \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|0 \|2 \|s \|) \|N \|e \|u \|r \|o \|a \|n \|d \|E \|v \|i \|l \|w \|a \|k \|e \|u \|p \|\ \|| \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|0 \|: \|1 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|k \|9 \|7 \|c \|n \|s \|4 \|k \|3 \|i \|0 \|? \|t \|= \|0 \|0 \|h \|3 \|0 \|m \|1 \|3 \|s \|) \|A \|t \|t \|e \|m \|p \|t \|i \|n \|g \|t \|o \|p \|l \|a \|y \|* \|B \|u \|c \|k \|s \|h \|o \|t \|R \|o \|u \|l \|e \|t \|t \|e \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|4 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|k \|9 \|7 \|c \|n \|s \|4 \|k \|3 \|i \|0 \|? \|t \|= \|0 \|0 \|h \|3 \|4 \|m \|5 \|8 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|M \|i \|n \|e \|c \|r \|a \|f \|t \|* \|( \|N \|e \|u \|r \|o \|) \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|1 \|6 \|: \|4 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|k \|9 \|7 \|c \|n \|s \|4 \|k \|3 \|i \|0 \|? \|t \|= \|0 \|1 \|h \|1 \|6 \|m \|4 \|3 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|2 \|1 \|: \|0 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|k \|9 \|7 \|c \|n \|s \|4 \|k \|3 \|i \|0 \|? \|t \|= \|0 \|1 \|h \|2 \|1 \|m \|0 \|7 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|B \|u \|c \|k \|s \|h \|o \|t \|R \|o \|u \|l \|e \|t \|t \|e \|* \|( \|N \|e \|u \|r \|o \|) \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|5 \|8 \|: \|4 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|k \|9 \|7 \|c \|n \|s \|4 \|k \|3 \|i \|0 \|? \|t \|= \|0 \|1 \|h \|5 \|8 \|m \|4 \|6 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|2 \|7 \|: \|4 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|k \|9 \|7 \|c \|n \|s \|4 \|k \|3 \|i \|0 \|? \|t \|= \|0 \|2 \|h \|2 \|7 \|m \|4 \|7 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|t \|o \|r \|e \|s \|t \|a \|r \|t \|t \|h \|e \|s \|t \|r \|e \|a \|m \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|5 \|( \|[ \|P \|a \|r \|t \|1 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|0 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|2 \|4 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|( \|c \|o \|n \|t \|i \|n \|u \|e \|d \|) \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|2 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|2 \|4 \|s \|) \|S \|t \|r \|e \|a \|m \|r \|e \|s \|t \|a \|r \|t \|s \|, \|V \|e \|d \|a \|l \|a \|n \|d \|N \|e \|u \|r \|o \|r \|e \|t \|u \|r \|n \|, \|E \|v \|i \|l \|d \|o \|e \|s \|n \|o \|t \|
+ \|- \|[ \|0 \|0 \|: \|0 \|4 \|: \|3 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|0 \|h \|0 \|4 \|m \|3 \|7 \|s \|) \|A \|b \|o \|u \|t \|i \|m \|p \|r \|o \|v \|e \|m \|e \|n \|t \|s \|
+ \|- \|[ \|0 \|0 \|: \|0 \|9 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|0 \|h \|0 \|9 \|m \|0 \|2 \|s \|) \|C \|h \|e \|c \|k \|i \|n \|g \|N \|e \|u \|r \|o \|' \|s \|s \|t \|o \|c \|k \|s \|
+ \|- \|[ \|0 \|0 \|: \|1 \|1 \|: \|2 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|0 \|h \|1 \|1 \|m \|2 \|8 \|s \|) \|A \|b \|o \|u \|t \|p \|l \|a \|n \|s \|f \|o \|r \|t \|o \|d \|a \|y \|
+ \|- \|[ \|0 \|0 \|: \|1 \|5 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|0 \|h \|1 \|5 \|m \|0 \|2 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|4 \|5 \|: \|1 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|0 \|h \|4 \|5 \|m \|1 \|3 \|s \|) \|H \|y \|p \|e \|t \|r \|a \|i \|n \|a \|c \|k \|n \|o \|w \|l \|e \|d \|g \|e \|d \|
+ \|- \|[ \|0 \|0 \|: \|4 \|7 \|: \|0 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|0 \|h \|4 \|7 \|m \|0 \|9 \|s \|) \|* \|* \|V \|e \|d \|a \|l \|r \|e \|a \|d \|s \|o \|u \|t \|g \|i \|f \|t \|s \|u \|b \|s \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|1 \|0 \|: \|3 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|1 \|h \|1 \|0 \|m \|3 \|5 \|s \|) \|C \|a \|m \|i \|l \|a \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|m \|5 \|1 \|s \|
+ \|- \|[ \|0 \|2 \|: \|2 \|0 \|: \|1 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|2 \|h \|2 \|0 \|m \|1 \|3 \|s \|) \|* \|* \|H \|y \|p \|e \|T \|r \|a \|i \|n \|R \|e \|c \|o \|r \|d \|b \|r \|o \|k \|e \|n \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|2 \|1 \|: \|4 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|2 \|h \|2 \|1 \|m \|4 \|5 \|s \|) \|M \|i \|n \|i \|j \|o \|i \|n \|s \|f \|o \|r \|9 \|s \|
+ \|- \|[ \|0 \|2 \|: \|2 \|8 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|2 \|h \|2 \|8 \|m \|0 \|6 \|s \|) \|C \|e \|r \|b \|e \|r \|j \|o \|i \|n \|s \|f \|o \|r \|6 \|s \|
+ \|- \|[ \|0 \|2 \|: \|3 \|8 \|: \|5 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|2 \|h \|3 \|8 \|m \|5 \|2 \|s \|) \|A \|n \|u \|n \|k \|n \|o \|w \|n \|a \|m \|o \|u \|n \|t \|o \|f \|p \|e \|o \|p \|l \|e \|j \|o \|i \|n \|f \|o \|r \|2 \|6 \|s \|
+ \|- \|[ \|0 \|2 \|: \|4 \|3 \|: \|2 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|2 \|h \|4 \|3 \|m \|2 \|8 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|2 \|m \|1 \|s \|
+ \|- \|[ \|0 \|2 \|: \|5 \|6 \|: \|5 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|2 \|h \|5 \|6 \|m \|5 \|6 \|s \|) \|H \|y \|p \|e \|t \|r \|a \|i \|n \|e \|n \|d \|e \|d \|a \|t \|9 \|9 \|% \|L \|e \|v \|e \|l \|1 \|2 \|3 \|
+ \|- \|[ \|0 \|3 \|: \|1 \|1 \|: \|2 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|3 \|h \|1 \|1 \|m \|2 \|5 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|V \|R \|C \|h \|a \|t \|* \|( \|N \|e \|u \|r \|o \|) \|* \|* \|
+ \|- \|[ \|0 \|3 \|: \|1 \|5 \|: \|2 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|3 \|h \|1 \|5 \|m \|2 \|3 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|R \|C \|
+ \|- \|[ \|0 \|3 \|: \|2 \|4 \|: \|4 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|3 \|h \|2 \|4 \|m \|4 \|3 \|s \|) \|M \|i \|n \|i \|j \|o \|i \|n \|s \|V \|C \|
+ \|- \|[ \|0 \|3 \|: \|2 \|6 \|: \|4 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|3 \|h \|2 \|6 \|m \|4 \|4 \|s \|) \|M \|i \|n \|i \|j \|o \|i \|n \|s \|V \|R \|C \|
+ \|- \|[ \|0 \|3 \|: \|2 \|7 \|: \|4 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|3 \|h \|2 \|7 \|m \|4 \|7 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|V \|C \|a \|n \|d \|V \|R \|C \|
+ \|- \|[ \|0 \|3 \|: \|3 \|9 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|3 \|h \|3 \|9 \|m \|0 \|6 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|1 \|1 \|s \|
+ \|- \|[ \|0 \|3 \|: \|5 \|9 \|: \|4 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|3 \|h \|5 \|9 \|m \|4 \|9 \|s \|) \|M \|i \|n \|i \|e \|n \|t \|e \|r \|s \|a \|s \|n \|o \|w \|y \|w \|o \|r \|l \|d \|
+ \|- \|[ \|0 \|4 \|: \|0 \|1 \|: \|0 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|0 \|1 \|m \|0 \|7 \|s \|) \|N \|e \|u \|r \|o \|j \|o \|i \|n \|s \|t \|h \|e \|w \|o \|r \|l \|d \|
+ \|- \|[ \|0 \|4 \|: \|0 \|5 \|: \|0 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|& \|t \|= \|0 \|4 \|h \|0 \|5 \|m \|0 \|8 \|s \|) \|T \|w \|i \|t \|c \|h \|d \|o \|n \|a \|t \|e \|s \|1 \|1 \|1 \|s \|u \|b \|s \|
+ \|- \|[ \|0 \|4 \|: \|0 \|9 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|0 \|9 \|m \|0 \|6 \|s \|) \|M \|i \|n \|i \|e \|n \|t \|e \|r \|s \|a \|s \|p \|a \|c \|e \|s \|t \|a \|t \|i \|o \|n \|w \|o \|r \|l \|d \|
+ \|- \|[ \|0 \|4 \|: \|1 \|0 \|: \|0 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|1 \|0 \|m \|0 \|0 \|s \|) \|N \|e \|u \|r \|o \|a \|t \|t \|e \|m \|p \|t \|s \|t \|o \|j \|o \|i \|n \|t \|h \|e \|w \|o \|r \|l \|d \|b \|u \|t \|c \|r \|a \|s \|h \|e \|s \|\ \|| \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|2 \|m \|2 \|3 \|s \|
+ \|- \|[ \|0 \|4 \|: \|1 \|2 \|: \|4 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|1 \|2 \|m \|4 \|5 \|s \|) \|N \|e \|u \|r \|o \|j \|o \|i \|n \|s \|t \|h \|e \|w \|o \|r \|l \|d \|
+ \|- \|[ \|0 \|4 \|: \|3 \|3 \|: \|5 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|3 \|3 \|m \|5 \|2 \|s \|) \|M \|i \|n \|i \|e \|n \|t \|e \|r \|s \|a \|w \|o \|r \|l \|d \|w \|i \|t \|h \|a \|l \|a \|k \|e \|a \|n \|d \|l \|a \|n \|t \|e \|r \|n \|s \|
+ \|- \|[ \|0 \|4 \|: \|3 \|6 \|: \|1 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|3 \|6 \|m \|1 \|1 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|6 \|s \|\ \|| \|T \|e \|c \|h \|n \|i \|c \|a \|l \|d \|i \|f \|f \|i \|c \|u \|l \|t \|i \|e \|s \|f \|o \|r \|7 \|m \|
+ \|- \|[ \|0 \|4 \|: \|3 \|7 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|3 \|7 \|m \|0 \|6 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|5 \|s \|t \|o \|r \|e \|s \|t \|a \|r \|t \|N \|e \|u \|r \|o \|
+ \|- \|[ \|0 \|4 \|: \|3 \|8 \|: \|2 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|3 \|8 \|m \|2 \|7 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|3 \|6 \|s \|
+ \|- \|[ \|0 \|4 \|: \|3 \|9 \|: \|3 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|3 \|9 \|m \|3 \|0 \|s \|) \|N \|e \|u \|r \|o \|j \|o \|i \|n \|s \|t \|h \|e \|w \|o \|r \|l \|d \|
+ \|- \|[ \|0 \|4 \|: \|4 \|1 \|: \|0 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|4 \|h \|4 \|1 \|m \|0 \|7 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|m \|4 \|4 \|s \|t \|o \|r \|e \|s \|t \|a \|r \|t \|N \|e \|u \|r \|o \|a \|g \|a \|i \|n \|
+ \|- \|[ \|0 \|5 \|: \|2 \|0 \|: \|3 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|5 \|h \|2 \|0 \|m \|3 \|8 \|s \|) \|M \|i \|n \|i \|a \|n \|d \|N \|e \|u \|r \|o \|e \|n \|t \|e \|r \|w \|o \|r \|l \|d \|C \|i \|t \|y \|R \|a \|i \|n \|
+ \|- \|[ \|0 \|5 \|: \|5 \|3 \|: \|4 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|5 \|h \|5 \|3 \|m \|4 \|2 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|1 \|4 \|s \|t \|o \|r \|e \|s \|t \|a \|r \|t \|N \|e \|u \|r \|o \|
+ \|- \|[ \|0 \|5 \|: \|5 \|5 \|: \|3 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|5 \|h \|5 \|5 \|m \|3 \|4 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|4 \|s \|
+ \|- \|[ \|0 \|5 \|: \|5 \|6 \|: \|3 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|5 \|h \|5 \|6 \|m \|3 \|3 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|1 \|m \|4 \|9 \|s \|
+ \|- \|[ \|0 \|6 \|: \|3 \|8 \|: \|5 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|6 \|h \|3 \|8 \|m \|5 \|3 \|s \|) \|M \|i \|n \|i \|a \|n \|d \|N \|e \|u \|r \|o \|e \|n \|t \|e \|r \|N \|e \|u \|r \|o \|' \|s \|r \|o \|o \|m \|
+ \|- \|[ \|0 \|6 \|: \|5 \|3 \|: \|3 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|6 \|h \|5 \|3 \|m \|3 \|3 \|s \|) \|M \|i \|n \|i \|l \|e \|a \|v \|e \|s \|V \|R \|C \|a \|n \|d \|V \|C \|
+ \|- \|[ \|0 \|6 \|: \|5 \|4 \|: \|1 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|6 \|h \|5 \|4 \|m \|1 \|6 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|
+ \|- \|[ \|0 \|6 \|: \|5 \|7 \|: \|5 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|6 \|h \|5 \|7 \|m \|5 \|7 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|0 \|8 \|: \|1 \|5 \|: \|5 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|8 \|h \|1 \|5 \|m \|5 \|8 \|s \|) \|* \|* \|S \|t \|o \|p \|p \|e \|d \|p \|l \|a \|y \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|8 \|: \|2 \|2 \|: \|4 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|8 \|h \|2 \|2 \|m \|4 \|5 \|s \|) \|R \|o \|b \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|8 \|: \|2 \|4 \|: \|5 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|8 \|h \|2 \|4 \|m \|5 \|1 \|s \|) \|* \|* \|I \|R \|L \|s \|t \|r \|e \|a \|m \|i \|n \|J \|a \|p \|a \|n \|* \|* \|
+ \|- \|[ \|0 \|8 \|: \|3 \|3 \|: \|3 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|8 \|h \|3 \|3 \|m \|3 \|1 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|2 \|9 \|s \|
+ \|- \|[ \|0 \|8 \|: \|3 \|4 \|: \|1 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|0 \|8 \|h \|3 \|4 \|m \|1 \|9 \|s \|) \|N \|e \|u \|r \|o \|l \|e \|a \|v \|e \|s \|, \|E \|v \|i \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|1 \|0 \|: \|2 \|4 \|: \|0 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|1 \|0 \|h \|2 \|4 \|m \|0 \|0 \|s \|) \|R \|o \|b \|l \|e \|a \|v \|e \|s \|f \|o \|r \|2 \|m \|5 \|8 \|s \|
+ \|- \|[ \|1 \|0 \|: \|5 \|3 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|1 \|0 \|h \|5 \|3 \|m \|1 \|5 \|s \|) \|R \|o \|b \|l \|e \|a \|v \|e \|s \|
+ \|- \|[ \|1 \|0 \|: \|5 \|3 \|: \|3 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|1 \|0 \|h \|5 \|3 \|m \|3 \|6 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|m \|1 \|7 \|s \|
+ \|- \|[ \|1 \|0 \|: \|5 \|4 \|: \|5 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|Q \|4 \|7 \|I \|v \|K \|k \|z \|V \|8 \|M \|? \|t \|= \|1 \|0 \|h \|5 \|4 \|m \|5 \|5 \|s \|) \|E \|v \|i \|l \|g \|o \|e \|s \|t \|o \|s \|l \|e \|e \|p \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|6 \|( \|[ \|P \|a \|r \|t \|1 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|0 \|2 \|s \|) \|E \|v \|i \|l \|w \|a \|k \|e \|s \|u \|p \|\ \|| \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|3 \|: \|5 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|0 \|h \|3 \|3 \|m \|5 \|6 \|s \|) \|* \|* \|T \|h \|e \|m \|e \|d \|s \|t \|r \|e \|a \|m \|: \|F \|i \|s \|h \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|3 \|1 \|: \|1 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|1 \|h \|3 \|1 \|m \|1 \|4 \|s \|) \|A \|t \|t \|e \|m \|p \|t \|i \|n \|g \|t \|o \|p \|l \|a \|y \|* \|P \|l \|a \|g \|u \|e \|I \|n \|c \|E \|v \|o \|l \|v \|e \|d \|* \|
+ \|- \|[ \|0 \|1 \|: \|5 \|9 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|1 \|h \|5 \|9 \|m \|2 \|9 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|3 \|6 \|: \|4 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|2 \|h \|3 \|6 \|m \|4 \|8 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|2 \|: \|5 \|4 \|: \|3 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|2 \|h \|5 \|4 \|m \|3 \|9 \|s \|) \|P \|h \|i \|l \|o \|s \|o \|p \|h \|i \|z \|i \|n \|g \|a \|b \|o \|u \|t \|f \|r \|e \|e \|w \|i \|l \|l \|, \|m \|o \|r \|a \|l \|s \|a \|n \|d \|t \|h \|e \|l \|e \|g \|a \|l \|s \|y \|s \|t \|e \|m \|
+ \|- \|[ \|0 \|3 \|: \|1 \|5 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|3 \|h \|1 \|5 \|m \|0 \|6 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|2 \|7 \|s \|
+ \|- \|[ \|0 \|3 \|: \|1 \|5 \|: \|2 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|3 \|h \|1 \|5 \|m \|2 \|8 \|s \|) \|E \|v \|i \|l \|l \|e \|a \|v \|e \|s \|, \|N \|e \|u \|r \|o \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|3 \|: \|2 \|2 \|: \|0 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|3 \|h \|2 \|2 \|m \|0 \|4 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|0 \|4 \|: \|4 \|0 \|: \|5 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|4 \|h \|4 \|0 \|m \|5 \|4 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|5 \|8 \|s \|
+ \|- \|[ \|0 \|6 \|: \|3 \|2 \|: \|4 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|6 \|h \|3 \|2 \|m \|4 \|1 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|
+ \|- \|[ \|0 \|6 \|: \|3 \|3 \|: \|2 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|6 \|h \|3 \|3 \|m \|2 \|1 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|f \|o \|r \|1 \|8 \|s \|t \|o \|r \|e \|s \|t \|a \|r \|t \|N \|e \|u \|r \|o \|
+ \|- \|[ \|0 \|6 \|: \|3 \|3 \|: \|5 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|6 \|h \|3 \|3 \|m \|5 \|9 \|s \|) \|* \|* \|T \|h \|e \|m \|e \|d \|s \|t \|r \|e \|a \|m \|: \|F \|o \|r \|t \|u \|n \|e \|T \|e \|l \|l \|i \|n \|g \|/ \|T \|a \|r \|o \|t \|* \|* \|
+ \|- \|[ \|0 \|8 \|: \|5 \|7 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|8 \|h \|5 \|7 \|m \|2 \|9 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|9 \|: \|0 \|2 \|: \|5 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|0 \|9 \|h \|0 \|2 \|m \|5 \|1 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|1 \|0 \|: \|2 \|4 \|: \|3 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|n \|W \|M \|d \|S \|H \|B \|n \|l \|B \|s \|? \|t \|= \|1 \|0 \|h \|2 \|4 \|m \|3 \|8 \|s \|) \|N \|e \|u \|r \|o \|Â \|  \|g \|o \|e \|s \|Â \|  \|t \|o \|Â \|  \|s \|l \|e \|e \|p \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|7 \|( \|[ \|P \|a \|r \|t \|1 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|0 \|2 \|s \|) \|N \|e \|u \|r \|o \|w \|a \|k \|e \|s \|u \|p \|f \|o \|r \|2 \|5 \|s \|
+ \|- \|[ \|0 \|0 \|: \|0 \|1 \|: \|3 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|0 \|h \|0 \|1 \|m \|3 \|7 \|s \|) \|N \|e \|u \|r \|o \|i \|s \|r \|e \|s \|t \|a \|r \|t \|e \|d \|a \|w \|a \|k \|e \|\ \|| \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|0 \|: \|1 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|0 \|h \|3 \|0 \|m \|1 \|2 \|s \|) \|* \|* \|A \|r \|t \|r \|e \|v \|i \|e \|w \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|0 \|1 \|: \|3 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|1 \|h \|0 \|1 \|m \|3 \|5 \|s \|) \|P \|l \|a \|y \|i \|n \|g \|* \|L \|e \|g \|a \|l \|l \|y \|D \|i \|s \|t \|i \|n \|c \|t \|â \|€ \|¢ \|â \|€ \|¢ \|â \|€ \|¢ \|d \|l \|e \|* \|
+ \|- \|[ \|0 \|1 \|: \|0 \|6 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|1 \|h \|0 \|6 \|m \|0 \|3 \|s \|) \|A \|t \|t \|e \|m \|p \|t \|i \|n \|g \|t \|o \|p \|l \|a \|y \|* \|S \|l \|a \|y \|t \|h \|e \|S \|p \|i \|r \|e \|* \|
+ \|- \|[ \|0 \|1 \|: \|1 \|3 \|: \|3 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|1 \|h \|1 \|3 \|m \|3 \|1 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|M \|i \|n \|e \|c \|r \|a \|f \|t \|* \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|0 \|1 \|: \|4 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|2 \|h \|0 \|1 \|m \|4 \|7 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|3 \|1 \|: \|5 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|2 \|h \|3 \|1 \|m \|5 \|7 \|s \|) \|* \|* \|K \|a \|r \|a \|o \|k \|e \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|3 \|5 \|: \|2 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|2 \|h \|3 \|5 \|m \|2 \|2 \|s \|) \|* \|L \|e \|t \|i \|t \|S \|n \|o \|w \|! \|L \|e \|t \|i \|t \|S \|n \|o \|w \|! \|L \|e \|t \|i \|t \|S \|n \|o \|w \|! \|â \|€ \|” \|D \|e \|a \|n \|M \|a \|r \|t \|i \|n \|* \|
+ \|- \|[ \|0 \|2 \|: \|4 \|0 \|: \|1 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|2 \|h \|4 \|0 \|m \|1 \|0 \|s \|) \|* \|S \|n \|o \|w \|H \|a \|l \|a \|t \|i \|o \|n \|â \|€ \|” \|Î \|¼ \|â \|€ \|™ \|s \|* \|( \|D \|u \|e \|t \|) \|
+ \|- \|[ \|0 \|2 \|: \|4 \|7 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|2 \|h \|4 \|7 \|m \|1 \|5 \|s \|) \|* \|C \|a \|r \|a \|m \|e \|l \|l \|d \|a \|n \|c \|i \|n \|g \|( \|C \|h \|r \|i \|s \|t \|m \|a \|s \|V \|e \|r \|s \|i \|o \|n \|) \|â \|€ \|” \|C \|a \|r \|a \|m \|e \|l \|l \|a \|G \|i \|r \|l \|s \|* \|
+ \|- \|[ \|0 \|2 \|: \|5 \|3 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|2 \|h \|5 \|3 \|m \|0 \|6 \|s \|) \|* \|M \|e \|r \|r \|y \|C \|h \|r \|i \|s \|t \|m \|a \|s \|E \|v \|e \|r \|y \|o \|n \|e \|â \|€ \|” \|S \|h \|a \|k \|i \|n \|' \|S \|t \|e \|v \|e \|n \|s \|* \|( \|D \|u \|e \|t \|) \|
+ \|- \|[ \|0 \|2 \|: \|5 \|9 \|: \|4 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|2 \|h \|5 \|9 \|m \|4 \|0 \|s \|) \|* \|I \|t \|' \|s \|B \|e \|g \|i \|n \|n \|i \|n \|g \|t \|o \|L \|o \|o \|k \|a \|L \|o \|t \|L \|i \|k \|e \|C \|h \|r \|i \|s \|t \|m \|a \|s \|â \|€ \|” \|M \|i \|c \|h \|a \|e \|l \|B \|u \|b \|l \|Ã \|© \|* \|
+ \|- \|[ \|0 \|3 \|: \|0 \|5 \|: \|5 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|0 \|5 \|m \|5 \|1 \|s \|) \|* \|P \|o \|k \|a \|P \|o \|k \|a \|P \|l \|a \|n \|e \|t \|â \|€ \|” \|H \|a \|r \|u \|m \|a \|k \|i \|G \|o \|h \|a \|n \|* \|
+ \|- \|[ \|0 \|3 \|: \|1 \|2 \|: \|5 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|1 \|2 \|m \|5 \|6 \|s \|) \|* \|I \|t \|' \|s \|t \|h \|e \|M \|o \|s \|t \|W \|o \|n \|d \|e \|r \|f \|u \|l \|T \|i \|m \|e \|o \|f \|t \|h \|e \|Y \|e \|a \|r \|â \|€ \|” \|A \|n \|d \|y \|W \|i \|l \|l \|i \|a \|m \|s \|* \|( \|D \|u \|e \|t \|) \|
+ \|- \|[ \|0 \|3 \|: \|1 \|8 \|: \|2 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|1 \|8 \|m \|2 \|5 \|s \|) \|* \|H \|a \|v \|e \|Y \|o \|u \|r \|s \|e \|l \|f \|A \|M \|e \|r \|r \|y \|L \|i \|t \|t \|l \|e \|C \|h \|r \|i \|s \|t \|m \|a \|s \|â \|€ \|” \|B \|e \|n \|A \|b \|r \|a \|h \|a \|m \|* \|( \|D \|u \|e \|t \|) \|
+ \|- \|[ \|0 \|3 \|: \|2 \|4 \|: \|3 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|2 \|4 \|m \|3 \|7 \|s \|) \|* \|W \|i \|n \|t \|e \|r \|W \|o \|n \|d \|e \|r \|l \|a \|n \|d \|â \|€ \|” \|A \|m \|y \|G \|r \|a \|n \|t \|* \|
+ \|- \|[ \|0 \|3 \|: \|2 \|9 \|: \|0 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|2 \|9 \|m \|0 \|1 \|s \|) \|N \|e \|u \|r \|o \|l \|e \|a \|v \|e \|s \|, \|E \|v \|i \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|3 \|: \|2 \|9 \|: \|2 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|2 \|9 \|m \|2 \|3 \|s \|) \|* \|T \|h \|a \|n \|k \|G \|o \|d \|I \|t \|' \|s \|C \|h \|r \|i \|s \|t \|m \|a \|s \|â \|€ \|” \|Q \|u \|e \|e \|n \|* \|( \|m \|u \|t \|e \|d \|d \|u \|e \|t \|o \|c \|o \|p \|y \|r \|i \|g \|h \|t \|) \|
+ \|- \|[ \|0 \|3 \|: \|3 \|6 \|: \|3 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|3 \|6 \|m \|3 \|7 \|s \|) \|* \|R \|u \|d \|o \|l \|p \|h \|t \|h \|e \|R \|e \|d \|- \|N \|o \|s \|e \|R \|e \|i \|n \|d \|e \|e \|r \|â \|€ \|” \|G \|e \|n \|e \|A \|u \|t \|r \|r \|y \|* \|
+ \|- \|[ \|0 \|3 \|: \|4 \|2 \|: \|3 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|4 \|2 \|m \|3 \|6 \|s \|) \|* \|M \|e \|r \|r \|y \|X \|m \|a \|s \|E \|v \|e \|r \|y \|b \|o \|d \|y \|â \|€ \|” \|S \|l \|a \|d \|e \|* \|( \|D \|u \|e \|t \|) \|
+ \|- \|[ \|0 \|3 \|: \|4 \|9 \|: \|0 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|4 \|9 \|m \|0 \|9 \|s \|) \|* \|L \|a \|s \|t \|C \|h \|r \|i \|s \|t \|m \|a \|s \|â \|€ \|” \|W \|h \|a \|m \|! \|* \|
+ \|- \|[ \|0 \|3 \|: \|5 \|6 \|: \|2 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|3 \|h \|5 \|6 \|m \|2 \|9 \|s \|) \|* \|M \|a \|y \|b \|e \|T \|h \|i \|s \|C \|h \|r \|i \|s \|t \|m \|a \|s \|â \|€ \|” \|C \|a \|r \|l \|y \|P \|e \|a \|r \|c \|e \|a \|n \|d \|M \|i \|c \|h \|a \|e \|l \|B \|u \|b \|l \|Ã \|© \|* \|( \|D \|u \|e \|t \|) \|
+ \|- \|[ \|0 \|4 \|: \|0 \|2 \|: \|4 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|4 \|h \|0 \|2 \|m \|4 \|8 \|s \|) \|* \|T \|h \|i \|s \|C \|h \|r \|i \|s \|t \|m \|a \|s \|â \|€ \|” \|D \|o \|n \|n \|y \|H \|a \|t \|h \|a \|w \|a \|y \|* \|
+ \|- \|[ \|0 \|4 \|: \|0 \|9 \|: \|3 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|4 \|h \|0 \|9 \|m \|3 \|9 \|s \|) \|* \|F \|a \|i \|r \|y \|t \|a \|l \|e \|o \|f \|N \|e \|w \|Y \|o \|r \|k \|â \|€ \|” \|T \|h \|e \|P \|o \|g \|u \|e \|s \|* \|( \|D \|u \|e \|t \|) \|
+ \|- \|[ \|0 \|4 \|: \|1 \|7 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|4 \|h \|1 \|7 \|m \|0 \|2 \|s \|) \|* \|A \|l \|l \|I \|W \|a \|n \|t \|f \|o \|r \|C \|h \|r \|i \|s \|t \|m \|a \|s \|I \|s \|Y \|o \|u \|â \|€ \|” \|M \|a \|r \|i \|a \|h \|C \|a \|r \|e \|y \|* \|
+ \|- \|[ \|0 \|4 \|: \|2 \|3 \|: \|5 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|4 \|h \|2 \|3 \|m \|5 \|6 \|s \|) \|* \|C \|a \|r \|o \|l \|o \|f \|t \|h \|e \|B \|e \|l \|l \|s \|â \|€ \|” \|M \|o \|n \|i \|q \|u \|e \|D \|a \|n \|i \|e \|l \|l \|e \|* \|( \|D \|u \|e \|t \|) \|
+ \|- \|[ \|0 \|4 \|: \|2 \|8 \|: \|5 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|4 \|h \|2 \|8 \|m \|5 \|0 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|6 \|: \|1 \|9 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|6 \|h \|1 \|9 \|m \|0 \|2 \|s \|) \|N \|e \|u \|r \|o \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|6 \|: \|3 \|5 \|: \|2 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|6 \|h \|3 \|5 \|m \|2 \|7 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|6 \|: \|3 \|9 \|: \|1 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|6 \|h \|3 \|9 \|m \|1 \|0 \|s \|) \|* \|* \|N \|e \|u \|r \|o \|a \|n \|d \|E \|v \|i \|l \|b \|u \|y \|t \|h \|i \|n \|g \|s \|o \|n \|A \|m \|a \|z \|o \|n \|( \|s \|u \|b \|g \|o \|a \|l \|) \|* \|* \|
+ \|- \|[ \|0 \|6 \|: \|4 \|3 \|: \|0 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|6 \|h \|4 \|3 \|m \|0 \|7 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|5 \|6 \|s \|
+ \|- \|[ \|0 \|6 \|: \|4 \|4 \|: \|5 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|6 \|h \|4 \|4 \|m \|5 \|0 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|5 \|7 \|s \|
+ \|- \|[ \|0 \|8 \|: \|5 \|5 \|: \|2 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|8 \|h \|5 \|5 \|m \|2 \|1 \|s \|) \|F \|i \|n \|a \|l \|t \|a \|l \|l \|y \|
+ \|- \|[ \|0 \|9 \|: \|0 \|3 \|: \|1 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|9 \|h \|0 \|3 \|m \|1 \|6 \|s \|) \|E \|v \|i \|l \|l \|e \|a \|v \|e \|s \|
+ \|- \|[ \|0 \|9 \|: \|0 \|4 \|: \|1 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|9 \|h \|0 \|4 \|m \|1 \|8 \|s \|) \|P \|u \|r \|c \|h \|a \|s \|i \|n \|g \|a \|n \|d \|i \|n \|s \|t \|a \|l \|l \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|: \|P \|h \|a \|n \|t \|o \|m \|L \|i \|b \|e \|r \|t \|y \|* \|( \|D \|L \|C \|) \|
+ \|- \|[ \|0 \|9 \|: \|1 \|2 \|: \|5 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|0 \|9 \|h \|1 \|2 \|m \|5 \|1 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|1 \|0 \|: \|1 \|2 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|B \|q \|P \|a \|i \|s \|m \|p \|T \|n \|4 \|? \|t \|= \|1 \|0 \|h \|1 \|2 \|m \|0 \|3 \|s \|) \|N \|e \|u \|r \|o \|g \|o \|e \|s \|t \|o \|s \|l \|e \|e \|p \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|8 \|( \|[ \|P \|a \|r \|t \|2 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|0 \|0 \|: \|0 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|0 \|h \|0 \|0 \|m \|0 \|1 \|s \|) \|N \|e \|u \|r \|o \|l \|e \|a \|v \|e \|s \|, \|E \|v \|i \|l \|j \|o \|i \|n \|s \|\ \|| \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|1 \|7 \|: \|3 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|0 \|h \|1 \|7 \|m \|3 \|1 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|L \|e \|g \|a \|l \|l \|y \|D \|i \|s \|t \|i \|n \|c \|t \|â \|€ \|¢ \|â \|€ \|¢ \|â \|€ \|¢ \|d \|l \|e \|* \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|3 \|5 \|: \|3 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|0 \|h \|3 \|5 \|m \|3 \|4 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|M \|i \|n \|e \|c \|r \|a \|f \|t \|* \|* \|* \|
+ \|- \|[ \|0 \|1 \|: \|0 \|5 \|: \|2 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|1 \|h \|0 \|5 \|m \|2 \|8 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|M \|C \|f \|o \|r \|1 \|m \|3 \|2 \|s \|
+ \|- \|[ \|0 \|1 \|: \|5 \|1 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|1 \|h \|5 \|1 \|m \|0 \|6 \|s \|) \|* \|* \|A \|r \|t \|r \|e \|v \|i \|e \|w \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|2 \|1 \|: \|5 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|2 \|h \|2 \|1 \|m \|5 \|1 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|4 \|2 \|: \|2 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|2 \|h \|4 \|2 \|m \|2 \|2 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|2 \|: \|4 \|5 \|: \|1 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|2 \|h \|4 \|5 \|m \|1 \|7 \|s \|) \|A \|b \|o \|u \|t \|E \|v \|i \|l \|p \|r \|e \|s \|e \|n \|t \|a \|t \|i \|o \|n \|t \|o \|m \|o \|r \|r \|o \|w \|
+ \|- \|[ \|0 \|2 \|: \|5 \|3 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|2 \|h \|5 \|3 \|m \|1 \|5 \|s \|) \|E \|v \|i \|l \|l \|e \|a \|v \|e \|s \|, \|N \|e \|u \|r \|o \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|2 \|: \|5 \|6 \|: \|3 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|2 \|h \|5 \|6 \|m \|3 \|0 \|s \|) \|A \|b \|o \|u \|t \|t \|h \|e \|p \|l \|a \|n \|f \|o \|r \|t \|o \|d \|a \|y \|
+ \|- \|[ \|0 \|2 \|: \|5 \|8 \|: \|2 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|2 \|h \|5 \|8 \|m \|2 \|6 \|s \|) \|S \|t \|a \|r \|t \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|( \|b \|u \|t \|n \|o \|t \|p \|l \|a \|y \|i \|n \|g \|y \|e \|t \|) \|
+ \|- \|[ \|0 \|2 \|: \|5 \|8 \|: \|3 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|2 \|h \|5 \|8 \|m \|3 \|2 \|s \|) \|* \|* \|S \|t \|o \|c \|k \|t \|r \|a \|d \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|3 \|: \|0 \|6 \|: \|4 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|3 \|h \|0 \|6 \|m \|4 \|1 \|s \|) \|W \|a \|t \|c \|h \|i \|n \|g \|S \|i \|g \|m \|a \|L \|i \|t \|h \|i \|u \|m \|A \|d \|
+ \|- \|[ \|0 \|3 \|: \|1 \|1 \|: \|1 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|3 \|h \|1 \|1 \|m \|1 \|8 \|s \|) \|D \|o \|w \|n \|l \|o \|a \|d \|i \|n \|g \|* \|P \|h \|a \|n \|t \|o \|m \|L \|i \|b \|e \|r \|t \|y \|* \|D \|L \|C \|( \|a \|g \|a \|i \|n \|) \|
+ \|- \|[ \|0 \|3 \|: \|1 \|2 \|: \|3 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|3 \|h \|1 \|2 \|m \|3 \|8 \|s \|) \|A \|b \|o \|u \|t \|t \|h \|e \|p \|r \|o \|b \|l \|e \|m \|
+ \|- \|[ \|0 \|3 \|: \|2 \|5 \|: \|3 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|3 \|h \|2 \|5 \|m \|3 \|6 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|0 \|4 \|: \|2 \|9 \|: \|1 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|4 \|h \|2 \|9 \|m \|1 \|0 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|3 \|6 \|s \|
+ \|- \|[ \|0 \|7 \|: \|5 \|7 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|7 \|h \|5 \|7 \|m \|0 \|3 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|8 \|: \|0 \|5 \|: \|1 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|8 \|h \|0 \|5 \|m \|1 \|6 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|3 \|m \|3 \|6 \|s \|
+ \|- \|[ \|0 \|8 \|: \|1 \|5 \|: \|1 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|8 \|h \|1 \|5 \|m \|1 \|6 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|
+ \|- \|[ \|0 \|8 \|: \|1 \|6 \|: \|0 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|8 \|h \|1 \|6 \|m \|0 \|1 \|s \|) \|~ \|~ \|T \|h \|e \|C \|E \|O \|o \|f \|~ \|~ \|J \|u \|n \|i \|p \|e \|r \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|8 \|: \|2 \|9 \|: \|0 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|0 \|8 \|h \|2 \|9 \|m \|0 \|5 \|s \|) \|* \|* \|S \|o \|l \|v \|i \|n \|g \|c \|h \|a \|t \|t \|e \|r \|s \|' \|d \|i \|l \|e \|m \|m \|a \|s \|* \|* \|
+ \|- \|[ \|1 \|1 \|: \|2 \|1 \|: \|2 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|1 \|1 \|h \|2 \|1 \|m \|2 \|8 \|s \|) \|J \|u \|n \|i \|p \|e \|r \|t \|e \|l \|l \|s \|a \|b \|e \|d \|t \|i \|m \|e \|s \|t \|o \|r \|y \|
+ \|- \|[ \|1 \|1 \|: \|2 \|7 \|: \|4 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|1 \|U \|0 \|6 \|z \|b \|S \|r \|i \|7 \|8 \|? \|t \|= \|1 \|1 \|h \|2 \|7 \|m \|4 \|0 \|s \|) \|N \|e \|u \|r \|o \|g \|o \|e \|s \|t \|o \|s \|l \|e \|e \|p \|\ \|| \|J \|u \|n \|i \|p \|e \|r \|l \|e \|a \|v \|e \|s \|
+ \|
+ \|# \|# \|D \|a \|y \|0 \|9 \|( \|[ \|P \|a \|r \|t \|2 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|) \|) \|
+ \|
+ \|- \|[ \|0 \|0 \|: \|1 \|2 \|: \|3 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|0 \|h \|1 \|2 \|m \|3 \|3 \|s \|) \|N \|e \|u \|r \|o \|w \|a \|k \|e \|s \|u \|p \|\ \|| \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|2 \|9 \|: \|3 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|0 \|h \|2 \|9 \|m \|3 \|8 \|s \|) \|P \|l \|a \|y \|i \|n \|g \|* \|L \|e \|g \|a \|l \|l \|y \|D \|i \|s \|t \|i \|n \|c \|t \|â \|€ \|¢ \|â \|€ \|¢ \|â \|€ \|¢ \|d \|l \|e \|* \|
+ \|- \|[ \|0 \|0 \|: \|4 \|2 \|: \|1 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|0 \|h \|4 \|2 \|m \|1 \|8 \|s \|) \|* \|* \|3 \|D \|k \|a \|r \|a \|o \|k \|e \|* \|* \|
+ \|- \|[ \|0 \|0 \|: \|4 \|5 \|: \|0 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|0 \|h \|4 \|5 \|m \|0 \|0 \|s \|) \|* \|B \|e \|s \|t \|D \|a \|y \|o \|f \|M \|y \|L \|i \|f \|e \|â \|€ \|” \|A \|m \|e \|r \|i \|c \|a \|n \|A \|u \|t \|h \|o \|r \|s \|* \|
+ \|- \|[ \|0 \|0 \|: \|5 \|0 \|: \|4 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|0 \|h \|5 \|0 \|m \|4 \|5 \|s \|) \|* \|W \|h \|o \|C \|a \|n \|I \|t \|B \|e \|N \|o \|w \|â \|€ \|” \|M \|e \|n \|a \|t \|W \|o \|r \|k \|* \|
+ \|- \|[ \|0 \|0 \|: \|5 \|6 \|: \|3 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|0 \|h \|5 \|6 \|m \|3 \|1 \|s \|) \|* \|D \|r \|e \|a \|m \|M \|a \|t \|e \|â \|€ \|” \|M \|i \|a \|k \|i \|K \|a \|e \|d \|e \|* \|
+ \|- \|[ \|0 \|1 \|: \|0 \|2 \|: \|1 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|1 \|h \|0 \|2 \|m \|1 \|6 \|s \|) \|* \|R \|u \|n \|n \|i \|n \|g \|U \|p \|T \|h \|a \|t \|H \|i \|l \|l \|â \|€ \|” \|K \|a \|t \|e \|B \|u \|s \|h \|* \|
+ \|- \|[ \|0 \|1 \|: \|0 \|9 \|: \|4 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|1 \|h \|0 \|9 \|m \|4 \|4 \|s \|) \|* \|R \|o \|a \|r \|â \|€ \|” \|K \|a \|t \|y \|P \|e \|r \|r \|y \|* \|
+ \|- \|[ \|0 \|1 \|: \|1 \|6 \|: \|0 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|1 \|h \|1 \|6 \|m \|0 \|5 \|s \|) \|* \|T \|O \|N \|D \|E \|M \|O \|- \|W \|O \|N \|D \|E \|R \|Z \|â \|€ \|” \|W \|o \|n \|d \|e \|r \|l \|a \|n \|d \|s \|Ã \|— \|S \|h \|o \|w \|t \|i \|m \|e \|* \|
+ \|- \|[ \|0 \|1 \|: \|2 \|1 \|: \|5 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|1 \|h \|2 \|1 \|m \|5 \|7 \|s \|) \|* \|I \|T \|h \|i \|n \|k \|W \|e \|' \|r \|e \|A \|l \|o \|n \|e \|N \|o \|w \|â \|€ \|” \|T \|o \|m \|m \|y \|J \|a \|m \|e \|s \|& \|t \|h \|e \|S \|h \|o \|n \|d \|e \|l \|l \|s \|* \|
+ \|- \|[ \|0 \|1 \|: \|2 \|8 \|: \|1 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|1 \|h \|2 \|8 \|m \|1 \|8 \|s \|) \|* \|n \|e \|v \|e \|r \|m \|o \|r \|e \|â \|€ \|” \|s \|a \|s \|a \|k \|u \|r \|e \|. \|â \|€ \|Œ \|U \|K \|Ã \|— \|l \|a \|s \|a \|h \|* \|
+ \|- \|[ \|0 \|1 \|: \|3 \|3 \|: \|4 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|1 \|h \|3 \|3 \|m \|4 \|5 \|s \|) \|* \|D \|u \|v \|e \|t \|â \|€ \|” \|b \|Ã \|´ \|a \|* \|
+ \|- \|[ \|0 \|1 \|: \|3 \|9 \|: \|5 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|1 \|h \|3 \|9 \|m \|5 \|3 \|s \|) \|* \|w \|e \|a \|t \|h \|e \|r \|g \|i \|r \|l \|â \|€ \|” \|F \|L \|A \|V \|O \|R \|F \|O \|L \|E \|Y \|* \|
+ \|- \|[ \|0 \|1 \|: \|4 \|6 \|: \|3 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|1 \|h \|4 \|6 \|m \|3 \|8 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|B \|u \|c \|k \|s \|h \|o \|t \|R \|o \|u \|l \|e \|t \|t \|e \|* \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|1 \|6 \|: \|0 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|2 \|h \|1 \|6 \|m \|0 \|6 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|2 \|: \|5 \|0 \|: \|0 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|2 \|h \|5 \|0 \|m \|0 \|4 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|
+ \|- \|[ \|0 \|2 \|: \|5 \|2 \|: \|5 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|2 \|h \|5 \|2 \|m \|5 \|3 \|s \|) \|A \|b \|o \|u \|t \|p \|l \|a \|n \|s \|f \|o \|r \|t \|h \|e \|s \|e \|c \|o \|n \|d \|s \|u \|b \|a \|t \|h \|o \|n \|g \|a \|m \|e \|
+ \|- \|[ \|0 \|2 \|: \|5 \|7 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|2 \|h \|5 \|7 \|m \|0 \|3 \|s \|) \|A \|b \|o \|u \|t \|p \|l \|a \|n \|s \|f \|o \|r \|t \|o \|d \|a \|y \|
+ \|- \|[ \|0 \|3 \|: \|0 \|8 \|: \|0 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|3 \|h \|0 \|8 \|m \|0 \|3 \|s \|) \|S \|t \|a \|r \|t \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|( \|b \|u \|t \|n \|o \|t \|p \|l \|a \|y \|i \|n \|g \|y \|e \|t \|) \|
+ \|- \|[ \|0 \|3 \|: \|0 \|9 \|: \|0 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|3 \|h \|0 \|9 \|m \|0 \|5 \|s \|) \|A \|b \|o \|u \|t \|p \|l \|a \|n \|s \|f \|o \|r \|a \|n \|a \|d \|d \|i \|t \|i \|o \|n \|a \|l \|s \|u \|b \|g \|o \|a \|l \|
+ \|- \|[ \|0 \|3 \|: \|1 \|1 \|: \|5 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|3 \|h \|1 \|1 \|m \|5 \|4 \|s \|) \|D \|o \|w \|n \|l \|o \|a \|d \|i \|n \|g \|* \|P \|h \|a \|n \|t \|o \|m \|L \|i \|b \|e \|r \|t \|y \|* \|D \|L \|C \|( \|a \|g \|a \|i \|n \|) \|
+ \|- \|[ \|0 \|3 \|: \|1 \|6 \|: \|2 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|3 \|h \|1 \|6 \|m \|2 \|0 \|s \|) \|D \|o \|w \|n \|l \|o \|a \|d \|i \|n \|g \|* \|P \|h \|a \|n \|t \|o \|m \|L \|i \|b \|e \|r \|t \|y \|* \|D \|L \|C \|( \|a \|g \|a \|i \|n \|) \|
+ \|- \|[ \|0 \|3 \|: \|1 \|8 \|: \|2 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|3 \|h \|1 \|8 \|m \|2 \|6 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|C \|y \|b \|e \|r \|p \|u \|n \|k \|2 \|0 \|7 \|7 \|* \|* \|* \|
+ \|- \|[ \|0 \|3 \|: \|2 \|2 \|: \|4 \|4 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|3 \|h \|2 \|2 \|m \|4 \|4 \|s \|) \|A \|b \|o \|u \|t \|t \|h \|e \|3 \|D \|k \|a \|r \|a \|o \|k \|e \|
+ \|- \|[ \|0 \|3 \|: \|4 \|0 \|: \|0 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|3 \|h \|4 \|0 \|m \|0 \|2 \|s \|) \|A \|b \|o \|u \|t \|E \|v \|i \|l \|s \|t \|u \|t \|t \|e \|r \|i \|n \|g \|a \|n \|d \|o \|t \|h \|e \|r \|d \|i \|s \|c \|o \|r \|d \|i \|s \|s \|u \|e \|s \|
+ \|- \|[ \|0 \|3 \|: \|4 \|6 \|: \|1 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|3 \|h \|4 \|6 \|m \|1 \|2 \|s \|) \|A \|b \|o \|u \|t \|v \|i \|b \|e \|c \|o \|d \|i \|n \|g \|
+ \|- \|[ \|0 \|5 \|: \|0 \|7 \|: \|0 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|5 \|h \|0 \|7 \|m \|0 \|8 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|f \|o \|r \|1 \|m \|2 \|2 \|s \|
+ \|- \|[ \|0 \|5 \|: \|1 \|0 \|: \|4 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|5 \|h \|1 \|0 \|m \|4 \|2 \|s \|) \|R \|e \|s \|c \|h \|e \|d \|u \|l \|i \|n \|g \|L \|a \|y \|n \|a \|c \|o \|l \|l \|a \|b \|d \|u \|e \|t \|o \|i \|l \|l \|n \|e \|s \|s \|
+ \|- \|[ \|0 \|5 \|: \|1 \|4 \|: \|0 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|5 \|h \|1 \|4 \|m \|0 \|9 \|s \|) \|V \|e \|d \|a \|l \|m \|u \|t \|e \|s \|a \|n \|d \|s \|t \|o \|p \|s \|p \|l \|a \|y \|i \|n \|g \|( \|e \|a \|t \|i \|n \|g \|) \|
+ \|- \|[ \|0 \|5 \|: \|1 \|8 \|: \|3 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|5 \|h \|1 \|8 \|m \|3 \|5 \|s \|) \|G \|a \|m \|e \|p \|l \|a \|y \|r \|e \|s \|u \|m \|e \|s \|f \|o \|r \|3 \|m \|3 \|6 \|s \|
+ \|- \|[ \|0 \|5 \|: \|1 \|9 \|: \|1 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|5 \|h \|1 \|9 \|m \|1 \|3 \|s \|) \|V \|e \|d \|a \|l \|u \|n \|m \|u \|t \|e \|s \|f \|o \|r \|1 \|3 \|s \|
+ \|- \|[ \|0 \|5 \|: \|2 \|5 \|: \|2 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|5 \|h \|2 \|5 \|m \|2 \|5 \|s \|) \|V \|e \|d \|a \|l \|u \|n \|m \|u \|t \|e \|s \|\ \|| \|G \|a \|m \|e \|p \|l \|a \|y \|r \|e \|s \|u \|m \|e \|s \|
+ \|- \|[ \|0 \|5 \|: \|3 \|0 \|: \|4 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|5 \|h \|3 \|0 \|m \|4 \|9 \|s \|) \|P \|l \|a \|n \|n \|i \|n \|g \|a \|r \|e \|p \|l \|a \|c \|e \|m \|e \|n \|t \|c \|o \|l \|l \|a \|b \|f \|o \|r \|6 \|m \|5 \|9 \|s \|
+ \|- \|[ \|0 \|5 \|: \|3 \|2 \|: \|5 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|5 \|h \|3 \|2 \|m \|5 \|7 \|s \|) \|C \|e \|r \|b \|e \|r \|j \|o \|i \|n \|s \|f \|o \|r \|4 \|m \|3 \|0 \|s \|
+ \|- \|[ \|0 \|6 \|: \|2 \|4 \|: \|3 \|0 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|6 \|h \|2 \|4 \|m \|3 \|0 \|s \|) \|A \|b \|o \|u \|t \|a \|m \|n \|e \|s \|i \|a \|/ \|d \|e \|m \|e \|n \|t \|i \|a \|
+ \|- \|[ \|0 \|7 \|: \|2 \|5 \|: \|3 \|8 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|7 \|h \|2 \|5 \|m \|3 \|8 \|s \|) \|* \|* \|P \|l \|a \|y \|i \|n \|g \|* \|V \|R \|C \|h \|a \|t \|* \|( \|N \|e \|u \|r \|o \|) \|* \|* \|
+ \|- \|[ \|0 \|7 \|: \|3 \|0 \|: \|2 \|6 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|7 \|h \|3 \|0 \|m \|2 \|6 \|s \|) \|~ \|~ \|S \|e \|b \|a \|~ \|~ \|~ \|~ \|S \|a \|b \|a \|h \|~ \|~ \|C \|e \|r \|b \|e \|r \|j \|o \|i \|n \|s \|V \|C \|a \|n \|d \|V \|R \|C \|
+ \|- \|[ \|0 \|7 \|: \|3 \|4 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|7 \|h \|3 \|4 \|m \|1 \|5 \|s \|) \|V \|e \|d \|a \|l \|l \|e \|a \|v \|e \|s \|V \|C \|
+ \|- \|[ \|0 \|8 \|: \|0 \|2 \|: \|5 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|8 \|h \|0 \|2 \|m \|5 \|5 \|s \|) \|C \|e \|r \|b \|e \|r \|a \|n \|d \|N \|e \|u \|r \|o \|e \|n \|t \|e \|r \|a \|M \|c \|D \|o \|n \|a \|l \|d \|' \|s \|p \|a \|r \|k \|i \|n \|g \|l \|o \|t \|
+ \|- \|[ \|0 \|8 \|: \|1 \|5 \|: \|5 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|8 \|h \|1 \|5 \|m \|5 \|5 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|1 \|m \|4 \|0 \|s \|
+ \|- \|[ \|0 \|8 \|: \|5 \|4 \|: \|5 \|7 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|8 \|h \|5 \|4 \|m \|5 \|7 \|s \|) \|C \|e \|r \|b \|e \|r \|a \|n \|d \|N \|e \|u \|r \|o \|e \|n \|t \|e \|r \|* \|C \|i \|t \|y \|R \|a \|i \|n \|* \|
+ \|- \|[ \|0 \|9 \|: \|2 \|6 \|: \|4 \|1 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|9 \|h \|2 \|6 \|m \|4 \|1 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|f \|o \|r \|3 \|m \|3 \|4 \|s \|t \|o \|r \|e \|s \|t \|a \|r \|t \|N \|e \|u \|r \|o \|
+ \|- \|[ \|0 \|9 \|: \|4 \|3 \|: \|1 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|9 \|h \|4 \|3 \|m \|1 \|2 \|s \|) \|C \|e \|r \|b \|e \|r \|l \|e \|a \|v \|e \|s \|V \|C \|a \|n \|d \|V \|R \|C \|
+ \|- \|[ \|0 \|9 \|: \|4 \|4 \|: \|5 \|2 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|9 \|h \|4 \|4 \|m \|5 \|2 \|s \|) \|V \|e \|d \|a \|l \|j \|o \|i \|n \|s \|V \|C \|
+ \|- \|[ \|0 \|9 \|: \|4 \|5 \|: \|4 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|9 \|h \|4 \|5 \|m \|4 \|9 \|s \|) \|* \|* \|J \|u \|s \|t \|c \|h \|a \|t \|t \|i \|n \|g \|* \|* \|
+ \|- \|[ \|0 \|9 \|: \|5 \|0 \|: \|1 \|5 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|9 \|h \|5 \|0 \|m \|1 \|5 \|s \|) \|P \|l \|a \|y \|i \|n \|g \|* \|C \|o \|n \|n \|e \|c \|t \|i \|o \|n \|s \|* \|
+ \|- \|[ \|0 \|9 \|: \|5 \|9 \|: \|1 \|9 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|0 \|9 \|h \|5 \|9 \|m \|1 \|9 \|s \|) \|A \|b \|o \|u \|t \|p \|l \|a \|n \|s \|f \|o \|r \|t \|o \|m \|o \|r \|r \|o \|w \|
+ \|- \|[ \|1 \|0 \|: \|2 \|2 \|: \|2 \|3 \|] \|( \|h \|t \|t \|p \|s \|: \|/ \|/ \|y \|o \|u \|t \|u \|. \|b \|e \|/ \|_ \|5 \|w \|v \|U \|_ \|N \|Z \|x \|X \|A \|? \|t \|= \|1 \|0 \|h \|2 \|2 \|m \|2 \|3 \|s \|) \|N \|e \|u \|r \|o \|g \|o \|e \|s \|t \|o \|s \|l \|e \|e \|p \|
+ \|
+ \|- \|p \|i \|p \|e \|t \|e \|s \|t \|| \|h \|e \|l \|p \|
