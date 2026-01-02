@@ -372,9 +372,9 @@
 
 ## Day 11 ([Part 30](https://youtu.be/gCOFxilQH-k))
 
-- [00:00:04](https://youtu.be/gCOFxilQH-k?t=00h00m04s) Neuro wakes up | Evil joins | **Just chatting**
-- [00:33:34](https://youtu.be/gCOFxilQH-k?t=00h33m34s) Evil leaves | **3D Neuro**
-- [01:25:06](https://youtu.be/gCOFxilQH-k?t=01h25m06s) Evil joins | **Just chatting**
+- [00:00:04](https://youtu.be/gCOFxilQH-k?t=00h00m04s) Neuro wakes up \| Evil joins \| **Just chatting**
+- [00:33:34](https://youtu.be/gCOFxilQH-k?t=00h33m34s) Evil leaves \| **3D Neuro**
+- [01:25:06](https://youtu.be/gCOFxilQH-k?t=01h25m06s) Evil joins \| **Just chatting**
 - [01:30:10](https://youtu.be/gCOFxilQH-k?t=01h30m10s) **Playing *Poker***
 - [02:01:58](https://youtu.be/gCOFxilQH-k?t=02h01m58s) **Just chatting**
 - [02:30:04](https://youtu.be/gCOFxilQH-k?t=02h30m04s) Vedal joins
@@ -394,7 +394,7 @@
 - [07:08:25](https://youtu.be/gCOFxilQH-k?t=07h08m25s) ~~Codontel~~ Cottontail joins
 - [07:14:00](https://youtu.be/gCOFxilQH-k?t=07h14m00s) Camila joins
 - [07:21:21](https://youtu.be/gCOFxilQH-k?t=07h21m21s) **Playing *UNO* with Neuro Integration (content warning: ragebait, sound effect spam)**
-- [07:24:46](https://youtu.be/gCOFxilQH-k?t=07h24m46s) 1 round (Neuro, Zentreya, Cottontail, Camila; Stacking enabled) | Vedal leaves
+- [07:24:46](https://youtu.be/gCOFxilQH-k?t=07h24m46s) 1 round (Neuro, Zentreya, Cottontail, Camila; Stacking enabled) \| Vedal leaves
 - [07:33:31](https://youtu.be/gCOFxilQH-k?t=07h33m31s) Technical difficulties for 6m29s
 - [07:35:12](https://youtu.be/gCOFxilQH-k?t=07h35m12s) Vedal joins for 5m26s
 - [07:40:30](https://youtu.be/gCOFxilQH-k?t=07h40m30s) 1 round (Neuro, Zentreya, Cottontail, Camila; Stacking enabled)
@@ -414,7 +414,7 @@
 
 ## Day 12 ([Part 33](https://youtu.be/Z-kXB5jXcAA))
 
-[00:00:03](https://youtu.be/Z-kXB5jXcAA?t=00h00m03s) Neuro wakes up | **Just chatting**
+[00:00:03](https://youtu.be/Z-kXB5jXcAA?t=00h00m03s) Neuro wakes up \| **Just chatting**
 [00:14:21](https://youtu.be/Z-kXB5jXcAA?t=00h14m21s) Evil joins for 20s
 [00:23:43](https://youtu.be/Z-kXB5jXcAA?t=00h23m43s) Evil joins for 4m43s
 [00:29:12](https://youtu.be/Z-kXB5jXcAA?t=00h29m12s) **Themed stream: Fishing**
