@@ -20,7 +20,7 @@
 | 3000    | Chat Picks Topic for Presentation                  | [Day 01 @ 00:36:32](https://youtu.be/gNysylzZocU?t=00h36m32)    | [Day 04 @ 01:34:05](https://youtu.be/GraI2RiQpAA?t=01h34m05s) |          |
 | 4000    | Change Twitter PFPs                                | [Day 01 @ 00:37:32](https://youtu.be/gNysylzZocU?t=00h37m32s)   | [Day 04 @ 02:57:00](https://youtu.be/pNEK1wtLtoI?t=02h57m00s) | [@vedal987 (Twitter)](https://x.com/Vedal987/status/2002800601219149954), [Day 04 @ 03:06:51](https://youtu.be/GraI2RiQpAA?t=03h06m51s) |
 | 5000    | Twins on Amazon                                    | [Day 01 @ 00:43:31](https://youtu.be/gNysylzZocU?t=00h43m31)    | [Day 07 @ 08:55:21](https://youtu.be/BqPaismpTn4?t=08h55m21s) |          |
-| 7000    | Evil ASMR Stream                                   | [Day 01 @ 01:06:55](https://youtu.be/gNysylzZocU?t=01h06m55s)   |
+| 7000    | Evil ASMR Stream                                   | [Day 01 @ 01:06:55](https://youtu.be/gNysylzZocU?t=01h06m55s)   | [Day 15 @ 07:45:30](https://youtu.be/boSq4mRZQrg?t=07h45m30s) |          |
 | 10000   | Neuro Figure                                       | [Day 01 @ 02:27:47](https://youtu.be/gNysylzZocU?t=02h27m47s)   |
 | 12000   | Official Wallpaper                                 | [Day 01 @ 02:33:41](https://youtu.be/gNysylzZocU?t=02h33m41s)   |
 | 14000   | Karaoke in VRChat                                  | [Day 01 @ 02:50:49](https://youtu.be/gNysylzZocU?t=02h50m49s)   |                                                               | [Day 09 @ 00:42:18 (not VRChat, only 3D)](https://youtu.be/_5wvU_NZxXA?t=00h42m18s) |
