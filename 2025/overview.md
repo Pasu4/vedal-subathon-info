@@ -17,6 +17,9 @@
 [13](https://youtu.be/IV85ZNmojXg)
 [14](https://youtu.be/hfcKN_xnYSo)
 [15](https://youtu.be/boSq4mRZQrg)
+[16](https://youtu.be/tl2KsmeQA7c)
+[17/1](https://youtu.be/UJpxdHytJB0)
+[17/2](https://youtu.be/TfDeIac-BnA)
 -->
 
 ## Participants
@@ -27,13 +30,13 @@ For Vedal, Neuro and Evil, some very short segments may not be counted if no act
 |:--------------------------------------------------------------|:------
 | [Vedal](https://twitch.tv/vedal987)                           | Every
 | [Neuro](https://twitch.tv/vedal987)                           | Every
-| [Evil](https://twitch.tv/vedal987)                            | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg)
-| [Neuro & Evil together](https://twitch.tv/vedal987)           | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [07](https://youtu.be/BqPaismpTn4), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo)
+| [Evil](https://twitch.tv/vedal987)                            | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0)
+| [Neuro & Evil together](https://twitch.tv/vedal987)           | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [07](https://youtu.be/BqPaismpTn4), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0)
 | [Crelly](https://twitch.tv/crelly)                            | [01](https://youtu.be/gNysylzZocU)
 | [Camila](https://twitch.tv/camila)                            | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [14](https://youtu.be/hfcKN_xnYSo)
 | [Minikomew](https://twitch.tv/minikomew)                      | [01](https://youtu.be/gNysylzZocU), [05/2](https://youtu.be/Q47IvKkzV8M)
 | [Chrchie](https://twitch.tv/chrchie)                          | [01](https://youtu.be/gNysylzZocU)
-| [Layna](https://twitch.tv/laynalazar)                         | [01](https://youtu.be/gNysylzZocU)
+| [Layna](https://twitch.tv/laynalazar)                         | [01](https://youtu.be/gNysylzZocU), [17/2](https://youtu.be/TfDeIac-BnA)
 | [Cerber](https://twitch.tv/cerbervt)                          | [01](https://youtu.be/gNysylzZocU), [05/2](https://youtu.be/Q47IvKkzV8M), [09](https://youtu.be/_5wvU_NZxXA)
 | [Zentreya](https://twitch.tv/zentreya)                        | [01](https://youtu.be/gNysylzZocU), [11](https://youtu.be/gCOFxilQH-k)
 | [Rob (robcdee)](https://twitch.tv/robcdee)                    | [05/2](https://youtu.be/Q47IvKkzV8M)
@@ -51,11 +54,11 @@ Also contains games, even if they have not (yet) recurred.
 | Just chatting                             | Every
 | VRChat                                    | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M), [09](https://youtu.be/_5wvU_NZxXA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo)
 | Connections                               | [01](https://youtu.be/gNysylzZocU)
-| Legally Distinct •••dle (Integrated)      | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [09](https://youtu.be/_5wvU_NZxXA), [10](https://youtu.be/B7kNYj9-Mmw), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg)
+| Legally Distinct •••dle (Integrated)      | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [09](https://youtu.be/_5wvU_NZxXA), [10](https://youtu.be/B7kNYj9-Mmw), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0)
 | 3D Neuro (no VRChat)                      | [02](https://youtu.be/mfOj0HDL4ac), [04](https://youtu.be/GraI2RiQpAA), [11](https://youtu.be/gCOFxilQH-k), [14](https://youtu.be/hfcKN_xnYSo)
-| Art review                                | [02](https://youtu.be/mfOj0HDL4ac), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [12](https://youtu.be/Z-kXB5jXcAA)
+| Art review                                | [02](https://youtu.be/mfOj0HDL4ac), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [12](https://youtu.be/Z-kXB5jXcAA), [17/1](https://youtu.be/UJpxdHytJB0)
 | Cyberpunk 2077 (Integrated)               | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [09](https://youtu.be/_5wvU_NZxXA), [10](https://youtu.be/B7kNYj9-Mmw)
-| Karaoke                                   | [03](https://youtu.be/pNEK1wtLtoI), [07](https://youtu.be/BqPaismpTn4), [09](https://youtu.be/_5wvU_NZxXA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo)
+| Karaoke                                   | [03](https://youtu.be/pNEK1wtLtoI), [07](https://youtu.be/BqPaismpTn4), [09](https://youtu.be/_5wvU_NZxXA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [16](https://youtu.be/tl2KsmeQA7c)
 | Inscryption (Integrated)                  | [03](https://youtu.be/pNEK1wtLtoI), [14](https://youtu.be/hfcKN_xnYSo)
 | Stock trading (Integrated)                | [04](https://youtu.be/GraI2RiQpAA), [08](https://youtu.be/1U06zbSri78)
 | Poker (Integrated)                        | [04](https://youtu.be/GraI2RiQpAA), [11](https://youtu.be/gCOFxilQH-k)
@@ -65,7 +68,7 @@ Also contains games, even if they have not (yet) recurred.
 | Themed stream: Fortune Telling / Tarot    | [06](https://youtu.be/nWMdSHBnlBs), [15](https://youtu.be/boSq4mRZQrg)
 | 3D karaoke                                | [09](https://youtu.be/_5wvU_NZxXA)
 | Neuro/Evil programming (Integrated)       | [10](https://youtu.be/B7kNYj9-Mmw), [13](https://youtu.be/IV85ZNmojXg)
-| Pokémon Neuro Platinum (Integrated)       | [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg)
+| Pokémon Neuro Platinum (Integrated)       | [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c)
 | UNO (Integrated)                          | [11](https://youtu.be/gCOFxilQH-k)
 
 ## One-time events
@@ -77,7 +80,7 @@ Also contains games, even if they have not (yet) recurred.
 | Chat picks presentation topic (sub goal)  | [03](https://youtu.be/pNEK1wtLtoI)&nbsp;(Chat picks topic), [04](https://youtu.be/GraI2RiQpAA)&nbsp;(Presentation held)
 | Twitter picks Vedal's Twitter profile picture (sub goal) | [03](https://youtu.be/pNEK1wtLtoI)&nbsp;(Contest opened), [04](https://youtu.be/GraI2RiQpAA)&nbsp;(Picture applied)
 | Neuro buys stocks (sub goal)              | [04](https://youtu.be/GraI2RiQpAA)
-| Hype Train world record broken            | [05/2](https://youtu.be/Q47IvKkzV8M)
+| Hype Train world record (99% Level 123)   | [05/2](https://youtu.be/Q47IvKkzV8M)
 | IRL stream in Japan w/ Rob                | [05/2](https://youtu.be/Q47IvKkzV8M)
 | Twins on Amazon (sub goal)                | [07](https://youtu.be/BqPaismpTn4)
 | Solving chatters' dilemmas w/ Juniper     | [08](https://youtu.be/1U06zbSri78)
@@ -89,3 +92,5 @@ Also contains games, even if they have not (yet) recurred.
 | Twins design meals                        | [13](https://youtu.be/IV85ZNmojXg)
 | Embodiment tests in VRChat w/ Ellie       | [14](https://youtu.be/hfcKN_xnYSo)
 | Evil ASMR                                 | [15](https://youtu.be/boSq4mRZQrg)
+| Hype Train world record (53% Level 126)   | [17/1](https://youtu.be/UJpxdHytJB0)
+| IRL stream in an amusement park w/ Layna  | [17/2](https://youtu.be/TfDeIac-BnA)

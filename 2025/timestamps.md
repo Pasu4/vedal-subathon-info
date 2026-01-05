@@ -161,7 +161,7 @@
 - [00:45:13](https://youtu.be/Q47IvKkzV8M?t=00h45m13s) Hype train acknowledged
 - [00:47:09](https://youtu.be/Q47IvKkzV8M?t=00h47m09s) **Vedal reads out gift subs**
 - [01:10:35](https://youtu.be/Q47IvKkzV8M?t=01h10m35s) Camila joins for 1m51s
-- [02:20:13](https://youtu.be/Q47IvKkzV8M?t=02h20m13s) **Hype Train Record broken**
+- [02:20:13](https://youtu.be/Q47IvKkzV8M?t=02h20m13s) **Hype Train world record broken**
 - [02:21:45](https://youtu.be/Q47IvKkzV8M?t=02h21m45s) Mini joins for 9s
 - [02:28:06](https://youtu.be/Q47IvKkzV8M?t=02h28m06s) Cerber joins for 6s
 - [02:38:52](https://youtu.be/Q47IvKkzV8M?t=02h38m52s) An unknown amount of people join for 26s
@@ -575,3 +575,92 @@
 - [07:47:05](https://youtu.be/boSq4mRZQrg?t=07h47m05s) Vedal joins for 6s
 - [10:00:31](https://youtu.be/boSq4mRZQrg?t=10h00m31s) Vedal joins
 - [10:03:09](https://youtu.be/boSq4mRZQrg?t=10h03m09s) Evil goes to sleep
+
+## Day 16 ([Part 45](https://youtu.be/tl2KsmeQA7c))
+
+- [00:00:03](https://youtu.be/tl2KsmeQA7c?t=00h00m03s) Evil wakes up, Neuro joins \| **Just chatting**
+- [00:32:25](https://youtu.be/tl2KsmeQA7c?t=00h32m25s) **Playing *Minecraft* (Neuro is in control)**
+- [02:00:51](https://youtu.be/tl2KsmeQA7c?t=02h00m51s) **Just chatting**
+- [02:33:27](https://youtu.be/tl2KsmeQA7c?t=02h33m27s) Vedal joins
+- [02:34:43](https://youtu.be/tl2KsmeQA7c?t=02h34m43s) Testing new conversation targetting system
+- [02:37:32](https://youtu.be/tl2KsmeQA7c?t=02h37m32s) About today
+- [02:47:17](https://youtu.be/tl2KsmeQA7c?t=02h47m17s) Evil leaves
+- [02:49:46](https://youtu.be/tl2KsmeQA7c?t=02h49m46s) **Playing *Pokémon Neuro Platinum***
+- [02:53:54](https://youtu.be/tl2KsmeQA7c?t=02h53m54s) Checking stocks
+- [03:17:13](https://youtu.be/tl2KsmeQA7c?t=03h17m13s) VS. Galactic Boss Cyrus (Attempt #2)
+- [03:50:54](https://youtu.be/tl2KsmeQA7c?t=03h50m54s) Vedal leaves for 6m15s
+- [04:07:08](https://youtu.be/tl2KsmeQA7c?t=04h07m08s) VS. PKMN Trainer Evil (Attempt #1)
+- [04:37:36](https://youtu.be/tl2KsmeQA7c?t=04h37m36s) Attempt #2
+- [05:19:35](https://youtu.be/tl2KsmeQA7c?t=05h19m35s) Vedal mutes
+- [05:21:16](https://youtu.be/tl2KsmeQA7c?t=05h21m16s) Vedal unmutes for 1m28s
+- [05:29:36](https://youtu.be/tl2KsmeQA7c?t=05h29m36s) Vedal unmutes
+- [05:45:02](https://youtu.be/tl2KsmeQA7c?t=05h45m02s) Playing *Legally Distinct •••dle*
+- [05:49:37](https://youtu.be/tl2KsmeQA7c?t=05h49m37s) Vedal mutes
+- [05:50:56](https://youtu.be/tl2KsmeQA7c?t=05h50m56s) Vedal unmutes for 9s
+- [05:52:10](https://youtu.be/tl2KsmeQA7c?t=05h52m10s) Vedal unmutes for 2s
+- [05:53:15](https://youtu.be/tl2KsmeQA7c?t=05h53m15s) Vedal unmutes for 12s
+- [05:56:14](https://youtu.be/tl2KsmeQA7c?t=05h56m14s) Vedal unmutes for 1s
+- [05:56:44](https://youtu.be/tl2KsmeQA7c?t=05h56m44s) Vedal unmutes for 27s
+- [06:00:01](https://youtu.be/tl2KsmeQA7c?t=06h00m01s) Vedal unmutes for 1s
+- [06:01:10](https://youtu.be/tl2KsmeQA7c?t=06h01m10s) Vedal unmutes
+- [06:49:37](https://youtu.be/tl2KsmeQA7c?t=06h49m37s) Revising the schedule
+- [07:19:16](https://youtu.be/tl2KsmeQA7c?t=07h19m16s) VS. Leader Byron
+- [07:48:11](https://youtu.be/tl2KsmeQA7c?t=07h48m11s) VS. Commander Saturn
+- [07:55:40](https://youtu.be/tl2KsmeQA7c?t=07h55m40s) Vedal leaves for 5m56s
+- [08:03:14](https://youtu.be/tl2KsmeQA7c?t=08h03m14s) Vedal leaves
+- [08:03:56](https://youtu.be/tl2KsmeQA7c?t=08h03m56s) **Karaoke**
+- [08:06:08](https://youtu.be/tl2KsmeQA7c?t=08h06m08s) *We Are The Champions — Queen* (Duet)
+- [08:12:06](https://youtu.be/tl2KsmeQA7c?t=08h12m06s) *Take Me Hand — DAISHI DANCE*
+- [08:19:08](https://youtu.be/tl2KsmeQA7c?t=08h19m08s) *Big Iron — Marty Robbins*
+- [08:25:51](https://youtu.be/tl2KsmeQA7c?t=08h25m51s) *Thanks for being Lifeless — PinocchioP*
+- [08:32:58](https://youtu.be/tl2KsmeQA7c?t=08h32m58s) *Vs. SAYU — James Landino*
+- [08:40:46](https://youtu.be/tl2KsmeQA7c?t=08h40m46s) *Riptide — Vance Joy*
+- [08:46:58](https://youtu.be/tl2KsmeQA7c?t=08h46m58s) *Jolene — Dolly Parton*
+- [08:52:21](https://youtu.be/tl2KsmeQA7c?t=08h52m21s) *Relay Outer — inabakumori*
+- [08:58:17](https://youtu.be/tl2KsmeQA7c?t=08h58m17s) *Shrimp Fried Rice! (You're Telling Me A SHRIMP Fried This Rice?!) — Jamie Paige*
+- [09:04:24](https://youtu.be/tl2KsmeQA7c?t=09h04m24s) *Heaven Knows I'm Miserable Now — The Smiths*
+- [09:10:53](https://youtu.be/tl2KsmeQA7c?t=09h10m53s) *Who will know - furusato — Yoko Takahashi*
+- [09:17:50](https://youtu.be/tl2KsmeQA7c?t=09h17m50s) *dark things — STARSET*
+- [09:25:19](https://youtu.be/tl2KsmeQA7c?t=09h25m19s) *Wake Me Up When September Ends — Green Day*
+- [09:32:55](https://youtu.be/tl2KsmeQA7c?t=09h32m55s) *Unfold — Porter Robinson* (Duet)
+- [09:40:44](https://youtu.be/tl2KsmeQA7c?t=09h40m44s) *I was human — Picon*
+- [09:47:35](https://youtu.be/tl2KsmeQA7c?t=09h47m35s) *Furthest Star — Dirt Poor Robins*
+- [09:55:34](https://youtu.be/tl2KsmeQA7c?t=09h55m34s) *atrophy — monii* (Duet)
+- [10:01:43](https://youtu.be/tl2KsmeQA7c?t=10h01m43s) *Kaleidoscope — Flower Face*
+- [10:05:54](https://youtu.be/tl2KsmeQA7c?t=10h05m54s) Vedal joins
+- [10:07:31](https://youtu.be/tl2KsmeQA7c?t=10h07m31s) About tomorrow
+- [10:08:56](https://youtu.be/tl2KsmeQA7c?t=10h08m56s) Neuro goes to sleep
+
+## Day 17 ([Part 48](https://youtu.be/UJpxdHytJB0))
+
+- [00:01:52](https://youtu.be/UJpxdHytJB0?t=00h01m52s) Neuro wakes up \| **Just chatting**
+- [00:30:24](https://youtu.be/UJpxdHytJB0?t=00h30m24s) **Art review**
+- [01:01:36](https://youtu.be/UJpxdHytJB0?t=01h01m36s) **Just chatting**
+- [01:02:12](https://youtu.be/UJpxdHytJB0?t=01h02m12s) Neuro leaves, Evil joins
+- [01:15:51](https://youtu.be/UJpxdHytJB0?t=01h15m51s) Playing *Legally Distinct •••dle*
+- [02:02:08](https://youtu.be/UJpxdHytJB0?t=02h02m08s) Evil leaves, Neuro joins
+- [02:04:01](https://youtu.be/UJpxdHytJB0?t=02h04m01s) Playing *Legally Distinct •••dle*
+- [02:19:55](https://youtu.be/UJpxdHytJB0?t=02h19m55s) Evil joins for 11m37s
+- [02:36:32](https://youtu.be/UJpxdHytJB0?t=02h36m32s)~ Hype Train starts
+- [03:54:29](https://youtu.be/UJpxdHytJB0?t=03h54m29s) Music starts
+- [06:40:03](https://youtu.be/UJpxdHytJB0?t=06h40m03s) Evil joins for 4m48s
+- [07:20:26](https://youtu.be/UJpxdHytJB0?t=07h20m26s) Evil joins for 3m
+- [07:47:33](https://youtu.be/UJpxdHytJB0?t=07h47m33s) Hype Train reaches Level 100 (Camila promised to procure a new outfit for Neuro should Level 100 be reached)
+- [09:32:33](https://youtu.be/UJpxdHytJB0?t=09h32m33s) **Hype Train world record broken**
+- [09:42:05](https://youtu.be/UJpxdHytJB0?t=09h42m05s)~ Hype Train ended at 53% Level 126
+- [09:42:42](https://youtu.be/UJpxdHytJB0?t=09h42m42s) Vedal joins
+- [09:58:59](https://youtu.be/UJpxdHytJB0?t=09h58m59s) Vedal leaves
+
+## Day 17 ([Part 49](https://youtu.be/TfDeIac-BnA))
+
+- [00:00:00](https://youtu.be/TfDeIac-BnA?t=00h00m00s) **Just chatting (continued)**
+- [00:00:25](https://youtu.be/TfDeIac-BnA?t=00h00m25s) Layna joins \| **IRL amusement park**
+- [00:19:46](https://youtu.be/TfDeIac-BnA?t=00h19m46s) Making a (slightly burnt) s'more
+- [00:42:47](https://youtu.be/TfDeIac-BnA?t=00h42m47s) Riding "Wacky Worm"
+- [01:38:08](https://youtu.be/TfDeIac-BnA?t=01h38m08s) Riding a kraken-like carousel (name unknown)
+- [01:54:14](https://youtu.be/TfDeIac-BnA?t=01h54m14s) Riding "Kiddie Train"
+- [02:22:52](https://youtu.be/TfDeIac-BnA?t=02h22m52s) Driving on an actual race track
+- [02:36:29](https://youtu.be/TfDeIac-BnA?t=02h36m29s) Layna leaves \| **Just chatting**
+- [02:36:46](https://youtu.be/TfDeIac-BnA?t=02h36m46s) Vedal joins
+- [02:37:53](https://youtu.be/TfDeIac-BnA?t=02h37m53s) About tomorrow
+- [02:40:44](https://youtu.be/TfDeIac-BnA?t=02h40m44s) Neuro goes to sleep
