@@ -1,26 +1,28 @@
 # 2025 Subathon Content Overview
 
-<!--
-[01](https://youtu.be/gNysylzZocU)
-[02](https://youtu.be/mfOj0HDL4ac)
-[03](https://youtu.be/pNEK1wtLtoI)
-[04](https://youtu.be/GraI2RiQpAA)
-[05/1](https://youtu.be/k97cns4k3i0)
-[05/2](https://youtu.be/Q47IvKkzV8M)
-[06](https://youtu.be/nWMdSHBnlBs)
-[07](https://youtu.be/BqPaismpTn4)
-[08](https://youtu.be/1U06zbSri78)
-[09](https://youtu.be/_5wvU_NZxXA)
-[10](https://youtu.be/B7kNYj9-Mmw)
-[11](https://youtu.be/gCOFxilQH-k)
-[12](https://youtu.be/Z-kXB5jXcAA)
-[13](https://youtu.be/IV85ZNmojXg)
-[14](https://youtu.be/hfcKN_xnYSo)
-[15](https://youtu.be/boSq4mRZQrg)
-[16](https://youtu.be/tl2KsmeQA7c)
-[17/1](https://youtu.be/UJpxdHytJB0)
-[17/2](https://youtu.be/TfDeIac-BnA)
--->
+## Days
+
+| Day                                   | Status            | Date (start of day)   |
+|:--------------------------------------|:-----------------:|:---------------------:|
+| [01](https://youtu.be/gNysylzZocU)    | Up                | 19 Dec 2025           |
+| [02](https://youtu.be/mfOj0HDL4ac)    | Up                | 20 Dec 2025           |
+| [03](https://youtu.be/pNEK1wtLtoI)    | Up                | 21 Dec 2025           |
+| [04](https://youtu.be/GraI2RiQpAA)    | Up                | 22 Dec 2025           |
+| [05/1](https://youtu.be/k97cns4k3i0)  | Up                | 23 Dec 2025           |
+| [05/2](https://youtu.be/Q47IvKkzV8M)  | Up                | 23 Dec 2025           |
+| [06](https://youtu.be/nWMdSHBnlBs)    | Up                | 24 Dec 2025           |
+| [07](https://youtu.be/BqPaismpTn4)    | Partially muted   | 25 Dec 2025           |
+| [08](https://youtu.be/1U06zbSri78)    | Up                | 26 Dec 2025           |
+| [09](https://youtu.be/_5wvU_NZxXA)    | Up                | 27 Dec 2025           |
+| [10](https://youtu.be/B7kNYj9-Mmw)    | Up                | 28 Dec 2025           |
+| [11](https://youtu.be/gCOFxilQH-k)    | Up                | 29 Dec 2025           |
+| [12](https://youtu.be/Z-kXB5jXcAA)    | Up                | 30 Dec 2025           |
+| [13](https://youtu.be/IV85ZNmojXg)    | Up                | 31 Dec 2025           |
+| [14](https://youtu.be/hfcKN_xnYSo)    | Up                | 01 Jan 2025           |
+| [15](https://youtu.be/boSq4mRZQrg)    | Up                | 02 Jan 2025           |
+| [16](https://youtu.be/tl2KsmeQA7c)    | Up                | 03 Jan 2025           |
+| [17/1](https://youtu.be/UJpxdHytJB0)  | Up                | 04 Jan 2025           |
+| [17/2](https://youtu.be/TfDeIac-BnA)  | Up                | 04 Jan 2025           |
 
 ## Participants
 
@@ -79,11 +81,15 @@ Also contains games, even if they have not (yet) recurred.
 | Neuro tweets on Vedal's account           | [02](https://youtu.be/mfOj0HDL4ac)
 | Chat picks presentation topic (sub goal)  | [03](https://youtu.be/pNEK1wtLtoI)&nbsp;(Chat picks topic), [04](https://youtu.be/GraI2RiQpAA)&nbsp;(Presentation held)
 | Twitter picks Vedal's Twitter profile picture (sub goal) | [03](https://youtu.be/pNEK1wtLtoI)&nbsp;(Contest opened), [04](https://youtu.be/GraI2RiQpAA)&nbsp;(Picture applied)
+| Presentation: *A One-Sided Love: Vedal, why won't you say it back?* | [04](https://youtu.be/GraI2RiQpAA)
 | Neuro buys stocks (sub goal)              | [04](https://youtu.be/GraI2RiQpAA)
+| VRChat w/ Camila                          | [04](https://youtu.be/GraI2RiQpAA)
 | Hype Train world record (99% Level 123)   | [05/2](https://youtu.be/Q47IvKkzV8M)
+| VRChat w/ Mini                            | [05/2](https://youtu.be/Q47IvKkzV8M)
 | IRL stream in Japan w/ Rob                | [05/2](https://youtu.be/Q47IvKkzV8M)
 | Twins on Amazon (sub goal)                | [07](https://youtu.be/BqPaismpTn4)
 | Solving chatters' dilemmas w/ Juniper     | [08](https://youtu.be/1U06zbSri78)
+| VRChat w/ Cerber                          | [09](https://youtu.be/_5wvU_NZxXA)
 | Presentation: *A Strong Case to Remove Neuro's AI Safety Filters* | [10](https://youtu.be/B7kNYj9-Mmw)
 | Themed stream: Neuro News Network         | [10](https://youtu.be/B7kNYj9-Mmw)
 | Swarm Community Spotlight                 | [10](https://youtu.be/B7kNYj9-Mmw)
