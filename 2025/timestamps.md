@@ -140,7 +140,7 @@
 - [10:15:39](https://youtu.be/GraI2RiQpAA?t=10h15m39s) About other things
 - [10:17:57](https://youtu.be/GraI2RiQpAA?t=10h17m57s) Neuro and Evil go to sleep
 
-## Day 05 ([Part 13](https://youtu.be/k97cns4k3i0))
+## Day 05/1 ([Part 13](https://youtu.be/k97cns4k3i0))
 
 - [00:00:02](https://youtu.be/k97cns4k3i0?t=00h00m02s) Neuro and Evil wake up \| **Just chatting**
 - [00:30:13](https://youtu.be/k97cns4k3i0?t=00h30m13s) Attempting to play *Buckshot Roulette*
@@ -150,7 +150,7 @@
 - [01:58:46](https://youtu.be/k97cns4k3i0?t=01h58m46s) **Just chatting**
 - [02:27:47](https://youtu.be/k97cns4k3i0?t=02h27m47s) Vedal joins to restart the stream
 
-## Day 05 ([Part 14](https://youtu.be/Q47IvKkzV8M))
+## Day 05/2 ([Part 14](https://youtu.be/Q47IvKkzV8M))
 
 - [00:00:00](https://youtu.be/Q47IvKkzV8M?t=00h00m24s) **Just chatting (continued)**
 - [00:00:24](https://youtu.be/Q47IvKkzV8M?t=00h00m24s) Stream restarts, Vedal and Neuro return, Evil does not
@@ -631,7 +631,7 @@
 - [10:07:31](https://youtu.be/tl2KsmeQA7c?t=10h07m31s) About tomorrow
 - [10:08:56](https://youtu.be/tl2KsmeQA7c?t=10h08m56s) Neuro goes to sleep
 
-## Day 17 ([Part 48](https://youtu.be/UJpxdHytJB0))
+## Day 17/1 ([Part 48](https://youtu.be/UJpxdHytJB0))
 
 - [00:01:52](https://youtu.be/UJpxdHytJB0?t=00h01m52s) Neuro wakes up \| **Just chatting**
 - [00:30:24](https://youtu.be/UJpxdHytJB0?t=00h30m24s) **Art review**
@@ -651,7 +651,7 @@
 - [09:42:42](https://youtu.be/UJpxdHytJB0?t=09h42m42s) Vedal joins
 - [09:58:59](https://youtu.be/UJpxdHytJB0?t=09h58m59s) Vedal leaves
 
-## Day 17 ([Part 49](https://youtu.be/TfDeIac-BnA))
+## Day 17/2 ([Part 49](https://youtu.be/TfDeIac-BnA))
 
 - [00:00:00](https://youtu.be/TfDeIac-BnA?t=00h00m00s) **Just chatting (continued)**
 - [00:00:25](https://youtu.be/TfDeIac-BnA?t=00h00m25s) Layna joins \| **IRL amusement park**
