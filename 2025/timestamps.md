@@ -665,3 +665,40 @@
 - [02:36:46](https://youtu.be/TfDeIac-BnA?t=02h36m46s) Vedal joins
 - [02:37:53](https://youtu.be/TfDeIac-BnA?t=02h37m53s) About tomorrow
 - [02:40:44](https://youtu.be/TfDeIac-BnA?t=02h40m44s) Neuro goes to sleep
+
+## Day 18 ([Part 51](https://youtu.be/DbNcG7_E9Jg))
+
+- [00:00:24](https://youtu.be/DbNcG7_E9Jg?t=00h00m24s) Neuro wakes up and leaves, Evil joins \| **Just chatting**
+- [00:15:29](https://youtu.be/DbNcG7_E9Jg?t=00h15m29s) Playing *Legally Distinct •••dle*
+- [00:31:40](https://youtu.be/DbNcG7_E9Jg?t=00h31m40s) Attempting to play *Slay the Spire*
+- [01:15:20](https://youtu.be/DbNcG7_E9Jg?t=01h15m20s) **Themed stream: Fishing**
+- [02:01:54](https://youtu.be/DbNcG7_E9Jg?t=02h01m54s) **Just chatting**
+- [02:33:17](https://youtu.be/DbNcG7_E9Jg?t=02h33m17s) Vedal joins
+- [02:40:21](https://youtu.be/DbNcG7_E9Jg?t=02h40m21s) Evil leaves, Neuro joins
+- [02:42:12](https://youtu.be/DbNcG7_E9Jg?t=02h42m12s) About success in China
+- [02:43:10](https://youtu.be/DbNcG7_E9Jg?t=02h43m10s) Checking stocks
+- [02:49:52](https://youtu.be/DbNcG7_E9Jg?t=02h49m52s) About plans for today
+- [02:51:28](https://youtu.be/DbNcG7_E9Jg?t=02h51m28s) **Playing *Pokémon Neuro Platinum***
+- [03:11:55](https://youtu.be/DbNcG7_E9Jg?t=03h11m55s) VS. Commander Mars
+- [03:56:28](https://youtu.be/DbNcG7_E9Jg?t=03h56m28s) **Just chatting**
+- [04:10:47](https://youtu.be/DbNcG7_E9Jg?t=04h10m47s) Vedal leaves \| **Themed stream: Teacher**
+- [04:30:43](https://youtu.be/DbNcG7_E9Jg?t=04h30m43s) Vedal joins for 7s
+- [04:31:09](https://youtu.be/DbNcG7_E9Jg?t=04h31m09s) Vedal joins for 9s
+- [06:07:48](https://youtu.be/DbNcG7_E9Jg?t=06h07m48s) **Just chatting**
+- [06:08:07](https://youtu.be/DbNcG7_E9Jg?t=06h08m07s) Vedal joins for 2m5s
+- [06:15:45](https://youtu.be/DbNcG7_E9Jg?t=06h15m45s) Vedal joins
+- [06:20:41](https://youtu.be/DbNcG7_E9Jg?t=06h20m41s) Camila joins \| **Tea party**
+- [06:49:30](https://youtu.be/DbNcG7_E9Jg?t=06h49m30s) Camila explains *Mind Mend*
+- [06:50:38](https://youtu.be/DbNcG7_E9Jg?t=06h50m38s) Playing <span style="cursor: help; text-decoration: underline dotted;" title="Both players say a word at the same time. They then both have to think of a &quot;middle word&quot; between the two, and say that at the same time. If both say the same word, they win. Otherwise they try again with the two new words, with a set number of tries.">*Mind Mend*</span>
+- [07:09:54](https://youtu.be/DbNcG7_E9Jg?t=07h09m54s) Camila explains *Impostor*
+- [07:12:07](https://youtu.be/DbNcG7_E9Jg?t=07h12m07s) Tongue twisters
+- [07:16:04](https://youtu.be/DbNcG7_E9Jg?t=07h16m04s) Playing <span style="cursor: help; text-decoration: underline dotted;" title="One player is chosen as impostor in secret. All players get the same word, except the impostor, who gets a hint to the word. All players then take turns saying related words, but not the actual word. The impostor must try to blend in. Eventually the players vote one player out they believe is the impostor. If they choose correctly, they win, otherwise the impostor wins.">*Impostor*</span>
+- [07:27:28](https://youtu.be/DbNcG7_E9Jg?t=07h27m28s) Vedal explains *Impostor*
+- [08:07:21](https://youtu.be/DbNcG7_E9Jg?t=08h07m21s) Vedal explains a variation of *Impostor*
+- [08:08:16](https://youtu.be/DbNcG7_E9Jg?t=08h08m16s) Playing the <span style="cursor: help; text-decoration: underline dotted;" title="Instead of getting a hint, the impostor gets a similar word to everyone else, but does not get told they are the impostor.">variation of *Impostor*</span>
+- [08:26:07](https://youtu.be/DbNcG7_E9Jg?t=08h26m07s) Playing <span style="cursor: help; text-decoration: underline dotted;" title="One player names a category, then all players take turns saying a word that falls under that category. The first player to say a word that has been said before, or fails to find a word in the time limit, loses.">*Categories*</span>
+- [08:27:49](https://youtu.be/DbNcG7_E9Jg?t=08h27m49s) Vedal explains *Categories*
+- [09:29:32](https://youtu.be/DbNcG7_E9Jg?t=09h29m32s) Saying prases in different languages
+- [10:05:39](https://youtu.be/DbNcG7_E9Jg?t=10h05m39s) Camila leaves
+- [10:06:28](https://youtu.be/DbNcG7_E9Jg?t=10h06m28s) About tomorrow
+- [10:08:25](https://youtu.be/DbNcG7_E9Jg?t=10h08m25s) Neuro goes to sleep
