@@ -698,7 +698,7 @@
 - [08:08:16](https://youtu.be/DbNcG7_E9Jg?t=08h08m16s) Playing the <span style="cursor: help; text-decoration: underline dotted;" title="Instead of getting a hint, the impostor gets a similar word to everyone else, but does not get told they are the impostor.">variation of *Impostor*</span>
 - [08:26:07](https://youtu.be/DbNcG7_E9Jg?t=08h26m07s) Playing <span style="cursor: help; text-decoration: underline dotted;" title="One player names a category, then all players take turns saying a word that falls under that category. The first player to say a word that has been said before, or fails to find a word in the time limit, loses.">*Categories*</span>
 - [08:27:49](https://youtu.be/DbNcG7_E9Jg?t=08h27m49s) Vedal explains *Categories*
-- [09:29:32](https://youtu.be/DbNcG7_E9Jg?t=09h29m32s) Saying prases in different languages
+- [09:29:32](https://youtu.be/DbNcG7_E9Jg?t=09h29m32s) Saying phrases in different languages
 - [10:05:39](https://youtu.be/DbNcG7_E9Jg?t=10h05m39s) Camila leaves
 - [10:06:28](https://youtu.be/DbNcG7_E9Jg?t=10h06m28s) About tomorrow
 - [10:08:25](https://youtu.be/DbNcG7_E9Jg?t=10h08m25s) Neuro goes to sleep
