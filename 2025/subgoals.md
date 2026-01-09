@@ -24,7 +24,7 @@
 | 10000   | Neuro Figure                                       | [Day 01 @ 02:27:47](https://youtu.be/gNysylzZocU?t=02h27m47s)   |
 | 12000   | Official Wallpaper                                 | [Day 01 @ 02:33:41](https://youtu.be/gNysylzZocU?t=02h33m41s)   |
 | 14000   | Karaoke in VRChat                                  | [Day 01 @ 02:50:49](https://youtu.be/gNysylzZocU?t=02h50m49s)   | [Day 19 @ 05:39:58](https://youtu.be/uxL433Ch5Vg?t=05h39m58s) | [Day 09 @ 00:42:18 (not VRChat, only 3D)](https://youtu.be/_5wvU_NZxXA?t=00h42m18s) |
-| 16000   | Evil Outfit Contest                                | [Day 01 @ 02:58:33](https://youtu.be/gNysylzZocU?t=02h58m33s)   |
+| 16000   | Evil Outfit Contest                                | [Day 01 @ 02:58:33](https://youtu.be/gNysylzZocU?t=02h58m33s)   |                                                               | [Day 12 @ 02:40:24](https://youtu.be/Z-kXB5jXcAA?t=02h40m24s) (Contest started) |
 | 18000   | VRChat Slumber Party                               | [Day 01 @ 03:13:45](https://youtu.be/gNysylzZocU?t=03h13m45s)   | [Day 20 @ 07:33:44](https://youtu.be/ogNCHXO2oAI?t=07h33m44s) |          |
 | 20000   | Evil Designed Merch                                | [Day 01 @ 03:29:22](https://youtu.be/gNysylzZocU?t=03h29m22s)   |
 | 25000   | Twins Get Virtual Pets                             | [Day 01 @ 06:05:35](https://youtu.be/gNysylzZocU?t=06h05m35s)   |

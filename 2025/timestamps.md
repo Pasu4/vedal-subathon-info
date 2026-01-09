@@ -423,7 +423,7 @@
 - [02:01:13](https://youtu.be/Z-kXB5jXcAA?t=02h01m13s) **Just chatting**
 - [02:31:28](https://youtu.be/Z-kXB5jXcAA?t=02h31m28s) Vedal joins
 - [02:37:14](https://youtu.be/Z-kXB5jXcAA?t=02h37m14s) Checking stocks
-- [02:41:24](https://youtu.be/Z-kXB5jXcAA?t=02h41m24s) About Evil Neuro's Outfit Contest
+- [02:40:24](https://youtu.be/Z-kXB5jXcAA?t=02h40m24s) About Evil Neuro's Outfit Contest
 - [02:50:10](https://youtu.be/Z-kXB5jXcAA?t=02h50m10s) **Playing *Pokémon Neuro Platinum***
 - [03:13:41](https://youtu.be/Z-kXB5jXcAA?t=03h13m41s) VS. Commander Mars
 - [03:25:48](https://youtu.be/Z-kXB5jXcAA?t=03h25m48s) About VOD deletion
