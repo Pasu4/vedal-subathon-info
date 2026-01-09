@@ -771,7 +771,7 @@
 
 ## Day 20 ([Part 57](https://youtu.be/ogNCHXO2oAI))
 
-- [00:00:13](https://youtu.be/ogNCHXO2oAI?t=00h00m13s) Neuro leaves, Evil joins | **Just chatting**
+- [00:00:13](https://youtu.be/ogNCHXO2oAI?t=00h00m13s) Neuro leaves, Evil joins \| **Just chatting**
 - [00:26:21](https://youtu.be/ogNCHXO2oAI?t=00h26m21s) Playing *Legally Distinct •••dle*
 - [00:30:23](https://youtu.be/ogNCHXO2oAI?t=00h30m23s) **Art review**
 - [01:00:49](https://youtu.be/ogNCHXO2oAI?t=01h00m49s) **Karaoke**
