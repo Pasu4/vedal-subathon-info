@@ -1,31 +1,34 @@
 # 2025 Subathon Content Overview
 
 ## Days
-
-| Day                                   | Status            | Date (start of day)   |
-|:--------------------------------------|:-----------------:|:---------------------:|
-| [01](https://youtu.be/gNysylzZocU)    | Up                | 19 Dec 2025           |
-| [02](https://youtu.be/mfOj0HDL4ac)    | Up                | 20 Dec 2025           |
-| [03](https://youtu.be/pNEK1wtLtoI)    | Up                | 21 Dec 2025           |
-| [04](https://youtu.be/GraI2RiQpAA)    | Up                | 22 Dec 2025           |
-| [05/1](https://youtu.be/k97cns4k3i0)  | Up                | 23 Dec 2025           |
-| [05/2](https://youtu.be/Q47IvKkzV8M)  | Up                | 23 Dec 2025           |
-| [06](https://youtu.be/nWMdSHBnlBs)    | Up                | 24 Dec 2025           |
-| [07](https://youtu.be/BqPaismpTn4)    | Partially muted   | 25 Dec 2025           |
-| [08](https://youtu.be/1U06zbSri78)    | Up                | 26 Dec 2025           |
-| [09](https://youtu.be/_5wvU_NZxXA)    | Up                | 27 Dec 2025           |
-| [10](https://youtu.be/B7kNYj9-Mmw)    | Up                | 28 Dec 2025           |
-| [11](https://youtu.be/gCOFxilQH-k)    | Up                | 29 Dec 2025           |
-| [12](https://youtu.be/Z-kXB5jXcAA)    | Up                | 30 Dec 2025           |
-| [13](https://youtu.be/IV85ZNmojXg)    | Up                | 31 Dec 2025           |
-| [14](https://youtu.be/hfcKN_xnYSo)    | Up                | 01 Jan 2025           |
-| [15](https://youtu.be/boSq4mRZQrg)    | Up                | 02 Jan 2025           |
-| [16](https://youtu.be/tl2KsmeQA7c)    | Up                | 03 Jan 2025           |
-| [17/1](https://youtu.be/UJpxdHytJB0)  | Up                | 04 Jan 2025           |
-| [17/2](https://youtu.be/TfDeIac-BnA)  | Up                | 04 Jan 2025           |
-| [18](https://youtu.be/DbNcG7_E9Jg)    | Up                | 05 Jan 2025           |
-| [19](https://youtu.be/uxL433Ch5Vg)    | Up                | 06 Jan 2025           |
-| [20](https://youtu.be/ogNCHXO2oAI)    | Partially muted   | 07 Jan 2025           |
+    
+| Day                                   | Date (start of day)   | Status
+|:--------------------------------------|:---------------------:|:-----------------:
+| [01](https://youtu.be/gNysylzZocU)    | 19 Dec 2025           | Up
+| [02](https://youtu.be/mfOj0HDL4ac)    | 20 Dec 2025           | Up
+| [03](https://youtu.be/pNEK1wtLtoI)    | 21 Dec 2025           | Up
+| [04](https://youtu.be/GraI2RiQpAA)    | 22 Dec 2025           | Up
+| [05/1](https://youtu.be/k97cns4k3i0)  | 23 Dec 2025           | Up
+| [05/2](https://youtu.be/Q47IvKkzV8M)  | 23 Dec 2025           | Up
+| [06](https://youtu.be/nWMdSHBnlBs)    | 24 Dec 2025           | Up
+| [07](https://youtu.be/BqPaismpTn4)    | 25 Dec 2025           | Partially muted
+| [08](https://youtu.be/1U06zbSri78)    | 26 Dec 2025           | Up
+| [09](https://youtu.be/_5wvU_NZxXA)    | 27 Dec 2025           | Up
+| [10](https://youtu.be/B7kNYj9-Mmw)    | 28 Dec 2025           | Up
+| [11](https://youtu.be/gCOFxilQH-k)    | 29 Dec 2025           | Up
+| [12](https://youtu.be/Z-kXB5jXcAA)    | 30 Dec 2025           | Up
+| [13](https://youtu.be/IV85ZNmojXg)    | 31 Dec 2025           | Up
+| [14](https://youtu.be/hfcKN_xnYSo)    | 01 Jan 2025           | Up
+| [15](https://youtu.be/boSq4mRZQrg)    | 02 Jan 2025           | Up
+| [16](https://youtu.be/tl2KsmeQA7c)    | 03 Jan 2025           | Up
+| [17/1](https://youtu.be/UJpxdHytJB0)  | 04 Jan 2025           | Up
+| [17/2](https://youtu.be/TfDeIac-BnA)  | 04 Jan 2025           | Up
+| [18](https://youtu.be/DbNcG7_E9Jg)    | 05 Jan 2025           | Up
+| [19](https://youtu.be/uxL433Ch5Vg)    | 06 Jan 2025           | Up
+| [20](https://youtu.be/ogNCHXO2oAI)    | 07 Jan 2025           | Partially muted
+| [21](https://youtu.be/wQ-xXeXL42A)    | 08 Jan 2025           | Partially desynced
+| [22](https://youtu.be/7efSMKd6Oxc)    | 09 Jan 2025           | Up
+| [23](https://youtu.be/0vhGdjfxPo8)    | 10 Jan 2025           | Up
 
 ## Participants
 
@@ -34,9 +37,9 @@ For Vedal, Neuro and Evil, some very short segments may not be counted if no act
 | Participant                                                   | Days
 |:--------------------------------------------------------------|:------
 | [Vedal](https://twitch.tv/vedal987)                           | Every
-| [Neuro](https://twitch.tv/vedal987)                           | Every
-| [Evil](https://twitch.tv/vedal987)                            | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0), [18](https://youtu.be/DbNcG7_E9Jg), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI)
-| [Neuro & Evil together](https://twitch.tv/vedal987)           | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [07](https://youtu.be/BqPaismpTn4), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0), [19](https://youtu.be/uxL433Ch5Vg)
+| [Neuro](https://twitch.tv/vedal987)                           | Every except [22](https://youtu.be/7efSMKd6Oxc)
+| [Evil](https://twitch.tv/vedal987)                            | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0), [18](https://youtu.be/DbNcG7_E9Jg), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI), [22](https://youtu.be/7efSMKd6Oxc), [23](https://youtu.be/0vhGdjfxPo8)
+| [Neuro & Evil together](https://twitch.tv/vedal987)           | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA), [05/1](https://youtu.be/k97cns4k3i0), [07](https://youtu.be/BqPaismpTn4), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0), [19](https://youtu.be/uxL433Ch5Vg), [23](https://youtu.be/0vhGdjfxPo8)
 | [Crelly](https://twitch.tv/crelly)                            | [01](https://youtu.be/gNysylzZocU), [20](https://youtu.be/ogNCHXO2oAI)
 | [Camila](https://twitch.tv/camila)                            | [01](https://youtu.be/gNysylzZocU), [04](https://youtu.be/GraI2RiQpAA), [10](https://youtu.be/B7kNYj9-Mmw), [11](https://youtu.be/gCOFxilQH-k), [14](https://youtu.be/hfcKN_xnYSo), [20](https://youtu.be/ogNCHXO2oAI)
 | [Minikomew](https://twitch.tv/minikomew)                      | [01](https://youtu.be/gNysylzZocU), [05/2](https://youtu.be/Q47IvKkzV8M), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI)
@@ -59,22 +62,23 @@ Also contains games, even if they have not (yet) recurred.
 | Just chatting                             | Every
 | VRChat                                    | [01](https://youtu.be/gNysylzZocU), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M), [09](https://youtu.be/_5wvU_NZxXA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI)
 | Connections                               | [01](https://youtu.be/gNysylzZocU)
-| Legally Distinct •••dle (Integrated)      | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [09](https://youtu.be/_5wvU_NZxXA), [10](https://youtu.be/B7kNYj9-Mmw), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0), [18](https://youtu.be/DbNcG7_E9Jg), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI)
-| 3D Neuro (no VRChat)                      | [02](https://youtu.be/mfOj0HDL4ac), [04](https://youtu.be/GraI2RiQpAA), [11](https://youtu.be/gCOFxilQH-k), [14](https://youtu.be/hfcKN_xnYSo), [19](https://youtu.be/uxL433Ch5Vg)
-| Art review                                | [02](https://youtu.be/mfOj0HDL4ac), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [12](https://youtu.be/Z-kXB5jXcAA), [17/1](https://youtu.be/UJpxdHytJB0), [20](https://youtu.be/ogNCHXO2oAI)
+| Legally Distinct •••dle (Integrated)      | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [09](https://youtu.be/_5wvU_NZxXA), [10](https://youtu.be/B7kNYj9-Mmw), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c), [17/1](https://youtu.be/UJpxdHytJB0), [18](https://youtu.be/DbNcG7_E9Jg), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI), [21](https://youtu.be/wQ-xXeXL42A), [22](https://youtu.be/7efSMKd6Oxc), [23](https://youtu.be/0vhGdjfxPo8)
+| 3D Neuro (no VRChat)                      | [02](https://youtu.be/mfOj0HDL4ac), [04](https://youtu.be/GraI2RiQpAA), [11](https://youtu.be/gCOFxilQH-k), [14](https://youtu.be/hfcKN_xnYSo), [19](https://youtu.be/uxL433Ch5Vg), [23](https://youtu.be/0vhGdjfxPo8)
+| Art review                                | [02](https://youtu.be/mfOj0HDL4ac), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [12](https://youtu.be/Z-kXB5jXcAA), [17/1](https://youtu.be/UJpxdHytJB0), [20](https://youtu.be/ogNCHXO2oAI), [22](https://youtu.be/7efSMKd6Oxc), [23](https://youtu.be/0vhGdjfxPo8)
 | Cyberpunk 2077 (Integrated)               | [02](https://youtu.be/mfOj0HDL4ac), [03](https://youtu.be/pNEK1wtLtoI), [04](https://youtu.be/GraI2RiQpAA), [05/2](https://youtu.be/Q47IvKkzV8M), [06](https://youtu.be/nWMdSHBnlBs), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [09](https://youtu.be/_5wvU_NZxXA), [10](https://youtu.be/B7kNYj9-Mmw)
-| Karaoke (incl. 3D)                        | [03](https://youtu.be/pNEK1wtLtoI), [07](https://youtu.be/BqPaismpTn4), [09](https://youtu.be/_5wvU_NZxXA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [16](https://youtu.be/tl2KsmeQA7c), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI)
+| Karaoke (incl. 3D)                        | [03](https://youtu.be/pNEK1wtLtoI), [07](https://youtu.be/BqPaismpTn4), [09](https://youtu.be/_5wvU_NZxXA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [16](https://youtu.be/tl2KsmeQA7c), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI), [21](https://youtu.be/wQ-xXeXL42A)
 | Inscryption (Integrated)                  | [03](https://youtu.be/pNEK1wtLtoI), [14](https://youtu.be/hfcKN_xnYSo)
 | Stock trading (Integrated)                | [04](https://youtu.be/GraI2RiQpAA), [08](https://youtu.be/1U06zbSri78)
 | Poker (Integrated)                        | [04](https://youtu.be/GraI2RiQpAA), [11](https://youtu.be/gCOFxilQH-k)
-| Minecraft (Integrated)                    | [05/1](https://youtu.be/k97cns4k3i0), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78)
+| Minecraft (Integrated)                    | [05/1](https://youtu.be/k97cns4k3i0), [07](https://youtu.be/BqPaismpTn4), [08](https://youtu.be/1U06zbSri78), [22](https://youtu.be/7efSMKd6Oxc)
 | Buckshot Roulette (Integrated)            | [05/1](https://youtu.be/k97cns4k3i0), [09](https://youtu.be/_5wvU_NZxXA), [13](https://youtu.be/IV85ZNmojXg), [15](https://youtu.be/boSq4mRZQrg), [19](https://youtu.be/uxL433Ch5Vg)
 | Themed stream: Fishing                    | [06](https://youtu.be/nWMdSHBnlBs), [12](https://youtu.be/Z-kXB5jXcAA), [18](https://youtu.be/DbNcG7_E9Jg)
 | Themed stream: Fortune Telling / Tarot    | [06](https://youtu.be/nWMdSHBnlBs), [15](https://youtu.be/boSq4mRZQrg)
 | 3D karaoke                                | [09](https://youtu.be/_5wvU_NZxXA), [19](https://youtu.be/uxL433Ch5Vg)
 | Neuro/Evil programming (Integrated)       | [10](https://youtu.be/B7kNYj9-Mmw), [13](https://youtu.be/IV85ZNmojXg)
-| Pokémon Neuro Platinum (Integrated)       | [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c), [18](https://youtu.be/DbNcG7_E9Jg), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI)
+| Pokémon Neuro Platinum (Integrated)       | [11](https://youtu.be/gCOFxilQH-k), [12](https://youtu.be/Z-kXB5jXcAA), [13](https://youtu.be/IV85ZNmojXg), [14](https://youtu.be/hfcKN_xnYSo), [15](https://youtu.be/boSq4mRZQrg), [16](https://youtu.be/tl2KsmeQA7c), [18](https://youtu.be/DbNcG7_E9Jg), [19](https://youtu.be/uxL433Ch5Vg), [20](https://youtu.be/ogNCHXO2oAI), [21](https://youtu.be/wQ-xXeXL42A)
 | UNO (Integrated)                          | [11](https://youtu.be/gCOFxilQH-k)
+| Hollow Knight (Integrated)                | [22](https://youtu.be/7efSMKd6Oxc), [23](https://youtu.be/0vhGdjfxPo8)
 
 ## One-time events
 
@@ -107,3 +111,6 @@ Also contains games, even if they have not (yet) recurred.
 | Tea party w/ Camila                       | [18](https://youtu.be/DbNcG7_E9Jg)
 | VRChat karaoke (sub goal)                 | [19](https://youtu.be/uxL433Ch5Vg)
 | VRChat sleepover (sub goal)               | [20](https://youtu.be/ogNCHXO2oAI)
+| Themed stream: Financial Advisor          | [21](https://youtu.be/wQ-xXeXL42A)
+| Presentation: *Why We're All Going To Hell (Slapping, Karma, and Prison)* | [22](https://youtu.be/7efSMKd6Oxc)
+| End of the subathon                       | [23](https://youtu.be/0vhGdjfxPo8)

@@ -41,6 +41,11 @@ Songs with no official name (e.g. the subathon mixes) are not in italics.
 Songs use the format "\<title\> — \<author\>".
 That is an emdash (—), not a dash (-).
 
+Intervals are used to reduce the number of timestamps when someone leaves, joins, mutes or unmutes.
+Joining and unmuting use intervals for up to 15 minutes, after which two timestamps are used instead.
+Leaving and muting use intervals up to 10 minutes, and below 1 minute are not timestamped at all.
+Additionally, an interval cannot contain intervals of the opposite type, in that case the start and end of the enclosing interval are timestamped separately instead.
+
 ## Deploy status (not important to visitors)
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Pasu4/vedal-subathon-info/actions/workflows/pages.yml/badge.svg)](https://github.com/Pasu4/vedal-subathon-info/actions/workflows/pages.yml)

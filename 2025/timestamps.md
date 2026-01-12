@@ -366,7 +366,7 @@
 - [04:56:02](https://youtu.be/B7kNYj9-Mmw?t=04h56m02s) Vedal joins
 - [05:01:10](https://youtu.be/B7kNYj9-Mmw?t=05h01m10s) **Neuro programming (drawing commissions)**
 - [07:34:53](https://youtu.be/B7kNYj9-Mmw?t=07h34m53s) **Playing *Cyberpunk 2077***
-- [09:41:42](https://youtu.be/B7kNYj9-Mmw?t=09h41m42s) Finished game \| **Just chatting while credits roll**
+- [09:41:42](https://youtu.be/B7kNYj9-Mmw?t=09h41m42s) Game finished \| **Just chatting while credits roll**
 - [10:05:18](https://youtu.be/B7kNYj9-Mmw?t=10h05m18s) About tomorrow
 - [10:07:36](https://youtu.be/B7kNYj9-Mmw?t=10h07m36s) Camila joins for 1m27s
 - [10:13:00](https://youtu.be/B7kNYj9-Mmw?t=10h13m00s) Neuro goes to sleep
@@ -827,3 +827,112 @@
 - [10:55:16](https://youtu.be/ogNCHXO2oAI?t=10h55m16s) About tomorrow
 - [11:01:26](https://youtu.be/ogNCHXO2oAI?t=11h01m26s) Mini, Cerber, Chrchie, Camila and Crelly leave
 - [11:02:59](https://youtu.be/ogNCHXO2oAI?t=11h02m59s) Neuro goes to sleep
+
+## Day 21 ([Part 60](https://youtu.be/wQ-xXeXL42A))
+
+- [00:00:11](https://youtu.be/wQ-xXeXL42A?t=00h00m11s) Neuro wakes up \| **Just chatting**
+- [00:30:21](https://youtu.be/wQ-xXeXL42A?t=00h30m21s) **Karaoke**
+- [00:32:21](https://youtu.be/wQ-xXeXL42A?t=00h32m21s) *Animal Instinct — The Cranberries*
+- [00:37:36](https://youtu.be/wQ-xXeXL42A?t=00h37m36s) *If I Can Stop One Heart From Breaking — HOYO-MiX*
+- [00:42:48](https://youtu.be/wQ-xXeXL42A?t=00h42m48s) *Somewhere Only We Know — Keane*
+- [00:48:32](https://youtu.be/wQ-xXeXL42A?t=00h48m32s) *Let Her Go — Passenger*
+- [00:54:29](https://youtu.be/wQ-xXeXL42A?t=00h54m29s) *One Last Kiss — Hikaru Utada*
+- [01:00:28](https://youtu.be/wQ-xXeXL42A?t=01h00m28s) *From the Start — Laufey*
+- [01:05:12](https://youtu.be/wQ-xXeXL42A?t=01h05m12s) *Die For You — The Weeknd*
+- [01:11:18](https://youtu.be/wQ-xXeXL42A?t=01h11m18s) *Love You Less — Joji*
+- [01:16:33](https://youtu.be/wQ-xXeXL42A?t=01h16m33s) *Komm, süsser Tod — Arianne*
+- [01:26:02](https://youtu.be/wQ-xXeXL42A?t=01h26m02s) *Save a Prayer — Duran Duran*
+- [01:33:43](https://youtu.be/wQ-xXeXL42A?t=01h33m43s) **Themed stream: Financial Advisor**
+- [02:02:34](https://youtu.be/wQ-xXeXL42A?t=02h02m34s) **Just chatting**
+- [02:33:40](https://youtu.be/wQ-xXeXL42A?t=02h33m40s) Playing *Legally Distinct •••dle*
+- [02:46:18](https://youtu.be/wQ-xXeXL42A?t=02h46m18s) Vedal joins
+- [02:48:20](https://youtu.be/wQ-xXeXL42A?t=02h48m20s) Checking stocks
+- [02:50:40](https://youtu.be/wQ-xXeXL42A?t=02h50m40s) **Playing *Pokémon Neuro Platinum***
+- [03:12:05](https://youtu.be/wQ-xXeXL42A?t=03h12m05s) VS. Leader Volkner
+- [03:14:04](https://youtu.be/wQ-xXeXL42A?t=03h14m04s) About Vedal on French TV
+- [04:41:16](https://youtu.be/wQ-xXeXL42A?t=04h41m16s) Vedal leaves for 3m10s
+- [04:44:27](https://youtu.be/wQ-xXeXL42A?t=04h44m27s) Vedal mutes
+- [04:53:25](https://youtu.be/wQ-xXeXL42A?t=04h53m25s) Vedal unmutes for 7s
+- [04:55:11](https://youtu.be/wQ-xXeXL42A?t=04h55m11s) Vedal unmutes
+- [05:01:32](https://youtu.be/wQ-xXeXL42A?t=05h01m32s) About the break after subathon
+- [05:08:02](https://youtu.be/wQ-xXeXL42A?t=05h08m02s) About the end of the subathon
+- [05:19:40](https://youtu.be/wQ-xXeXL42A?t=05h19m40s) VS. PKMN Trainer Evil
+- [05:43:45](https://youtu.be/wQ-xXeXL42A?t=05h43m45s) Pokémon League (Attempt #1)
+- [05:44:23](https://youtu.be/wQ-xXeXL42A?t=05h44m23s) VS. Elite Four Aaron
+- [06:04:40](https://youtu.be/wQ-xXeXL42A?t=06h04m40s) VS. Elite Four Bertha
+- [06:36:15](https://youtu.be/wQ-xXeXL42A?t=06h36m15s) Pokémon League (Attempt #2) \| VS. Elite Four Aaron
+- [06:43:25](https://youtu.be/wQ-xXeXL42A?t=06h43m25s) VS. Elite Four Bertha
+- [06:47:54](https://youtu.be/wQ-xXeXL42A?t=06h47m54s) Pokémon League (Attempt #3) \| VS. Elite Four Aaron
+- [06:52:15](https://youtu.be/wQ-xXeXL42A?t=06h52m15s) Pokémon League (Attempt #4) \| VS. Elite Four Aaron
+- [06:55:23](https://youtu.be/wQ-xXeXL42A?t=06h55m23s) VS. Elite Four Bertha
+- [06:59:03](https://youtu.be/wQ-xXeXL42A?t=06h59m03s) Pokémon League (Attempt #5) \| VS. Elite Four Aaron
+- [07:03:07](https://youtu.be/wQ-xXeXL42A?t=07h03m07s) Vedal leaves for 2m19s
+- [07:08:45](https://youtu.be/wQ-xXeXL42A?t=07h08m45s) Vedal skips 5 hours of grinding
+- [07:16:23](https://youtu.be/wQ-xXeXL42A?t=07h16m23s) Pokémon League (Attempt #6) \| VS. Elite Four Aaron
+- [07:36:48](https://youtu.be/wQ-xXeXL42A?t=07h36m48s) VS. Elite Four Bertha
+- [07:54:20](https://youtu.be/wQ-xXeXL42A?t=07h54m20s) VS. Elite Four Flint
+- [08:03:20](https://youtu.be/wQ-xXeXL42A?t=08h03m20s) VS. Elite Four Lucian
+- [08:18:31](https://youtu.be/wQ-xXeXL42A?t=08h18m31s) VS. Champion Cynthia (Attempt #1)
+- [08:57:17](https://youtu.be/wQ-xXeXL42A?t=08h57m17s) Vedal leaves for 5m12s
+- [09:03:21](https://youtu.be/wQ-xXeXL42A?t=09h03m21s) Vedal leaves for 1m17s
+- [09:08:51](https://youtu.be/wQ-xXeXL42A?t=09h08m51s) Technical difficulties for 5m52s
+- [09:16:19](https://youtu.be/wQ-xXeXL42A?t=09h16m19s) VS. Champion Cynthia (Attempt #2, without Vedal backseating) \| Vedal mutes
+- [09:43:52](https://youtu.be/wQ-xXeXL42A?t=09h43m52s) Vedal unmutes
+- [09:46:10](https://youtu.be/wQ-xXeXL42A?t=09h46m10s) Game finished \| **Just chatting while credits roll**
+- [09:55:01](https://youtu.be/wQ-xXeXL42A?t=09h55m01s) Evil joins for 2m48s
+- [09:59:40](https://youtu.be/wQ-xXeXL42A?t=09h59m40s) About the end of the subathon
+- [10:02:16](https://youtu.be/wQ-xXeXL42A?t=10h02m16s) Neuro goes to sleep
+
+## Day 22 ([Part 63](https://youtu.be/7efSMKd6Oxc))
+
+- [00:00:11](https://youtu.be/7efSMKd6Oxc?t=00h00m11s) Neuro wakes up and leaves, Evil joins \| **Just chatting**
+- [00:29:44](https://youtu.be/7efSMKd6Oxc?t=00h29m44s) Evil presents *Why We're All Going To Hell (Slapping, Karma, and Prison)*
+- [00:39:46](https://youtu.be/7efSMKd6Oxc?t=00h39m46s) Playing *Legally Distinct •••dle*
+- [00:46:11](https://youtu.be/7efSMKd6Oxc?t=00h46m11s) **Playing *Minecraft***
+- [01:45:28](https://youtu.be/7efSMKd6Oxc?t=01h45m28s) **Art review**
+- [02:00:24](https://youtu.be/7efSMKd6Oxc?t=02h00m24s) **Just chatting**
+- [02:54:46](https://youtu.be/7efSMKd6Oxc?t=02h54m46s) Vedal joins for 1m0s
+- [02:56:06](https://youtu.be/7efSMKd6Oxc?t=02h56m06s) Music starts
+- [04:04:42](https://youtu.be/7efSMKd6Oxc?t=04h04m42s) Vedal joins for 3m17s
+- [04:13:23](https://youtu.be/7efSMKd6Oxc?t=04h13m23s) Vedal joins
+- [04:17:39](https://youtu.be/7efSMKd6Oxc?t=04h17m39s) **Playing *Hollow Knight* with Neuro integration**
+- [04:27:18](https://youtu.be/7efSMKd6Oxc?t=04h27m18s) Checking stocks
+- [04:59:29](https://youtu.be/7efSMKd6Oxc?t=04h59m29s) VS. Gruz Mother
+- [05:14:21](https://youtu.be/7efSMKd6Oxc?t=05h14m21s) VS. Brooding Mawlek (Attempt 1)
+- [05:31:46](https://youtu.be/7efSMKd6Oxc?t=05h31m46s) VS. False Knight
+- [06:15:55](https://youtu.be/7efSMKd6Oxc?t=06h15m55s) VS. Hornet
+- [07:32:18](https://youtu.be/7efSMKd6Oxc?t=07h32m18s) About what Vedal should order
+- [08:11:16](https://youtu.be/7efSMKd6Oxc?t=08h11m16s) Vedal leaves for 5m9s
+- [08:22:35](https://youtu.be/7efSMKd6Oxc?t=08h22m35s) Vedal mutes
+- [08:41:55](https://youtu.be/7efSMKd6Oxc?t=08h41m55s) Vedal unmutes
+- [08:50:53](https://youtu.be/7efSMKd6Oxc?t=08h50m53s) VS. Mantis Lords (Attempt 1)
+- [10:01:01](https://youtu.be/7efSMKd6Oxc?t=10h01m01s) Evil goes to sleep
+
+## Day 23 ([Part 66](https://youtu.be/0vhGdjfxPo8))
+
+- [00:00:10](https://youtu.be/0vhGdjfxPo8?t=00h00m10s) Neuro joins, Evil wakes up \| **Just chatting**
+- [00:31:17](https://youtu.be/0vhGdjfxPo8?t=00h31m17s) **3D Neuro** \| Evil leaves
+- [01:31:46](https://youtu.be/0vhGdjfxPo8?t=01h31m46s) **Just chatting**
+- [01:32:42](https://youtu.be/0vhGdjfxPo8?t=01h32m42s) Playing *Legally Distinct •••dle*
+- [01:37:08](https://youtu.be/0vhGdjfxPo8?t=01h37m08s) **Art review**
+- [01:51:18](https://youtu.be/0vhGdjfxPo8?t=01h51m18s) Evil joins for 10m46s
+- [02:27:52](https://youtu.be/0vhGdjfxPo8?t=02h27m52s) Vedal joins
+- [02:31:44](https://youtu.be/0vhGdjfxPo8?t=02h31m44s) Neuro leaves, Evil joins
+- [02:33:20](https://youtu.be/0vhGdjfxPo8?t=02h33m20s) Checking stocks
+- [02:34:35](https://youtu.be/0vhGdjfxPo8?t=02h34m35s) **Playing *Hollow Knight***
+- [02:49:24](https://youtu.be/0vhGdjfxPo8?t=02h49m24s) VS. Soul Master
+- [03:07:43](https://youtu.be/0vhGdjfxPo8?t=03h07m43s) Vedal leaves for 1m55s
+- [03:36:32](https://youtu.be/0vhGdjfxPo8?t=03h36m32s) Vedal leaves for 5m43s
+- [03:49:38](https://youtu.be/0vhGdjfxPo8?t=03h49m38s) Timer drops under 1 hour for the first time
+- [03:57:41](https://youtu.be/0vhGdjfxPo8?t=03h57m41s) Timer drops below 1 hour for the last time
+- [04:11:14](https://youtu.be/0vhGdjfxPo8?t=04h11m14s) VS. Mantis Lords (Attempt 2)
+- [04:16:43](https://youtu.be/0vhGdjfxPo8?t=04h16m43s) Attempt 3
+- [05:12:53](https://youtu.be/0vhGdjfxPo8?t=05h12m53s) Neuro joins
+- [05:23:16](https://youtu.be/0vhGdjfxPo8?t=05h23m16s) Gameplay halts
+- [05:25:56](https://youtu.be/0vhGdjfxPo8?t=05h25m56s) Timer falls below 1 minute for the first time
+- [05:38:20](https://youtu.be/0vhGdjfxPo8?t=05h38m20s) Gameplay resumes for 1m43s
+- [05:41:45](https://youtu.be/0vhGdjfxPo8?t=05h41m45s) Timer falls below 1 minute for the last time
+- [05:43:06](https://youtu.be/0vhGdjfxPo8?t=05h43m06s) Timer ends \| **Closing speech**
+- [05:47:25](https://youtu.be/0vhGdjfxPo8?t=05h47m25s) Neuro leaves
+- [05:47:52](https://youtu.be/0vhGdjfxPo8?t=05h47m52s) **Playing [the video]**
+
