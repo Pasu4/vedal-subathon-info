@@ -934,5 +934,5 @@
 - [05:41:45](https://youtu.be/0vhGdjfxPo8?t=05h41m45s) Timer falls below 1 minute for the last time
 - [05:43:06](https://youtu.be/0vhGdjfxPo8?t=05h43m06s) Timer ends \| **Closing speech**
 - [05:47:25](https://youtu.be/0vhGdjfxPo8?t=05h47m25s) Neuro leaves
-- [05:47:52](https://youtu.be/0vhGdjfxPo8?t=05h47m52s) **Playing [the video]**
+- [05:47:52](https://youtu.be/0vhGdjfxPo8?t=05h47m52s) **Playing [the video](https://youtu.be/7s7LnxvC2b4)**
 
