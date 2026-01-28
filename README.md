@@ -26,6 +26,9 @@ Also thanks to [@KTrain5169](https://github.com/KTrain5169) for helping out with
     - [Timestamps](/2025-subathon/timestamps.md)
     - [Overview](/2025-subathon/overview.md)
     - [Subgoals](/2025-subathon/subgoals.md)
+- 2026
+    - [Timestamps](/2026/timestamps.md)
+    - [Overview](/2026/overview.md)
 
 ## How to read timestamps
 
