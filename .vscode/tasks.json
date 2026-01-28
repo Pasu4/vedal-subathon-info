@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Convert timestamps",
+            "type": "shell",
+            "command": "${workspaceFolder}\\utils\\convert.ps1 -File '${file}' -Link '${input:ytlink}'",
+            "problemMatcher": []
+        }
+    ],
+    "inputs": [
+        {
+            "id": "ytlink",
+            "type": "promptString",
+            "description": "Enter YouTube link"
+        }
+    ]
+}
