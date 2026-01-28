@@ -7,7 +7,7 @@
 
 - [00:00:00](https://youtu.be/Nwhu6-QUZEc?t=00h00m00s) *Glimpse of Us — Joji*
 - [00:03:34](https://youtu.be/Nwhu6-QUZEc?t=00h03m34s) *52-Hearts — Bao The Whale*
-- [00:08:12](https://youtu.be/Nwhu6-QUZEc?t=00h08m12s) Neuro appears | **Just chatting**
+- [00:08:12](https://youtu.be/Nwhu6-QUZEc?t=00h08m12s) Neuro appears \| **Just chatting**
 - [00:20:26](https://youtu.be/Nwhu6-QUZEc?t=00h20m26s) Evil joins for 10m33s
 - [00:33:29](https://youtu.be/Nwhu6-QUZEc?t=00h33m29s) Playing *Legally Distinct •••dle*
 - [00:39:05](https://youtu.be/Nwhu6-QUZEc?t=00h39m05s) Mini joins for 10m1s
