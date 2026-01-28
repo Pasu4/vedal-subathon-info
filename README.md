@@ -6,9 +6,9 @@ This repository contains information about the subathons (and possibly other str
 Timestamps are based on the unofficial VOD archive on YouTube by [Neuro Archiver](https://youtube.com/@NArchiver).
 Information in this repository currently includes:
 
-- Timestamps for the ongoing 2025 subathon
-- Content overview (i.e. what happened on what day) for the ongoing 2025 subathon
-- Subgoals for the ongoing 2025 subathon
+- Timestamps starting from the 2025 subathon
+- Content overview (i.e. what happened on what day) starting from the 2025 subathon
+- Subgoals from the 2025 subathon
 
 I ([@Pasu4](https://github.com/Pasu4)) plan to add the following in the future once the subathon is finished, if I have the time:
 
@@ -47,7 +47,7 @@ That is an emdash (—), not a dash (-).
 Intervals are used to reduce the number of timestamps when someone leaves, joins, mutes or unmutes.
 Joining and unmuting use intervals for up to 15 minutes, after which two timestamps are used instead.
 Leaving and muting use intervals up to 10 minutes, and below 1 minute are not timestamped at all.
-Additionally, an interval cannot contain intervals of the opposite type, in that case the start and end of the enclosing interval are timestamped separately instead.
+For simplicity, an interval cannot contain intervals of the opposite type, in that case the start and end of the enclosing interval are timestamped separately instead.
 
 ## Deploy status (not important to visitors)
 
