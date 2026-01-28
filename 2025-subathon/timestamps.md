@@ -373,9 +373,9 @@
 
 ## Day 11 ([Part 30](https://youtu.be/gCOFxilQH-k))
 
-- [00:00:04](https://youtu.be/gCOFxilQH-k?t=00h00m04s) Neuro wakes up \| Evil joins \| **Just chatting**
+- [00:00:04](https://youtu.be/gCOFxilQH-k?t=00h00m04s) Neuro wakes up | Evil joins | **Just chatting**
 - [00:33:34](https://youtu.be/gCOFxilQH-k?t=00h33m34s) Evil leaves \| **3D Neuro**
-- [01:25:06](https://youtu.be/gCOFxilQH-k?t=01h25m06s) Evil joins \| **Just chatting**
+- [01:25:06](https://youtu.be/gCOFxilQH-k?t=01h25m06s) Evil joins | **Just chatting**
 - [01:30:10](https://youtu.be/gCOFxilQH-k?t=01h30m10s) **Playing *Poker***
 - [02:01:58](https://youtu.be/gCOFxilQH-k?t=02h01m58s) **Just chatting**
 - [02:30:04](https://youtu.be/gCOFxilQH-k?t=02h30m04s) Vedal joins

@@ -33,46 +33,54 @@ jobs:
         with:
           ref: ${{ github.ref }}
           fetch-depth: 0
-      - name: Detect unescaped '|' in 2025/timestamps.md
+      - name: Detect unescaped '|' in **/timestamps.md
         id: detect
         shell: bash
         run: |
           # A pipe is "escaped" only when immediately preceded by an odd-length run of backslashes.
           # This detects pipes preceded by an even-length run of backslashes (including zero).
-          if grep -qE '(^|[^\\])(\\\\)*\|' 2025/timestamps.md; then
+          if grep -qE '(^|[^\\])(\\\\)*\|' **/timestamps.md; then
             echo "clean=false" >> "$GITHUB_OUTPUT"
           else
             echo "clean=true" >> "$GITHUB_OUTPUT"
           fi
-      - name: Escape unescaped '|' in 2025/timestamps.md
+      - name: Escape unescaped '|' in **/timestamps.md
         if: steps.detect.outputs.clean == 'false'
         run: |
           # Insert one backslash before any pipe preceded by an even-length run of backslashes (including zero).
-          sed -i -E 's/(^|[^\\])((\\\\)*)\|/\1\2\\|/g' 2025/timestamps.md
+          sed -i -E 's/(^|[^\\])((\\\\)*)\|/\1\2\\|/g' **/timestamps.md
+      - name: Verify no unescaped '|' remain
+        id: detect_after
+        shell: bash
+        run: |
+          found=false
+          rx='(^|[^\\])(\\\\)*\|'
+          for i in **/timestamps.md; do
+            if grep -qE "$rx" "$i"; then
+              found=true
+              for l in $(grep -nE "$rx" "$i" | cut -d: -f1); do
+                echo "::error file=$i,line=$l,endline=$l::Unescaped | still found in $i after attempted fix" >&2
+              done
+            fi
+          done
+          if [ "$found" = true ]; then
+            echo "Unescaped | characters found in timestamps.md files" >&2
+            exit 1
+          fi
+          echo "clean=true" >> "$GITHUB_OUTPUT"
       - name: Commit and push changes
         if: steps.detect.outputs.clean == 'false'
         shell: bash
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'actions@github.com'
-          git add 2025/timestamps.md
+          git add **/timestamps.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           git commit -m "ci: auto-format pipes"
           git push
-      - name: Verify no unescaped '|' remain
-        id: detect_after
-        shell: bash
-        run: |
-          if grep -qE '(^|[^\\])(\\\\)*\|' 2025/timestamps.md; then
-            echo "clean=false" >> "$GITHUB_OUTPUT"
-            echo "Unescaped | still found in 2025/timestamps.md after attempted fix" >&2
-            exit 1
-          else
-            echo "clean=true" >> "$GITHUB_OUTPUT"
-          fi
 
   # Build job
   build:

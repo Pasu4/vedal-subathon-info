@@ -22,10 +22,10 @@ Also thanks to [@KTrain5169](https://github.com/KTrain5169) for helping out with
 
 ## Links
 
-- [2025 subathon](/2025/README.md)
-    - [Timestamps](/2025/timestamps.md)
-    - [Overview](/2025/overview.md)
-    - [Subgoals](/2025/subgoals.md)
+- 2025 subathon
+    - [Timestamps](/2025-subathon/timestamps.md)
+    - [Overview](/2025-subathon/overview.md)
+    - [Subgoals](/2025-subathon/subgoals.md)
 
 ## How to read timestamps
 
