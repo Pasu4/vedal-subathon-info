@@ -17,3 +17,15 @@
 - [02:02:02](https://youtu.be/Nwhu6-QUZEc?t=02h02m02s) **Art review**
 - [02:18:13](https://youtu.be/Nwhu6-QUZEc?t=02h18m13s) **Just chatting**
 - [02:19:49](https://youtu.be/Nwhu6-QUZEc?t=02h19m49s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## EVIL is back from her break!! ([29 Jan 2026](https://youtu.be/kiQVuBVN8ig))
+
+- [00:00:00](https://youtu.be/kiQVuBVN8ig?t=00h00m00s) *can u see me in the dark? — Halestorm & I Prevail*
+- [00:03:44](https://youtu.be/kiQVuBVN8ig?t=00h03m44s) *Wicked Game — Chris Isaak*
+- [00:08:30](https://youtu.be/kiQVuBVN8ig?t=00h08m30s) Evil appears \| **Just chatting**
+- [00:30:15](https://youtu.be/kiQVuBVN8ig?t=00h30m15s) Playing *Legally Distinct •••dle*
+- [00:40:45](https://youtu.be/kiQVuBVN8ig?t=00h40m45s) **Playing *Chess***
+- [01:27:57](https://youtu.be/kiQVuBVN8ig?t=01h27m57s) **Themed stream: Fortune telling / Tarot**
+- [02:08:00](https://youtu.be/kiQVuBVN8ig?t=02h08m00s) **Art review**
+- [02:18:15](https://youtu.be/kiQVuBVN8ig?t=02h18m15s) **Just chatting**
+- [02:19:42](https://youtu.be/kiQVuBVN8ig?t=02h19m42s) Raiding [Camila](https://twitch.tv/camila)
