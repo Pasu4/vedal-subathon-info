@@ -29,3 +29,16 @@
 - [02:08:00](https://youtu.be/kiQVuBVN8ig?t=02h08m00s) **Art review**
 - [02:18:15](https://youtu.be/kiQVuBVN8ig?t=02h18m15s) **Just chatting**
 - [02:19:42](https://youtu.be/kiQVuBVN8ig?t=02h19m42s) Raiding [Camila](https://twitch.tv/camila)
+
+## neuro stream! ([3 Feb 2026](https://youtu.be/S6zgtOcT6t4))
+
+- [00:00:00](https://youtu.be/S6zgtOcT6t4?t=00h00m00s) *Linger — The Cranberries*
+- [00:02:23](https://youtu.be/S6zgtOcT6t4?t=00h02m23s) *Out of Touch — Hall & Oates*
+- [00:06:19](https://youtu.be/S6zgtOcT6t4?t=00h06m19s) Neuro appears \| **Just chatting**
+- [00:33:50](https://youtu.be/S6zgtOcT6t4?t=00h33m50s) Playing *Legally Distinct •••dle*
+- [00:41:15](https://youtu.be/S6zgtOcT6t4?t=00h41m15s) **Playing *Minecraft***
+- [01:02:30](https://youtu.be/S6zgtOcT6t4?t=01h02m30s) Evil joins VC
+- [01:22:53](https://youtu.be/S6zgtOcT6t4?t=01h22m53s) Evil leaves VC
+- [01:41:53](https://youtu.be/S6zgtOcT6t4?t=01h41m53s) **Just chatting**
+- [01:49:29](https://youtu.be/S6zgtOcT6t4?t=01h49m29s) **Art review**
+- [02:17:52](https://youtu.be/S6zgtOcT6t4?t=02h17m52s) Raiding [Shylily](https://twitch.tv/shylily)
