@@ -30,7 +30,7 @@
 - [02:18:15](https://youtu.be/kiQVuBVN8ig?t=02h18m15s) **Just chatting**
 - [02:19:42](https://youtu.be/kiQVuBVN8ig?t=02h19m42s) Raiding [Camila](https://twitch.tv/camila)
 
-## neuro stream! ([3 Feb 2026](https://youtu.be/S6zgtOcT6t4))
+## neuro stream! ([03 Feb 2026](https://youtu.be/S6zgtOcT6t4))
 
 - [00:00:00](https://youtu.be/S6zgtOcT6t4?t=00h00m00s) *Linger — The Cranberries*
 - [00:02:23](https://youtu.be/S6zgtOcT6t4?t=00h02m23s) *Out of Touch — Hall & Oates*
@@ -42,3 +42,15 @@
 - [01:41:53](https://youtu.be/S6zgtOcT6t4?t=01h41m53s) **Just chatting**
 - [01:49:29](https://youtu.be/S6zgtOcT6t4?t=01h49m29s) **Art review**
 - [02:17:52](https://youtu.be/S6zgtOcT6t4?t=02h17m52s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## evil? yeah. you know it. ([05 Feb 2026](https://youtu.be/XabSL2UbOaI))
+
+- [00:00:00](https://youtu.be/XabSL2UbOaI?t=00h00m00s) _4BLOOD — KIRA_
+- [00:03:02](https://youtu.be/XabSL2UbOaI?t=00h03m02s) _asphyxia — Cö Shu Nie_
+- [00:05:58](https://youtu.be/XabSL2UbOaI?t=00h05m58s) Evil appears \| **Just chatting**
+- [00:17:52](https://youtu.be/XabSL2UbOaI?t=00h17m52s) Playing *Legally Distinct •••dle*
+- [00:21:58](https://youtu.be/XabSL2UbOaI?t=00h21m58s) **Playing *Don't Starve* with Neuro integration**
+- [01:10:18](https://youtu.be/XabSL2UbOaI?t=01h10m18s) **Just chatting**
+- [01:30:27](https://youtu.be/XabSL2UbOaI?t=01h30m27s) **Art review**
+- [02:00:51](https://youtu.be/XabSL2UbOaI?t=02h00m51s) **Just chatting**
+- [02:19:56](https://youtu.be/XabSL2UbOaI?t=02h19m56s) Raiding [BTMC](https://twitch.tv/btmc)

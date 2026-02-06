@@ -10,6 +10,7 @@ The date of a stream is the day it started in British time.
 | 27 Jan 2026 | [neuro is back from her break!!](https://youtu.be/Nwhu6-QUZEc)                  | Just chatting         | Neuro, Evil, Mini                     | [Shylily](https://twitch.tv/shylily)
 | 29 Jan 2026 | [EVIL is back from her break!!](https://youtu.be/kiQVuBVN8ig)                   | Just chatting         | Evil                                  | [Camila](https://twitch.tv/camila)
 | 03 Feb 2026 | [neuro stream!](https://youtu.be/S6zgtOcT6t4)                                   | Just chatting         | Neuro, Evil                           | [Shylily](https://twitch.tv/shylily)
+| 05 Feb 2026 | [evil? yeah. you know it.](https://youtu.be/XabSL2UbOaI)                        | Just chatting         | Evil                                  | [BTMC](https://twitch.tv/btmc)
 
 ## Participants
 
@@ -18,7 +19,7 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 | Participant                                                   | Streams
 |:--------------------------------------------------------------|:--------
 | [Neuro](https://twitch.tv/vedal987)                           | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-03](https://youtu.be/S6zgtOcT6t4)
-| [Evil](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4)
+| [Evil](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI)
 | [Mini](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc)
 
 ## Recurring content
@@ -29,12 +30,13 @@ Also contains games, even if they have not (yet) recurred.
 
 | Content                                   | Streams
 |:------------------------------------------|:--------
-| Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4)
+| Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI)
 | Themed stream: Teacher                    | [01-27](https://youtu.be/Nwhu6-QUZEc)
-| Art review                                | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4)
+| Art review                                | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI)
 | Chess (Integrated)                        | [01-29](https://youtu.be/kiQVuBVN8ig)
 | Themed stream: Fortune telling / Tarot    | [01-29](https://youtu.be/kiQVuBVN8ig)
 | Minecraft (Integrated)                    | [02-03](https://youtu.be/S6zgtOcT6t4)
+| Don't Starve (Integrated)                 | [02-05](https://youtu.be/XabSL2UbOaI)
 
 ## One-time events
 
