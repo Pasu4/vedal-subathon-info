@@ -44,6 +44,8 @@ Songs with no official name (e.g. the subathon mixes) are not in italics.
 Songs use the format "\<title\> — \<author\>".
 That is an emdash (—), not a dash (-).
 
+Deleted, cut, or otherwise excluded content uses "‒‒:‒‒:‒‒" for a timestamp, and is placed at the (approximate) location where the excluded content would have been. The figure dash (U+2012) is used to align it with the other timestamps.
+
 Intervals are used to reduce the number of timestamps when someone leaves, joins, mutes or unmutes.
 Joining and unmuting use intervals for up to 15 minutes, after which two timestamps are used instead.
 Leaving and muting use intervals up to 10 minutes, and below 1 minute are not timestamped at all.

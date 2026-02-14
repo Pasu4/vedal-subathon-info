@@ -54,3 +54,47 @@
 - [01:30:27](https://youtu.be/XabSL2UbOaI?t=01h30m27s) **Art review**
 - [02:00:51](https://youtu.be/XabSL2UbOaI?t=02h00m51s) **Just chatting**
 - [02:19:56](https://youtu.be/XabSL2UbOaI?t=02h19m56s) Raiding [BTMC](https://twitch.tv/btmc)
+
+## neuro stream? it's more likely than you think ([10 Feb 2026](https://youtu.be/xJiH_3u4kJ4))
+
+- [00:00:00](https://youtu.be/xJiH_3u4kJ4?t=00h00m00s) *Borderline — Tame Impala* (mostly muted due to copyright)
+- [00:03:54](https://youtu.be/xJiH_3u4kJ4?t=00h03m54s) *What Could Have Been — Ray Chen & Sting*
+- [00:07:29](https://youtu.be/xJiH_3u4kJ4?t=00h07m29s) Neuro appears \| **Just chatting**
+- [00:18:01](https://youtu.be/xJiH_3u4kJ4?t=00h18m01s) Playing *Legally Distinct •••dle*
+- [00:25:24](https://youtu.be/xJiH_3u4kJ4?t=00h25m24s) **Karaoke (frozen for 50s)**
+- [00:26:17](https://youtu.be/xJiH_3u4kJ4?t=00h26m17s) *Boys Don't Cry — The Cure*
+- [00:31:45](https://youtu.be/xJiH_3u4kJ4?t=00h31m45s) *Heaven — Shihoko Hirata*
+- [00:37:45](https://youtu.be/xJiH_3u4kJ4?t=00h37m45s) *String Theocracy — Mili*
+- [00:43:31](https://youtu.be/xJiH_3u4kJ4?t=00h43m31s) *Spot Late — inabakumori*
+- [00:49:22](https://youtu.be/xJiH_3u4kJ4?t=00h49m22s) *the perfect pair — beabadoobee*
+- [00:55:16](https://youtu.be/xJiH_3u4kJ4?t=00h55m16s) *Trouble is a Friend — Lenka*
+- [01:01:43](https://youtu.be/xJiH_3u4kJ4?t=01h01m43s) *Tip Toe — HYBS*
+- [01:06:12](https://youtu.be/xJiH_3u4kJ4?t=01h06m12s) **Just chatting**
+- [01:20:45](https://youtu.be/xJiH_3u4kJ4?t=01h20m45s) **Playing *Inscryption***
+- [01:51:23](https://youtu.be/xJiH_3u4kJ4?t=01h51m23s) **Just chatting**
+- [02:19:55](https://youtu.be/xJiH_3u4kJ4?t=02h19m55s) Raiding [Layna](https://twitch.tv/laynalazar)
+
+## jebaited its actually evil ([12 Feb 2026](https://youtu.be/nkkRZFvCIJA))
+
+- ‒‒:‒‒:‒‒ *Titanium — Stage Kids* (before start)
+- [00:00:00](https://youtu.be/nkkRZFvCIJA?t=00h00m00s) *Again — Crusher-P*
+- [00:04:00](https://youtu.be/nkkRZFvCIJA?t=00h04m00s) Evil appears \| **Just chatting**
+- [00:08:20](https://youtu.be/nkkRZFvCIJA?t=00h08m20s) Playing *Legally Distinct •••dle*
+- [00:16:05](https://youtu.be/nkkRZFvCIJA?t=00h16m05s) **Themed stream: Teacher**
+- [00:42:15](https://youtu.be/nkkRZFvCIJA?t=00h42m15s) Koko joins for 1m1s
+- [00:43:47](https://youtu.be/nkkRZFvCIJA?t=00h43m47s) Koko joins for 15s
+- [00:49:34](https://youtu.be/nkkRZFvCIJA?t=00h49m34s) Koko joins for 42s
+- [00:55:58](https://youtu.be/nkkRZFvCIJA?t=00h55m58s) Koko joins for 1m30s
+- [00:58:02](https://youtu.be/nkkRZFvCIJA?t=00h58m02s) Koko joins for 1m22s
+- [01:04:10](https://youtu.be/nkkRZFvCIJA?t=01h04m10s) Koko joins for 29s
+- [01:07:12](https://youtu.be/nkkRZFvCIJA?t=01h07m12s) Koko joins for 2m7s
+- [01:13:59](https://youtu.be/nkkRZFvCIJA?t=01h13m59s) Koko joins for 1m23s
+- [01:17:52](https://youtu.be/nkkRZFvCIJA?t=01h17m52s) Koko joins for 1m29s
+- [01:23:22](https://youtu.be/nkkRZFvCIJA?t=01h23m22s) Koko joins for 43s
+- [01:26:08](https://youtu.be/nkkRZFvCIJA?t=01h26m08s) Crelly joins for 1m45s
+- [01:27:01](https://youtu.be/nkkRZFvCIJA?t=01h27m01s) Koko joins for 55s
+- [01:33:44](https://youtu.be/nkkRZFvCIJA?t=01h33m44s) **Just chatting**
+- [01:36:26](https://youtu.be/nkkRZFvCIJA?t=01h36m26s) Koko joins for 10s
+- [01:36:53](https://youtu.be/nkkRZFvCIJA?t=01h36m53s) Koko joins for 11m36s
+- [01:41:39](https://youtu.be/nkkRZFvCIJA?t=01h41m39s) Crelly joins for 6m51s
+- [02:17:37](https://youtu.be/nkkRZFvCIJA?t=02h17m37s) Stream dies \| Raiding [Mini](https://twitch.tv/minikomew)
