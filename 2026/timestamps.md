@@ -24,7 +24,7 @@
 - [00:03:44](https://youtu.be/kiQVuBVN8ig?t=00h03m44s) *Wicked Game — Chris Isaak*
 - [00:08:30](https://youtu.be/kiQVuBVN8ig?t=00h08m30s) Evil appears \| **Just chatting**
 - [00:30:15](https://youtu.be/kiQVuBVN8ig?t=00h30m15s) Playing *Legally Distinct •••dle*
-- [00:40:45](https://youtu.be/kiQVuBVN8ig?t=00h40m45s) **Playing *Chess***
+- [00:40:45](https://youtu.be/kiQVuBVN8ig?t=00h40m45s) **Playing *Chess* vs. viewers**
 - [01:27:57](https://youtu.be/kiQVuBVN8ig?t=01h27m57s) **Themed stream: Fortune telling / Tarot**
 - [02:08:00](https://youtu.be/kiQVuBVN8ig?t=02h08m00s) **Art review**
 - [02:18:15](https://youtu.be/kiQVuBVN8ig?t=02h18m15s) **Just chatting**
@@ -98,3 +98,15 @@
 - [01:36:53](https://youtu.be/nkkRZFvCIJA?t=01h36m53s) Koko joins for 11m36s
 - [01:41:39](https://youtu.be/nkkRZFvCIJA?t=01h41m39s) Crelly joins for 6m51s
 - [02:17:37](https://youtu.be/nkkRZFvCIJA?t=02h17m37s) Stream dies \| Raiding [Mini](https://twitch.tv/minikomew)
+
+## NEURO TUESDAY 🚨 TUNE IN 🚨 VERY NEUROTIC ([17 Feb 2026](https://youtu.be/zaxmxPE6Mls))
+
+- [00:00:00](https://youtu.be/zaxmxPE6Mls?t=00h00m00s) *Circles — KIRA & Rachie*
+- [00:04:02](https://youtu.be/zaxmxPE6Mls?t=00h04m02s) *What Is Love — Haddaway*
+- [00:08:09](https://youtu.be/zaxmxPE6Mls?t=00h08m09s) Neuro appears \| **Just chatting**
+- [00:17:33](https://youtu.be/zaxmxPE6Mls?t=00h17m33s) Playing *Legally Distinct •••dle*
+- [00:28:10](https://youtu.be/zaxmxPE6Mls?t=00h28m10s) **Themed stream: Neuro News Network**
+- [01:22:57](https://youtu.be/zaxmxPE6Mls?t=01h22m57s) **Just chatting**
+- [01:35:01](https://youtu.be/zaxmxPE6Mls?t=01h35m01s) **Art review**
+- [02:10:42](https://youtu.be/zaxmxPE6Mls?t=02h10m42s) **Just chatting**
+- [02:19:48](https://youtu.be/zaxmxPE6Mls?t=02h19m48s) Raiding [Cerber](https://twitch.tv/cerbervt)
