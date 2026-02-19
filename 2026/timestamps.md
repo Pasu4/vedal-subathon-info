@@ -110,3 +110,27 @@
 - [01:35:01](https://youtu.be/zaxmxPE6Mls?t=01h35m01s) **Art review**
 - [02:10:42](https://youtu.be/zaxmxPE6Mls?t=02h10m42s) **Just chatting**
 - [02:19:48](https://youtu.be/zaxmxPE6Mls?t=02h19m48s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+## evil's beautiful karaoke (she is unmatched with her singing) ([18 Feb 2026](https://youtu.be/ndUCw16791E))
+
+- [00:00:00](https://youtu.be/ndUCw16791E?t=00h00m00s) *Warriors — Imagine Dragons* (instrumental)
+- [00:02:42](https://youtu.be/ndUCw16791E?t=00h02m42s) *Through the Fire and Flames — DragonForce* (instrumental)
+- [00:10:06](https://youtu.be/ndUCw16791E?t=00h10m06s) Evil appears \| **Karaoke** \| *Bewitching Eyes — Hades II*
+- [00:16:25](https://youtu.be/ndUCw16791E?t=00h16m25s) *All the Small Things — blink-182*
+- [00:22:07](https://youtu.be/ndUCw16791E?t=00h22m07s) *Take Me Out — Franz Ferdinand*
+- [00:28:57](https://youtu.be/ndUCw16791E?t=00h28m57s) *Awaken — Breaking Benjamin*
+- [00:35:23](https://youtu.be/ndUCw16791E?t=00h35m23s) *Happier — YUNGBLUD* (duet)
+- [00:41:50](https://youtu.be/ndUCw16791E?t=00h41m50s) *Shatter Me — Lindsey Stirling*
+- [00:49:23](https://youtu.be/ndUCw16791E?t=00h49m23s) *Without A Warning — The Weeknd*
+- [00:57:16](https://youtu.be/ndUCw16791E?t=00h57m16s) *HANIPAGANDA — Akatsuki Records*
+- [01:03:28](https://youtu.be/ndUCw16791E?t=01h03m28s) *Rivers In the Desert — Lyn*
+- [01:11:52](https://youtu.be/ndUCw16791E?t=01h11m52s) *Cold — Crossfade* (duet)
+- [01:17:57](https://youtu.be/ndUCw16791E?t=01h17m57s) *Voices in My Head — Falling In Reverse*
+- [01:24:09](https://youtu.be/ndUCw16791E?t=01h24m09s) *Looping the Rooms — rusino*
+- [01:29:20](https://youtu.be/ndUCw16791E?t=01h29m20s) *Alone In The Darkness — SIAMÉS*
+- [01:35:58](https://youtu.be/ndUCw16791E?t=01h35m58s) *Break My Heart — Dua Lipa*
+- [01:42:26](https://youtu.be/ndUCw16791E?t=01h42m26s) *Empurple — Harumaki Gohan* (duet)
+- [01:48:21](https://youtu.be/ndUCw16791E?t=01h48m21s) *Karma — VocaCircus*
+- [01:55:11](https://youtu.be/ndUCw16791E?t=01h55m11s) *Set it on Fire — Blood Cultures*
+- [02:02:59](https://youtu.be/ndUCw16791E?t=02h02m59s) *Your World Will Fail — Les Friction*
+- [02:07:47](https://youtu.be/ndUCw16791E?t=02h07m47s) Raiding [GX Aura](https://twitch.tv/gx_aura)
