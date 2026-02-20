@@ -134,3 +134,15 @@
 - [01:55:11](https://youtu.be/ndUCw16791E?t=01h55m11s) *Set it on Fire — Blood Cultures*
 - [02:02:59](https://youtu.be/ndUCw16791E?t=02h02m59s) *Your World Will Fail — Les Friction*
 - [02:07:47](https://youtu.be/ndUCw16791E?t=02h07m47s) Raiding [GX Aura](https://twitch.tv/gx_aura)
+
+## thursdays are NATURALLY evil, because it aint friday ([19 Feb 2026](https://youtu.be/aVgQB97ScPg))
+
+- ‒‒:‒‒:‒‒ *Off With Her Head — Icon for Hire* (before start)
+- [00:00:00](https://youtu.be/aVgQB97ScPg?t=00h00m00s) *Stayin' Alive — Bee Gees*
+- [00:02:42](https://youtu.be/aVgQB97ScPg?t=00h02m42s) Evil appears \| **Just chatting**
+- [00:17:07](https://youtu.be/aVgQB97ScPg?t=00h17m07s) Attempting to play *Minecraft*
+- [00:36:20](https://youtu.be/aVgQB97ScPg?t=00h36m20s) **Playing *Buckshot Roulette***
+- [01:29:07](https://youtu.be/aVgQB97ScPg?t=01h29m07s) **Just chatting**
+- [01:32:44](https://youtu.be/aVgQB97ScPg?t=01h32m44s) Playing *Legally Distinct •••dle*
+- [01:52:17](https://youtu.be/aVgQB97ScPg?t=01h52m17s) **Art review**
+- [02:14:51](https://youtu.be/aVgQB97ScPg?t=02h14m51s) Raiding [Laimu](https://twitch.tv/limealicious)
