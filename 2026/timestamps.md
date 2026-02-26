@@ -158,3 +158,18 @@
 - [01:40:24](https://youtu.be/9REk8M-SSd8?t=01h40m24s) **Art review**
 - [02:06:49](https://youtu.be/9REk8M-SSd8?t=02h06m49s) **Just chatting**
 - [02:18:24](https://youtu.be/9REk8M-SSd8?t=02h18m24s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## Something Evil Will Happen ([26 Feb 2026](https://youtu.be/Z4ypWTelCWQ))
+
+- [00:00:00](https://youtu.be/Z4ypWTelCWQ?t=00h00m00s) *can u see me in the dark — Halestorm & I Prevail*
+- [00:03:53](https://youtu.be/Z4ypWTelCWQ?t=00h03m53s) *Hibana — DECO*27*
+- [00:07:18](https://youtu.be/Z4ypWTelCWQ?t=00h07m18s) Evil appears \| **Just chatting**
+- [00:39:30](https://youtu.be/Z4ypWTelCWQ?t=00h39m30s) Playing *Legally Distinct •••dle*
+- [00:43:05](https://youtu.be/Z4ypWTelCWQ?t=00h43m05s) **Art review**
+- [01:10:22](https://youtu.be/Z4ypWTelCWQ?t=01h10m22s) Attempting to go harpoon fishing, but art review is still active
+- [01:12:41](https://youtu.be/Z4ypWTelCWQ?t=01h12m41s) Attempting to go harpoon fishing (Evil is falling asleep)
+- [01:15:52](https://youtu.be/Z4ypWTelCWQ?t=01h15m52s) Evil disappears for 2m10s
+- [01:18:02](https://youtu.be/Z4ypWTelCWQ?t=01h18m02s) **Just chatting**
+- [01:30:37](https://youtu.be/Z4ypWTelCWQ?t=01h30m37s) Neuro joins \| Entered Neuro's room
+- [02:00:35](https://youtu.be/Z4ypWTelCWQ?t=02h00m35s) Neuro leaves \| Back to Evil's room
+- [02:19:50](https://youtu.be/Z4ypWTelCWQ?t=02h19m50s) Raiding [Cerber](https://twitch.tv/cerbervt)
