@@ -16,6 +16,7 @@ The date of a stream is the day it started in British time.
 | [17 Feb 2026](https://youtu.be/zaxmxPE6Mls) | NEURO TUESDAY 🚨 TUNE IN 🚨 VERY NEUROTIC                          | Just chatting         | Neuro                                 | [Cerber](https://twitch.tv/cerbervt)
 | [18 Feb 2026](https://youtu.be/ndUCw16791E) | evil's beautiful karaoke (she is unmatched with her singing)        | Karaoke               | Evil, Neuro                           | [GX Aura](https://twitch.tv/gx_aura)
 | [19 Feb 2026](https://youtu.be/aVgQB97ScPg) | thursdays are NATURALLY evil, because it aint friday                | Variety               | Evil                                  | [Laimu](https://twitch.tv/limealicious)
+| [24 Feb 2026](https://youtu.be/9REk8M-SSd8) | neuro sama takes over the world! but not today, today she's streaming | Just chatting       | Neuro                                 | [Shylily](https://twitch.tv/shylily)
 
 ## Participants
 
@@ -23,7 +24,7 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 
 | Participant                                                   | Streams
 |:--------------------------------------------------------------|:--------
-| [Neuro](https://twitch.tv/vedal987)                           | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-03](https://youtu.be/S6zgtOcT6t4), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-17](https://youtu.be/zaxmxPE6Mls), [02-18](https://youtu.be/ndUCw16791E)
+| [Neuro](https://twitch.tv/vedal987)                           | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-03](https://youtu.be/S6zgtOcT6t4), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-17](https://youtu.be/zaxmxPE6Mls), [02-18](https://youtu.be/ndUCw16791E), [02-24](https://youtu.be/9REk8M-SSd8)
 | [Evil](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-12](https://youtu.be/nkkRZFvCIJA), [02-18](https://youtu.be/ndUCw16791E), [02-19](https://youtu.be/aVgQB97ScPg)
 | [Mini](https://twitch.tv/vedal987)                            | [01-27](https://youtu.be/Nwhu6-QUZEc)
 | [Koko](https://twitch.tv/kokonuts)                            | [02-12](https://youtu.be/nkkRZFvCIJA)
@@ -37,11 +38,11 @@ Also contains games, even if they have not (yet) recurred.
 
 | Content                                   | Streams
 |:------------------------------------------|:--------
-| Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-12](https://youtu.be/nkkRZFvCIJA), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg)
+| Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-12](https://youtu.be/nkkRZFvCIJA), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8)
 | Themed stream: Teacher                    | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-12](https://youtu.be/nkkRZFvCIJA)
-| Art review                                | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg)
+| Art review                                | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8)
 | Chess (Integrated)                        | [01-29](https://youtu.be/kiQVuBVN8ig)
-| Themed stream: Fortune telling / Tarot    | [01-29](https://youtu.be/kiQVuBVN8ig)
+| Themed stream: Fortune telling / Tarot    | [01-29](https://youtu.be/kiQVuBVN8ig), [02-24](https://youtu.be/9REk8M-SSd8)
 | Minecraft (Integrated)                    | [02-03](https://youtu.be/S6zgtOcT6t4), [02-19](https://youtu.be/aVgQB97ScPg)
 | Don't Starve (Integrated)                 | [02-05](https://youtu.be/XabSL2UbOaI)
 | Karaoke                                   | [02-10](https://youtu.be/xJiH_3u4kJ4), [02-18](https://youtu.be/ndUCw16791E)

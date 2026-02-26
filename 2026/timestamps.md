@@ -146,3 +146,15 @@
 - [01:32:44](https://youtu.be/aVgQB97ScPg?t=01h32m44s) Playing *Legally Distinct •••dle*
 - [01:52:17](https://youtu.be/aVgQB97ScPg?t=01h52m17s) **Art review**
 - [02:14:51](https://youtu.be/aVgQB97ScPg?t=02h14m51s) Raiding [Laimu](https://twitch.tv/limealicious)
+
+## neuro sama takes over the world! but not today, today she's streaming ([24 Feb 2026](https://youtu.be/9REk8M-SSd8))
+
+- [00:00:00](https://youtu.be/9REk8M-SSd8?t=00h00m00s) *Rolling Girl — wowaka*
+- [00:03:04](https://youtu.be/9REk8M-SSd8?t=00h03m04s) *Sofia — Clairo*
+- [00:06:13](https://youtu.be/9REk8M-SSd8?t=00h06m13s) Neuro appears \| **Just chatting**
+- [00:17:30](https://youtu.be/9REk8M-SSd8?t=00h17m30s) Playing *Legally Distinct •••dle*
+- [00:27:40](https://youtu.be/9REk8M-SSd8?t=00h27m40s) **Themed stream: Fortune telling / Tarot**
+- [01:28:45](https://youtu.be/9REk8M-SSd8?t=01h28m45s) **Just chatting**
+- [01:40:24](https://youtu.be/9REk8M-SSd8?t=01h40m24s) **Art review**
+- [02:06:49](https://youtu.be/9REk8M-SSd8?t=02h06m49s) **Just chatting**
+- [02:18:24](https://youtu.be/9REk8M-SSd8?t=02h18m24s) Raiding [Shylily](https://twitch.tv/shylily)
