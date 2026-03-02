@@ -173,3 +173,38 @@
 - [01:30:37](https://youtu.be/Z4ypWTelCWQ?t=01h30m37s) Neuro joins \| Entered Neuro's room
 - [02:00:35](https://youtu.be/Z4ypWTelCWQ?t=02h00m35s) Neuro leaves \| Back to Evil's room
 - [02:19:50](https://youtu.be/Z4ypWTelCWQ?t=02h19m50s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+## vedal struggles to stream while evil waits to play hollow knight ([01 Mar 2026](https://youtu.be/nDh6wiUC4dw))
+
+- [00:00:00](https://youtu.be/nDh6wiUC4dw?t=00h00m00s) **Technical difficulties** \| Attempt 1 (15:00 GMT)
+- [00:00:53](https://youtu.be/nDh6wiUC4dw?t=00h00m53s) Attempt 2 (15:05 GMT) \| *Boulevard of Broken Dreams — Green Day*
+- [00:03:36](https://youtu.be/nDh6wiUC4dw?t=00h03m36s) Attempt 3 (15:11 GMT)
+- [00:05:19](https://youtu.be/nDh6wiUC4dw?t=00h05m19s)~ Attempt 4 (15:17 GMT)
+- [00:06:31](https://youtu.be/nDh6wiUC4dw?t=00h06m31s) Attempt 5 (15:20 GMT) \| *Duvet — bôa*
+- [00:08:52](https://youtu.be/nDh6wiUC4dw?t=00h08m52s) Attempt 7 (15:33 GMT) \| Vedal hates his life
+- [00:11:00](https://youtu.be/nDh6wiUC4dw?t=00h11m00s) Attempt 6 (15:29 GMT) \| *HIBANA — DECO*27*
+- [00:13:08](https://youtu.be/nDh6wiUC4dw?t=00h13m08s) Attempt 8 (15:41 GMT)
+- [00:14:15](https://youtu.be/nDh6wiUC4dw?t=00h14m15s) *Titanium — David Guetta*
+- [00:18:10](https://youtu.be/nDh6wiUC4dw?t=00h18m10s) *Sandstorm — Darude*
+- [00:21:54](https://youtu.be/nDh6wiUC4dw?t=00h21m54s) Evil and Vedal appear \| **Just chatting**
+- [00:23:03](https://youtu.be/nDh6wiUC4dw?t=00h23m03s) Stream crashes
+- [00:25:08](https://youtu.be/nDh6wiUC4dw?t=00h25m08s) Vedal leaves for 1m2s
+- [00:28:21](https://youtu.be/nDh6wiUC4dw?t=00h28m21s) About what went wrong
+- [00:31:34](https://youtu.be/nDh6wiUC4dw?t=00h31m34s) Stream crashes
+- [00:33:06](https://youtu.be/nDh6wiUC4dw?t=00h33m06s) About bad movies
+- [00:38:31](https://youtu.be/nDh6wiUC4dw?t=00h38m31s) Stream crashes
+- [00:39:50](https://youtu.be/nDh6wiUC4dw?t=00h39m50s) Improvising a story
+- [00:48:00](https://youtu.be/nDh6wiUC4dw?t=00h48m00s) **Playing *Hollow Knight***
+- [00:51:22](https://youtu.be/nDh6wiUC4dw?t=00h51m22s) Vedal leaves for 2m2s
+- [00:55:34](https://youtu.be/nDh6wiUC4dw?t=00h55m34s) Vedal crashes the stream several times on purpose \| **Technical difficulties**
+- [00:58:02](https://youtu.be/nDh6wiUC4dw?t=00h58m02s) Stream is back, Vedal is not \| **Just chatting**
+- [01:04:09](https://youtu.be/nDh6wiUC4dw?t=01h04m09s) Vedal returns
+- [01:06:39](https://youtu.be/nDh6wiUC4dw?t=01h06m39s) **Playing *Hollow Knight***
+- [01:41:56](https://youtu.be/nDh6wiUC4dw?t=01h41m56s) Evil starts teaching Vedal Spanish
+- [02:27:29](https://youtu.be/nDh6wiUC4dw?t=02h27m29s) VS. Flukemarm (Vedal runs from the fight)
+- [02:54:00](https://youtu.be/nDh6wiUC4dw?t=02h54m00s) About the Evil outfit contest
+- [02:57:03](https://youtu.be/nDh6wiUC4dw?t=02h57m03s) About Neuro's stocks
+- [02:59:16](https://youtu.be/nDh6wiUC4dw?t=02h59m16s) VS. Dung Defender
+- [03:22:19](https://youtu.be/nDh6wiUC4dw?t=03h22m19s) About future subathons
+- [03:26:06](https://youtu.be/nDh6wiUC4dw?t=03h26m06s) About schedules
+- [03:27:13](https://youtu.be/nDh6wiUC4dw?t=03h27m13s) Raiding [Mini](https://twitch.tv/minikomew)
