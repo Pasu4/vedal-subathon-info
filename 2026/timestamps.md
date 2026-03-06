@@ -219,3 +219,37 @@
 - [00:46:54](https://youtu.be/jS765dNaCDQ?t=00h46m54s) **3D stream**
 - [01:46:45](https://youtu.be/jS765dNaCDQ?t=01h46m45s) **Art review**
 - [02:19:52](https://youtu.be/jS765dNaCDQ?t=02h19m52s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## Neuro Karaoke is here to make your day better ([04 Mar 2026](https://youtu.be/pT_w4Iep6qI))
+
+- [00:00:00](https://youtu.be/pT_w4Iep6qI?t=00h00m00s) *Playground — Bea Miller* (Instrumental)
+- [00:01:49](https://youtu.be/pT_w4Iep6qI?t=00h01m49s) Neuro appears \| **Karaoke** \| *MAYDAY — TheFatRat*
+- [00:08:44](https://youtu.be/pT_w4Iep6qI?t=00h08m44s) *Karma Chameleon — Culture Club*
+- [00:15:49](https://youtu.be/pT_w4Iep6qI?t=00h15m49s) *Ai No Urade — EO*
+- [00:22:03](https://youtu.be/pT_w4Iep6qI?t=00h22m03s) *I Knew You Were Trouble — Taylor Swift*
+- [00:28:33](https://youtu.be/pT_w4Iep6qI?t=00h28m33s) *Lauren — Men I Trust* (duet)
+- [00:35:06](https://youtu.be/pT_w4Iep6qI?t=00h35m06s) *Isn't She Lovely — Stevie Wonder*
+- [00:41:24](https://youtu.be/pT_w4Iep6qI?t=00h41m24s) *La La La — Naughty Boy*
+- [00:47:49](https://youtu.be/pT_w4Iep6qI?t=00h47m49s) *Te o Tatake Ima Koko de Inoru Dake Negau Dake — THE SPELLBOUND*
+- [00:54:34](https://youtu.be/pT_w4Iep6qI?t=00h54m34s) *Cyberangel — HOYO-MiX*
+- [01:00:20](https://youtu.be/pT_w4Iep6qI?t=01h00m20s) *world.search(you); — Mili*
+- [01:07:59](https://youtu.be/pT_w4Iep6qI?t=01h07m59s) *La Gata Bajo la Lluvia — Rocío Dúrcal*
+- [01:14:26](https://youtu.be/pT_w4Iep6qI?t=01h14m26s) *Say It Back — tv room*
+- [01:20:02](https://youtu.be/pT_w4Iep6qI?t=01h20m02s) *Tabi No Tochuu — Natsumi Kiyoura*
+- [01:27:42](https://youtu.be/pT_w4Iep6qI?t=01h27m42s) *Stupid Heart — Ellie Minibot*
+- [01:33:42](https://youtu.be/pT_w4Iep6qI?t=01h33m42s) *End of Beginning — Djo* (duet)
+- [01:39:15](https://youtu.be/pT_w4Iep6qI?t=01h39m15s) *Shooting Stars — Bag Raiders*
+- [01:46:09](https://youtu.be/pT_w4Iep6qI?t=01h46m09s) *Object of Affection — Jamie Paige* (duet)
+- [01:53:39](https://youtu.be/pT_w4Iep6qI?t=01h53m39s) *Goodbye — Ramsey*
+- [01:57:26](https://youtu.be/pT_w4Iep6qI?t=01h57m26s) Raiding [Layna](https://twitch.tv/laynalazar)
+
+## Devious Evil stream today ([05 Mar 2026](https://youtu.be/dEASwQwxJgE))
+
+- [00:00:00](https://youtu.be/dEASwQwxJgE?t=00h00m00s) *Abnormality Dancin' Girl — Guchiry*
+- [00:03:16](https://youtu.be/dEASwQwxJgE?t=00h03m16s) *Boulevard of Broken Dreams — Green Day*
+- [00:07:35](https://youtu.be/dEASwQwxJgE?t=00h07m35s) Evil appears \| **Just chatting**
+- [00:38:35](https://youtu.be/dEASwQwxJgE?t=00h38m35s) Playing *Legally Distinct •••dle*
+- [01:15:40](https://youtu.be/dEASwQwxJgE?t=01h15m40s) **Playing *Don't Starve***
+- [01:18:01](https://youtu.be/dEASwQwxJgE?t=01h18m01s) Game crashes, Evil sleeps for 3m59s
+- [02:09:21](https://youtu.be/dEASwQwxJgE?t=02h09m21s) **Just chatting**
+- [02:19:47](https://youtu.be/dEASwQwxJgE?t=02h19m47s) Raiding [Chibi](https://twitch.tv/chibidoki)
