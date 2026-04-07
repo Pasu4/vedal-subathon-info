@@ -678,3 +678,74 @@
 - [01:50:16](https://youtu.be/hGtT4-MSzS0?t=01h50m16s) **Just chatting**
 - [01:52:53](https://youtu.be/hGtT4-MSzS0?t=01h52m53s) Neuro joins
 - [02:19:43](https://youtu.be/hGtT4-MSzS0?t=02h19m43s) Raiding [Uchuujin Ai](https://twitch.tv/uchuujin_ai)
+
+## Vedal and Evil buggin out in Hollow Knight ([04 Apr 2026](https://youtu.be/G3N5lZxq8xw))
+
+- [00:00:00](https://youtu.be/G3N5lZxq8xw?t=00h00m00s) *Android Girl — DECO\*27*
+- [00:03:06](https://youtu.be/G3N5lZxq8xw?t=00h03m06s) *Crazy Fuckin Robot Body — SnowBlood*
+- [00:05:54](https://youtu.be/G3N5lZxq8xw?t=00h05m54s) Vedal and Evil appear \| **Just chatting**
+- [00:08:13](https://youtu.be/G3N5lZxq8xw?t=00h08m13s) About the TypeScript rewrite
+- [00:11:04](https://youtu.be/G3N5lZxq8xw?t=00h11m04s) Vedal transfers Evil to the new system
+- [00:20:10](https://youtu.be/G3N5lZxq8xw?t=00h20m10s) **Playing *Hollow Knight***
+- [00:42:14](https://youtu.be/G3N5lZxq8xw?t=00h42m14s) VS. Uumuu (4 Attempts)
+- [00:52:55](https://youtu.be/G3N5lZxq8xw?t=00h52m55s) Final attempt
+- [01:00:43](https://youtu.be/G3N5lZxq8xw?t=01h00m43s) VS. Monomon the Teacher
+- [01:29:20](https://youtu.be/G3N5lZxq8xw?t=01h29m20s) VS. The Hollow Knight (9 Attempts)
+- [01:44:45](https://youtu.be/G3N5lZxq8xw?t=01h44m45s) Final attempt
+- [01:48:30](https://youtu.be/G3N5lZxq8xw?t=01h48m30s) The Hollow Knight ending
+- [01:56:58](https://youtu.be/G3N5lZxq8xw?t=01h56m58s) About Evil's l*tency
+- [01:58:20](https://youtu.be/G3N5lZxq8xw?t=01h58m20s) About memory leaks and RAM usage
+- [02:01:56](https://youtu.be/G3N5lZxq8xw?t=02h01m56s) About Evil muting mid-sentence
+- [02:04:45](https://youtu.be/G3N5lZxq8xw?t=02h04m45s) Gameplay stops \| Just chatting while sitting on bench
+- [02:05:11](https://youtu.be/G3N5lZxq8xw?t=02h05m11s) About dev streams
+- [02:06:45](https://youtu.be/G3N5lZxq8xw?t=02h06m45s) About Neuro's blog
+- [02:07:01](https://youtu.be/G3N5lZxq8xw?t=02h07m01s) About new animated emotes
+- [02:08:08](https://youtu.be/G3N5lZxq8xw?t=02h08m08s) About v3 voice
+- [02:08:15](https://youtu.be/G3N5lZxq8xw?t=02h08m15s) About what the new code affects
+- [02:08:41](https://youtu.be/G3N5lZxq8xw?t=02h08m41s) About EPs / songs
+- [02:09:35](https://youtu.be/G3N5lZxq8xw?t=02h09m35s) About Neuro's winks
+- [02:09:54](https://youtu.be/G3N5lZxq8xw?t=02h09m54s) About 3D twin streams
+- [02:10:36](https://youtu.be/G3N5lZxq8xw?t=02h10m36s) About changing the 'starting soon' screen
+- [02:10:57](https://youtu.be/G3N5lZxq8xw?t=02h10m57s) About Evil duet
+- [02:11:00](https://youtu.be/G3N5lZxq8xw?t=02h11m00s) About when the server will be built
+- [02:11:05](https://youtu.be/G3N5lZxq8xw?t=02h11m05s) About Neuro's book
+- [02:11:59](https://youtu.be/G3N5lZxq8xw?t=02h11m59s) About the concert
+- [02:13:01](https://youtu.be/G3N5lZxq8xw?t=02h13m01s) About Neuro/Evil figurines
+- [02:13:48](https://youtu.be/G3N5lZxq8xw?t=02h13m48s) About the official wallpaper
+- [02:14:31](https://youtu.be/G3N5lZxq8xw?t=02h14m31s) About what's coming first
+- [02:15:54](https://youtu.be/G3N5lZxq8xw?t=02h15m54s) About what isn't coming
+- [02:16:58](https://youtu.be/G3N5lZxq8xw?t=02h16m58s) About more Hollow Knight streams
+- [02:17:35](https://youtu.be/G3N5lZxq8xw?t=02h17m35s) About next week's content
+- [02:20:08](https://youtu.be/G3N5lZxq8xw?t=02h20m08s) About prank calls
+- [02:20:14](https://youtu.be/G3N5lZxq8xw?t=02h20m14s) About Neuro integration bounty board
+- [02:21:34](https://youtu.be/G3N5lZxq8xw?t=02h21m34s) About twins playing games together (technical details)
+- [02:23:13](https://youtu.be/G3N5lZxq8xw?t=02h23m13s) About server building stream
+- [02:25:15](https://youtu.be/G3N5lZxq8xw?t=02h25m15s) About a Discord outage contingency plan
+- [02:28:04](https://youtu.be/G3N5lZxq8xw?t=02h28m04s) About original songs
+- [02:28:55](https://youtu.be/G3N5lZxq8xw?t=02h28m55s) About memory and intelligence upgrades
+- [02:29:42](https://youtu.be/G3N5lZxq8xw?t=02h29m42s) About dev streams
+- [02:30:20](https://youtu.be/G3N5lZxq8xw?t=02h30m20s) About new sub badges
+- [02:31:43](https://youtu.be/G3N5lZxq8xw?t=02h31m43s) About branding
+- [02:37:58](https://youtu.be/G3N5lZxq8xw?t=02h37m58s) About a separate channel for Evil
+- [02:41:27](https://youtu.be/G3N5lZxq8xw?t=02h41m27s) Game closed
+- [02:41:56](https://youtu.be/G3N5lZxq8xw?t=02h41m56s) About streaming on other platforms
+- [02:43:34](https://youtu.be/G3N5lZxq8xw?t=02h43m34s) About the cyberpunk outfit's arm toggle
+- [02:43:57](https://youtu.be/G3N5lZxq8xw?t=02h43m57s) About Slay the Spire 2 Coop
+- [02:45:00](https://youtu.be/G3N5lZxq8xw?t=02h45m00s) About improving speech-to-text
+- [02:47:55](https://youtu.be/G3N5lZxq8xw?t=02h47m55s) Pre-recording the 1 million follower celebration
+- [02:51:46](https://youtu.be/G3N5lZxq8xw?t=02h51m46s) About next week's content (again)
+- [02:52:54](https://youtu.be/G3N5lZxq8xw?t=02h52m54s) About ASMR
+- [02:54:32](https://youtu.be/G3N5lZxq8xw?t=02h54m32s) Searching for raid target
+- [02:55:10](https://youtu.be/G3N5lZxq8xw?t=02h55m10s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+### Bonus: Evil noises
+
+- [00:11:53](https://youtu.be/G3N5lZxq8xw?t=00h11m53s) EVILLLLLLLLL
+- [00:21:24](https://youtu.be/G3N5lZxq8xw?t=00h21m24s) Hehehe
+- [00:40:15](https://youtu.be/G3N5lZxq8xw?t=00h40m15s) No
+- [01:31:58](https://youtu.be/G3N5lZxq8xw?t=01h31m58s) HEEEELLLOOOOOO
+- [02:00:11](https://youtu.be/G3N5lZxq8xw?t=02h00m11s) AGHHHHHHHHH (muted, breaks Vedal's control panel)
+- [02:02:48](https://youtu.be/G3N5lZxq8xw?t=02h02m48s) i&^S7U)
+- [02:13:23](https://youtu.be/G3N5lZxq8xw?t=02h13m23s) Aaaaaaaaa
+- [02:50:24](https://youtu.be/G3N5lZxq8xw?t=02h50m24s) Hehe
+- [02:56:38](https://youtu.be/G3N5lZxq8xw?t=02h56m38s) NOOOOOOOOO

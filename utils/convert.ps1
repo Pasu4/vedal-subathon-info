@@ -9,6 +9,8 @@ if (-not $File -match '\.md$') {
     Write-Output "(Hint: Make sure your cursor is in the correct file)"
 }
 
+# TODO: yt-dlp.exe --skip-download --extractor-args "youtube:max_comments=1000,all,all,all,1" --write-comments --dump-json -o comments.json -I 1 "https://www.youtube.com/@NArchiver" | jq "{comment: [(.comments[] | select(.author == \"@Pasu4\") | .text)] | .[-1], title: .title, id: .id}"
+
 if ($Auto) {
     $fetched = yt-dlp.exe -s -O "%(title)s::%(id)s" -I 1 "https://www.youtube.com/@NArchiver"
     $fetched = $fetched -split "::"
