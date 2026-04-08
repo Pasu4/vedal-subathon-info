@@ -749,3 +749,15 @@
 - [02:13:23](https://youtu.be/G3N5lZxq8xw?t=02h13m23s) Aaaaaaaaa
 - [02:50:24](https://youtu.be/G3N5lZxq8xw?t=02h50m24s) Hehe
 - [02:56:38](https://youtu.be/G3N5lZxq8xw?t=02h56m38s) NOOOOOOOOO
+
+## its chewsday innit, neuro ([07 Apr 2026](https://youtu.be/rp4RZZI9YP8))
+
+- [00:00:00](https://youtu.be/rp4RZZI9YP8?t=00h00m00s) *Deja Vu — Dave Rogers*
+- [00:04:02](https://youtu.be/rp4RZZI9YP8?t=00h04m02s) *Voices of Svaahaa — Kikuo*
+- [00:09:31](https://youtu.be/rp4RZZI9YP8?t=00h09m31s) Neuro appears \| **Just chatting**
+- [00:42:50](https://youtu.be/rp4RZZI9YP8?t=00h42m50s) Playing *Legally Distinct •••dle*
+- [00:44:33](https://youtu.be/rp4RZZI9YP8?t=00h44m33s) Playing *Legally Distinct Connections*
+- [00:52:31](https://youtu.be/rp4RZZI9YP8?t=00h52m31s) **Playing *Minecraft***
+- [01:59:49](https://youtu.be/rp4RZZI9YP8?t=01h59m49s) **Art review**
+- [02:12:43](https://youtu.be/rp4RZZI9YP8?t=02h12m43s) **Just chatting**
+- [02:19:45](https://youtu.be/rp4RZZI9YP8?t=02h19m45s) Raiding [Layna](https://twitch.tv/laynalazar)
