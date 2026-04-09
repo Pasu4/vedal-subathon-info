@@ -1,21 +1,36 @@
 param (
     [Parameter(Mandatory=$false)][string]$Link,
-    [Parameter(Mandatory=$true)][string]$File,
-    [Parameter(Mandatory=$false)][switch]$Auto
+    [Parameter(Mandatory=$true)][string]$TimestampsFile,
+    [Parameter(Mandatory=$false)][string]$OverviewFile,
+    [Parameter(Mandatory=$false)][string]$Auto
 )
 
-if (-not $File -match '\.md$') {
-    Write-Output "Not a Markdown file!"
-    Write-Output "(Hint: Make sure your cursor is in the correct file)"
-}
+# Constants
+$TimestampsFile = "timestamps.md"
+$OverviewFile = "overview.md"
 
-# TODO: yt-dlp.exe --skip-download --extractor-args "youtube:max_comments=1000,all,all,all,1" --write-comments --dump-json -o comments.json -I 1 "https://www.youtube.com/@NArchiver" | jq "{comment: [(.comments[] | select(.author == \"@Pasu4\") | .text)] | .[-1], title: .title, id: .id}"
-
-if ($Auto) {
+if ($Auto -eq "simple") {
+    # Only fetch the title and ID
     $fetched = yt-dlp.exe -s -O "%(title)s::%(id)s" -I 1 "https://www.youtube.com/@NArchiver"
     $fetched = $fetched -split "::"
     $videoTitle = $fetched[0]
     $videoId = $fetched[1]
+}
+elseif ($Auto -eq "full") {
+    # Additionally extract timestamps from the comment by @Pasu4
+    $fetched = (
+        yt-dlp.exe `
+            --skip-download `
+            --extractor-args "youtube:max_comments=1000,all,all,all,1" `
+            --write-comments `
+            --dump-json `
+            -I 1 `
+            "https://www.youtube.com/@NArchiver"
+        | jq.exe "{comment: [(.comments[] | select(.author == `"@Pasu4`") | .text)] | .[-1], title: .title, id: .id}"
+        | ConvertFrom-Json
+    )
+    $videoTitle = $fetched.title
+    $videoId = $fetched.id
 }
 # Extract video ID from the link
 elseif ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
@@ -27,7 +42,54 @@ elseif ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
     exit 1
 }
 
-$content=Get-Content $File
+$content=Get-Content $TimestampsFile
+
+# Add content from @Pasu4's comment if in full auto mode
+if ($Auto -eq "full") {
+    $addContent = $fetched.comment
+    if (-not $addContent) {
+        Write-Error "No comment found by @Pasu4, cannot add timestamps."
+        exit 1
+    }
+
+    # Parse games
+    $addContent -match 'Playing _(.+?)_'
+    $contentEntries = (
+        (
+            Select-String 'Playing _(.+?)_' -input $addContent -AllMatches
+        ).Matches
+        | ForEach-Object {$_.Groups[1]}
+    ).Value
+    # Parse other content
+    $contentEntries = $contentEntries + (
+        (
+            Select-String '\*(Karaoke|Themed stream: .+?|3D stream)\*' -input $addContent -AllMatches
+        ).Matches
+        | ForEach-Object {$_.Groups[1]}
+    ).Value
+    # Parse participants
+    $participants = (
+        (
+            Select-String '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)' -input $addContent -AllMatches
+        ).Matches.Value
+    ).Value
+    # Parse raid target
+    $addContent -match 'Raiding (\w+)'
+    $raidTarget = $Matches[1]
+
+    # Escape non-formatting asterisks and underscores
+    $addContent = $addContent -replace '(\S)([*_])(\S)', '$1\$2$3'
+    # Convert bold text (single asterisks -> double asterisks)
+    $addContent = $addContent -replace '(?<=^|\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)', '**$1**'
+    # Convert italics (single underscores -> single asterisks)
+    $addContent = $addContent -replace '\b_(?=\S)(.+?)(?<=\S)_\b', '*$1*'
+    # Convert strikethrough (single dashes -> double tildes)
+    $addContent = $addContent -replace '(?<=^|\s)-(?=\S)(.+?)(?<=\S)-(?=\s|$)', '~~$1~~'
+    # Convert subheadings (double asterisks at start of line -> double hash)
+    $addContent = $addContent -replace '(?m)^\*\*(.+?)\*\*\s*$', '## $1\n'
+
+    $content = $content + "`n## `n`n$addContent`n"
+}
 
 # Title
 if ($videoTitle) {

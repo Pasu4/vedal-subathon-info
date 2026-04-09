@@ -4,13 +4,13 @@
         {
             "label": "Convert timestamps",
             "type": "shell",
-            "command": "${workspaceFolder}\\utils\\convert.ps1 -File '${file}' -Link '${input:ytlink}'",
+            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -Link '${input:ytlink}'",
             "problemMatcher": []
         },
         {
             "label": "Auto-convert timestamps",
             "type": "shell",
-            "command": "${workspaceFolder}\\utils\\convert.ps1 -File '${file}' -Auto",
+            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -OverviewFile '${workspaceFolder}\\2026\\overview.md' -Auto full",
             "problemMatcher": []
         }
     ],
