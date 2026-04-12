@@ -6,32 +6,31 @@ param (
     [Parameter(Mandatory=$false)][string]$Category  # Category for full auto mode
 )
 
+# Transform parameters
+if ($Category -eq "<other>") {
+    $Category = "<!-- TODO: Specify category -->"
+}
+
 # Constants
-$CommentAuthor = "@Pasu4"
-$Channel = "@NArchiver"
-$date1Rx = '(\d) (\w{3})\w* (\d+)'
-$date2Rx = '(\d\d) (\w{3})\w* (\d+)'
-$knownRaidTargets = @{
-    "Shylily" = "shylily";
-    "Camila" = "camila";
-    "BTMC" = "btmc";
-    "Layna" = "laynalazar";
-    "Mini" = "minikomew";
-    "Cerber" = "cerbervt";
-    "GX Aura" = "gx_aura";
-    "Laimu" = "limealicious";
-    "Chibi" = "chibidoki";
-    "Asveeti" = "asveeti";
-    "DougDoug" = "dougdoug";
-    "GEEGA" = "geega";
-    "Matara" = "matarakan";
-    "Zentreya" = "zentreya";
-    "NancyDearestArt" = "nancydearestart";
-    "Trickywi" = "trickywi";
-    "RosariaVTuber" = "rosariavtuber";
-    "MOTHERv3" = "motherv3";
-    "Uchuujin Ai" = "uchuujin_ai";
-} # TODO: Automatically parse past raid targets from overview file
+$COMMENT_AUTHOR = "@Pasu4"
+$ARCHIVER_CHANNEL = "@NArchiver"
+$MONTHS = @{
+    "Jan" = "01";
+    "Feb" = "02";
+    "Mar" = "03";
+    "Apr" = "04";
+    "May" = "05";
+    "Jun" = "06";
+    "Jul" = "07";
+    "Aug" = "08";
+    "Sep" = "09";
+    "Oct" = "10";
+    "Nov" = "11";
+    "Dec" = "12";
+}
+
+# Variables
+$knownRaidTargets = @{}
 
 if ($Auto -eq "simple") {
     # Only fetch the title and ID
@@ -49,19 +48,24 @@ elseif ($Auto -eq "full") {
             --write-comments `
             --dump-json `
             -I 1 `
-            "https://www.youtube.com/$Channel"
-        | jq.exe "{comment: [(.comments[] | select(.author == `"$CommentAuthor`") | .text)] | .[-1], title: .title, id: .id}"
+            "https://www.youtube.com/$ARCHIVER_CHANNEL"
+        | jq.exe "{comment: [(.comments[] | select(.author == `"$COMMENT_AUTHOR`") | .text)] | .[-1], title: .title, id: .id}"
         | ConvertFrom-Json
     )
     $videoTitle = $fetched.title
     $videoId = $fetched.id
 
+    # Extract date and title from video title (format: "Title - 1 Jan 2024")
     $videoTitle, $date = $videoTitle -split ' - ', -2
-    if ($date -match $date1Rx) {
-        $date = "0$($matches[1]) $($matches[2]) $($matches[3])"
-    } elseif ($date -match $date2Rx) {
-        $date = "$($matches[1]) $($matches[2]) $($matches[3])"
+    $date -match '(\d+) (\w{3})\w* (\d+)'
+    $day = $matches[1]
+    if ($day.Length -eq 1) {
+        $day = "0$day"
     }
+    $month = $MONTHS[$matches[2]]
+    $date = "$day $($matches[2]) $($matches[3])"
+
+    $overviewVideoLink = "[$month-$day](https://youtu.be/$videoId)"
 }
 # Extract video ID from the link
 elseif ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
@@ -85,7 +89,7 @@ if ($Auto -eq "full") {
 
     $addContent = $fetched.comment
     if (-not $addContent) {
-        Write-Error "No comment found by $CommentAuthor, cannot add timestamps."
+        Write-Error "No comment found by $COMMENT_AUTHOR, cannot add timestamps."
         exit 1
     }
 
@@ -111,8 +115,17 @@ if ($Auto -eq "full") {
         ).Matches.Value
     ).Value
     # Parse raid target
-    $addContent -match 'Raiding (\w+)'
+    $addContent -match 'Raiding (.+?)(?:$| \|)'
     $raidTarget = $Matches[1]
+    if ($raidTarget -and $knownRaidTargets.ContainsKey($raidTarget)) {
+        $raidTargetLink = $knownRaidTargets[$raidTarget]
+    } elseif ($raidTarget) {
+        $raidTargetLink = $raidTarget
+        Write-Warning "Unknown raid target '$raidTarget', add manually!"
+    } else {
+        $raidTargetLink = "-"
+    }
+    $raidTargetLink = "[$raidTarget](https://twitch.tv/$raidTarget)"
 
     # Escape non-formatting asterisks and underscores
     $addContent = $addContent -replace '(\S)([*_])(\S)', '$1\$2$3'
@@ -124,33 +137,92 @@ if ($Auto -eq "full") {
     $addContent = $addContent -replace '(?<=^|\s)-(?=\S)(.+?)(?<=\S)-(?=\s|$)', '~~$1~~'
     # Convert subheadings (double asterisks at start of line -> double hash)
     $addContent = $addContent -replace '(?m)^\*\*(.+?)\*\*\s*$', '## $1\n'
+    # Add link to raid target
+    $addContent = $addContent -replace '(?m)^Raiding \w+$', "Raiding $raidTargetLink"
 
     $content = $content + "`n## `n`n$addContent`n"
 
     # Add content to overview file
     if (Test-Path $OverviewFile) {
+        $stage = "streamparsing"
+        $foundContent = @()
+        $foundParticipants = @()
         (Get-Content $OverviewFile) | ForEach-Object {
-            # Add to streams table
-            if ($_ -match '^<!-- marker_new_stream -->$') {
+            $line = $_
+            # Parse previous raid targets
+            if ($stage -eq "streamparsing" -and $line -match '\[(.+)\]\(https://twitch\.tv/(\w+)\)') {
+                $knownRaidTargets[$matches[1]] = $matches[2]
+            }
+            # Add entry to streams table
+            elseif ($line -match '^<!-- marker_new_stream -->$') {
                 $participantsList = $participants -join ", "
-                if ($raidTarget -and $knownRaidTargets.ContainsKey($raidTarget)) {
-                    $raidTargetLink = $knownRaidTargets[$raidTarget]
-                } elseif ($raidTarget) {
-                    $raidTargetLink = $raidTarget
-                    Write-Warning "Unknown raid target '$raidTarget', add manually!"
-                } else {
-                    $raidTargetLink = "-"
-                }
-                $raidTargetLink = "[$raidTarget](https://twitch.tv/$raidTarget)"
 
                 "| [$date](https://youtu.be/$videoId) " +
                 "| " + $videoTitle.PadRight([math]::Max(0, 68 - $date.Length)) +
                 "| " + $Category.PadRight([math]::Max(0, 22 - $Category.Length)) +
                 "| " + $participantsList.PadRight([math]::Max(0, 38 - $participantsList.Length)) +
                 "| " + $raidTargetLink
-            }
 
-            $_ # Output existing content
+                $stage = "none"
+                $line # Output existing content
+            }
+            # Detect participants section
+            elseif ($line -match '^<!-- marker_participants -->$') {
+                $stage = "participants"
+                $line # Output existing content
+            }
+            # Add stream links to participants section
+            elseif ($stage -eq "participants") {
+                foreach ($participant in $participants) {
+                    if ($line -contains $participant) {
+                        $line += ", " + $overviewVideoLink
+                        $foundParticipants += $participant
+                        break
+                    }
+                }
+                $line
+            }
+            # Detect end of participants section
+            elseif ($line -eq '<!-- marker_participants_end -->') {
+                $notFoundParticipants = $participants | Where-Object { $_ -notin $foundParticipants }
+                if ($notFoundParticipants) {
+                    Write-Warning "The following participants were not found in the overview file, add them manually:`n$($notFoundParticipants -join "`n")"
+                    "<!-- TODO: Add missing participants: $($notFoundParticipants -join ', ') -->"
+                }
+
+                $stage = "none"
+                $line # Output existing content
+            }
+            # Detect content section
+            elseif ($line -match '^<!-- marker_content -->$') {
+                $stage = "content"
+                $line # Output existing content
+            }
+            # Add stream links to content section
+            elseif ($stage -eq "content") {
+                foreach ($entry in $contentEntries) {
+                    if ($line -contains $entry) {
+                        $line += ", " + $overviewVideoLink
+                        $foundContent += $entry
+                        break
+                    }
+                }
+                $line
+            }
+            # Detect end of content section
+            elseif ($line -match '^<!-- marker_content_end -->$') {
+                $notFoundContent = $contentEntries | Where-Object { $_ -notin $foundContent }
+                if ($notFoundContent) {
+                    Write-Warning "The following content entries were not found in the overview file, add them manually:`n$($notFoundContent -join "`n")"
+                    "<!-- TODO: Add missing content entries: $($notFoundContent -join ', ') -->"
+                }
+
+                $stage = "none"
+                $line # Output existing content
+            }
+            else {
+                $line # Output existing content
+            }
         }
     }
 }

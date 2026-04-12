@@ -62,6 +62,7 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 | [Mimi (@MageMimi)](https://youtube.com/@MageMimi)             | [03-25](https://youtu.be/2ybvriJM_Co)
 | [Ellie](https://twitch.tv/ellie_minibot)                      | [03-25](https://youtu.be/2ybvriJM_Co)
 | [Chrchie](https://twitch.tv/chrchie)                          | [03-25](https://youtu.be/2ybvriJM_Co)
+<!-- marker_participants_end -->
 
 ## Recurring content
 
@@ -88,6 +89,7 @@ Also contains games, even if they have not (yet) recurred.
 | 3D stream                                 | [03-03](https://youtu.be/jS765dNaCDQ), [03-25](https://youtu.be/2ybvriJM_Co), [03-26](https://youtu.be/zCasuFHBdTI)
 | Presentation                              | [03-17](https://youtu.be/URJaj3XMBcQ)
 | Legally Distinct Connections (Integrated) | [03-24](https://youtu.be/hPRzmRZk7hQ), [03-26](https://youtu.be/zCasuFHBdTI), [03-31](https://youtu.be/9bn5lJ9OXQw), [04-02](https://youtu.be/hGtT4-MSzS0), [04-07](https://youtu.be/rp4RZZI9YP8)
+<!-- marker_content_end -->
 
 ## One-time events
 
