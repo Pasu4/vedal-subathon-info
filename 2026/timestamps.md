@@ -783,3 +783,16 @@
 [01:34:51](https://youtu.be/D95w1v1_5k0?t=01h34m51s) AWW
 [02:24:00](https://youtu.be/D95w1v1_5k0?t=02h24m00s) lowercase omega
 [02:25:26](https://youtu.be/D95w1v1_5k0?t=02h25m26s) Ahhhhh <\|fim_suffix\|>
+
+## Evil stream? you know it! ([09 Apr 2026](https://youtu.be/8335sBz9aHU))
+
+- [00:00:00](https://youtu.be/8335sBz9aHU?t=00h00m00s) *DotA — Basshunter*
+- [00:03:39](https://youtu.be/8335sBz9aHU?t=00h03m39s) *Stayin' Alive — Bee Gees*
+- [00:08:22](https://youtu.be/8335sBz9aHU?t=00h08m22s) Evil appears \| **Just chatting**
+- [00:27:46](https://youtu.be/8335sBz9aHU?t=00h27m46s) Playing *Legally Distinct •••dle*
+- [00:29:08](https://youtu.be/8335sBz9aHU?t=00h29m08s) Playing *Legally Distinct Connections*
+- [00:47:46](https://youtu.be/8335sBz9aHU?t=00h47m46s) **Themed stream: Evil tech tip**
+- [01:25:54](https://youtu.be/8335sBz9aHU?t=01h25m54s) **Themed stream: Teacher**
+- [01:35:23](https://youtu.be/8335sBz9aHU?t=01h35m23s) **Just chatting**
+- [01:42:46](https://youtu.be/8335sBz9aHU?t=01h42m46s) **3D stream**
+- [02:19:25](https://youtu.be/8335sBz9aHU?t=02h19m25s) Raiding [Zentreya](https://twitch.tv/zentreya)
