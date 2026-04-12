@@ -2,12 +2,36 @@ param (
     [Parameter(Mandatory=$false)][string]$Link,
     [Parameter(Mandatory=$true)][string]$TimestampsFile,
     [Parameter(Mandatory=$false)][string]$OverviewFile,
-    [Parameter(Mandatory=$false)][string]$Auto
+    [Parameter(Mandatory=$false)][string]$Auto,
+    [Parameter(Mandatory=$false)][string]$Category  # Category for full auto mode
 )
 
 # Constants
-$TimestampsFile = "timestamps.md"
-$OverviewFile = "overview.md"
+$CommentAuthor = "@Pasu4"
+$Channel = "@NArchiver"
+$date1Rx = '(\d) (\w{3})\w* (\d+)'
+$date2Rx = '(\d\d) (\w{3})\w* (\d+)'
+$knownRaidTargets = @{
+    "Shylily" = "shylily";
+    "Camila" = "camila";
+    "BTMC" = "btmc";
+    "Layna" = "laynalazar";
+    "Mini" = "minikomew";
+    "Cerber" = "cerbervt";
+    "GX Aura" = "gx_aura";
+    "Laimu" = "limealicious";
+    "Chibi" = "chibidoki";
+    "Asveeti" = "asveeti";
+    "DougDoug" = "dougdoug";
+    "GEEGA" = "geega";
+    "Matara" = "matarakan";
+    "Zentreya" = "zentreya";
+    "NancyDearestArt" = "nancydearestart";
+    "Trickywi" = "trickywi";
+    "RosariaVTuber" = "rosariavtuber";
+    "MOTHERv3" = "motherv3";
+    "Uchuujin Ai" = "uchuujin_ai";
+} # TODO: Automatically parse past raid targets from overview file
 
 if ($Auto -eq "simple") {
     # Only fetch the title and ID
@@ -17,7 +41,7 @@ if ($Auto -eq "simple") {
     $videoId = $fetched[1]
 }
 elseif ($Auto -eq "full") {
-    # Additionally extract timestamps from the comment by @Pasu4
+    # Additionally extract timestamps from the comment
     $fetched = (
         yt-dlp.exe `
             --skip-download `
@@ -25,12 +49,19 @@ elseif ($Auto -eq "full") {
             --write-comments `
             --dump-json `
             -I 1 `
-            "https://www.youtube.com/@NArchiver"
-        | jq.exe "{comment: [(.comments[] | select(.author == `"@Pasu4`") | .text)] | .[-1], title: .title, id: .id}"
+            "https://www.youtube.com/$Channel"
+        | jq.exe "{comment: [(.comments[] | select(.author == `"$CommentAuthor`") | .text)] | .[-1], title: .title, id: .id}"
         | ConvertFrom-Json
     )
     $videoTitle = $fetched.title
     $videoId = $fetched.id
+
+    $videoTitle, $date = $videoTitle -split ' - ', -2
+    if ($date -match $date1Rx) {
+        $date = "0$($matches[1]) $($matches[2]) $($matches[3])"
+    } elseif ($date -match $date2Rx) {
+        $date = "$($matches[1]) $($matches[2]) $($matches[3])"
+    }
 }
 # Extract video ID from the link
 elseif ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
@@ -44,11 +75,17 @@ elseif ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
 
 $content=Get-Content $TimestampsFile
 
-# Add content from @Pasu4's comment if in full auto mode
+# Add content from comment if in full auto mode
 if ($Auto -eq "full") {
+    # Check arguments
+    if (-not $OverviewFile) {
+        Write-Error "Overview file path is required for full auto mode."
+        exit 1
+    }
+
     $addContent = $fetched.comment
     if (-not $addContent) {
-        Write-Error "No comment found by @Pasu4, cannot add timestamps."
+        Write-Error "No comment found by $CommentAuthor, cannot add timestamps."
         exit 1
     }
 
@@ -89,13 +126,37 @@ if ($Auto -eq "full") {
     $addContent = $addContent -replace '(?m)^\*\*(.+?)\*\*\s*$', '## $1\n'
 
     $content = $content + "`n## `n`n$addContent`n"
+
+    # Add content to overview file
+    if (Test-Path $OverviewFile) {
+        (Get-Content $OverviewFile) | ForEach-Object {
+            # Add to streams table
+            if ($_ -match '^<!-- marker_new_stream -->$') {
+                $participantsList = $participants -join ", "
+                if ($raidTarget -and $knownRaidTargets.ContainsKey($raidTarget)) {
+                    $raidTargetLink = $knownRaidTargets[$raidTarget]
+                } elseif ($raidTarget) {
+                    $raidTargetLink = $raidTarget
+                    Write-Warning "Unknown raid target '$raidTarget', add manually!"
+                } else {
+                    $raidTargetLink = "-"
+                }
+                $raidTargetLink = "[$raidTarget](https://twitch.tv/$raidTarget)"
+
+                "| [$date](https://youtu.be/$videoId) " +
+                "| " + $videoTitle.PadRight([math]::Max(0, 68 - $date.Length)) +
+                "| " + $Category.PadRight([math]::Max(0, 22 - $Category.Length)) +
+                "| " + $participantsList.PadRight([math]::Max(0, 38 - $participantsList.Length)) +
+                "| " + $raidTargetLink
+            }
+
+            $_ # Output existing content
+        }
+    }
 }
 
 # Title
 if ($videoTitle) {
-    $videoTitle, $date = $videoTitle -split ' - ', -2
-    # TODO: Prefix day with 0 if it's a single digit
-    $date = $date -replace '(\d+) (\w{3})\w* (\d+)', '$1 $2 $3'
     $content = $content -replace '^##\s*$', "## $videoTitle ([$date](https://youtu.be/$videoId))"
 }
 

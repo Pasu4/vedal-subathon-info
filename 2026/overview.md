@@ -40,7 +40,7 @@ The date of a stream is the day it started in British time.
 | [02 Apr 2026](https://youtu.be/hGtT4-MSzS0) | what's Evil plotting                                                | Just chatting         | Evil, Neuro                           | [Uchuujin Ai](https://twitch.tv/uchuujin_ai)
 | [04 Apr 2026](https://youtu.be/G3N5lZxq8xw) | Vedal and Evil buggin out in Hollow Knight                          | Vedal gaming          | Vedal, Evil                           | [Cerber](https://twitch.tv/cerbervt)
 | [07 Apr 2026](https://youtu.be/rp4RZZI9YP8) | its chewsday innit, neuro                                           | Variety               | Neuro                                 | [Layna](https://twitch.tv/laynalazar)
-<!-- marker_new_day -->
+<!-- marker_new_stream -->
 
 ## Participants
 
