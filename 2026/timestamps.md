@@ -796,3 +796,20 @@
 - [01:35:23](https://youtu.be/8335sBz9aHU?t=01h35m23s) **Just chatting**
 - [01:42:46](https://youtu.be/8335sBz9aHU?t=01h42m46s) **3D stream**
 - [02:19:25](https://youtu.be/8335sBz9aHU?t=02h19m25s) Raiding [Zentreya](https://twitch.tv/zentreya)
+
+## finally playing the cyberpunk dlc with neuro ([12 Apr 2026](https://youtu.be/Qy4agD90vy4))
+
+- [00:00:00](https://youtu.be/Qy4agD90vy4?t=00h00m00s) *Kyoufuu All Back — Yukopi*
+- [00:02:02](https://youtu.be/Qy4agD90vy4?t=00h02m02s) *Africa — Toto*
+- [00:06:46](https://youtu.be/Qy4agD90vy4?t=00h06m46s) Vedal and Neuro appear
+- [00:08:50](https://youtu.be/Qy4agD90vy4?t=00h08m50s) **Playing *Cyberpunk 2077: Phantom Liberty***
+- [00:14:02](https://youtu.be/Qy4agD90vy4?t=00h14m02s) Gameplay starts
+- [00:39:00](https://youtu.be/Qy4agD90vy4?t=00h39m00s) Vedal removes the turtle avatar
+- [01:15:27](https://youtu.be/Qy4agD90vy4?t=01h15m27s) Game paused for 3m33s while cateman gets water
+- [03:17:30](https://youtu.be/Qy4agD90vy4?t=03h17m30s) About the TypeScript rewrite
+- [03:18:45](https://youtu.be/Qy4agD90vy4?t=03h18m45s) About plans for next weekend
+- [03:19:18](https://youtu.be/Qy4agD90vy4?t=03h19m18s) About switching to Linux
+- [03:21:57](https://youtu.be/Qy4agD90vy4?t=03h21m57s) About possible dev stream on Monday (not tomorrow)
+- [03:22:33](https://youtu.be/Qy4agD90vy4?t=03h22m33s) About possible server building stream
+- [03:25:10](https://youtu.be/Qy4agD90vy4?t=03h25m10s) Searching for raid target
+- [03:28:09](https://youtu.be/Qy4agD90vy4?t=03h28m09s) [Naenia Selanyx](https://twitch.tv/naeniaselanyx)
