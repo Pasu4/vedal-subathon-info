@@ -106,12 +106,14 @@ if ($Auto -eq "full") {
         ).Value
     }
     # Parse other content
-    $contentEntries += (
-        (
-            Select-String '(?m)(Karaoke|Themed stream: .+?|3D stream)(?:$| \|)' -input $addContent -AllMatches
-        ).Matches
-        | ForEach-Object {$_.Groups[1]}
-    ).Value
+    if ($addContent -match '(?m)(Karaoke|Themed stream: .+?|3D stream)(?:$| \|)') {
+        $contentEntries += (
+            (
+                Select-String '(?m)(Karaoke|Themed stream: .+?|3D stream)(?:$| \|)' -input $addContent -AllMatches
+            ).Matches
+            | ForEach-Object {$_.Groups[1]}
+        ).Value
+    }
     # Parse participants
     if ($addContent -match '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)') {
         $participants = (
@@ -155,19 +157,18 @@ if ($Auto -eq "full") {
                 $participantsList = $participants -join ", "
 
                 if ($raidTarget -and $knownRaidTargets.ContainsKey($raidTarget)) {
-                    $raidTargetLink = $knownRaidTargets[$raidTarget]
+                    $raidTargetLink = "[$raidTarget](https://twitch.tv/$($knownRaidTargets[$raidTarget]))"
                 } elseif ($raidTarget) {
                     $raidTargetLink = $raidTarget
                     Write-Warning "Unknown raid target '$raidTarget', add manually!"
                 } else {
                     $raidTargetLink = "-"
                 }
-                $raidTargetLink = "[$raidTarget](https://twitch.tv/$raidTargetLink)"
 
                 "| [$date](https://youtu.be/$videoId) " +
-                "| " + $videoTitle.PadRight([math]::Max(0, 68 - $videoTitle.Length)) +
-                "| " + $Category.PadRight([math]::Max(0, 22 - $Category.Length)) +
-                "| " + $participantsList.PadRight([math]::Max(0, 38 - $participantsList.Length)) +
+                "| " + $videoTitle.PadRight(68) +
+                "| " + $Category.PadRight(22) +
+                "| " + $participantsList.PadRight(38) +
                 "| " + $raidTargetLink
 
                 $stage = "none"
@@ -240,7 +241,7 @@ if ($videoTitle) {
 }
 
 # Markdown links
-$content = $content -replace '(?m)(?<!\[)(\d\d):(\d\d):(\d\d)', ('[$0](https://youtu.be/' + "$videoId" + '?t=$1h$2m$3s)')
+$content = $content -replace '(?m)^(\d\d):(\d\d):(\d\d)', ('- [$0](https://youtu.be/' + "$videoId" + '?t=$1h$2m$3s)')
 
 # Escape pipes
 $content = $content -replace '(?m)(?<!\\)\|', '\|'

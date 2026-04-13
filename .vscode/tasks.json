@@ -10,7 +10,7 @@
         {
             "label": "Auto-convert timestamps",
             "type": "shell",
-            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -OverviewFile '${workspaceFolder}\\2026\\overview.md' -Auto full -Category ${input:category}",
+            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -OverviewFile '${workspaceFolder}\\2026\\overview.md' -Auto full -Category '${input:category}'",
             "problemMatcher": []
         }
     ],
