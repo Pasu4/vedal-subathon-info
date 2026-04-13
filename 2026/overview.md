@@ -42,11 +42,13 @@ The date of a stream is the day it started in British time.
 | [07 Apr 2026](https://youtu.be/rp4RZZI9YP8) | its chewsday innit, neuro                                           | Variety               | Neuro                                 | [Layna](https://twitch.tv/laynalazar)
 | [08 Apr 2026](https://youtu.be/D95w1v1_5k0) | Evil & [@AkumaNihmune](https://twitch.tv/nihmune) partners in crime | Just chatting         | Evil, Numi                            | [GEEGA](https://twitch.tv/geega)
 | [09 Apr 2026](https://youtu.be/8335sBz9aHU) | Evil stream? you know it!                                           | Just chatting         | Evil                                  | [Zentreya](https://twitch.tv/zentreya)
+<!-- marker_new_stream -->
 
 ## Participants
 
 List of people who appeared on stream in 2026 as they are listed in the timestamps and tables above.
 
+<!-- marker_participants -->
 | Participant                                                   | Streams
 |:--------------------------------------------------------------|:--------
 | [Neuro](https://twitch.tv/vedal987)                           | [01-27](https://youtu.be/Nwhu6-QUZEc), [02-03](https://youtu.be/S6zgtOcT6t4), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-17](https://youtu.be/zaxmxPE6Mls), [02-18](https://youtu.be/ndUCw16791E), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ), [03-04](https://youtu.be/pT_w4Iep6qI), [03-09](https://youtu.be/f4YwpciOb8c), [03-10](https://youtu.be/HqLohwUgX84), [03-12](https://youtu.be/Pbe-2pvRo70), [03-17](https://youtu.be/URJaj3XMBcQ), [03-18](https://youtu.be/v6KVSNDFOyY), [03-24](https://youtu.be/hPRzmRZk7hQ), [03-25](https://youtu.be/2ybvriJM_Co), [03-31](https://youtu.be/9bn5lJ9OXQw), [04-01](https://youtu.be/bKmQ77dsEdQ), [04-02](https://youtu.be/hGtT4-MSzS0), [04-07](https://youtu.be/rp4RZZI9YP8)
@@ -63,6 +65,7 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 | [Ellie](https://twitch.tv/ellie_minibot)                      | [03-25](https://youtu.be/2ybvriJM_Co)
 | [Chrchie](https://twitch.tv/chrchie)                          | [03-25](https://youtu.be/2ybvriJM_Co)
 | [Numi](https://twitch.tv/nihmune)                             | [04-08](https://youtu.be/D95w1v1_5k0)
+<!-- marker_participants_end -->
 
 ## Recurring content
 
@@ -70,6 +73,7 @@ Also contains games, even if they have not (yet) recurred.
 "Integrated" means that Neuro/Evil has some or full control over the game (via the [Neuro API](https://github.com/VedalAI/neuro-sdk)).
 "Just chatting" is not included because it happens pretty much every stream.
 
+<!-- marker_content -->
 | Content                                   | Streams
 |:------------------------------------------|:--------
 | Legally Distinct •••dle (Integrated)      | [01-27](https://youtu.be/Nwhu6-QUZEc), [01-29](https://youtu.be/kiQVuBVN8ig), [02-03](https://youtu.be/S6zgtOcT6t4), [02-05](https://youtu.be/XabSL2UbOaI), [02-10](https://youtu.be/xJiH_3u4kJ4), [02-12](https://youtu.be/nkkRZFvCIJA), [02-17](https://youtu.be/zaxmxPE6Mls), [02-19](https://youtu.be/aVgQB97ScPg), [02-24](https://youtu.be/9REk8M-SSd8), [02-26](https://youtu.be/Z4ypWTelCWQ), [03-03](https://youtu.be/jS765dNaCDQ), [03-05](https://youtu.be/dEASwQwxJgE), [03-10](https://youtu.be/HqLohwUgX84), [03-12](https://youtu.be/Pbe-2pvRo70), [03-17](https://youtu.be/URJaj3XMBcQ), [03-24](https://youtu.be/hPRzmRZk7hQ), [03-26](https://youtu.be/zCasuFHBdTI), [03-31](https://youtu.be/9bn5lJ9OXQw), [04-02](https://youtu.be/hGtT4-MSzS0), [04-07](https://youtu.be/rp4RZZI9YP8), [04-09](https://youtu.be/8335sBz9aHU)
@@ -89,6 +93,7 @@ Also contains games, even if they have not (yet) recurred.
 | Themed stream: Tech Tip                   | [03-17](https://youtu.be/URJaj3XMBcQ), [04-09](https://youtu.be/8335sBz9aHU)
 | Presentation                              | [03-17](https://youtu.be/URJaj3XMBcQ)
 | Legally Distinct Connections (Integrated) | [03-24](https://youtu.be/hPRzmRZk7hQ), [03-26](https://youtu.be/zCasuFHBdTI), [03-31](https://youtu.be/9bn5lJ9OXQw), [04-02](https://youtu.be/hGtT4-MSzS0), [04-07](https://youtu.be/rp4RZZI9YP8), [04-09](https://youtu.be/8335sBz9aHU)
+<!-- marker_content_end -->
 
 ## One-time events
 

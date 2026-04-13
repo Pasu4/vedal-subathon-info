@@ -4,13 +4,13 @@
         {
             "label": "Convert timestamps",
             "type": "shell",
-            "command": "${workspaceFolder}\\utils\\convert.ps1 -File '${file}' -Link '${input:ytlink}'",
+            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -Link '${input:ytlink}'",
             "problemMatcher": []
         },
         {
             "label": "Auto-convert timestamps",
             "type": "shell",
-            "command": "${workspaceFolder}\\utils\\convert.ps1 -File '${file}' -Auto",
+            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -OverviewFile '${workspaceFolder}\\2026\\overview.md' -Auto full -Category '${input:category}'",
             "problemMatcher": []
         }
     ],
@@ -19,6 +19,22 @@
             "id": "ytlink",
             "type": "promptString",
             "description": "Enter YouTube link"
+        },
+        {
+            "id": "category",
+            "type": "pickString",
+            "options": [
+                "Variety",
+                "Just chatting",
+                "Karaoke",
+                "Dev stream",
+                "Vedal gaming",
+                "Neuro gaming",
+                "Evil gaming",
+                "Special event",
+                "<other>",
+            ],
+            "description": "The general type of content in the stream. Choose <other> to add it manually."
         }
     ]
 }
