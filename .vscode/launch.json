@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PowerShell: convert.ps1",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/utils/convert.ps1",
+            "args": [
+                "-TimestampsFile", "'${workspaceFolder}\\2026\\timestamps.md'",
+                "-OverviewFile", "'${workspaceFolder}\\2026\\overview.md'",
+                "-Auto", "full",
+                "-Category", "${input:category}",
+            ]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "category",
+            "type": "pickString",
+            "options": [
+                "Variety",
+                "Just chatting",
+                "Karaoke",
+                "Dev stream",
+                "Vedal gaming",
+                "Neuro gaming",
+                "Evil gaming",
+                "Special event",
+                "<other>",
+            ],
+            "description": "The general type of content in the stream. Choose <other> to add it manually."
+        }
+    ]
+}

@@ -32,6 +32,9 @@ $MONTHS = @{
 # Variables
 $knownRaidTargets = @{}
 
+# Set encoding
+[System.Console]::OutputEncoding=[System.Text.Encoding]::UTF8
+
 if ($Auto -eq "simple") {
     # Only fetch the title and ID
     $fetched = yt-dlp.exe -s -O "%(title)s::%(id)s" -I 1 "https://www.youtube.com/@NArchiver"
@@ -77,7 +80,7 @@ elseif ($Link -match 'v=([a-zA-Z0-9_-]{11})') {
     exit 1
 }
 
-$content=Get-Content $TimestampsFile
+$content=Get-Content -Raw $TimestampsFile
 
 # Add content from comment if in full auto mode
 if ($Auto -eq "full") {
@@ -94,53 +97,46 @@ if ($Auto -eq "full") {
     }
 
     # Parse games
-    $addContent -match 'Playing _(.+?)_'
-    $contentEntries = (
-        (
-            Select-String 'Playing _(.+?)_' -input $addContent -AllMatches
-        ).Matches
-        | ForEach-Object {$_.Groups[1]}
-    ).Value
+    if ($addContent -match 'Playing .') {
+        $contentEntries = (
+            (
+                Select-String '(?m)Playing (.+?)(?:$| \|)' -input $addContent -AllMatches
+            ).Matches
+            | ForEach-Object {$_.Groups[1]}
+        ).Value
+    }
     # Parse other content
-    $contentEntries = $contentEntries + (
+    $contentEntries += (
         (
-            Select-String '\*(Karaoke|Themed stream: .+?|3D stream)\*' -input $addContent -AllMatches
+            Select-String '(?m)(Karaoke|Themed stream: .+?|3D stream)(?:$| \|)' -input $addContent -AllMatches
         ).Matches
         | ForEach-Object {$_.Groups[1]}
     ).Value
     # Parse participants
-    $participants = (
-        (
+    if ($addContent -match '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)') {
+        $participants = (
             Select-String '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)' -input $addContent -AllMatches
         ).Matches.Value
-    ).Value
+    }
     # Parse raid target
     $addContent -match 'Raiding (.+?)(?:$| \|)'
     $raidTarget = $Matches[1]
-    if ($raidTarget -and $knownRaidTargets.ContainsKey($raidTarget)) {
-        $raidTargetLink = $knownRaidTargets[$raidTarget]
-    } elseif ($raidTarget) {
-        $raidTargetLink = $raidTarget
-        Write-Warning "Unknown raid target '$raidTarget', add manually!"
-    } else {
-        $raidTargetLink = "-"
-    }
-    $raidTargetLink = "[$raidTarget](https://twitch.tv/$raidTarget)"
 
-    # Escape non-formatting asterisks and underscores
-    $addContent = $addContent -replace '(\S)([*_])(\S)', '$1\$2$3'
-    # Convert bold text (single asterisks -> double asterisks)
-    $addContent = $addContent -replace '(?<=^|\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)', '**$1**'
-    # Convert italics (single underscores -> single asterisks)
-    $addContent = $addContent -replace '\b_(?=\S)(.+?)(?<=\S)_\b', '*$1*'
-    # Convert strikethrough (single dashes -> double tildes)
-    $addContent = $addContent -replace '(?<=^|\s)-(?=\S)(.+?)(?<=\S)-(?=\s|$)', '~~$1~~'
+    # # Escape non-formatting asterisks and underscores
+    # $addContent = $addContent -replace '(\S)([*_])(\S)', '$1\$2$3'
+    # # Convert bold text (single asterisks -> double asterisks)
+    # $addContent = $addContent -replace '(?<=^|\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)', '**$1**'
+    # # Convert italics (single underscores -> single asterisks)
+    # $addContent = $addContent -replace '\b_(?=\S)(.+?)(?<=\S)_\b', '*$1*'
+    # # Convert strikethrough (single dashes -> double tildes)
+    # $addContent = $addContent -replace '(?<=^|\s)-(?=\S)(.+?)(?<=\S)-(?=\s|$)', '~~$1~~'
+    # # Convert subheadings (double asterisks at start of line -> double hash)
+    # $addContent = $addContent -replace '(?m)^\*\*(.+?)\*\*\s*$', '## $1\n'
+
     # Convert subheadings (double asterisks at start of line -> double hash)
-    $addContent = $addContent -replace '(?m)^\*\*(.+?)\*\*\s*$', '## $1\n'
-    # Add link to raid target
-    $addContent = $addContent -replace '(?m)^Raiding \w+$', "Raiding $raidTargetLink"
+    $addContent = $addContent -replace '(?m)^(\D.*?)\s*$', '## $1\n'
 
-    $content = $content + "`n## `n`n$addContent`n"
+    $content = $content + "`n## `n`n$addContent"
 
     # Add content to overview file
     if (Test-Path $OverviewFile) {
@@ -150,15 +146,26 @@ if ($Auto -eq "full") {
         (Get-Content $OverviewFile) | ForEach-Object {
             $line = $_
             # Parse previous raid targets
-            if ($stage -eq "streamparsing" -and $line -match '\[(.+)\]\(https://twitch\.tv/(\w+)\)') {
+            if ($stage -eq "streamparsing" -and $line -match '\[([^\]\n]+)\]\(https://twitch\.tv/(\w+)\)') {
                 $knownRaidTargets[$matches[1]] = $matches[2]
+                $line # Output existing content
             }
             # Add entry to streams table
             elseif ($line -match '^<!-- marker_new_stream -->$') {
                 $participantsList = $participants -join ", "
 
+                if ($raidTarget -and $knownRaidTargets.ContainsKey($raidTarget)) {
+                    $raidTargetLink = $knownRaidTargets[$raidTarget]
+                } elseif ($raidTarget) {
+                    $raidTargetLink = $raidTarget
+                    Write-Warning "Unknown raid target '$raidTarget', add manually!"
+                } else {
+                    $raidTargetLink = "-"
+                }
+                $raidTargetLink = "[$raidTarget](https://twitch.tv/$raidTargetLink)"
+
                 "| [$date](https://youtu.be/$videoId) " +
-                "| " + $videoTitle.PadRight([math]::Max(0, 68 - $date.Length)) +
+                "| " + $videoTitle.PadRight([math]::Max(0, 68 - $videoTitle.Length)) +
                 "| " + $Category.PadRight([math]::Max(0, 22 - $Category.Length)) +
                 "| " + $participantsList.PadRight([math]::Max(0, 38 - $participantsList.Length)) +
                 "| " + $raidTargetLink
@@ -171,17 +178,6 @@ if ($Auto -eq "full") {
                 $stage = "participants"
                 $line # Output existing content
             }
-            # Add stream links to participants section
-            elseif ($stage -eq "participants") {
-                foreach ($participant in $participants) {
-                    if ($line -contains $participant) {
-                        $line += ", " + $overviewVideoLink
-                        $foundParticipants += $participant
-                        break
-                    }
-                }
-                $line
-            }
             # Detect end of participants section
             elseif ($line -eq '<!-- marker_participants_end -->') {
                 $notFoundParticipants = $participants | Where-Object { $_ -notin $foundParticipants }
@@ -193,54 +189,68 @@ if ($Auto -eq "full") {
                 $stage = "none"
                 $line # Output existing content
             }
+            # Add stream links to participants section
+            elseif ($stage -eq "participants") {
+                foreach ($participant in $participants) {
+                    if ($line.Contains($participant)) {
+                        $line += ", " + $overviewVideoLink
+                        $foundParticipants += $participant
+                        break
+                    }
+                }
+                $line # Output existing or updated content
+            }
             # Detect content section
             elseif ($line -match '^<!-- marker_content -->$') {
                 $stage = "content"
                 $line # Output existing content
             }
-            # Add stream links to content section
-            elseif ($stage -eq "content") {
-                foreach ($entry in $contentEntries) {
-                    if ($line -contains $entry) {
-                        $line += ", " + $overviewVideoLink
-                        $foundContent += $entry
-                        break
-                    }
-                }
-                $line
-            }
             # Detect end of content section
             elseif ($line -match '^<!-- marker_content_end -->$') {
                 $notFoundContent = $contentEntries | Where-Object { $_ -notin $foundContent }
                 if ($notFoundContent) {
-                    Write-Warning "The following content entries were not found in the overview file, add them manually:`n$($notFoundContent -join "`n")"
+                    Write-Warning "The following content entries could not be classified, add them manually:`n$($notFoundContent -join "`n")"
                     "<!-- TODO: Add missing content entries: $($notFoundContent -join ', ') -->"
                 }
 
                 $stage = "none"
                 $line # Output existing content
             }
+            # Add stream links to content section
+            elseif ($stage -eq "content") {
+                foreach ($entry in $contentEntries) {
+                    if ($line.Contains($entry)) {
+                        $line += ", " + $overviewVideoLink
+                        $foundContent += $entry
+                        break
+                    }
+                }
+                $line # Output existing or updated content
+            }
             else {
                 $line # Output existing content
             }
-        }
+        } | Set-Content -Path $OverviewFile
     }
 }
 
 # Title
 if ($videoTitle) {
-    $content = $content -replace '^##\s*$', "## $videoTitle ([$date](https://youtu.be/$videoId))"
+    $content = $content -replace '(?m)^## *$', "## $videoTitle ([$date](https://youtu.be/$videoId))"
 }
 
 # Markdown links
-$content = $content -replace '(?<!\[)(\d\d):(\d\d):(\d\d)', ('[$0](https://youtu.be/' + "$videoId" + '?t=$1h$2m$3s)')
+$content = $content -replace '(?m)(?<!\[)(\d\d):(\d\d):(\d\d)', ('[$0](https://youtu.be/' + "$videoId" + '?t=$1h$2m$3s)')
 
 # Escape pipes
-$content = $content -replace '(?<!\\)\|', '\|'
+$content = $content -replace '(?m)(?<!\\)\|', '\|'
 
 # Make song titles italic
-$content = $content -replace '(?<=(\)|\|) )[^*—\n|]+—( [^\\\(\n\| ]+)+', '*$0*'
+$content = $content -replace '(?m)(?<=(\)|\|) )[^*—\n|]+—( [^\\\(\n\| ]+)+', '*$0*'
+
+# Add link to raid target
+$content = $content -replace '(?m)Raiding (\w.*?)(?:$| \|)', "Raiding $raidTargetLink"
 
 # TODO: Auto-process raid targets + add line to table
 
-Set-Content -Path $File -Value $content
+Set-Content -Path $TimestampsFile -Value $content
