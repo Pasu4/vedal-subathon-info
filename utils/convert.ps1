@@ -28,10 +28,11 @@ $MONTHS = @{
     "Nov" = "11";
     "Dec" = "12";
 }
-$PLAYING_RX = '(?m)Playing (.+?)(?:$| \(| \|)'
-$CONTENT_RX = '(?m)(Karaoke|Themed stream: .+?|3D stream|Art review)(?:$| \|)'
+$PLAYING_RX = 'Playing _(.+?)_'
+$CONTENT_RX = '(?:\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)'
 $RAIDING_RX = 'Raiding (.+?)(?:$| \|)'
+$PRESENTS_RX = '(?m)(.+?) presents _(.+?)_(?:$| \|)'
 
 # Variables
 $knownRaidTargets = @{}
@@ -138,37 +139,50 @@ if ($Auto -eq "full") {
         exit 1
     }
 
+    # Initialize empty arrays
+    $contentEntries = @()
+    $participants = @()
+    $events = @()
+
     # Parse games
     if ($addContent -match $PLAYING_RX) {
-        $contentEntries = (Select-String $PLAYING_RX -InputObject $addContent -AllMatches).Matches |
+        $contentEntries += (Select-String $PLAYING_RX -InputObject $addContent -AllMatches).Matches |
             ForEach-Object { $_.Groups[1].Value }
     }
+
+    # Parse presentations
+    if ($addContent -match $PRESENTS_RX) {
+        $events += (Select-String $PRESENTS_RX -input $addContent -AllMatches).Matches |
+            ForEach-Object {"$($_.Groups[1].Value) presents *$($_.Groups[2].Value)*"}
+        contentEntries += "Presentation"
+    }
+
     # Parse other content
     if ($addContent -match $CONTENT_RX) {
-        $contentEntries += (Select-String $CONTENT_RX -InputObject $addContent -AllMatches).Matches |
-            ForEach-Object { $_.Groups[1].Value }
+        $contentEntries += (Select-String $CONTENT_RX -InputObject $addContent -AllMatches).Matches
+            | ForEach-Object { $_.Groups[1].Value }
+            | Where-Object { $_ -ne "Just chatting" -and $_ -notmatch $PLAYING_RX -and $_ -notmatch $PRESENTS_RX }
     }
+    
     # Parse participants
     if ($addContent -match $PARTICIPANT_RX) {
-        $participants = (Select-String $PARTICIPANT_RX -InputObject $addContent -AllMatches).Matches.Value
+        $participants += (Select-String $PARTICIPANT_RX -InputObject $addContent -AllMatches).Matches.Value
     }
+
     # Parse raid target
     $addContent -match $RAIDING_RX
     $raidTarget = $Matches[1]
 
-    # # Escape non-formatting asterisks and underscores
-    # $addContent = $addContent -replace '(\S)([*_])(\S)', '$1\$2$3'
-    # # Convert bold text (single asterisks -> double asterisks)
-    # $addContent = $addContent -replace '(?<=^|\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)', '**$1**'
-    # # Convert italics (single underscores -> single asterisks)
-    # $addContent = $addContent -replace '\b_(?=\S)(.+?)(?<=\S)_\b', '*$1*'
-    # # Convert strikethrough (single dashes -> double tildes)
-    # $addContent = $addContent -replace '(?<=^|\s)-(?=\S)(.+?)(?<=\S)-(?=\s|$)', '~~$1~~'
-    # # Convert subheadings (double asterisks at start of line -> double hash)
-    # $addContent = $addContent -replace '(?m)^\*\*(.+?)\*\*\s*$', '## $1\n'
-
+    # Escape non-formatting asterisks and underscores
+    $addContent = $addContent -replace '(\S)([*_])(\S)', '$1\\$2$3'
+    # Convert bold text (single asterisks -> double asterisks)
+    $addContent = $addContent -replace '(?<=^|\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)', '**$1**'
+    # Convert italics (single underscores -> single asterisks)
+    $addContent = $addContent -replace '\b_(?=\S)(.+?)(?<=\S)_\b', '*$1*'
+    # Convert strikethrough (single dashes -> double tildes)
+    $addContent = $addContent -replace '(?<=^|\s|\*|_)-(?=\S)(.+?)(?<=\S)-(?=\s|\*|_|$)', '~~$1~~'
     # Convert subheadings (double asterisks at start of line -> double hash)
-    $addContent = $addContent -replace '(?m)^(\D.*?)\s*$', '## $1\n'
+    $addContent = $addContent -replace '(?m)^\*\*(.+)\*\*\s*$', '### $1\n'
 
     $content = $content + "`n## `n`n$addContent"
 
@@ -259,6 +273,13 @@ if ($Auto -eq "full") {
                     }
                 }
                 $line # Output existing or updated content
+            }
+            elseif ($line -match '^<!-- marker_new_event -->$') {
+                foreach ($evt in $events) {
+                    "| $($evt.PadRight(45)) " +
+                    "| " + $overviewVideoLink
+                }
+                $line # Output existing content
             }
             else {
                 $line # Output existing content
