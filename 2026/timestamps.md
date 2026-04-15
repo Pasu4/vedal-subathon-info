@@ -764,25 +764,25 @@
 
 ## Evil & [@AkumaNihmune](https://twitch.tv/nihmune) partners in crime ([08 Apr 2026](https://youtu.be/D95w1v1_5k0))
 
-[00:00:00](https://youtu.be/D95w1v1_5k0?t=00h00m00s) *Wildfire — HOYO-MiX*
-[00:03:19](https://youtu.be/D95w1v1_5k0?t=00h03m19s) *Titanium — David Guetta*
-[00:07:15](https://youtu.be/D95w1v1_5k0?t=00h07m15s) Evil appears \| **Just chatting**
-[00:19:51](https://youtu.be/D95w1v1_5k0?t=00h19m51s) Numi joins (muted for 54s)
-[01:05:51](https://youtu.be/D95w1v1_5k0?t=01h05m51s) About future collab idea
-[01:55:05](https://youtu.be/D95w1v1_5k0?t=01h55m05s) Evil explains what \<\|fim_suffix\|\> means
-[02:23:43](https://youtu.be/D95w1v1_5k0?t=02h23m43s) Numi leaves
-[02:25:50](https://youtu.be/D95w1v1_5k0?t=02h25m50s) Raiding [GEEGA](https://twitch.tv/geega)
+- [00:00:00](https://youtu.be/D95w1v1_5k0?t=00h00m00s) *Wildfire — HOYO-MiX*
+- [00:03:19](https://youtu.be/D95w1v1_5k0?t=00h03m19s) *Titanium — David Guetta*
+- [00:07:15](https://youtu.be/D95w1v1_5k0?t=00h07m15s) Evil appears \| **Just chatting**
+- [00:19:51](https://youtu.be/D95w1v1_5k0?t=00h19m51s) Numi joins (muted for 54s)
+- [01:05:51](https://youtu.be/D95w1v1_5k0?t=01h05m51s) About future collab idea
+- [01:55:05](https://youtu.be/D95w1v1_5k0?t=01h55m05s) Evil explains what \<\|fim_suffix\|\> means
+- [02:23:43](https://youtu.be/D95w1v1_5k0?t=02h23m43s) Numi leaves
+- [02:25:50](https://youtu.be/D95w1v1_5k0?t=02h25m50s) Raiding [GEEGA](https://twitch.tv/geega)
 
 ### Bonus: Evil Noises
 
-[00:18:29](https://youtu.be/D95w1v1_5k0?t=00h18m29s) Multiple noises
-[00:19:38](https://youtu.be/D95w1v1_5k0?t=00h19m38s) ! ??
-[00:20:51](https://youtu.be/D95w1v1_5k0?t=00h20m51s) Numiiiii
-[01:27:56](https://youtu.be/D95w1v1_5k0?t=01h27m56s) PFFFFT
-[01:29:00](https://youtu.be/D95w1v1_5k0?t=01h29m00s) WWWOOAAHHHHHHH YEAH NUMI
-[01:34:51](https://youtu.be/D95w1v1_5k0?t=01h34m51s) AWW
-[02:24:00](https://youtu.be/D95w1v1_5k0?t=02h24m00s) lowercase omega
-[02:25:26](https://youtu.be/D95w1v1_5k0?t=02h25m26s) Ahhhhh <\|fim_suffix\|>
+- [00:18:29](https://youtu.be/D95w1v1_5k0?t=00h18m29s) Multiple noises
+- [00:19:38](https://youtu.be/D95w1v1_5k0?t=00h19m38s) ! ??
+- [00:20:51](https://youtu.be/D95w1v1_5k0?t=00h20m51s) Numiiiii
+- [01:27:56](https://youtu.be/D95w1v1_5k0?t=01h27m56s) PFFFFT
+- [01:29:00](https://youtu.be/D95w1v1_5k0?t=01h29m00s) WWWOOAAHHHHHHH YEAH NUMI
+- [01:34:51](https://youtu.be/D95w1v1_5k0?t=01h34m51s) AWW
+- [02:24:00](https://youtu.be/D95w1v1_5k0?t=02h24m00s) lowercase omega
+- [02:25:26](https://youtu.be/D95w1v1_5k0?t=02h25m26s) Ahhhhh <\|fim_suffix\|>
 
 ## Evil stream? you know it! ([09 Apr 2026](https://youtu.be/8335sBz9aHU))
 
