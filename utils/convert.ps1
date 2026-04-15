@@ -28,6 +28,10 @@ $MONTHS = @{
     "Nov" = "11";
     "Dec" = "12";
 }
+$PLAYING_RX = '(?m)Playing (.+?)(?:$| \(| \|)'
+$CONTENT_RX = '(?m)(Karaoke|Themed stream: .+?|3D stream|Art review)(?:$| \|)'
+$PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)'
+$RAIDING_RX = 'Raiding (.+?)(?:$| \|)'
 
 # Variables
 $knownRaidTargets = @{}
@@ -97,31 +101,31 @@ if ($Auto -eq "full") {
     }
 
     # Parse games
-    if ($addContent -match 'Playing .') {
+    if ($addContent -match $PLAYING_RX) {
         $contentEntries = (
             (
-                Select-String '(?m)Playing (.+?)(?:$| \|)' -input $addContent -AllMatches
+                Select-String $PLAYING_RX -input $addContent -AllMatches
             ).Matches
             | ForEach-Object {$_.Groups[1]}
         ).Value
     }
     # Parse other content
-    if ($addContent -match '(?m)(Karaoke|Themed stream: .+?|3D stream)(?:$| \|)') {
+    if ($addContent -match $CONTENT_RX) {
         $contentEntries += (
             (
-                Select-String '(?m)(Karaoke|Themed stream: .+?|3D stream)(?:$| \|)' -input $addContent -AllMatches
+                Select-String $CONTENT_RX -input $addContent -AllMatches
             ).Matches
             | ForEach-Object {$_.Groups[1]}
         ).Value
     }
     # Parse participants
-    if ($addContent -match '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)') {
+    if ($addContent -match $PARTICIPANT_RX) {
         $participants = (
-            Select-String '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)' -input $addContent -AllMatches
+            Select-String $PARTICIPANT_RX -input $addContent -AllMatches
         ).Matches.Value
     }
     # Parse raid target
-    $addContent -match 'Raiding (.+?)(?:$| \|)'
+    $addContent -match $RAIDING_RX
     $raidTarget = $Matches[1]
 
     # # Escape non-formatting asterisks and underscores

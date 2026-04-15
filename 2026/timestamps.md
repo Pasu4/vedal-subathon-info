@@ -813,3 +813,16 @@
 - [03:22:33](https://youtu.be/Qy4agD90vy4?t=03h22m33s) About possible server building stream
 - [03:25:10](https://youtu.be/Qy4agD90vy4?t=03h25m10s) Searching for raid target
 - [03:28:09](https://youtu.be/Qy4agD90vy4?t=03h28m09s) [Naenia Selanyx](https://twitch.tv/naeniaselanyx)
+
+## a neuro a day keeps the tutel away ([14 Apr 2026](https://youtu.be/8BUuroRgtMs))
+
+- [00:00:00](https://youtu.be/8BUuroRgtMs?t=00h00m00s) *Symphony — Clean Bandit*
+- [00:03:27](https://youtu.be/8BUuroRgtMs?t=00h03m27s) *Rolling Girl — wowaka*
+- [00:06:37](https://youtu.be/8BUuroRgtMs?t=00h06m37s) Neuro appears \| **Just chatting**
+- [00:18:45](https://youtu.be/8BUuroRgtMs?t=00h18m45s) Playing *Legally Distinct •••dle*
+- [00:19:43](https://youtu.be/8BUuroRgtMs?t=00h19m43s) Playing *Legally Distinct Connections*
+- [00:21:15](https://youtu.be/8BUuroRgtMs?t=00h21m15s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:22:33](https://youtu.be/8BUuroRgtMs?t=00h22m33s) 10x10, 5 mines
+- [01:16:55](https://youtu.be/8BUuroRgtMs?t=01h16m55s) **Art review**
+- [01:36:50](https://youtu.be/8BUuroRgtMs?t=01h36m50s) **3D stream**
+- [02:19:54](https://youtu.be/8BUuroRgtMs?t=02h19m54s) Raiding [Shylily](https://twitch.tv/shylily)
