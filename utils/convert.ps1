@@ -36,6 +36,44 @@ $RAIDING_RX = 'Raiding (.+?)(?:$| \|)'
 # Variables
 $knownRaidTargets = @{}
 
+function Get-YouTubeCommentText {
+    param (
+        [Parameter(Mandatory=$true)][string]$VideoId,
+        [Parameter(Mandatory=$true)][string]$AuthorDisplayName,
+        [Parameter(Mandatory=$true)][string]$ApiKey
+    )
+
+    $baseUri = 'https://www.googleapis.com/youtube/v3/commentThreads'
+    $pageToken = $null
+
+    do {
+        $query = @{
+            part = 'snippet'
+            videoId = $VideoId
+            maxResults = 100
+            order = 'time'
+            key = $ApiKey
+        }
+
+        if ($pageToken) {
+            $query.pageToken = $pageToken
+        }
+
+        $response = Invoke-RestMethod -Method Get -Uri $baseUri -Body $query
+        $comment = $response.items | Where-Object {
+            $_.snippet.topLevelComment.snippet.authorDisplayName -eq $AuthorDisplayName
+        } | Select-Object -First 1
+
+        if ($comment) {
+            return $comment.snippet.topLevelComment.snippet.textOriginal
+        }
+
+        $pageToken = $response.nextPageToken
+    } while ($pageToken)
+
+    return $null
+}
+
 # Set encoding
 [System.Console]::OutputEncoding=[System.Text.Encoding]::UTF8
 
@@ -48,19 +86,19 @@ if ($Auto -eq "simple") {
 }
 elseif ($Auto -eq "full") {
     # Additionally extract timestamps from the comment
-    $fetched = (
-        yt-dlp.exe `
-            --skip-download `
-            --extractor-args "youtube:max_comments=1000,all,all,all,1" `
-            --write-comments `
-            --dump-json `
-            -I 1 `
-            "https://www.youtube.com/$ARCHIVER_CHANNEL"
-        | jq.exe "{comment: [(.comments[] | select(.author == `"$COMMENT_AUTHOR`") | .text)] | .[-1], title: .title, id: .id}"
-        | ConvertFrom-Json
-    )
+    $youtubeApiKey = $env:YOUTUBE_DATA_API_KEY
+    if (-not $youtubeApiKey) {
+        Write-Error "YOUTUBE_DATA_API_KEY environment variable is required for full auto mode."
+        exit 1
+    }
+
+    $fetched = yt-dlp.exe -s -O '{"title":%(title)j,"id":%(id)j}' -I 1 "https://www.youtube.com/$ARCHIVER_CHANNEL" |
+        ConvertFrom-Json
     $videoTitle = $fetched.title
     $videoId = $fetched.id
+    $fetched | Add-Member -NotePropertyName comment -NotePropertyValue (
+        Get-YouTubeCommentText -VideoId $videoId -AuthorDisplayName $COMMENT_AUTHOR -ApiKey $youtubeApiKey
+    )
 
     # Extract date and title from video title (format: "Title - 1 Jan 2024")
     $videoTitle, $date = $videoTitle -split ' - ', -2
@@ -102,27 +140,17 @@ if ($Auto -eq "full") {
 
     # Parse games
     if ($addContent -match $PLAYING_RX) {
-        $contentEntries = (
-            (
-                Select-String $PLAYING_RX -input $addContent -AllMatches
-            ).Matches
-            | ForEach-Object {$_.Groups[1]}
-        ).Value
+        $contentEntries = (Select-String $PLAYING_RX -InputObject $addContent -AllMatches).Matches |
+            ForEach-Object { $_.Groups[1].Value }
     }
     # Parse other content
     if ($addContent -match $CONTENT_RX) {
-        $contentEntries += (
-            (
-                Select-String $CONTENT_RX -input $addContent -AllMatches
-            ).Matches
-            | ForEach-Object {$_.Groups[1]}
-        ).Value
+        $contentEntries += (Select-String $CONTENT_RX -InputObject $addContent -AllMatches).Matches |
+            ForEach-Object { $_.Groups[1].Value }
     }
     # Parse participants
     if ($addContent -match $PARTICIPANT_RX) {
-        $participants = (
-            Select-String $PARTICIPANT_RX -input $addContent -AllMatches
-        ).Matches.Value
+        $participants = (Select-String $PARTICIPANT_RX -InputObject $addContent -AllMatches).Matches.Value
     }
     # Parse raid target
     $addContent -match $RAIDING_RX
