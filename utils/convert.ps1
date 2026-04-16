@@ -1,14 +1,36 @@
+<#
+.SYNOPSIS
+    Tool for fetching and converting timestamps for Neuro Archiver's VOD archive.
+#>
 param (
+    # YouTube video link to extract the ID from. Ignored in auto modes.
     [Parameter(Mandatory=$false)][string]$Link,
+    # Path to the file containing the timestamps.
     [Parameter(Mandatory=$true)][string]$TimestampsFile,
+    # Path to the overview file to update in full auto mode.
     [Parameter(Mandatory=$false)][string]$OverviewFile,
+    # - "simple": Automatically fetch the latest video title and ID from the channel.
+    # - "full": Additionally fetch timestamps from the comment and update the overview file.
     [Parameter(Mandatory=$false)][string]$Auto,
-    [Parameter(Mandatory=$false)][string]$Category  # Category for full auto mode
+    # Category for the stream, used in full auto mode. Only for full auto mode.
+    # If set to "<other>", a placeholder will be added to the overview file instead.
+    [Parameter(Mandatory=$false)][string]$Category,
+    # Source of timestamps for full auto mode.
+    # - "youtube": Fetch timestamps from the comment by $CommentAuthor (default).
+    # - "clipboard": Use the current clipboard content as timestamps, useful if someone else already posted incomplete or incompatibly formatted timestamps.
+    [Parameter(Mandatory=$false)][string]$TimestampsSource = "youtube",
+    # YouTube username to fetch timestamps comment from in full auto mode. Default is "@Pasu4".
+    [Parameter(Mandatory=$false)][string]$CommentAuthor = "@Pasu4",
+    # Index of the video to fetch in auto modes, default is 1 (latest video).
+    [Parameter(Mandatory=$false)][int]$Index = 1
 )
 
 # Transform parameters
 if ($Category -eq "<other>") {
     $Category = "<!-- TODO: Specify category -->"
+}
+if ($TimestampsSource -eq $null) {
+    $TimestampsSource = "youtube"
 }
 
 # Constants
@@ -80,7 +102,7 @@ function Get-YouTubeCommentText {
 
 if ($Auto -eq "simple") {
     # Only fetch the title and ID
-    $fetched = yt-dlp.exe -s -O "%(title)s::%(id)s" -I 1 "https://www.youtube.com/@NArchiver"
+    $fetched = yt-dlp.exe -s -O "%(title)s::%(id)s" -I $Index "https://www.youtube.com/@NArchiver"
     $fetched = $fetched -split "::"
     $videoTitle = $fetched[0]
     $videoId = $fetched[1]
@@ -93,13 +115,23 @@ elseif ($Auto -eq "full") {
         exit 1
     }
 
-    $fetched = yt-dlp.exe -s -O '{"title":%(title)j,"id":%(id)j}' -I 1 "https://www.youtube.com/$ARCHIVER_CHANNEL" |
+    $fetched = yt-dlp.exe -s -O '{"title":%(title)j,"id":%(id)j}' -I $Index "https://www.youtube.com/$ARCHIVER_CHANNEL" |
         ConvertFrom-Json
     $videoTitle = $fetched.title
     $videoId = $fetched.id
-    $fetched | Add-Member -NotePropertyName comment -NotePropertyValue (
-        Get-YouTubeCommentText -VideoId $videoId -AuthorDisplayName $COMMENT_AUTHOR -ApiKey $youtubeApiKey
-    )
+
+    # Fetch comment text based on the specified source
+    if ($TimestampsSource -eq "youtube") {
+        $fetched | Add-Member -NotePropertyName comment -NotePropertyValue (
+            Get-YouTubeCommentText -VideoId $videoId -AuthorDisplayName $COMMENT_AUTHOR -ApiKey $youtubeApiKey
+        )
+    } elseif ($TimestampsSource -eq "clipboard") {
+        # In case someone else already posted incomplete or incompatibly formatted timestamps
+        $fetched | Add-Member -NotePropertyName comment -NotePropertyValue (Get-Clipboard -Raw)
+    } else {
+        Write-Error "Invalid timestamps source specified. Use 'youtube' or 'clipboard'."
+        exit 1
+    }
 
     # Extract date and title from video title (format: "Title - 1 Jan 2024")
     $videoTitle, $date = $videoTitle -split ' - ', -2
