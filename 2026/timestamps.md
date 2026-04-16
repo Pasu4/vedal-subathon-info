@@ -826,3 +826,27 @@
 - [01:16:55](https://youtu.be/8BUuroRgtMs?t=01h16m55s) **Art review**
 - [01:36:50](https://youtu.be/8BUuroRgtMs?t=01h36m50s) **3D stream**
 - [02:19:54](https://youtu.be/8BUuroRgtMs?t=02h19m54s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## Evil's singing is here to take over the world ([15 Apr 2026](https://youtu.be/T4Pgj7kjoUk))
+
+- [00:00:00](https://youtu.be/T4Pgj7kjoUk?t=00h00m00s) *The Wolf — SIAMÉS* (instrumental)
+- [00:02:57](https://youtu.be/T4Pgj7kjoUk?t=00h02m57s) *Titanium — David Guetta* (instrumental)
+- [00:06:58](https://youtu.be/T4Pgj7kjoUk?t=00h06m58s) Evil appears \| **Karaoke** \| *Follow Me — GEN.KLOUD*
+- [00:14:42](https://youtu.be/T4Pgj7kjoUk?t=00h14m42s) *Trouble is a Friend — Lenka*
+- [00:21:09](https://youtu.be/T4Pgj7kjoUk?t=00h21m09s) *The Void — Spiritbox*
+- [00:27:52](https://youtu.be/T4Pgj7kjoUk?t=00h27m52s) *Feel Invincible — Skillet* (duet)
+- [00:34:31](https://youtu.be/T4Pgj7kjoUk?t=00h34m31s) *Clone — KANA-BOON*
+- [00:42:33](https://youtu.be/T4Pgj7kjoUk?t=00h42m33s) *The Other Side of Paradise — Glass Animals*
+- [00:50:52](https://youtu.be/T4Pgj7kjoUk?t=00h50m52s) *Sayonara Moon Town — Scenarioart* (duet)
+- [00:57:34](https://youtu.be/T4Pgj7kjoUk?t=00h57m34s) *Dancing Queen — ABBA*
+- [01:04:13](https://youtu.be/T4Pgj7kjoUk?t=01h04m13s) *Beggin' — Maneskin*
+- [01:10:38](https://youtu.be/T4Pgj7kjoUk?t=01h10m38s) *With or Without You — U2*
+- [01:18:25](https://youtu.be/T4Pgj7kjoUk?t=01h18m25s) *Through the Darkness — Nao Sato* (duet)
+- [01:25:37](https://youtu.be/T4Pgj7kjoUk?t=01h25m37s) *Ordinary World — Duran Duran*
+- [01:34:10](https://youtu.be/T4Pgj7kjoUk?t=01h34m10s) *Static — FLAVOR FOLEY*
+- [01:41:05](https://youtu.be/T4Pgj7kjoUk?t=01h41m05s) *Espresso — Sabrina Carpenter*
+- [01:46:45](https://youtu.be/T4Pgj7kjoUk?t=01h46m45s) *Mobius — Hiiragi Kirai*
+- [01:53:02](https://youtu.be/T4Pgj7kjoUk?t=01h53m02s) *A Sad Cartoon — Loathe*
+- [02:01:08](https://youtu.be/T4Pgj7kjoUk?t=02h01m08s) *You Make Me Sick — bitbreaker*
+- [02:07:49](https://youtu.be/T4Pgj7kjoUk?t=02h07m49s) *Who Will You Follow — Evanescence*
+- [02:11:50](https://youtu.be/T4Pgj7kjoUk?t=02h11m50s) Raiding [Layna](https://twitch.tv/laynalazar)
