@@ -50,11 +50,17 @@ $MONTHS = @{
     "Nov" = "11";
     "Dec" = "12";
 }
+
 $PLAYING_RX = 'Playing _(.+?)_'
 $CONTENT_RX = '(?:\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)'
 $RAIDING_RX = 'Raiding (.+?)(?:$| \|)'
 $PRESENTS_RX = '(\w+) presents _(.+?)_'
+
+$STREAMS_TABLE_HEADER = '| Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target'
+$PARTICIPANTS_TABLE_HEADER = '| Participant                                                   | Streams'
+$CONTENT_TABLE_HEADER = '| Content                                   | Streams'
+$EVENTS_TABLE_HEADER = '| Event                                     | Stream'
 
 # Variables
 $knownRaidTargets = @{}
@@ -220,18 +226,22 @@ if ($Auto -eq "full") {
 
     # Add content to overview file
     if (Test-Path $OverviewFile) {
-        $stage = "streamparsing"
+        $stage = "none"
         $foundContent = @()
         $foundParticipants = @()
         (Get-Content $OverviewFile) | ForEach-Object {
             $line = $_
+            if ($line -eq $STREAMS_TABLE_HEADER) {
+                $stage = "streamparsing"
+            }
             # Parse previous raid targets
-            if ($stage -eq "streamparsing" -and $line -match '\[([^\]\n]+)\]\(https://twitch\.tv/(\w+)\)') {
+            elseif ($stage -eq "streamparsing" -and $line -match '\[([^\]\n]+)\]\(https://twitch\.tv/(\w+)\)') {
                 $knownRaidTargets[$matches[1]] = $matches[2]
                 $line # Output existing content
             }
-            # Add entry to streams table
-            elseif ($line -match '^<!-- marker_new_stream -->$') {
+            # Detect end of table
+            elseif ($stage -eq "streamparsing" -and -not $line) {
+                # Add entry to streams table
                 $participantsList = $participants -join ", "
 
                 if ($raidTarget -and $knownRaidTargets.ContainsKey($raidTarget)) {
@@ -243,22 +253,22 @@ if ($Auto -eq "full") {
                     $raidTargetLink = "-"
                 }
 
-                "| [$date](https://youtu.be/$videoId) " +
-                "| " + $videoTitle.PadRight(68) +
-                "| " + $Category.PadRight(22) +
-                "| " + $participantsList.PadRight(38) +
-                "| " + $raidTargetLink
+                "| [$date](https://youtu.be/$videoId)" +
+                " | " + $videoTitle.PadRight(67) +
+                " | " + $Category.PadRight(21) +
+                " | " + $participantsList.PadRight(37) +
+                " | " + $raidTargetLink
 
                 $stage = "none"
                 $line # Output existing content
             }
             # Detect participants section
-            elseif ($line -match '^<!-- marker_participants -->$') {
+            elseif ($line -eq $PARTICIPANTS_TABLE_HEADER) {
                 $stage = "participants"
                 $line # Output existing content
             }
             # Detect end of participants section
-            elseif ($line -eq '<!-- marker_participants_end -->') {
+            elseif ($stage -eq "participants" -and -not $line) {
                 $notFoundParticipants = $participants | Where-Object { $_ -notin $foundParticipants }
                 if ($notFoundParticipants) {
                     Write-Warning "The following participants were not found in the overview file, add them manually:`n$($notFoundParticipants -join "`n")"
@@ -280,12 +290,12 @@ if ($Auto -eq "full") {
                 $line # Output existing or updated content
             }
             # Detect content section
-            elseif ($line -match '^<!-- marker_content -->$') {
+            elseif ($line -eq $CONTENT_TABLE_HEADER) {
                 $stage = "content"
                 $line # Output existing content
             }
             # Detect end of content section
-            elseif ($line -match '^<!-- marker_content_end -->$') {
+            elseif ($stage -eq "content" -and -not $line) {
                 $notFoundContent = $contentEntries | Where-Object { $_ -notin $foundContent }
                 if ($notFoundContent) {
                     Write-Warning "The following content entries could not be classified, add them manually:`n$($notFoundContent -join "`n")"
@@ -306,10 +316,14 @@ if ($Auto -eq "full") {
                 }
                 $line # Output existing or updated content
             }
-            elseif ($line -match '^<!-- marker_new_event -->$') {
+            elseif ($line -eq $EVENTS_TABLE_HEADER) {
+                $stage = "events"
+                $line # Output existing content
+            }
+            elseif ($stage -eq "events" -and -not $line) {
                 foreach ($evt in $events) {
-                    "| $($evt.PadRight(42))" +
-                    "| " + $overviewVideoLink
+                    "| $($evt.PadRight(41))" +
+                    " | " + $overviewVideoLink
                 }
                 $line # Output existing content
             }
