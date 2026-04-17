@@ -850,3 +850,15 @@
 - [02:01:08](https://youtu.be/T4Pgj7kjoUk?t=02h01m08s) *You Make Me Sick — bitbreaker*
 - [02:07:49](https://youtu.be/T4Pgj7kjoUk?t=02h07m49s) *Who Will You Follow — Evanescence*
 - [02:11:50](https://youtu.be/T4Pgj7kjoUk?t=02h11m50s) Raiding [Layna](https://twitch.tv/laynalazar)
+
+## you will NOT believe evil's yap sesh today ([16 Apr 2026](https://youtu.be/64zvE_T9JuM))
+
+- [00:00:00](https://youtu.be/64zvE_T9JuM?t=00h00m00s) *Wicked Game — Chris Isaak*
+- [00:03:04](https://youtu.be/64zvE_T9JuM?t=00h03m04s) Evil appears \| **Just chatting**
+- [00:14:24](https://youtu.be/64zvE_T9JuM?t=00h14m24s) Playing *Legally Distinct •••dle*
+- [00:15:27](https://youtu.be/64zvE_T9JuM?t=00h15m27s) Playing *Legally Distinct Connections*
+- [00:16:29](https://youtu.be/64zvE_T9JuM?t=00h16m29s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:48:06](https://youtu.be/64zvE_T9JuM?t=00h48m06s) Evil presents *6 Reasons You Are Awful*
+- [01:27:28](https://youtu.be/64zvE_T9JuM?t=01h27m28s) **Art review**
+- [02:00:37](https://youtu.be/64zvE_T9JuM?t=02h00m37s) **Just chatting**
+- [02:14:16](https://youtu.be/64zvE_T9JuM?t=02h14m16s) Raiding [Camila](https://twitch.tv/camila)
