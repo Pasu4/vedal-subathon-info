@@ -54,7 +54,7 @@ $PLAYING_RX = 'Playing _(.+?)_'
 $CONTENT_RX = '(?:\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)'
 $RAIDING_RX = 'Raiding (.+?)(?:$| \|)'
-$PRESENTS_RX = '(?m)(.+?) presents _(.+?)_(?:$| \|)'
+$PRESENTS_RX = '(\w+) presents _(.+?)_'
 
 # Variables
 $knownRaidTargets = @{}
@@ -186,7 +186,7 @@ if ($Auto -eq "full") {
     if ($addContent -match $PRESENTS_RX) {
         $events += (Select-String $PRESENTS_RX -input $addContent -AllMatches).Matches |
             ForEach-Object {"$($_.Groups[1].Value) presents *$($_.Groups[2].Value)*"}
-        contentEntries += "Presentation"
+        $contentEntries += "Presentation"
     }
 
     # Parse other content
@@ -308,7 +308,7 @@ if ($Auto -eq "full") {
             }
             elseif ($line -match '^<!-- marker_new_event -->$') {
                 foreach ($evt in $events) {
-                    "| $($evt.PadRight(45)) " +
+                    "| $($evt.PadRight(42))" +
                     "| " + $overviewVideoLink
                 }
                 $line # Output existing content
