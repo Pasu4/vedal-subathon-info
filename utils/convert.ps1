@@ -201,7 +201,7 @@ if ($Auto -eq "full") {
             | ForEach-Object { $_.Groups[1].Value }
             | Where-Object { $_ -ne "Just chatting" -and $_ -notmatch $PLAYING_RX -and $_ -notmatch $PRESENTS_RX }
     }
-    
+
     # Parse participants
     if ($addContent -match $PARTICIPANT_RX) {
         $participants += (Select-String $PARTICIPANT_RX -InputObject $addContent -AllMatches).Matches.Value
@@ -237,7 +237,6 @@ if ($Auto -eq "full") {
             # Parse previous raid targets
             elseif ($stage -eq "streamparsing" -and $line -match '\[([^\]\n]+)\]\(https://twitch\.tv/(\w+)\)') {
                 $knownRaidTargets[$matches[1]] = $matches[2]
-                $line # Output existing content
             }
             # Detect end of table
             elseif ($stage -eq "streamparsing" -and -not $line) {
@@ -260,12 +259,10 @@ if ($Auto -eq "full") {
                 " | " + $raidTargetLink
 
                 $stage = "none"
-                $line # Output existing content
             }
             # Detect participants section
             elseif ($line -eq $PARTICIPANTS_TABLE_HEADER) {
                 $stage = "participants"
-                $line # Output existing content
             }
             # Detect end of participants section
             elseif ($stage -eq "participants" -and -not $line) {
@@ -276,7 +273,6 @@ if ($Auto -eq "full") {
                 }
 
                 $stage = "none"
-                $line # Output existing content
             }
             # Add stream links to participants section
             elseif ($stage -eq "participants") {
@@ -287,12 +283,10 @@ if ($Auto -eq "full") {
                         break
                     }
                 }
-                $line # Output existing or updated content
             }
             # Detect content section
             elseif ($line -eq $CONTENT_TABLE_HEADER) {
                 $stage = "content"
-                $line # Output existing content
             }
             # Detect end of content section
             elseif ($stage -eq "content" -and -not $line) {
@@ -303,7 +297,6 @@ if ($Auto -eq "full") {
                 }
 
                 $stage = "none"
-                $line # Output existing content
             }
             # Add stream links to content section
             elseif ($stage -eq "content") {
@@ -314,22 +307,18 @@ if ($Auto -eq "full") {
                         break
                     }
                 }
-                $line # Output existing or updated content
             }
             elseif ($line -eq $EVENTS_TABLE_HEADER) {
                 $stage = "events"
-                $line # Output existing content
             }
             elseif ($stage -eq "events" -and -not $line) {
                 foreach ($evt in $events) {
                     "| $($evt.PadRight(41))" +
                     " | " + $overviewVideoLink
                 }
-                $line # Output existing content
             }
-            else {
-                $line # Output existing content
-            }
+
+            $line # Output existing content
         } | Set-Content -Path $OverviewFile
     }
 }

@@ -5,6 +5,7 @@
 List of streams that happened this year.
 The date of a stream is the day it started in British time.
 
+| Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target
 |:-------------------------------------------:|:--------------------------------------------------------------------|:---------------------:|:--------------------------------------|:-----------:
 | [27 Jan 2026](https://youtu.be/Nwhu6-QUZEc) | neuro is back from her break!!                                      | Variety               | Neuro, Evil, Mini                     | [Shylily](https://twitch.tv/shylily)
 | [29 Jan 2026](https://youtu.be/kiQVuBVN8ig) | EVIL is back from her break!!                                       | Variety               | Evil                                  | [Camila](https://twitch.tv/camila)
@@ -44,7 +45,6 @@ The date of a stream is the day it started in British time.
 | [12 Apr 2026](https://youtu.be/Qy4agD90vy4) | finally playing the cyberpunk dlc with neuro                        | Vedal gaming          | Vedal, Neuro                          | [Naenia Selanyx](https://twitch.tv/naeniaselanyx)
 | [14 Apr 2026](https://youtu.be/8BUuroRgtMs) | a neuro a day keeps the tutel away                                  | Just chatting         | Neuro                                 | [Shylily](https://twitch.tv/shylily)
 | [15 Apr 2026](https://youtu.be/T4Pgj7kjoUk) | Evil's singing is here to take over the world                       | Karaoke               | Evil, Neuro                           | [Layna](https://twitch.tv/laynalazar)
-| [16 Apr 2026](https://youtu.be/64zvE_T9JuM) | you will NOT believe evil's yap sesh today                          | Just chatting         | Evil                                  | [Camila](https://twitch.tv/camila)
 | [16 Apr 2026](https://youtu.be/64zvE_T9JuM) | you will NOT believe evil's yap sesh today                          | Just chatting         | Evil                                  | [Camila](https://twitch.tv/camila)
 
 ## Participants
