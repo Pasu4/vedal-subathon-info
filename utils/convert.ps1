@@ -51,8 +51,8 @@ $MONTHS = @{
     "Dec" = "12";
 }
 
-$PLAYING_RX = 'Playing _(.+?)_'
-$CONTENT_RX = '(?:\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
+$PLAYING_RX = 'Playing (?:\*\*)?_(.+?)_'
+$CONTENT_RX = '(?:[\s-[\n]])\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)'
 $RAIDING_RX = 'Raiding (.+?)(?:$| \|)'
 $PRESENTS_RX = '(\w+) presents _(.+?)_'
@@ -187,6 +187,10 @@ if ($Auto -eq "full") {
         $contentEntries += (Select-String $PLAYING_RX -InputObject $addContent -AllMatches).Matches |
             ForEach-Object { $_.Groups[1].Value }
     }
+    # Count VRChat also as a 3D stream
+    if ($contentEntries -contains "VRChat") {
+        $contentEntries += "3D stream"
+    }
 
     # Parse presentations
     if ($addContent -match $PRESENTS_RX) {
@@ -206,21 +210,24 @@ if ($Auto -eq "full") {
     if ($addContent -match $PARTICIPANT_RX) {
         $participants += (Select-String $PARTICIPANT_RX -InputObject $addContent -AllMatches).Matches.Value
     }
+    $participants = $participants | Select-Object -Unique
 
     # Parse raid target
     $addContent -match $RAIDING_RX
     $raidTarget = $Matches[1]
 
     # Escape non-formatting asterisks and underscores
-    $addContent = $addContent -replace '(\S)([*_])(\S)', '$1\\$2$3'
+    $addContent = $addContent -replace '([^\s*_-])([*_])([^\s*_-])', '$1\\$2$3'
     # Convert bold text (single asterisks -> double asterisks)
-    $addContent = $addContent -replace '(?<=^|\s)\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)', '**$1**'
+    $addContent = $addContent -replace '(?<=^|[\s*_-])\*(.+?)\*(?=[\s*_-]|$)', '**$1**'
+    # Remove quadruple asterisks (YouTube API bug)
+    $addContent = $addContent -replace '\*\*\*\*', ''
     # Convert italics (single underscores -> single asterisks)
     $addContent = $addContent -replace '\b_(?=\S)(.+?)(?<=\S)_\b', '*$1*'
     # Convert strikethrough (single dashes -> double tildes)
     $addContent = $addContent -replace '(?<=^|\s|\*|_)-(?=\S)(.+?)(?<=\S)-(?=\s|\*|_|$)', '~~$1~~'
     # Convert subheadings (double asterisks at start of line -> double hash)
-    $addContent = $addContent -replace '(?m)^\*\*(.+)\*\*\s*$', '### $1\n'
+    $addContent = $addContent -replace '(?m)^\*\*(.+)\*\*\s*$', ('### $1' + "`n")
 
     $content = $content + "`n## `n`n$addContent"
 
