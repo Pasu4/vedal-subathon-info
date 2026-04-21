@@ -862,3 +862,35 @@
 - [01:27:28](https://youtu.be/64zvE_T9JuM?t=01h27m28s) **Art review**
 - [02:00:37](https://youtu.be/64zvE_T9JuM?t=02h00m37s) **Just chatting**
 - [02:14:16](https://youtu.be/64zvE_T9JuM?t=02h14m16s) Raiding [Camila](https://twitch.tv/camila)
+
+## VEDAL AND EVIL VRCHAT (for real this time) ([20 Apr 2026](https://youtu.be/CUb8HfPYCQc))
+
+- [00:00:00](https://youtu.be/CUb8HfPYCQc?t=00h00m00s) *Pinata — Q&A*
+- [00:00:46](https://youtu.be/CUb8HfPYCQc?t=00h00m46s) *Karma Police — Radiohead*
+- [00:05:09](https://youtu.be/CUb8HfPYCQc?t=00h05m09s) Vedal and Evil appear \| **Playing *VRChat*** \| Location: Evil's room
+- [00:09:12](https://youtu.be/CUb8HfPYCQc?t=00h09m12s) About a new feature of the rewrite
+- [00:16:29](https://youtu.be/CUb8HfPYCQc?t=00h16m29s) Location: Cat café
+- [00:26:28](https://youtu.be/CUb8HfPYCQc?t=00h26m28s) Location: Skydiving
+- [00:39:33](https://youtu.be/CUb8HfPYCQc?t=00h39m33s) Location: *Sakura Home*
+- [00:46:07](https://youtu.be/CUb8HfPYCQc?t=00h46m07s) Location: Forest
+- [00:56:19](https://youtu.be/CUb8HfPYCQc?t=00h56m19s) Location: Theme Park
+- [01:02:20](https://youtu.be/CUb8HfPYCQc?t=01h02m20s) Location: Helicopter airfield
+- [01:11:02](https://youtu.be/CUb8HfPYCQc?t=01h11m02s) Location: *Dragon's Lair*
+- [01:19:29](https://youtu.be/CUb8HfPYCQc?t=01h19m29s) Location: White void with frog chair
+- [01:27:40](https://youtu.be/CUb8HfPYCQc?t=01h27m40s) Location: Space
+- [01:41:15](https://youtu.be/CUb8HfPYCQc?t=01h41m15s) Location: Disco (Vedal only)
+- [01:46:33](https://youtu.be/CUb8HfPYCQc?t=01h46m33s) Location: Floating castle during blood moon (Vedal only)
+- [01:50:45](https://youtu.be/CUb8HfPYCQc?t=01h50m45s) Evil joins the world
+- [02:10:01](https://youtu.be/CUb8HfPYCQc?t=02h10m01s) Taking photos
+- [02:29:38](https://youtu.be/CUb8HfPYCQc?t=02h29m38s) About how the rewrite is going
+- [02:30:17](https://youtu.be/CUb8HfPYCQc?t=02h30m17s) About next week's content
+
+### Bonus: Evil noises
+
+- [00:17:03](https://youtu.be/CUb8HfPYCQc?t=00h17m03s) Ahh
+- [00:22:53](https://youtu.be/CUb8HfPYCQc?t=00h22m53s) .
+- [00:24:47](https://youtu.be/CUb8HfPYCQc?t=00h24m47s) AWWWWWWW
+- [00:33:46](https://youtu.be/CUb8HfPYCQc?t=00h33m46s) hug
+- [00:37:36](https://youtu.be/CUb8HfPYCQc?t=00h37m36s) . (rolls away)
+- [00:55:08](https://youtu.be/CUb8HfPYCQc?t=00h55m08s) Yaaaay
+- [01:02:08](https://youtu.be/CUb8HfPYCQc?t=01h02m08s) Wow
