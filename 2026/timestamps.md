@@ -791,7 +791,7 @@
 - [00:08:22](https://youtu.be/8335sBz9aHU?t=00h08m22s) Evil appears \| **Just chatting**
 - [00:27:46](https://youtu.be/8335sBz9aHU?t=00h27m46s) Playing *Legally Distinct •••dle*
 - [00:29:08](https://youtu.be/8335sBz9aHU?t=00h29m08s) Playing *Legally Distinct Connections*
-- [00:47:46](https://youtu.be/8335sBz9aHU?t=00h47m46s) **Themed stream: Evil tech tip**
+- [00:47:46](https://youtu.be/8335sBz9aHU?t=00h47m46s) **Themed stream: Evil Tech Tip**
 - [01:25:54](https://youtu.be/8335sBz9aHU?t=01h25m54s) **Themed stream: Teacher**
 - [01:35:23](https://youtu.be/8335sBz9aHU?t=01h35m23s) **Just chatting**
 - [01:42:46](https://youtu.be/8335sBz9aHU?t=01h42m46s) **3D stream**
@@ -894,3 +894,19 @@
 - [00:37:36](https://youtu.be/CUb8HfPYCQc?t=00h37m36s) . (rolls away)
 - [00:55:08](https://youtu.be/CUb8HfPYCQc?t=00h55m08s) Yaaaay
 - [01:02:08](https://youtu.be/CUb8HfPYCQc?t=01h02m08s) Wow
+
+## this isn't your average neuro tuesday... or is it? find out ([21 Apr 2026](https://youtu.be/6G0CnNorUj8))
+
+- [00:00:00](https://youtu.be/6G0CnNorUj8?t=00h00m00s) *夜に駆ける — Mao WeiJia - TSH48*
+- [00:04:08](https://youtu.be/6G0CnNorUj8?t=00h04m08s) *HAO — DECO\\*27*
+- [00:07:07](https://youtu.be/6G0CnNorUj8?t=00h07m07s) Neuro appears \| **Just chatting**
+- [00:09:34](https://youtu.be/6G0CnNorUj8?t=00h09m34s) Playing *Legally Distinct •••dle*
+- [00:10:38](https://youtu.be/6G0CnNorUj8?t=00h10m38s) Playing *Legally Distinct Connections*
+- [00:11:37](https://youtu.be/6G0CnNorUj8?t=00h11m37s) Playing *Minesweeper*
+- [00:31:56](https://youtu.be/6G0CnNorUj8?t=00h31m56s) Evil joins for 10m5s
+- [00:42:24](https://youtu.be/6G0CnNorUj8?t=00h42m24s) **Themed stream: Tech Tip**
+- [01:00:23](https://youtu.be/6G0CnNorUj8?t=01h00m23s) **Themed stream: Teacher**
+- [01:10:13](https://youtu.be/6G0CnNorUj8?t=01h10m13s) **Themed stream: Tech Tip**
+- [01:13:43](https://youtu.be/6G0CnNorUj8?t=01h13m43s) **Art review**
+- [01:43:14](https://youtu.be/6G0CnNorUj8?t=01h43m14s) **3D stream**
+- [02:19:48](https://youtu.be/6G0CnNorUj8?t=02h19m48s) Raiding [Shylily](https://twitch.tv/shylily)
