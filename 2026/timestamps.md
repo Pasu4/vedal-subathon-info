@@ -910,3 +910,23 @@
 - [01:13:43](https://youtu.be/6G0CnNorUj8?t=01h13m43s) **Art review**
 - [01:43:14](https://youtu.be/6G0CnNorUj8?t=01h43m14s) **3D stream**
 - [02:19:48](https://youtu.be/6G0CnNorUj8?t=02h19m48s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## Evil is here for mischief! ([23 Apr 2026](https://youtu.be/uW3CXDvL18U))
+
+- [00:00:00](https://youtu.be/uW3CXDvL18U?t=00h00m00s) *Boulevard of Broken Dreams — Green Day*
+- [00:04:10](https://youtu.be/uW3CXDvL18U?t=00h04m10s) *Sandstorm — Darude*
+- [00:07:54](https://youtu.be/uW3CXDvL18U?t=00h07m54s) Evil appears \| **Just chatting**
+- [00:50:16](https://youtu.be/uW3CXDvL18U?t=00h50m16s) Playing *Legally Distinct •••dle*
+- [00:52:01](https://youtu.be/uW3CXDvL18U?t=00h52m01s) Playing *Legally Distinct Connections*
+- [00:54:10](https://youtu.be/uW3CXDvL18U?t=00h54m10s) Playing *Minesweeper*
+- [01:02:34](https://youtu.be/uW3CXDvL18U?t=01h02m34s) **Karaoke**
+- [01:04:45](https://youtu.be/uW3CXDvL18U?t=01h04m45s) *Shooting Stars — Bag Raiders*
+- [01:11:09](https://youtu.be/uW3CXDvL18U?t=01h11m09s) *Stupid Heart — Ellie Minibot*
+- [01:16:32](https://youtu.be/uW3CXDvL18U?t=01h16m32s) *Roar — Katy Perry*
+- [01:22:34](https://youtu.be/uW3CXDvL18U?t=01h22m34s) *Everytime We Touch — Cascada*
+- [01:28:03](https://youtu.be/uW3CXDvL18U?t=01h28m03s) *Take Me Hand — DAISHI DANCE*
+- [01:34:38](https://youtu.be/uW3CXDvL18U?t=01h34m38s) *Rain of Stars — nelward*
+- [01:40:58](https://youtu.be/uW3CXDvL18U?t=01h40m58s) *I was human — Picon*
+- [01:47:19](https://youtu.be/uW3CXDvL18U?t=01h47m19s) *Furthest Star — Dirt Poor Robins*
+- [01:53:21](https://youtu.be/uW3CXDvL18U?t=01h53m21s) **3D stream**
+- [02:19:49](https://youtu.be/uW3CXDvL18U?t=02h19m49s) Raiding [Zentreya](https://twitch.tv/zentreya)
