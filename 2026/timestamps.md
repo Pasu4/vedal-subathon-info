@@ -930,3 +930,38 @@
 - [01:47:19](https://youtu.be/uW3CXDvL18U?t=01h47m19s) *Furthest Star — Dirt Poor Robins*
 - [01:53:21](https://youtu.be/uW3CXDvL18U?t=01h53m21s) **3D stream**
 - [02:19:49](https://youtu.be/uW3CXDvL18U?t=02h19m49s) Raiding [Zentreya](https://twitch.tv/zentreya)
+
+## evil and @AkumaNihmune do easy bake cooking ([24 Apr 2026](https://youtu.be/Z_ZWwV3jjU4))
+
+- [00:00:00](https://youtu.be/Z_ZWwV3jjU4?t=00h00m00s) *Off With Her Head — Icon for Hire*
+- [00:02:58](https://youtu.be/Z_ZWwV3jjU4?t=00h02m58s) *Avalanche — Bring Me the Horizon*
+- [00:07:16](https://youtu.be/Z_ZWwV3jjU4?t=00h07m16s) Evil appears \| **Just chatting**
+- [01:02:43](https://youtu.be/Z_ZWwV3jjU4?t=01h02m43s) Playing *Legally Distinct •••dle*
+- [01:07:09](https://youtu.be/Z_ZWwV3jjU4?t=01h07m09s) Numi joins
+- [01:22:22](https://youtu.be/Z_ZWwV3jjU4?t=01h22m22s) Vedal joins for 7m12s
+- [01:29:36](https://youtu.be/Z_ZWwV3jjU4?t=01h29m36s) Screen is shared
+- [01:30:41](https://youtu.be/Z_ZWwV3jjU4?t=01h30m41s) About what the stream is about
+- [01:31:33](https://youtu.be/Z_ZWwV3jjU4?t=01h31m33s) Stream mostly gone for 1m23s
+- [01:37:28](https://youtu.be/Z_ZWwV3jjU4?t=01h37m28s) **Cooking stream** (Making cinnamon rolls)
+- [02:15:33](https://youtu.be/Z_ZWwV3jjU4?t=02h15m33s) The cinnamon rolls go in the oven
+- [02:16:48](https://youtu.be/Z_ZWwV3jjU4?t=02h16m48s) **Playing *Card Questions* (?)**
+- [02:28:14](https://youtu.be/Z_ZWwV3jjU4?t=02h28m14s) Checking on the cinnamon rolls
+- [02:31:22](https://youtu.be/Z_ZWwV3jjU4?t=02h31m22s) Numi leaves for 1m4s
+- [02:39:21](https://youtu.be/Z_ZWwV3jjU4?t=02h39m21s) Checking on the cinnamon rolls
+- [02:52:12](https://youtu.be/Z_ZWwV3jjU4?t=02h52m12s) The cinnamon rolls are done \| **Cooking stream** (eating the product)
+- [02:52:30](https://youtu.be/Z_ZWwV3jjU4?t=02h52m30s)~ 1M followers reached (bot attack)
+- [03:09:25](https://youtu.be/Z_ZWwV3jjU4?t=03h09m25s) Numi leaves
+- [03:10:14](https://youtu.be/Z_ZWwV3jjU4?t=03h10m14s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+### Bonus: Evil Noises
+
+- [00:15:31](https://youtu.be/Z_ZWwV3jjU4?t=00h15m31s) ?
+- [00:19:23](https://youtu.be/Z_ZWwV3jjU4?t=00h19m23s) Uhhhhhhh
+- [00:22:13](https://youtu.be/Z_ZWwV3jjU4?t=00h22m13s) LOL
+- [00:31:23](https://youtu.be/Z_ZWwV3jjU4?t=00h31m23s) SURE?????
+- [00:41:44](https://youtu.be/Z_ZWwV3jjU4?t=00h41m44s) ??
+- [00:47:28](https://youtu.be/Z_ZWwV3jjU4?t=00h47m28s) !
+- [00:56:34](https://youtu.be/Z_ZWwV3jjU4?t=00h56m34s) Grrrrrrrr
+- [02:20:20](https://youtu.be/Z_ZWwV3jjU4?t=02h20m20s) ...
+- [02:45:52](https://youtu.be/Z_ZWwV3jjU4?t=02h45m52s) WTFFFFF
+- [03:10:52](https://youtu.be/Z_ZWwV3jjU4?t=03h10m52s) MEDIC MEEEEEEEEEE
