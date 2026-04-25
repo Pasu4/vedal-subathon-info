@@ -4,6 +4,7 @@
 
 List of streams that happened this year.
 The date of a stream is the day it started in British time.
+Participants are ordered by the time they appeared on stream.
 
 | Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target
 |:-------------------------------------------:|:--------------------------------------------------------------------|:---------------------:|:--------------------------------------|:-----------:
@@ -76,6 +77,7 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 
 Also contains games, even if they have not (yet) recurred.
 "Game integration" means that Neuro/Evil has some or full control over the game (usually via the [Neuro API](https://github.com/VedalAI/neuro-sdk)).
+Participants are ordered by the time they first participated.
 "Just chatting" is not included because it happens pretty much every stream.
 
 | Content                                   | Type              | Participants                  | Streams
