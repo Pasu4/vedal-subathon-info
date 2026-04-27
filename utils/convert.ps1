@@ -54,7 +54,7 @@ $MONTHS = @{
 $PLAYING_RX = 'Playing (?:\*\*)?_(.+?)_'
 $CONTENT_RX = '(?:[\s-[\n]])\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)'
-$RAIDING_RX = 'Raiding (.+?)(?:$| \|)'
+$RAIDING_RX = '(?m)Raiding (.+?)(?:$| \|)'
 $PRESENTS_RX = '(\w+) presents _(.+?)_'
 
 $STREAMS_TABLE_HEADER = '| Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target'
