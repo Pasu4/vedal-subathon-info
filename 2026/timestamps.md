@@ -965,3 +965,43 @@
 - [02:20:20](https://youtu.be/Z_ZWwV3jjU4?t=02h20m20s) ...
 - [02:45:52](https://youtu.be/Z_ZWwV3jjU4?t=02h45m52s) WTFFFFF
 - [03:10:52](https://youtu.be/Z_ZWwV3jjU4?t=03h10m52s) MEDIC MEEEEEEEEEE
+
+## dev stream ([27 Apr 2026](https://youtu.be/FC7B8wFbhgY))
+
+- [00:00:00](https://youtu.be/FC7B8wFbhgY?t=00h00m00s) *Stupid Heart — Ellie Minibot*
+- [00:02:58](https://youtu.be/FC7B8wFbhgY?t=00h02m58s) *In the End — Linkin Park*
+- [00:06:32](https://youtu.be/FC7B8wFbhgY?t=00h06m32s) Vedal and Neuro appear \| **Dev stream**
+- [00:12:10](https://youtu.be/FC7B8wFbhgY?t=00h12m10s) About the rewrite
+- [00:19:00](https://youtu.be/FC7B8wFbhgY?t=00h19m00s) About Maximum Neuro Effect / the bot attack
+- [00:22:07](https://youtu.be/FC7B8wFbhgY?t=00h22m07s) Notepad appears
+- [00:22:48](https://youtu.be/FC7B8wFbhgY?t=00h22m48s) About the rewrite (continued)
+- [00:25:14](https://youtu.be/FC7B8wFbhgY?t=00h25m14s) About the Evil bug
+- [00:26:11](https://youtu.be/FC7B8wFbhgY?t=00h26m11s) About memory leaks
+- [00:27:14](https://youtu.be/FC7B8wFbhgY?t=00h27m14s) About 3D karaoke on Wednesday
+- [00:31:59](https://youtu.be/FC7B8wFbhgY?t=00h31m59s) About new server
+- [00:34:40](https://youtu.be/FC7B8wFbhgY?t=00h34m40s) About stocks
+- [00:39:35](https://youtu.be/FC7B8wFbhgY?t=00h39m35s) About new emotes and sub badges
+- [00:48:10](https://youtu.be/FC7B8wFbhgY?t=00h48m10s) About sub goals
+- [00:50:24](https://youtu.be/FC7B8wFbhgY?t=00h50m24s) Reading Neuro's blog
+- [00:57:45](https://youtu.be/FC7B8wFbhgY?t=00h57m45s) About sub goals (continued)
+- [01:04:40](https://youtu.be/FC7B8wFbhgY?t=01h04m40s) About *Slay the Spire 2* and *Pragmata* integrations
+- [01:06:55](https://youtu.be/FC7B8wFbhgY?t=01h06m55s) About improving Neuro (v3 voice)
+- [01:09:04](https://youtu.be/FC7B8wFbhgY?t=01h09m04s) About expanding the workforce
+- [01:13:58](https://youtu.be/FC7B8wFbhgY?t=01h13m58s) About Vedal's sleep schedule
+- [01:18:16](https://youtu.be/FC7B8wFbhgY?t=01h18m16s) About what chat wants to see
+- [01:21:10](https://youtu.be/FC7B8wFbhgY?t=01h21m10s) About themed streams
+- [01:24:02](https://youtu.be/FC7B8wFbhgY?t=01h24m02s) About games Neuro could play against chat
+- [01:30:14](https://youtu.be/FC7B8wFbhgY?t=01h30m14s) About the original ELO stream
+- [01:32:41](https://youtu.be/FC7B8wFbhgY?t=01h32m41s) About Camila outfit for Neuro
+- [01:33:04](https://youtu.be/FC7B8wFbhgY?t=01h33m04s) About what chat wants to see in Tuesday and Thursday streams
+- [01:35:24](https://youtu.be/FC7B8wFbhgY?t=01h35m24s) About community integrations
+- [01:37:02](https://youtu.be/FC7B8wFbhgY?t=01h37m02s) Schedule
+- [01:44:17](https://youtu.be/FC7B8wFbhgY?t=01h44m17s) About how twin gaming works
+- [01:44:55](https://youtu.be/FC7B8wFbhgY?t=01h44m55s) Schedule (continued)
+- [01:45:16](https://youtu.be/FC7B8wFbhgY?t=01h45m16s) Planning a collab between someone and the twins
+- [01:52:35](https://youtu.be/FC7B8wFbhgY?t=01h52m35s) About Neuro/Evil playing proximity chat games off-stream
+- [02:00:57](https://youtu.be/FC7B8wFbhgY?t=02h00m57s) About branding
+- [02:22:22](https://youtu.be/FC7B8wFbhgY?t=02h22m22s) Retrospection
+- [02:23:41](https://youtu.be/FC7B8wFbhgY?t=02h23m41s) About next dev stream
+- [02:25:12](https://youtu.be/FC7B8wFbhgY?t=02h25m12s) Searching for raid target
+- [02:26:21](https://youtu.be/FC7B8wFbhgY?t=02h26m21s) Raiding [Aethel](https://twitch.tv/lordaethelstan)
