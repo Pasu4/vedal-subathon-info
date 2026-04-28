@@ -53,14 +53,18 @@ $MONTHS = @{
 
 $PLAYING_RX = 'Playing (?:\*\*)?_(.+?)_'
 $CONTENT_RX = '(?:[\s-[\n]])\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
-$PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)* appears?| joins?)'
+$PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)*(?: appears?| joins?))'
 $RAIDING_RX = '(?m)Raiding (.+?)(?:$| \|)'
 $PRESENTS_RX = '(\w+) presents _(.+?)_'
 
 $STREAMS_TABLE_HEADER = '| Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target'
 $PARTICIPANTS_TABLE_HEADER = '| Participant                                                   | Streams'
-$CONTENT_TABLE_HEADER = '| Content                                   | Streams'
+$CONTENT_TABLE_HEADER = '| Content                                   | Type              | Participants                  | Streams'
 $EVENTS_TABLE_HEADER = '| Event                                     | Stream'
+
+$NON_PARTICIPANTS = @(
+    "Notepad"
+)
 
 # Variables
 $knownRaidTargets = @{}
@@ -210,7 +214,9 @@ if ($Auto -eq "full") {
     if ($addContent -match $PARTICIPANT_RX) {
         $participants += (Select-String $PARTICIPANT_RX -InputObject $addContent -AllMatches).Matches.Value
     }
-    $participants = $participants | Select-Object -Unique
+    $participants = $participants
+        | Select-Object -Unique
+        | Where-Object { $_ -notin $NON_PARTICIPANTS }
 
     # Parse raid target
     $addContent -match $RAIDING_RX
