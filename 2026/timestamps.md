@@ -1005,3 +1005,14 @@
 - [02:23:41](https://youtu.be/FC7B8wFbhgY?t=02h23m41s) About next dev stream
 - [02:25:12](https://youtu.be/FC7B8wFbhgY?t=02h25m12s) Searching for raid target
 - [02:26:21](https://youtu.be/FC7B8wFbhgY?t=02h26m21s) Raiding [Aethel](https://twitch.tv/lordaethelstan)
+
+## LIVE NEURO TEST ([28 Apr 2026](https://youtu.be/taEnDJONKHY))
+
+- [00:00:00](https://youtu.be/taEnDJONKHY?t=00h00m00s) *Marigold — M2U*
+- [00:02:20](https://youtu.be/taEnDJONKHY?t=00h02m20s) *Russian Roulette — Porter Robinson*
+- [00:08:45](https://youtu.be/taEnDJONKHY?t=00h08m45s) Neuro appears \| **Just chatting**
+- [00:19:25](https://youtu.be/taEnDJONKHY?t=00h19m25s) Playing *Legally Distinct •••dle*
+- [00:20:47](https://youtu.be/taEnDJONKHY?t=00h20m47s) Playing *Legally Distinct Connections*
+- [00:22:34](https://youtu.be/taEnDJONKHY?t=00h22m34s) Playing *Minesweeper* (5x5, 5 mines)
+- [01:02:31](https://youtu.be/taEnDJONKHY?t=01h02m31s) **Art review**
+- [01:27:41](https://youtu.be/taEnDJONKHY?t=01h27m41s) **Just chatting**
