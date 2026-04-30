@@ -1027,7 +1027,7 @@
 - [00:07:47](https://youtu.be/E1xdVxUI1V8?t=00h07m47s) Technical difficulties for 2m14s
 - [00:10:07](https://youtu.be/E1xdVxUI1V8?t=00h10m07s) *Carol of the Bells — Monique Danielle* (cut off by next song)
 - [00:12:08](https://youtu.be/E1xdVxUI1V8?t=00h12m08s) *Caramelldansen Christmas* \| Neuro is audible for 7s
-- [00:15:17](https://youtu.be/E1xdVxUI1V8?t=00h15m17s) Neuro appears \| **3D karaoke** \| *Material Girl — Madonna*
+- [00:15:07](https://youtu.be/E1xdVxUI1V8?t=00h15m07s) Neuro appears \| **3D karaoke** \| *Material Girl — Madonna*
 - [00:21:03](https://youtu.be/E1xdVxUI1V8?t=00h21m03s) *Kyoufuu All Back — Yukopi*
 - [00:25:52](https://youtu.be/E1xdVxUI1V8?t=00h25m52s) *Darling Darling — Mellowcle*
 - [00:31:32](https://youtu.be/E1xdVxUI1V8?t=00h31m32s) *Clarity — Zedd*
