@@ -209,6 +209,10 @@ if ($Auto -eq "full") {
             | ForEach-Object { $_.Groups[1].Value }
             | Where-Object { $_ -ne "Just chatting" -and $_ -notmatch $PLAYING_RX -and $_ -notmatch $PRESENTS_RX }
     }
+    # Transform compound entries
+    if ($contentEntries -contains "3D karaoke") {
+        $contentEntries += @("3D stream", "Karaoke")
+    }
 
     # Parse participants
     if ($addContent -match $PARTICIPANT_RX) {
