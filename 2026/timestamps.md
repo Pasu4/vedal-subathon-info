@@ -1016,3 +1016,33 @@
 - [00:22:34](https://youtu.be/taEnDJONKHY?t=00h22m34s) Playing *Minesweeper* (5x5, 5 mines)
 - [01:02:31](https://youtu.be/taEnDJONKHY?t=01h02m31s) **Art review**
 - [01:27:41](https://youtu.be/taEnDJONKHY?t=01h27m41s) **Just chatting**
+
+## IDOL IN TRAINING - 3D KARAOKE ([29 Apr 2026](https://youtu.be/E1xdVxUI1V8))
+
+- [00:00:00](https://youtu.be/E1xdVxUI1V8?t=00h00m00s) *LEMON MELON COOKIE — TAK* (cut off by next song)
+- [00:01:21](https://youtu.be/E1xdVxUI1V8?t=00h01m21s) *Material Girl — Madonna* (cut off by technical difficulties)
+- [00:02:05](https://youtu.be/E1xdVxUI1V8?t=00h02m05s) Technical difficulties for 2m28s
+- [00:04:48](https://youtu.be/E1xdVxUI1V8?t=00h04m48s) *secret base ~Kimi ga Kureta Mono~ — Silent Siren* (cut off by next song)
+- [00:05:00](https://youtu.be/E1xdVxUI1V8?t=00h05m00s) *Machine Hearts — Miracle Of Sound* (cut off by technical difficulties)
+- [00:07:47](https://youtu.be/E1xdVxUI1V8?t=00h07m47s) Technical difficulties for 2m14s
+- [00:10:07](https://youtu.be/E1xdVxUI1V8?t=00h10m07s) *Carol of the Bells — Monique Danielle* (cut off by next song)
+- [00:12:08](https://youtu.be/E1xdVxUI1V8?t=00h12m08s) *Caramelldansen Christmas* \| Neuro is audible for 7s
+- [00:15:17](https://youtu.be/E1xdVxUI1V8?t=00h15m17s) Neuro appears \| **3D karaoke** \| *Material Girl — Madonna*
+- [00:21:03](https://youtu.be/E1xdVxUI1V8?t=00h21m03s) *Kyoufuu All Back — Yukopi*
+- [00:25:52](https://youtu.be/E1xdVxUI1V8?t=00h25m52s) *Darling Darling — Mellowcle*
+- [00:31:32](https://youtu.be/E1xdVxUI1V8?t=00h31m32s) *Clarity — Zedd*
+- [00:38:32](https://youtu.be/E1xdVxUI1V8?t=00h38m32s) *PONPON SHIT — Namakopuri & Us Cracks* (duet)
+- [00:44:38](https://youtu.be/E1xdVxUI1V8?t=00h44m38s) *Problems — ALTERCLAD*
+- [00:51:17](https://youtu.be/E1xdVxUI1V8?t=00h51m17s) *I Want To Break Free — Queen*
+- [00:57:55](https://youtu.be/E1xdVxUI1V8?t=00h57m55s) *Remote Control — WONDERFUL★OPPORTUNITY!* (duet)
+- [01:05:39](https://youtu.be/E1xdVxUI1V8?t=01h05m39s) *Mad Desire — Stephy Martini*
+- [01:12:19](https://youtu.be/E1xdVxUI1V8?t=01h12m19s) *Hypnodancer — Little Big*
+- [01:18:00](https://youtu.be/E1xdVxUI1V8?t=01h18m00s) *Alive — Krewella* (duet)
+- [01:24:01](https://youtu.be/E1xdVxUI1V8?t=01h24m01s) *I Wish That I Could Fall — Jamie Paige*
+- [01:31:14](https://youtu.be/E1xdVxUI1V8?t=01h31m14s) *No Sky No Ground — saaa*
+- [01:37:01](https://youtu.be/E1xdVxUI1V8?t=01h37m01s) *炜WARD ROMANCE — FLAVOR FOLEY* (duet)
+- [01:42:14](https://youtu.be/E1xdVxUI1V8?t=01h42m14s) *RUSSIAN ROULETTE — Staircatte*
+- [01:47:33](https://youtu.be/E1xdVxUI1V8?t=01h47m33s) *Grenade — Bruno Mars*
+- [01:53:40](https://youtu.be/E1xdVxUI1V8?t=01h53m40s) *Mirror — Porter Robinson*
+- [02:01:22](https://youtu.be/E1xdVxUI1V8?t=02h01m22s) *Harder, Better, Faster, Stronger — Daft Punk* (duet)
+‒‒:‒‒:‒‒ Raiding [Laimu](https://twitch.tv/limealicious) (after stream ended)
