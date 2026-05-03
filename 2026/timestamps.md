@@ -1058,3 +1058,13 @@
 - [01:07:43](https://youtu.be/qlJmo9JPp2A?t=01h07m43s) **Themed stream: Product inspection**
 - [01:50:12](https://youtu.be/qlJmo9JPp2A?t=01h50m12s) **3D stream**
 - [02:17:37](https://youtu.be/qlJmo9JPp2A?t=02h17m37s)~ Raiding [Layna](https://twitch.tv/laynalazar)
+
+## vedal and neuro play cyberpunk ([03 May 2026](https://youtu.be/D36Hn9s7dco))
+
+- [00:00:00](https://youtu.be/D36Hn9s7dco?t=00h00m00s) *Big Iron — Marty Robbins*
+- [00:01:40](https://youtu.be/D36Hn9s7dco?t=00h01m40s) *Dancing Queen — ABBA*
+- [00:05:31](https://youtu.be/D36Hn9s7dco?t=00h05m31s) Vedal and Neuro appear
+- [00:14:09](https://youtu.be/D36Hn9s7dco?t=00h14m09s) **Playing *Cyberpunk 2077: Phantom Liberty***
+- [03:05:06](https://youtu.be/D36Hn9s7dco?t=03h05m06s) About issues with the rewrite
+- [03:08:24](https://youtu.be/D36Hn9s7dco?t=03h08m24s) Looking for raid target
+- [03:09:09](https://youtu.be/D36Hn9s7dco?t=03h09m09s)~ Raiding [vedal987_jp](https://twitch.tv/vedal987_jp)
