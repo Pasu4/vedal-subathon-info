@@ -1046,3 +1046,15 @@
 - [01:53:40](https://youtu.be/E1xdVxUI1V8?t=01h53m40s) *Mirror — Porter Robinson*
 - [02:01:22](https://youtu.be/E1xdVxUI1V8?t=02h01m22s) *Harder, Better, Faster, Stronger — Daft Punk* (duet)
 ‒‒:‒‒:‒‒ Raiding [Laimu](https://twitch.tv/limealicious) (after stream ended)
+
+## Are you ready for Evil ([30 Apr 2026](https://youtu.be/qlJmo9JPp2A))
+
+- [00:00:00](https://youtu.be/qlJmo9JPp2A?t=00h00m00s) *クィホーティ — AHUB*
+- [00:03:02](https://youtu.be/qlJmo9JPp2A?t=00h03m02s) *Problems — ALTERCLAD*
+- [00:07:11](https://youtu.be/qlJmo9JPp2A?t=00h07m11s) Evil appears \| **Just chatting**
+- [00:32:58](https://youtu.be/qlJmo9JPp2A?t=00h32m58s) Playing *Legally Distinct •••dle* (gameplay starts at 00:34:13)
+- [00:35:17](https://youtu.be/qlJmo9JPp2A?t=00h35m17s) Playing *Legally Distinct Connections*
+- [00:36:46](https://youtu.be/qlJmo9JPp2A?t=00h36m46s) Playing *Minesweeper* (5x5, 5 mines)
+- [01:07:43](https://youtu.be/qlJmo9JPp2A?t=01h07m43s) **Themed stream: Product inspection**
+- [01:50:12](https://youtu.be/qlJmo9JPp2A?t=01h50m12s) **3D stream**
+- [02:17:37](https://youtu.be/qlJmo9JPp2A?t=02h17m37s)~ Raiding [Layna](https://twitch.tv/laynalazar)
