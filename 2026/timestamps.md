@@ -1068,3 +1068,25 @@
 - [03:05:06](https://youtu.be/D36Hn9s7dco?t=03h05m06s) About issues with the rewrite
 - [03:08:24](https://youtu.be/D36Hn9s7dco?t=03h08m24s) Looking for raid target
 - [03:09:09](https://youtu.be/D36Hn9s7dco?t=03h09m09s)~ Raiding [vedal987_jp](https://twitch.tv/vedal987_jp)
+
+## Are you ready for Neuro ([05 May 2026](https://youtu.be/f1cleaLWtHU))
+
+- [00:00:00](https://youtu.be/f1cleaLWtHU?t=00h00m00s) *With or Without You — U2*
+- [00:04:41](https://youtu.be/f1cleaLWtHU?t=00h04m41s) *Hold the Line — Toto*
+- [00:08:36](https://youtu.be/f1cleaLWtHU?t=00h08m36s) Neuro appears \| **Just chatting**
+- [00:31:23](https://youtu.be/f1cleaLWtHU?t=00h31m23s) Playing *Legally Distinct •••dle*
+- [00:32:23](https://youtu.be/f1cleaLWtHU?t=00h32m23s) Playing *Legally Distinct Connections*
+- [00:33:23](https://youtu.be/f1cleaLWtHU?t=00h33m23s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:36:11](https://youtu.be/f1cleaLWtHU?t=00h36m11s) Another round (5x5, 5 mines)
+- [00:50:08](https://youtu.be/f1cleaLWtHU?t=00h50m08s) **Karaoke**
+- [00:52:53](https://youtu.be/f1cleaLWtHU?t=00h52m53s) *though I fear, I still walk — ippo.tsk*
+- [01:00:29](https://youtu.be/f1cleaLWtHU?t=01h00m29s) *Say It Back — tv room*
+- [01:05:54](https://youtu.be/f1cleaLWtHU?t=01h05m54s) *Lovefool — The Cardigans*
+- [01:11:57](https://youtu.be/f1cleaLWtHU?t=01h11m57s) *Buttercup — Jack Stauber*
+- [01:17:54](https://youtu.be/f1cleaLWtHU?t=01h17m54s) *Fortress — Illenium*
+- [01:23:48](https://youtu.be/f1cleaLWtHU?t=01h23m48s) *One Last Kiss — Hikaru Utada*
+- [01:30:32](https://youtu.be/f1cleaLWtHU?t=01h30m32s) *Tek It — Cafuné*
+- [01:33:57](https://youtu.be/f1cleaLWtHU?t=01h33m57s) **Just chatting**
+- [01:39:20](https://youtu.be/f1cleaLWtHU?t=01h39m20s) **Themed stream: Product inspection**
+- [02:10:08](https://youtu.be/f1cleaLWtHU?t=02h10m08s) **Just chatting**
+- [02:18:54](https://youtu.be/f1cleaLWtHU?t=02h18m54s)~ Raiding [Mini](https://twitch.tv/minikomew)
