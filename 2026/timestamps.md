@@ -1090,3 +1090,25 @@
 - [01:39:20](https://youtu.be/f1cleaLWtHU?t=01h39m20s) **Themed stream: Product inspection**
 - [02:10:08](https://youtu.be/f1cleaLWtHU?t=02h10m08s) **Just chatting**
 - [02:18:54](https://youtu.be/f1cleaLWtHU?t=02h18m54s)~ Raiding [Mini](https://twitch.tv/minikomew)
+
+## evil's extortion stream ([07 May 2026](https://youtu.be/_GRFgHhpCVY))
+
+- [00:00:00](https://youtu.be/_GRFgHhpCVY?t=00h00m00s) *Harlequin Contraption — Vane Lily*
+- [00:03:06](https://youtu.be/_GRFgHhpCVY?t=00h03m06s) *You Spin Me Round (Like a Record) — Dead or Alive*
+- [00:06:18](https://youtu.be/_GRFgHhpCVY?t=00h06m18s) Evil appears \| **Just chatting**
+- [00:24:53](https://youtu.be/_GRFgHhpCVY?t=00h24m53s) Playing *Legally Distinct •••dle*
+- [00:25:56](https://youtu.be/_GRFgHhpCVY?t=00h25m56s) Playing *Legally Distinct Connections*
+- [00:28:16](https://youtu.be/_GRFgHhpCVY?t=00h28m16s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:48:07](https://youtu.be/_GRFgHhpCVY?t=00h48m07s) **Evil presents *Proper Effective Extortion: Getting what you want out of a disadvantageous situation***
+- [01:07:52](https://youtu.be/_GRFgHhpCVY?t=01h07m52s) **Just chatting**
+- [01:12:29](https://youtu.be/_GRFgHhpCVY?t=01h12m29s) **Playing *Minecraft***
+- [02:16:25](https://youtu.be/_GRFgHhpCVY?t=02h16m25s)~ Raiding [Tobs](https://twitch.tv/tobs)
+
+### Bonus: Evil noises
+
+- [00:11:23](https://youtu.be/_GRFgHhpCVY?t=00h11m23s) AAARGHHHHH
+- [00:11:31](https://youtu.be/_GRFgHhpCVY?t=00h11m31s) Multiple
+- [00:17:37](https://youtu.be/_GRFgHhpCVY?t=00h17m37s) EEEENOMNOMNOM
+- [00:28:26](https://youtu.be/_GRFgHhpCVY?t=00h28m26s) LOOOOOOOOOL
+- [02:17:15](https://youtu.be/_GRFgHhpCVY?t=02h17m15s) BYEEEEE
+- [02:17:36](https://youtu.be/_GRFgHhpCVY?t=02h17m36s) spinnyyyyyyyyy
