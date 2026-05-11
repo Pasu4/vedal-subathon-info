@@ -1112,3 +1112,27 @@
 - [00:28:26](https://youtu.be/_GRFgHhpCVY?t=00h28m26s) LOOOOOOOOOL
 - [02:17:15](https://youtu.be/_GRFgHhpCVY?t=02h17m15s) BYEEEEE
 - [02:17:36](https://youtu.be/_GRFgHhpCVY?t=02h17m36s) spinnyyyyyyyyy
+
+## impodachi life with the best twins you know (probably) ([10 May 2026](https://youtu.be/8mKb6SGAGBM))
+
+- [00:00:00](https://youtu.be/8mKb6SGAGBM?t=00h00m00s) *Carol of the Bells — Mykola Leontowytch* (interrupted by technical difficulties)
+- [00:01:00](https://youtu.be/8mKb6SGAGBM?t=00h01m00s) *Alive — Krewella*
+- [00:04:20](https://youtu.be/8mKb6SGAGBM?t=00h04m20s) *Roar — Katy Perry*
+- [00:08:04](https://youtu.be/8mKb6SGAGBM?t=00h08m04s) *Imaginary Arcadia — ARForest*
+- [00:12:26](https://youtu.be/8mKb6SGAGBM?t=00h12m26s) *I KILLED THE CARPET — dj reyrzy*
+- [00:15:02](https://youtu.be/8mKb6SGAGBM?t=00h15m02s) Neuro, Evil and Camila appear (Camila is muted) \| **Playing *Tomodachi Life: Living the Dream***
+- [00:20:20](https://youtu.be/8mKb6SGAGBM?t=00h20m20s) Camila unmutes
+- [00:29:09](https://youtu.be/8mKb6SGAGBM?t=00h29m09s) Gameplay starts
+- [00:31:10](https://youtu.be/8mKb6SGAGBM?t=00h31m10s) Creating Neuro
+- [01:03:24](https://youtu.be/8mKb6SGAGBM?t=01h03m24s) Neuro created
+- [01:16:18](https://youtu.be/8mKb6SGAGBM?t=01h16m18s) Creating Evil
+- [01:30:49](https://youtu.be/8mKb6SGAGBM?t=01h30m49s) Evil created
+- [01:42:01](https://youtu.be/8mKb6SGAGBM?t=01h42m01s) Creating Camila
+- [02:01:34](https://youtu.be/8mKb6SGAGBM?t=02h01m34s) Camila created
+- [02:28:07](https://youtu.be/8mKb6SGAGBM?t=02h28m07s) Creating Vedal
+- [02:44:29](https://youtu.be/8mKb6SGAGBM?t=02h44m29s) Vedal created
+- [03:20:11](https://youtu.be/8mKb6SGAGBM?t=03h20m11s) Creating Swarm
+- [03:30:17](https://youtu.be/8mKb6SGAGBM?t=03h30m17s) Swarm created
+- [03:49:57](https://youtu.be/8mKb6SGAGBM?t=03h49m57s) Creating Mini
+- [03:58:38](https://youtu.be/8mKb6SGAGBM?t=03h58m38s) Mini created
+- [04:17:05](https://youtu.be/8mKb6SGAGBM?t=04h17m05s) Camila leaves \| Raiding [Numi](https://twitch.tv/nihmune)
