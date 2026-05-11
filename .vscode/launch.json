@@ -12,7 +12,6 @@
             "args": [
                 "-TimestampsFile", "'${workspaceFolder}\\2026\\timestamps.md'",
                 "-OverviewFile", "'${workspaceFolder}\\2026\\overview.md'",
-                "-Auto", "full",
                 "-Category", "'${input:category}'",
             ]
         }
