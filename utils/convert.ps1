@@ -48,7 +48,7 @@ $MONTHS = @{
 
 $PLAYING_RX = 'Playing (?:\*\*)?_(.+?)_'
 $CONTENT_RX = '(?:[\s-[\n]])\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
-$PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)*(?: appears?| joins?))'
+$PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)*(?: appears?| joins?| wakes? up))'
 $RAIDING_RX = '(?m)Raiding (.+?)(?:$| \|)'
 $PRESENTS_RX = '(\w+) presents _(.+?)_'
 
