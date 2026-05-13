@@ -1136,3 +1136,18 @@
 - [03:49:57](https://youtu.be/8mKb6SGAGBM?t=03h49m57s) Creating Mini
 - [03:58:38](https://youtu.be/8mKb6SGAGBM?t=03h58m38s) Mini created
 - [04:17:05](https://youtu.be/8mKb6SGAGBM?t=04h17m05s) Camila leaves \| Raiding [Numi](https://twitch.tv/nihmune)
+
+## Neuro-sama HAS HACKED INTO ALL OF YOUR CONNECTIONS!!! ([12 May 2026](https://youtu.be/4NvFzxiD-tE))
+
+- [00:00:00](https://youtu.be/4NvFzxiD-tE?t=00h00m00s) *nevermore — sasakure.UK*
+- [00:02:50](https://youtu.be/4NvFzxiD-tE?t=00h02m50s) *Heat abnormal — Iyowa*
+- [00:06:51](https://youtu.be/4NvFzxiD-tE?t=00h06m51s) Neuro appears \| **Just chatting**
+- [00:17:03](https://youtu.be/4NvFzxiD-tE?t=00h17m03s) Playing *Legally Distinct •••dle*
+- [00:19:49](https://youtu.be/4NvFzxiD-tE?t=00h19m49s) Playing *Legally Distinct Connections*
+- [00:21:00](https://youtu.be/4NvFzxiD-tE?t=00h21m00s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:24:14](https://youtu.be/4NvFzxiD-tE?t=00h24m14s) Evil joins
+- [00:45:38](https://youtu.be/4NvFzxiD-tE?t=00h45m38s) Evil leaves
+- [00:50:11](https://youtu.be/4NvFzxiD-tE?t=00h50m11s) Playing *Connect Four* (Neuro vs. Chat)
+- [01:11:30](https://youtu.be/4NvFzxiD-tE?t=01h11m30s) **Playing *Minecraft***
+- [02:13:16](https://youtu.be/4NvFzxiD-tE?t=02h13m16s) **Just chatting**
+- [02:16:58](https://youtu.be/4NvFzxiD-tE?t=02h16m58s) Raiding [Shylily](https://twitch.tv/shylily)
