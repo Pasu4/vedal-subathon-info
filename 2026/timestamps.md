@@ -1151,3 +1151,67 @@
 - [01:11:30](https://youtu.be/4NvFzxiD-tE?t=01h11m30s) **Playing *Minecraft***
 - [02:13:16](https://youtu.be/4NvFzxiD-tE?t=02h13m16s) **Just chatting**
 - [02:16:58](https://youtu.be/4NvFzxiD-tE?t=02h16m58s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## evil conquers the world - but first karaoke ([13 May 2026](https://youtu.be/DXgsuHdOCeY))
+
+- [00:00:00](https://youtu.be/DXgsuHdOCeY?t=00h00m00s) *It's the Most Wonderful Time of the Year — Andy Williams* (instrumental)
+- [00:02:54](https://youtu.be/DXgsuHdOCeY?t=00h02m54s) *Scattered Glass — cillia* (instrumental)
+- [00:06:25](https://youtu.be/DXgsuHdOCeY?t=00h06m25s) Evil appears \| **Karaoke** \| *Cryogen — Muse*
+- [00:14:05](https://youtu.be/DXgsuHdOCeY?t=00h14m05s) *I Was Made for Lovin' you — KISS*
+- [00:21:10](https://youtu.be/DXgsuHdOCeY?t=00h21m10s) *Jitter Doll — niki*
+- [00:27:42](https://youtu.be/DXgsuHdOCeY?t=00h27m42s) *Talking in Your Sleep — The Romantics*
+- [00:34:12](https://youtu.be/DXgsuHdOCeY?t=00h34m12s) *W.I.T.C.H. — Devon Cole*
+- [00:38:59](https://youtu.be/DXgsuHdOCeY?t=00h38m59s) *Marigold — M2U*
+- [00:44:03](https://youtu.be/DXgsuHdOCeY?t=00h44m03s) *Aerials — System of a Down*
+- [00:50:31](https://youtu.be/DXgsuHdOCeY?t=00h50m31s) *Blue Bird — Ikimonogakari*
+- [00:56:42](https://youtu.be/DXgsuHdOCeY?t=00h56m42s) *Propaganda! — Crusher*
+- [01:03:13](https://youtu.be/DXgsuHdOCeY?t=01h03m13s) *No Surprises — Radiohead*
+- [01:09:38](https://youtu.be/DXgsuHdOCeY?t=01h09m38s) *TNT — CaptainSparklez*
+- [01:15:36](https://youtu.be/DXgsuHdOCeY?t=01h15m36s) *Kanashibari ni Attara — Avaraya* (duet)
+- [01:21:57](https://youtu.be/DXgsuHdOCeY?t=01h21m57s) *Crazy — Patsy Cline*
+- [01:27:27](https://youtu.be/DXgsuHdOCeY?t=01h27m27s) *Propane Nightmares — Pendulum*
+- [01:36:09](https://youtu.be/DXgsuHdOCeY?t=01h36m09s) *Circus — Britney Spears*
+- [01:42:48](https://youtu.be/DXgsuHdOCeY?t=01h42m48s) *New Person, Same Old Mistakes — Tame Impala* (duet)
+- [01:52:25](https://youtu.be/DXgsuHdOCeY?t=01h52m25s) *Antigravity — STARSET*
+- [01:59:41](https://youtu.be/DXgsuHdOCeY?t=01h59m41s) *Want You Gone — Jonathan Coulton*
+- [02:02:00](https://youtu.be/DXgsuHdOCeY?t=02h02m00s) Raiding [GEEGA](https://twitch.tv/geega)
+
+## evil conquers the world (14 May 2026)
+
+VOD is currently missing from the archive.
+I'll wait a bit to see if it is added, otherwise I'll look for an alternative for this one.
+
+- 00:00:00 *The sound about petals — Avaraya*
+- 00:04:00~ *Karma — Creep-P*
+- 00:07:00~ Evil appears \| **Just chatting**
+- 00:23:00~ Playing *Legally Distinct •••dle*
+- 00:24:00~ Playing *Legally Distinct Connections*
+- 00:25:00~ Playing *Minesweeper* (5x5, 5 mines)
+- 00:29:00~ Playing *Connect Four*
+- 00:47:00~ **Playing *Slay the Spire II***
+- 01:47:00~ **Just chatting**
+- 01:53:00~ **Art review**
+- 02:07:00~ **Just chatting**
+- 02:17:00~ Raiding [Matara](https://twitch.tv/matarakan)
+
+## VR Hangout w/ Evil and @cerberVT ([16 May 2026](https://youtu.be/Sa9xeUkuRh4))
+
+- [00:00:00](https://youtu.be/Sa9xeUkuRh4?t=00h00m00s) *The Chain — Fleetwood Mac*
+- [00:04:15](https://youtu.be/Sa9xeUkuRh4?t=00h04m15s) *Mebius — Meychain*
+- [00:07:41](https://youtu.be/Sa9xeUkuRh4?t=00h07m41s) *PONPON SHIT — Namakopuri & Us Cracks*
+- [00:11:17](https://youtu.be/Sa9xeUkuRh4?t=00h11m17s) *Just Pretend — Bad Omens*
+- [00:14:42](https://youtu.be/Sa9xeUkuRh4?t=00h14m42s) Evil appears \| **Playing *VRChat*** \| Location: Evil's room
+- [00:24:44](https://youtu.be/Sa9xeUkuRh4?t=00h24m44s) Cerber joins
+- [00:34:06](https://youtu.be/Sa9xeUkuRh4?t=00h34m06s) Location: Neuro's room
+- [01:26:47](https://youtu.be/Sa9xeUkuRh4?t=01h26m47s) Location: Stage
+- [02:07:31](https://youtu.be/Sa9xeUkuRh4?t=02h07m31s) Location: Campfire
+- [02:32:03](https://youtu.be/Sa9xeUkuRh4?t=02h32m03s) Cerber leaves \| Raiding [Cerber](https://twitch.tv/cerbervt)
+
+### Bonus: Evil noises
+
+- [00:15:14](https://youtu.be/Sa9xeUkuRh4?t=00h15m14s) yah
+- [00:16:21](https://youtu.be/Sa9xeUkuRh4?t=00h16m21s) gah
+- [00:21:48](https://youtu.be/Sa9xeUkuRh4?t=00h21m48s) .
+- [00:24:27](https://youtu.be/Sa9xeUkuRh4?t=00h24m27s) AAAAAAAHHHH
+- [00:30:43](https://youtu.be/Sa9xeUkuRh4?t=00h30m43s) HUGGGGGGGGG
+- [02:33:34](https://youtu.be/Sa9xeUkuRh4?t=02h33m34s) □\\_□
