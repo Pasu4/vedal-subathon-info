@@ -2,24 +2,19 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Convert timestamps",
-            "type": "shell",
-            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -Link '${input:ytlink}'",
-            "problemMatcher": []
-        },
-        {
             "label": "Auto-convert timestamps",
             "type": "shell",
             "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -OverviewFile '${workspaceFolder}\\2026\\overview.md' -Category '${input:category}'",
             "problemMatcher": []
+        },
+        {
+            "label": "Auto-convert timestamps (older VOD)",
+            "type": "shell",
+            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -OverviewFile '${workspaceFolder}\\2026\\overview.md' -Category '${input:category}' -Index ${input:index}",
+            "problemMatcher": []
         }
     ],
     "inputs": [
-        {
-            "id": "ytlink",
-            "type": "promptString",
-            "description": "Enter YouTube link"
-        },
         {
             "id": "category",
             "type": "pickString",
@@ -36,6 +31,12 @@
                 "<other>",
             ],
             "description": "The general type of content in the stream. Choose <other> to add it manually."
+        },
+        {
+            "id": "index",
+            "type": "promptString",
+            "default": "1",
+            "description": "The index of the video. 1 means latest.",
         }
     ]
 }

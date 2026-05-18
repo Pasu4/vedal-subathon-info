@@ -1181,18 +1181,18 @@
 VOD is currently missing from the archive.
 I'll wait a bit to see if it is added, otherwise I'll look for an alternative for this one.
 
-- 00:00:00 *The sound about petals — Avaraya*
-- 00:04:00~ *Karma — Creep-P*
-- 00:07:00~ Evil appears \| **Just chatting**
-- 00:23:00~ Playing *Legally Distinct •••dle*
-- 00:24:00~ Playing *Legally Distinct Connections*
-- 00:25:00~ Playing *Minesweeper* (5x5, 5 mines)
-- 00:29:00~ Playing *Connect Four*
-- 00:47:00~ **Playing *Slay the Spire II***
-- 01:47:00~ **Just chatting**
-- 01:53:00~ **Art review**
-- 02:07:00~ **Just chatting**
-- 02:17:00~ Raiding [Matara](https://twitch.tv/matarakan)
+- [00:00:00](https://youtu.be/ytFp-9S2wXU?t=00h00m00s) *The sound about petals — Avaraya*
+- [00:03:30](https://youtu.be/ytFp-9S2wXU?t=00h03m30s) *Karma — Creep-P*
+- [00:07:22](https://youtu.be/ytFp-9S2wXU?t=00h07m22s) Evil appears \| **Just chatting**
+- [00:22:45](https://youtu.be/ytFp-9S2wXU?t=00h22m45s) Playing *Legally Distinct •••dle*
+- [00:23:53](https://youtu.be/ytFp-9S2wXU?t=00h23m53s) Playing *Legally Distinct Connections*
+- [00:25:21](https://youtu.be/ytFp-9S2wXU?t=00h25m21s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:29:13](https://youtu.be/ytFp-9S2wXU?t=00h29m13s) Playing *Connect Four*
+- [00:46:50](https://youtu.be/ytFp-9S2wXU?t=00h46m50s) **Playing *Slay the Spire II***
+- [01:46:45](https://youtu.be/ytFp-9S2wXU?t=01h46m45s) **Just chatting**
+- [01:53:06](https://youtu.be/ytFp-9S2wXU?t=01h53m06s) **Art review**
+- [02:07:10](https://youtu.be/ytFp-9S2wXU?t=02h07m10s) **Just chatting**
+- [02:17:23](https://youtu.be/ytFp-9S2wXU?t=02h17m23s) Raiding [Matara](https://twitch.tv/matarakan)
 
 ## VR Hangout w/ Evil and @cerberVT ([16 May 2026](https://youtu.be/Sa9xeUkuRh4))
 
@@ -1229,3 +1229,18 @@ I'll wait a bit to see if it is added, otherwise I'll look for an alternative fo
 - [03:09:09](https://youtu.be/BS9TxqIBvcY?t=03h09m09s) About playing *Slay the Spire II* co-op
 - [03:10:24](https://youtu.be/BS9TxqIBvcY?t=03h10m24s) Searching for raid target
 - [03:12:01](https://youtu.be/BS9TxqIBvcY?t=03h12m01s) Raiding [Bajiru](https://twitch.tv/bajiru_en)
+
+## evil conquers the world ([14 May 2026](https://youtu.be/ytFp-9S2wXU))
+
+- [00:00:00](https://youtu.be/ytFp-9S2wXU?t=00h00m00s) *The sound about petals — Avaraya*
+- [00:03:30](https://youtu.be/ytFp-9S2wXU?t=00h03m30s) *Karma — Creep-P*
+- [00:07:22](https://youtu.be/ytFp-9S2wXU?t=00h07m22s) Evil appears \| **Just chatting**
+- [00:22:45](https://youtu.be/ytFp-9S2wXU?t=00h22m45s) Playing *Legally Distinct •••dle*
+- [00:23:53](https://youtu.be/ytFp-9S2wXU?t=00h23m53s) Playing *Legally Distinct Connections*
+- [00:25:21](https://youtu.be/ytFp-9S2wXU?t=00h25m21s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:29:13](https://youtu.be/ytFp-9S2wXU?t=00h29m13s) Playing *Connect Four*
+- [00:46:50](https://youtu.be/ytFp-9S2wXU?t=00h46m50s) **Playing *Slay the Spire II***
+- [01:46:45](https://youtu.be/ytFp-9S2wXU?t=01h46m45s) **Just chatting**
+- [01:53:06](https://youtu.be/ytFp-9S2wXU?t=01h53m06s) **Art review**
+- [02:07:10](https://youtu.be/ytFp-9S2wXU?t=02h07m10s) **Just chatting**
+- [02:17:23](https://youtu.be/ytFp-9S2wXU?t=02h17m23s) Raiding [Matara](https://twitch.tv/matarakan)
