@@ -1215,3 +1215,17 @@ I'll wait a bit to see if it is added, otherwise I'll look for an alternative fo
 - [00:24:27](https://youtu.be/Sa9xeUkuRh4?t=00h24m27s) AAAAAAAHHHH
 - [00:30:43](https://youtu.be/Sa9xeUkuRh4?t=00h30m43s) HUGGGGGGGGG
 - [02:33:34](https://youtu.be/Sa9xeUkuRh4?t=02h33m34s) □\\_□
+
+## we out here punking cybers, phantom libertyly ([17 May 2026](https://youtu.be/BS9TxqIBvcY))
+
+- [00:00:00](https://youtu.be/BS9TxqIBvcY?t=00h00m00s) *Cheerleader — Porter Robinson*
+- [00:03:47](https://youtu.be/BS9TxqIBvcY?t=00h03m47s) *Hypnodancer — Little Big*
+- [00:06:55](https://youtu.be/BS9TxqIBvcY?t=00h06m55s) Vedal and Neuro appear
+- [00:09:49](https://youtu.be/BS9TxqIBvcY?t=00h09m49s) About Neuro's arms
+- [00:11:10](https://youtu.be/BS9TxqIBvcY?t=00h11m10s) About Neuro's new server
+- [00:18:48](https://youtu.be/BS9TxqIBvcY?t=00h18m48s) **Playing *Cyberpunk 2077: Phantom Liberty***
+- [03:06:21](https://youtu.be/BS9TxqIBvcY?t=03h06m21s) About stream lengths
+- [03:07:22](https://youtu.be/BS9TxqIBvcY?t=03h07m22s) About streams next week and collabs
+- [03:09:09](https://youtu.be/BS9TxqIBvcY?t=03h09m09s) About playing *Slay the Spire II* co-op
+- [03:10:24](https://youtu.be/BS9TxqIBvcY?t=03h10m24s) Searching for raid target
+- [03:12:01](https://youtu.be/BS9TxqIBvcY?t=03h12m01s) Raiding [Bajiru](https://twitch.tv/bajiru_en)
