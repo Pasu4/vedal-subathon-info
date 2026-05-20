@@ -130,15 +130,15 @@ if ($TimestampsSource -eq "youtube") {
     exit 1
 }
 
-# Extract date and title from video title (format: "Title - 1 Jan 2024")
-$videoTitle, $date = $videoTitle -split ' - ', -2
-$date -match '(\d+) (\w{3})\w* (\d+)'
-$day = $matches[1]
+# Extract date and title from video title (format: "Title - 1 Jan 2024" or "Title- 1 Jan 2024")
+$videoTitle -match '^(.*\S) ?- (\d+) (\w{3})\w* (\d+)$'
+$videoTitle = $matches[1]
+$day = $matches[2]
 if ($day.Length -eq 1) {
     $day = "0$day"
 }
-$month = $MONTHS[$matches[2]]
-$date = "$day $($matches[2]) $($matches[3])"
+$month = $MONTHS[$matches[3]]
+$date = "$day $($matches[3]) $($matches[4])"
 
 $overviewVideoLink = "[$month-$day](https://youtu.be/$videoId)"
 
