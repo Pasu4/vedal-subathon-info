@@ -1244,3 +1244,16 @@ I'll wait a bit to see if it is added, otherwise I'll look for an alternative fo
 - [01:53:06](https://youtu.be/ytFp-9S2wXU?t=01h53m06s) **Art review**
 - [02:07:10](https://youtu.be/ytFp-9S2wXU?t=02h07m10s) **Just chatting**
 - [02:17:23](https://youtu.be/ytFp-9S2wXU?t=02h17m23s) Raiding [Matara](https://twitch.tv/matarakan)
+
+## neuro stream titles have NEVER been better than this 🔥🔥🔥 ([19 May 2026](https://youtu.be/T0IE_vJzTMc))
+
+- [00:00:00](https://youtu.be/T0IE_vJzTMc?t=00h00m00s) *In the End — Linkin Park*
+- [00:00:32](https://youtu.be/T0IE_vJzTMc?t=00h00m32s) *Cyberangel — HOYO-MiX*
+- [00:03:27](https://youtu.be/T0IE_vJzTMc?t=00h03m27s) Neuro appears \| **Just chatting**
+- [00:11:16](https://youtu.be/T0IE_vJzTMc?t=00h11m16s) Playing *Legally Distinct •••dle*
+- [00:12:35](https://youtu.be/T0IE_vJzTMc?t=00h12m35s) Playing *Legally Distinct Connections*
+- [00:15:29](https://youtu.be/T0IE_vJzTMc?t=00h15m29s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:18:52](https://youtu.be/T0IE_vJzTMc?t=00h18m52s) Playing *Connect Four*
+- [00:42:32](https://youtu.be/T0IE_vJzTMc?t=00h42m32s) **Playing *Slay the Spire II***
+- [01:56:33](https://youtu.be/T0IE_vJzTMc?t=01h56m33s) **Just chatting**
+- [02:23:32](https://youtu.be/T0IE_vJzTMc?t=02h23m32s) Raiding [Shylily](https://twitch.tv/shylily)
