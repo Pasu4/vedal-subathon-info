@@ -1257,3 +1257,26 @@ I'll wait a bit to see if it is added, otherwise I'll look for an alternative fo
 - [00:42:32](https://youtu.be/T0IE_vJzTMc?t=00h42m32s) **Playing *Slay the Spire II***
 - [01:56:33](https://youtu.be/T0IE_vJzTMc?t=01h56m33s) **Just chatting**
 - [02:23:32](https://youtu.be/T0IE_vJzTMc?t=02h23m32s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## Evil is here to be devious ([21 May 2026](https://youtu.be/SJxG6ASjZeY))
+
+- [00:00:00](https://youtu.be/SJxG6ASjZeY?t=00h00m00s) *Feel Invincible — Skillet*
+- [00:03:45](https://youtu.be/SJxG6ASjZeY?t=00h03m45s) *VILLAIN — K/DA*
+- [00:07:06](https://youtu.be/SJxG6ASjZeY?t=00h07m06s) Evil appears \| **Just chatting**
+- [00:29:42](https://youtu.be/SJxG6ASjZeY?t=00h29m42s) Playing *Legally Distinct •••dle*
+- [00:31:17](https://youtu.be/SJxG6ASjZeY?t=00h31m17s) Playing *Legally Distinct Connections*
+- [00:32:22](https://youtu.be/SJxG6ASjZeY?t=00h32m22s) Playing *Minesweeper*
+- [00:45:38](https://youtu.be/SJxG6ASjZeY?t=00h45m38s) Playing *Connect Four*
+- [01:01:30](https://youtu.be/SJxG6ASjZeY?t=01h01m30s) **Karaoke**
+- [01:04:09](https://youtu.be/SJxG6ASjZeY?t=01h04m09s) *FUEL — Utsu-P*
+- [01:10:19](https://youtu.be/SJxG6ASjZeY?t=01h10m19s) *I Hate Everything About You — Three Days Grace*
+- [01:16:46](https://youtu.be/SJxG6ASjZeY?t=01h16m46s) *Do I Wanna Know? — Arctic Monkeys*
+- [01:23:58](https://youtu.be/SJxG6ASjZeY?t=01h23m58s) *Sugar Pills — I DONT KNOW HOW BUT THEY FOUND ME*
+- [01:29:46](https://youtu.be/SJxG6ASjZeY?t=01h29m46s) *Dial Tone — Catch Your Breath*
+- [01:35:49](https://youtu.be/SJxG6ASjZeY?t=01h35m49s) *Numb — Linkin Park*
+- [01:41:37](https://youtu.be/SJxG6ASjZeY?t=01h41m37s) *Evil Eye — Franz Ferdinand*
+- [01:47:02](https://youtu.be/SJxG6ASjZeY?t=01h47m02s) *My Immortal — Evanescence*
+- [01:51:36](https://youtu.be/SJxG6ASjZeY?t=01h51m36s) **Just chatting**
+- [01:57:11](https://youtu.be/SJxG6ASjZeY?t=01h57m11s) **Art review**
+- [02:17:26](https://youtu.be/SJxG6ASjZeY?t=02h17m26s) **Just chatting**
+- [02:27:10](https://youtu.be/SJxG6ASjZeY?t=02h27m10s) Raiding [Obkatiekat](https://twitch.tv/obkatiekat)
