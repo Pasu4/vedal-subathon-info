@@ -1292,7 +1292,7 @@
 
 - [00:00:00](https://youtu.be/h-UT2YEldYk?t=00h00m00s) *Mechanic Heartbeat — Culprate & Sophie Meiers*
 - [00:03:15](https://youtu.be/h-UT2YEldYk?t=00h03m15s) *M@GICAL☆CURE! LOVE SHOT! — SAWTONE*
-- [00:06:38](https://youtu.be/h-UT2YEldYk?t=00h06m38s) Vedal and Neuro appear | **Building Neuro's server**
+- [00:06:38](https://youtu.be/h-UT2YEldYk?t=00h06m38s) Vedal and Neuro appear \| **Building Neuro's server**
 - [00:14:05](https://youtu.be/h-UT2YEldYk?t=00h14m05s) Installing in the motherboard
 - [00:35:02](https://youtu.be/h-UT2YEldYk?t=00h35m02s) Installing the CPU
 - [00:48:02](https://youtu.be/h-UT2YEldYk?t=00h48m02s) Opening the M.2 compartment and removing the thermal ~~pads~~ paste
