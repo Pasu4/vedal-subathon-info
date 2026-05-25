@@ -1045,7 +1045,7 @@
 - [01:47:33](https://youtu.be/E1xdVxUI1V8?t=01h47m33s) *Grenade — Bruno Mars*
 - [01:53:40](https://youtu.be/E1xdVxUI1V8?t=01h53m40s) *Mirror — Porter Robinson*
 - [02:01:22](https://youtu.be/E1xdVxUI1V8?t=02h01m22s) *Harder, Better, Faster, Stronger — Daft Punk* (duet)
-‒‒:‒‒:‒‒ Raiding [Laimu](https://twitch.tv/limealicious) (after stream ended)
+- ‒‒:‒‒:‒‒ Raiding [Laimu](https://twitch.tv/limealicious) (after stream ended)
 
 ## Are you ready for Evil ([30 Apr 2026](https://youtu.be/qlJmo9JPp2A))
 
@@ -1176,10 +1176,7 @@
 - [01:59:41](https://youtu.be/DXgsuHdOCeY?t=01h59m41s) *Want You Gone — Jonathan Coulton*
 - [02:02:00](https://youtu.be/DXgsuHdOCeY?t=02h02m00s) Raiding [GEEGA](https://twitch.tv/geega)
 
-## evil conquers the world (14 May 2026)
-
-VOD is currently missing from the archive.
-I'll wait a bit to see if it is added, otherwise I'll look for an alternative for this one.
+## evil conquers the world ([14 May 2026](https://youtu.be/ytFp-9S2wXU))
 
 - [00:00:00](https://youtu.be/ytFp-9S2wXU?t=00h00m00s) *The sound about petals — Avaraya*
 - [00:03:30](https://youtu.be/ytFp-9S2wXU?t=00h03m30s) *Karma — Creep-P*
