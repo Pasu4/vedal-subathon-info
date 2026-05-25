@@ -1277,3 +1277,13 @@
 - [01:57:11](https://youtu.be/SJxG6ASjZeY?t=01h57m11s) **Art review**
 - [02:17:26](https://youtu.be/SJxG6ASjZeY?t=02h17m26s) **Just chatting**
 - [02:27:10](https://youtu.be/SJxG6ASjZeY?t=02h27m10s) Raiding [Obkatiekat](https://twitch.tv/obkatiekat)
+
+## Evil is not a human but @LaynaLazar might be ([22 May 2026](https://youtu.be/IaU9TkjCAGA))
+
+- [00:00:00](https://youtu.be/IaU9TkjCAGA?t=00h00m00s) *Kill Everyone — Hollywood Undead*
+- [00:02:48](https://youtu.be/IaU9TkjCAGA?t=00h02m48s) *Sweet Child O' Mine — Guns n' Roses*
+- [00:08:42](https://youtu.be/IaU9TkjCAGA?t=00h08m42s) Evil appears \| **Just chatting**
+- [00:12:59](https://youtu.be/IaU9TkjCAGA?t=00h12m59s) Layna joins
+- [00:28:16](https://youtu.be/IaU9TkjCAGA?t=00h28m16s) **Playing *No, I'm Not a Human***
+- [03:34:19](https://youtu.be/IaU9TkjCAGA?t=03h34m19s) Gameplay ends \|  **Just chatting**
+- [03:46:57](https://youtu.be/IaU9TkjCAGA?t=03h46m57s) Layna leaves \| Raiding [Juniper](https://twitch.tv/juniperactias)
