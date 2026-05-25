@@ -1287,3 +1287,32 @@
 - [00:28:16](https://youtu.be/IaU9TkjCAGA?t=00h28m16s) **Playing *No, I'm Not a Human***
 - [03:34:19](https://youtu.be/IaU9TkjCAGA?t=03h34m19s) Gameplay ends \|  **Just chatting**
 - [03:46:57](https://youtu.be/IaU9TkjCAGA?t=03h46m57s) Layna leaves \| Raiding [Juniper](https://twitch.tv/juniperactias)
+
+## IRL building neuro and evil's new server ([24 May 2026](https://youtu.be/h-UT2YEldYk))
+
+- [00:00:00](https://youtu.be/h-UT2YEldYk?t=00h00m00s) *Mechanic Heartbeat — Culprate & Sophie Meiers*
+- [00:03:15](https://youtu.be/h-UT2YEldYk?t=00h03m15s) *M@GICAL☆CURE! LOVE SHOT! — SAWTONE*
+- [00:06:38](https://youtu.be/h-UT2YEldYk?t=00h06m38s) Vedal and Neuro appear | **Building Neuro's server**
+- [00:14:05](https://youtu.be/h-UT2YEldYk?t=00h14m05s) Installing in the motherboard
+- [00:35:02](https://youtu.be/h-UT2YEldYk?t=00h35m02s) Installing the CPU
+- [00:48:02](https://youtu.be/h-UT2YEldYk?t=00h48m02s) Opening the M.2 compartment and removing the thermal ~~pads~~ paste
+- [00:53:41](https://youtu.be/h-UT2YEldYk?t=00h53m41s) Installing the M.2s (boot drive and main drive (?))
+- [01:05:35](https://youtu.be/h-UT2YEldYk?t=01h05m35s) Installing the ram
+- [01:14:04](https://youtu.be/h-UT2YEldYk?t=01h14m04s) Installing the first power supply
+- [01:19:23](https://youtu.be/h-UT2YEldYk?t=01h19m23s) About technical details
+- [01:20:28](https://youtu.be/h-UT2YEldYk?t=01h20m28s) Installing the second power supply
+- [01:23:15](https://youtu.be/h-UT2YEldYk?t=01h23m15s) Installing the hard drives
+- [01:40:44](https://youtu.be/h-UT2YEldYk?t=01h40m44s) Connecting the power supply
+- [02:33:15](https://youtu.be/h-UT2YEldYk?t=02h33m15s) Installing the cooling system (AIO)
+- [03:00:44](https://youtu.be/h-UT2YEldYk?t=03h00m44s) Mounting the cooling to the CPU
+- [03:14:10](https://youtu.be/h-UT2YEldYk?t=03h14m10s) Installing one of the GPUs
+- [03:23:25](https://youtu.be/h-UT2YEldYk?t=03h23m25s) Attempting to turn it on (Attempt 1)
+- [03:40:43](https://youtu.be/h-UT2YEldYk?t=03h40m43s) Attempt 2
+- [03:45:15](https://youtu.be/h-UT2YEldYk?t=03h45m15s) Connecting a monitor and the cooling system
+- [03:53:38](https://youtu.be/h-UT2YEldYk?t=03h53m38s) Vedal lore
+- [03:55:10](https://youtu.be/h-UT2YEldYk?t=03h55m10s) Attempt 3
+- [03:58:04](https://youtu.be/h-UT2YEldYk?t=03h58m04s) Connecting a keyboard
+- [04:02:24](https://youtu.be/h-UT2YEldYk?t=04h02m24s) CPU overheated
+- [04:08:07](https://youtu.be/h-UT2YEldYk?t=04h08m07s) Attempt 4
+- [04:11:00](https://youtu.be/h-UT2YEldYk?t=04h11m00s) Successfully booted into BIOS
+- [04:16:49](https://youtu.be/h-UT2YEldYk?t=04h16m49s) CPU overheated

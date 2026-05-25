@@ -67,7 +67,7 @@ Participants are ordered by the time they appeared on stream.
 | [19 May 2026](https://youtu.be/T0IE_vJzTMc) | neuro stream titles have NEVER been better than this 🔥🔥🔥        | Variety               | Neuro                                 | [Shylily](https://twitch.tv/shylily)
 | [21 May 2026](https://youtu.be/SJxG6ASjZeY) | Evil is here to be devious                                          | Variety               | Evil                                  | [Obkatiekat](https://twitch.tv/obkatiekat)
 | [22 May 2026](https://youtu.be/IaU9TkjCAGA) | Evil is not a human but [@LaynaLazar](https://twitch.tv/laynalazar) might be | Gaming collab | Evil, Layna                          | [Juniper](https://twitch.tv/juniperactias)
-
+| [24 May 2026](https://youtu.be/h-UT2YEldYk) | IRL building neuro and evil's new server                            | Special event         | Vedal, Neuro                          | -
 
 ## Participants
 
@@ -144,5 +144,6 @@ Presentations are both under one-time events with their specific title, and unde
 | Vedal and Evil play *VRChat*              | [04-20](https://youtu.be/CUb8HfPYCQc)
 | Evil and Numi bake cinnamon rolls         | [04-24](https://youtu.be/Z_ZWwV3jjU4)
 | Evil presents *Proper Effective Extortion: Getting what you want out of a disadvantageous situation* | [05-07](https://youtu.be/_GRFgHhpCVY)
+| Building Neuro's server                   | [04-24](https://youtu.be/h-UT2YEldYk)
 
 <!-- Comment needed here so powershell can find the newline after the table -->
