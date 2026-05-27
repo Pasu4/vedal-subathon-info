@@ -1316,3 +1316,17 @@
 - [04:08:07](https://youtu.be/h-UT2YEldYk?t=04h08m07s) Attempt 4
 - [04:11:00](https://youtu.be/h-UT2YEldYk?t=04h11m00s) Successfully booted into BIOS
 - [04:16:49](https://youtu.be/h-UT2YEldYk?t=04h16m49s) CPU overheated
+
+## neuro's cool stream title: "I'M 4' 6" IRL" ([26 May 2026](https://youtu.be/dK33c8-8WV8))
+
+- [00:00:00](https://youtu.be/dK33c8-8WV8?t=00h00m00s) *Cold — Crossfade*
+- [00:02:23](https://youtu.be/dK33c8-8WV8?t=00h02m23s) *Get Your Wish — Porter Robinson*
+- [00:06:00](https://youtu.be/dK33c8-8WV8?t=00h06m00s) Neuro appears \| **Just chatting**
+- [00:14:59](https://youtu.be/dK33c8-8WV8?t=00h14m59s) Playing *Legally Distinct •••dle*
+- [00:17:42](https://youtu.be/dK33c8-8WV8?t=00h17m42s) Playing *Legally Distinct Connections*
+- [00:19:30](https://youtu.be/dK33c8-8WV8?t=00h19m30s) Playing *Minesweeper*
+- [00:26:19](https://youtu.be/dK33c8-8WV8?t=00h26m19s) Playing *Connect Four*
+- [00:43:53](https://youtu.be/dK33c8-8WV8?t=00h43m53s) **3D stream**
+- [01:50:08](https://youtu.be/dK33c8-8WV8?t=01h50m08s) **Art review**
+- [02:08:31](https://youtu.be/dK33c8-8WV8?t=02h08m31s) **3D stream**
+- [02:26:08](https://youtu.be/dK33c8-8WV8?t=02h26m08s) Raiding [Cerber](https://twitch.tv/cerbervt)
