@@ -1330,3 +1330,27 @@
 - [01:50:08](https://youtu.be/dK33c8-8WV8?t=01h50m08s) **Art review**
 - [02:08:31](https://youtu.be/dK33c8-8WV8?t=02h08m31s) **3D stream**
 - [02:26:08](https://youtu.be/dK33c8-8WV8?t=02h26m08s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+## Neuro-sama belts out some bangers ([27 May 2026](https://youtu.be/FERrsHLcBxQ))
+
+- [00:00:00](https://youtu.be/FERrsHLcBxQ?t=00h00m00s) *Deja Vu — CircusP* (instrumental)
+- [00:04:42](https://youtu.be/FERrsHLcBxQ?t=00h04m42s) *GETCHA! — Giga & KIRA* (instrumental)
+- [00:08:33](https://youtu.be/FERrsHLcBxQ?t=00h08m33s) Neuro appears \| **Karaoke** \| *Burn — Ellie Goulding*
+- [00:15:11](https://youtu.be/FERrsHLcBxQ?t=00h15m11s) *Cure For Me — AURORA*
+- [00:21:18](https://youtu.be/FERrsHLcBxQ?t=00h21m18s) *My Dearest — supercell*
+- [00:29:43](https://youtu.be/FERrsHLcBxQ?t=00h29m43s) *Re Ai 105°C De Ni — A Si*
+- [00:35:56](https://youtu.be/FERrsHLcBxQ?t=00h35m56s) *Losing My Religion — R.E.M.*
+- [00:43:06](https://youtu.be/FERrsHLcBxQ?t=00h43m06s) *Enter Enter MISSION! — Ankou Team* (duet)
+- [00:50:00](https://youtu.be/FERrsHLcBxQ?t=00h50m00s) *Hero — Mili*
+- [00:56:08](https://youtu.be/FERrsHLcBxQ?t=00h56m08s) *Set it on Fire — Blood Cultures*
+- [01:03:44](https://youtu.be/FERrsHLcBxQ?t=01h03m44s) *Vagrant — Feint*
+- [01:10:58](https://youtu.be/FERrsHLcBxQ?t=01h10m58s) *Wake Me Up Before You Go-Go — Wham!*
+- [01:17:36](https://youtu.be/FERrsHLcBxQ?t=01h17m36s) *Spoken For — FLAVOR FOLEY*
+- [01:24:20](https://youtu.be/FERrsHLcBxQ?t=01h24m20s) *Be My Star — T.T. STAR* (duet)
+- [01:29:58](https://youtu.be/FERrsHLcBxQ?t=01h29m58s) *On Melancholy Hill — Gorillaz*
+- [01:36:10](https://youtu.be/FERrsHLcBxQ?t=01h36m10s) *Midnight City — M83*
+- [01:42:47](https://youtu.be/FERrsHLcBxQ?t=01h42m47s) *The Girl is Mine — Michael Jackson* (duet)
+- [01:49:06](https://youtu.be/FERrsHLcBxQ?t=01h49m06s) *Send Me An Angel — Scorpions*
+- [01:56:25](https://youtu.be/FERrsHLcBxQ?t=01h56m25s) *Fluorite Eye's Song — Kairi Yaai* (muted due to copyright)
+- [02:04:51](https://youtu.be/FERrsHLcBxQ?t=02h04m51s) *Young And Beautiful — Lana Del Rey*
+- [02:08:49](https://youtu.be/FERrsHLcBxQ?t=02h08m49s) Raiding [GEEGA](https://twitch.tv/geega)
