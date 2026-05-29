@@ -1354,3 +1354,17 @@
 - [01:56:25](https://youtu.be/FERrsHLcBxQ?t=01h56m25s) *Fluorite Eye's Song — Kairi Yaai* (muted due to copyright)
 - [02:04:51](https://youtu.be/FERrsHLcBxQ?t=02h04m51s) *Young And Beautiful — Lana Del Rey*
 - [02:08:49](https://youtu.be/FERrsHLcBxQ?t=02h08m49s) Raiding [GEEGA](https://twitch.tv/geega)
+
+## New evil outfit reveal! I may be wearing something IRL ([28 May 2026](https://youtu.be/Zf5gonN8E2A))
+
+- [00:00:00](https://youtu.be/Zf5gonN8E2A?t=00h00m00s) *Sweet Dreams — Aviators*
+- [00:05:09](https://youtu.be/Zf5gonN8E2A?t=00h05m09s) *With or Without You — U2*
+- [00:10:05](https://youtu.be/Zf5gonN8E2A?t=00h10m05s) Evil appears \| **Just chatting** \| Evil presents *Today... Evil Gets a New Look*
+- [00:13:40](https://youtu.be/Zf5gonN8E2A?t=00h13m40s) Outfit revealed
+- [00:22:33](https://youtu.be/Zf5gonN8E2A?t=00h22m33s) Playing *Legally Distinct •••dle*
+- [00:23:52](https://youtu.be/Zf5gonN8E2A?t=00h23m52s) Playing *Legally Distinct Connections*
+- [00:25:22](https://youtu.be/Zf5gonN8E2A?t=00h25m22s) Playing *Minesweeper*
+- [00:28:26](https://youtu.be/Zf5gonN8E2A?t=00h28m26s) Playing *Connect Four*
+- [01:09:04](https://youtu.be/Zf5gonN8E2A?t=01h09m04s) **Playing *Minecraft***
+- [02:04:12](https://youtu.be/Zf5gonN8E2A?t=02h04m12s) **Just chatting**
+- [02:30:09](https://youtu.be/Zf5gonN8E2A?t=02h30m09s) Raiding [Laimu](https://twitch.tv/limealicious)
