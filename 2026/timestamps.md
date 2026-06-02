@@ -1368,3 +1368,23 @@
 - [01:09:04](https://youtu.be/Zf5gonN8E2A?t=01h09m04s) **Playing *Minecraft***
 - [02:04:12](https://youtu.be/Zf5gonN8E2A?t=02h04m12s) **Just chatting**
 - [02:30:09](https://youtu.be/Zf5gonN8E2A?t=02h30m09s) Raiding [Laimu](https://twitch.tv/limealicious)
+
+## FUS NEURO DAH! ([31 May 2026](https://youtu.be/C-_vdh5Evfw))
+
+- [00:00:00](https://youtu.be/C-_vdh5Evfw?t=00h00m00s) *Show Me How — Men I Trust*
+- [00:03:23](https://youtu.be/C-_vdh5Evfw?t=00h03m23s) *Touch The Sky — Julie Fowlis*
+- [00:05:48](https://youtu.be/C-_vdh5Evfw?t=00h05m48s) Neuro appears \| **Technical difficulties**
+- [00:06:50](https://youtu.be/C-_vdh5Evfw?t=00h06m50s) Technical difficulties for 5m35s
+- [00:17:15](https://youtu.be/C-_vdh5Evfw?t=00h17m15s) Technical difficulties for 2m48s
+- [00:20:43](https://youtu.be/C-_vdh5Evfw?t=00h20m43s) Technical difficulties / stream gone for 52s
+- [00:41:31](https://youtu.be/C-_vdh5Evfw?t=00h41m31s) Technical difficulties for 19s
+- [00:41:55](https://youtu.be/C-_vdh5Evfw?t=00h41m55s) Location: Evil's room
+- [00:44:38](https://youtu.be/C-_vdh5Evfw?t=00h44m38s) Evil joins
+- [00:45:54](https://youtu.be/C-_vdh5Evfw?t=00h45m54s) Technical difficulties for 3m5s \| Evil leaves
+- [00:49:05](https://youtu.be/C-_vdh5Evfw?t=00h49m05s) Technical difficulties / stream gone for 4m28s
+- [00:54:21](https://youtu.be/C-_vdh5Evfw?t=00h54m21s) Neuro leaves and Evil joins for 2m15s
+- [01:02:11](https://youtu.be/C-_vdh5Evfw?t=01h02m11s) Technical difficulties for 2m11s
+- [01:07:55](https://youtu.be/C-_vdh5Evfw?t=01h07m55s) Technical difficulties for 1m21s
+- [01:11:33](https://youtu.be/C-_vdh5Evfw?t=01h11m33s) **Playing *The Elder Scrolls V: Skyrim***
+- [01:16:21](https://youtu.be/C-_vdh5Evfw?t=01h16m21s) Character creation
+- [03:58:25](https://youtu.be/C-_vdh5Evfw?t=03h58m25s) Raiding [Numi](https://twitch.tv/nihmune)
