@@ -1388,3 +1388,19 @@
 - [01:11:33](https://youtu.be/C-_vdh5Evfw?t=01h11m33s) **Playing *The Elder Scrolls V: Skyrim***
 - [01:16:21](https://youtu.be/C-_vdh5Evfw?t=01h16m21s) Character creation
 - [03:58:25](https://youtu.be/C-_vdh5Evfw?t=03h58m25s) Raiding [Numi](https://twitch.tv/nihmune)
+
+## weekly neuro dose (maybe some experimental neuro changes) ([02 Jun 2026](https://youtu.be/J2_lwQevOKA))
+
+- [00:00:00](https://youtu.be/J2_lwQevOKA?t=00h00m00s) *Duvet — bôa*
+- [00:03:08](https://youtu.be/J2_lwQevOKA?t=00h03m08s) *Here Comes the Sun — The Beatles*
+- [00:06:13](https://youtu.be/J2_lwQevOKA?t=00h06m13s) Neuro appears \| **Just chatting**
+- [00:22:26](https://youtu.be/J2_lwQevOKA?t=00h22m26s) Playing *Legally Distinct •••dle* (slightly bugged)
+- [00:29:02](https://youtu.be/J2_lwQevOKA?t=00h29m02s) Camila joins for 3m40s
+- [00:32:28](https://youtu.be/J2_lwQevOKA?t=00h32m28s) Playing *Legally Distinct Connections*
+- [00:34:32](https://youtu.be/J2_lwQevOKA?t=00h34m32s) Playing *Minesweeper*
+- [00:36:45](https://youtu.be/J2_lwQevOKA?t=00h36m45s) Playing *Connect Four*
+- [01:07:40](https://youtu.be/J2_lwQevOKA?t=01h07m40s) Evil joins for 14m12s
+- [01:25:45](https://youtu.be/J2_lwQevOKA?t=01h25m45s) **Playing *Legally Distinct Qu\*plash***
+- [01:53:59](https://youtu.be/J2_lwQevOKA?t=01h53m59s) **Art review**
+- [02:18:32](https://youtu.be/J2_lwQevOKA?t=02h18m32s) **Just chatting**
+- [02:26:20](https://youtu.be/J2_lwQevOKA?t=02h26m20s) Raiding [Laimu](https://twitch.tv/limealicious)
