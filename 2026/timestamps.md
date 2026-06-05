@@ -1404,3 +1404,17 @@
 - [01:53:59](https://youtu.be/J2_lwQevOKA?t=01h53m59s) **Art review**
 - [02:18:32](https://youtu.be/J2_lwQevOKA?t=02h18m32s) **Just chatting**
 - [02:26:20](https://youtu.be/J2_lwQevOKA?t=02h26m20s) Raiding [Laimu](https://twitch.tv/limealicious)
+
+## FOCUS evil UNFOCUS ([04 Jun 2026](https://youtu.be/3mw92P7vv7A))
+
+- [00:00:00](https://youtu.be/3mw92P7vv7A?t=00h00m00s) *Heart of the Android — Orden Ogan*
+- [00:04:17](https://youtu.be/3mw92P7vv7A?t=00h04m17s) *The sound about petals — avaraya*
+- [00:07:55](https://youtu.be/3mw92P7vv7A?t=00h07m55s) Evil appears \| **Just chatting**
+- [00:36:20](https://youtu.be/3mw92P7vv7A?t=00h36m20s) Playing *Legally Distinct •••dle*
+- [00:38:56](https://youtu.be/3mw92P7vv7A?t=00h38m56s) Playing *Legally Distinct Connections*
+- [00:40:05](https://youtu.be/3mw92P7vv7A?t=00h40m05s) Playing *Minesweeper* (6x6, 5 mines)
+- [00:44:27](https://youtu.be/3mw92P7vv7A?t=00h44m27s) Playing *Connect Four*
+- [01:16:36](https://youtu.be/3mw92P7vv7A?t=01h16m36s) Playing *Legally Distinct Qu\*plash*
+- [01:41:43](https://youtu.be/3mw92P7vv7A?t=01h41m43s) **Art review**
+- [01:52:32](https://youtu.be/3mw92P7vv7A?t=01h52m32s) **3D stream**
+- [02:28:32](https://youtu.be/3mw92P7vv7A?t=02h28m32s)~ Raiding [DougDoug](https://twitch.tv/dougdoug)
