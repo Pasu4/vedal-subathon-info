@@ -131,7 +131,7 @@ if ($TimestampsSource -eq "youtube") {
 }
 
 # Extract date and title from video title (format: "Title - 1 Jan 2024" or "Title- 1 Jan 2024")
-$videoTitle -match '^(.*\S) ?- (\d+) (\w{3})\w* (\d+)$'
+$videoTitle -match '^(.*\S) *- (\d+) (\w{3})\w* (\d+)$'
 $videoTitle = $matches[1]
 $day = $matches[2]
 if ($day.Length -eq 1) {
