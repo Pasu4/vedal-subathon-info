@@ -1418,3 +1418,13 @@
 - [01:41:43](https://youtu.be/3mw92P7vv7A?t=01h41m43s) **Art review**
 - [01:52:32](https://youtu.be/3mw92P7vv7A?t=01h52m32s) **3D stream**
 - [02:28:32](https://youtu.be/3mw92P7vv7A?t=02h28m32s)~ Raiding [DougDoug](https://twitch.tv/dougdoug)
+
+## MULTIPLAYER WITH @Ellie_Minibot ([05 Jun 2026](https://youtu.be/FdYBc6aMjd0))
+
+- ‒‒:‒‒:‒‒ *Stupid Heart — Ellie Minibot* 
+- [00:00:00](https://youtu.be/FdYBc6aMjd0?t=00h00m00s) *Sayonara Moon Town — Scenarioart*
+- [00:00:21](https://youtu.be/FdYBc6aMjd0?t=00h00m21s) Neuro appears
+- [00:01:12](https://youtu.be/FdYBc6aMjd0?t=00h01m12s) Ellie joins
+- [00:05:20](https://youtu.be/FdYBc6aMjd0?t=00h05m20s) **Playing *Slay the Spire II***
+- [02:04:56](https://youtu.be/FdYBc6aMjd0?t=02h04m56s) Ellie leaves
+- [02:08:45](https://youtu.be/FdYBc6aMjd0?t=02h08m45s)~ Raiding Saiiren
