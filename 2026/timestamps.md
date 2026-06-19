@@ -1456,6 +1456,8 @@
 - [02:04:55](https://youtu.be/VL1oziMsV4Y?t=02h04m55s) **Just chatting**
 - [02:28:21](https://youtu.be/VL1oziMsV4Y?t=02h28m21s) Raiding [Zentreya](https://twitch.tv/zentreya)
 
-**NOTE: Neuro Archiver has been inactive as of 09 Jun 2026.**
-**I have already contacted them to ask if this is a temporary hiatus or permanent.**
-**Timestamps will be delayed until the situation is resolved.**
+<span style="color: red; font-weight: bold;">
+NOTE: Neuro Archiver has been inactive as of 09 Jun 2026.
+I have already contacted them to ask if this is a temporary hiatus or permanent.
+Timestamps will be delayed until the situation is resolved.
+</span>
