@@ -1427,4 +1427,17 @@
 - [00:01:12](https://youtu.be/FdYBc6aMjd0?t=00h01m12s) Ellie joins
 - [00:05:20](https://youtu.be/FdYBc6aMjd0?t=00h05m20s) **Playing *Slay the Spire II***
 - [02:04:56](https://youtu.be/FdYBc6aMjd0?t=02h04m56s) Ellie leaves
-- [02:08:45](https://youtu.be/FdYBc6aMjd0?t=02h08m45s)~ Raiding Saiiren
+- [02:08:45](https://youtu.be/FdYBc6aMjd0?t=02h08m45s)~ Raiding [Cerber](https://twitch.tv/cerbervt)
+
+## NEURO PLAYS SKYRIM IS BACK ([06 Jun 2026](https://youtu.be/GjIopQlnEUY))
+
+- [00:00:00](https://youtu.be/GjIopQlnEUY?t=00h00m00s) *Fairytale of New York — The Pogues*
+- [00:04:32](https://youtu.be/GjIopQlnEUY?t=00h04m32s) *String Theocracy — Mili*
+- [00:07:19](https://youtu.be/GjIopQlnEUY?t=00h07m19s) Neuro appears
+- [00:13:05](https://youtu.be/GjIopQlnEUY?t=00h13m05s) **Playing *The Elder Scrolls V: Skyrim***
+- [00:59:58](https://youtu.be/GjIopQlnEUY?t=00h59m58s) Technical difficulties for 7m52s
+- [01:58:27](https://youtu.be/GjIopQlnEUY?t=01h58m27s) Technical difficulties for 5m38s
+- [02:07:49](https://youtu.be/GjIopQlnEUY?t=02h07m49s) Technical difficulties
+- [02:25:30](https://youtu.be/GjIopQlnEUY?t=02h25m30s) Technical difficulties resolved
+- [03:23:36](https://youtu.be/GjIopQlnEUY?t=03h23m36s) Technical difficulties
+- [03:26:36](https://youtu.be/GjIopQlnEUY?t=03h26m36s)~ Raiding [Cerber](https://twitch.tv/cerbervt)
