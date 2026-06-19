@@ -1441,3 +1441,17 @@
 - [02:25:30](https://youtu.be/GjIopQlnEUY?t=02h25m30s) Technical difficulties resolved
 - [03:23:36](https://youtu.be/GjIopQlnEUY?t=03h23m36s) Technical difficulties
 - [03:26:36](https://youtu.be/GjIopQlnEUY?t=03h26m36s)~ Raiding [Cerber](https://twitch.tv/cerbervt)
+
+## its neuro chewsday innit ([09 Jun 2026](https://youtu.be/VL1oziMsV4Y))
+
+- [00:00:00](https://youtu.be/VL1oziMsV4Y?t=00h00m00s) *Triple Baka — LamazeP*
+- [00:03:55](https://youtu.be/VL1oziMsV4Y?t=00h03m55s) *Thanks for Being Lifeless — PinocchioP*
+- [00:08:14](https://youtu.be/VL1oziMsV4Y?t=00h08m14s) Neuro appears \| **Just chatting**
+- [00:18:33](https://youtu.be/VL1oziMsV4Y?t=00h18m33s) Playing *Legally Distinct •••dle*
+- [00:20:10](https://youtu.be/VL1oziMsV4Y?t=00h20m10s) Playing *Legally Distinct Connections*
+- [00:22:22](https://youtu.be/VL1oziMsV4Y?t=00h22m22s) Playing *Minesweeper* (7x7, 7 mines)
+- [00:24:21](https://youtu.be/VL1oziMsV4Y?t=00h24m21s) Playing *Connect Four*
+- [00:53:29](https://youtu.be/VL1oziMsV4Y?t=00h53m29s) Neuro presents *The (not so) Secret Life of a Digital Brain: Who's the AI Presenter?*
+- [01:33:27](https://youtu.be/VL1oziMsV4Y?t=01h33m27s) **Art review**
+- [02:04:55](https://youtu.be/VL1oziMsV4Y?t=02h04m55s) **Just chatting**
+- [02:28:21](https://youtu.be/VL1oziMsV4Y?t=02h28m21s) Raiding [Zentreya](https://twitch.tv/zentreya)
