@@ -4,6 +4,9 @@
 NOTE: Neuro Archiver has been inactive as of 09 Jun 2026.
 I have already contacted them to ask if this is a temporary hiatus or permanent.
 Timestamps will be delayed until the situation is resolved.
+
+UPDATE: Neuro Archiver is active again.
+We are working on timestamping the backlog on the `backlog` branch.
 </span>
 
 ## Streams
