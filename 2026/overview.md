@@ -79,7 +79,7 @@ Participants are ordered by the time they appeared on stream.
 | [09 Jun 2026](https://youtu.be/VL1oziMsV4Y) | its neuro chewsday innit                                            | Just chatting         | Neuro                                 | [Zentreya](https://twitch.tv/zentreya)
 | [10 Jun 2026](https://youtu.be/shS6QuXp338) | Evil karaoke to lower cortisol                                      | Karaoke               | Evil,                                 | [Laimu](https://twitch.tv/limealicious)
 | [11 Jun 2026](https://youtu.be/8UgcH7YLxzA) | test                                                                | Just chatting         | Evil                                  | [Saiiren](https://twitch.tv/saiiren)
-| [20 Jun 2026](https://youtu.be/4_kgbL9ow_Y) | skyrim                                                              | Neuro gaming          | Neuro, Note                           | [Shylily](https://twitch.tv/shylily)
+| [20 Jun 2026](https://youtu.be/4_kgbL9ow_Y) | skyrim                                                              | Neuro gaming          | Neuro                           | [Shylily](https://twitch.tv/shylily)
 
 ## Participants
 
@@ -101,7 +101,6 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 | [Ellie](https://twitch.tv/ellie_minibot)                      | [03-25](https://youtu.be/2ybvriJM_Co), [06-05](https://youtu.be/FdYBc6aMjd0)
 | [Chrchie](https://twitch.tv/chrchie)                          | [03-25](https://youtu.be/2ybvriJM_Co)
 | [Numi](https://twitch.tv/nihmune)                             | [04-08](https://youtu.be/D95w1v1_5k0), [04-24](https://youtu.be/Z_ZWwV3jjU4)
-<!-- TODO: Add missing participants: Note -->
 
 ## Recurring content
 
