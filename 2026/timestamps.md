@@ -1505,6 +1505,20 @@
 - [01:07:46](https://youtu.be/-QvvvL1kILU?t=01h07m46s) Stuck in menu for 7m14s
 - [03:42:46](https://youtu.be/-QvvvL1kILU?t=03h42m46s)~ Raiding [Camila](https://twitch.tv/camila)
 
+## cyber plink ([14 Jun 2026](https://youtu.be/ag3qJ0aiEtw))
+
+- [00:00:00](https://youtu.be/ag3qJ0aiEtw?t=00h00m00s) *PONPON SHIT — Namakopuri & Us Cracks*
+02:09 *エビチャーハン! (You’re Telling Me A SHRIMP Fried This Rice?!) — Jamie Paige*
+- [00:05:27](https://youtu.be/ag3qJ0aiEtw?t=00h05m27s) Vedal and Neuro appear \| **Just chatting**
+- [00:08:30](https://youtu.be/ag3qJ0aiEtw?t=00h08m30s) Checking Neuro's search history
+- [00:15:13](https://youtu.be/ag3qJ0aiEtw?t=00h15m13s) Checking Evil's search history
+- [00:25:02](https://youtu.be/ag3qJ0aiEtw?t=00h25m02s) About Neuro's arms
+- [00:26:30](https://youtu.be/ag3qJ0aiEtw?t=00h26m30s) **Playing *Cyberpunk 2077: Phantom Liberty***
+- [01:50:47](https://youtu.be/ag3qJ0aiEtw?t=01h50m47s) About the new server
+- [03:16:51](https://youtu.be/ag3qJ0aiEtw?t=03h16m51s) Schedule
+- [03:18:21](https://youtu.be/ag3qJ0aiEtw?t=03h18m21s) About dev stream
+- [03:19:06](https://youtu.be/ag3qJ0aiEtw?t=03h19m06s) Raiding [Camila](https://twitch.tv/camila)
+
 ## skyrim ([20 Jun 2026](https://youtu.be/4_kgbL9ow_Y))
 
 - [00:00:00](https://youtu.be/4_kgbL9ow_Y?t=00h00m00s) *Roar — Katy Perry*
