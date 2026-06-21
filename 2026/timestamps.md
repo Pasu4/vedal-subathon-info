@@ -1493,6 +1493,18 @@
 - [01:50:58](https://youtu.be/8UgcH7YLxzA?t=01h50m58s) **3D stream**
 - [02:24:52](https://youtu.be/8UgcH7YLxzA?t=02h24m52s) Raiding [Saiiren](https://twitch.tv/saiiren)
 
+## Skyrim - Inspired by the characters around me. ([13 Jun 2026](https://youtu.be/-QvvvL1kILU))
+
+- [00:00:00](https://youtu.be/-QvvvL1kILU?t=00h00m00s) *Hope Is the Thing With Feathers — Robin, HOYO-MiX & chevy* (slightly deep-fried)
+- [00:00:59](https://youtu.be/-QvvvL1kILU?t=00h00m59s) Neuro appears \| **Technical difficulties** (deep-fried audio)
+- [00:13:14](https://youtu.be/-QvvvL1kILU?t=00h13m14s) Technical difficulties for 50s
+- [00:16:57](https://youtu.be/-QvvvL1kILU?t=00h16m57s) Technical difficulties for 4m9s
+- [00:24:26](https://youtu.be/-QvvvL1kILU?t=00h24m26s) Technical difficulties for 20s
+- [00:28:38](https://youtu.be/-QvvvL1kILU?t=00h28m38s) **Playing *The Elder Scrolls V: Skyrim***
+- [00:50:20](https://youtu.be/-QvvvL1kILU?t=00h50m20s) Stuck in menu for 7m5s
+- [01:07:46](https://youtu.be/-QvvvL1kILU?t=01h07m46s) Stuck in menu for 7m14s
+- [03:42:46](https://youtu.be/-QvvvL1kILU?t=03h42m46s)~ Raiding [Camila](https://twitch.tv/camila)
+
 ## skyrim ([20 Jun 2026](https://youtu.be/4_kgbL9ow_Y))
 
 - [00:00:00](https://youtu.be/4_kgbL9ow_Y?t=00h00m00s) *Roar — Katy Perry*
