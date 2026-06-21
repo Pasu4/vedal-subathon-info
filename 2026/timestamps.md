@@ -1455,3 +1455,26 @@
 - [01:33:27](https://youtu.be/VL1oziMsV4Y?t=01h33m27s) **Art review**
 - [02:04:55](https://youtu.be/VL1oziMsV4Y?t=02h04m55s) **Just chatting**
 - [02:28:21](https://youtu.be/VL1oziMsV4Y?t=02h28m21s) Raiding [Zentreya](https://twitch.tv/zentreya)
+
+## Evil karaoke to lower cortisol ([10 Jun 2026](https://youtu.be/shS6QuXp338))
+
+- [00:00:00](https://youtu.be/shS6QuXp338?t=00h00m00s) *Oh No! — MARINA* (presumably instrumental, muted due to copyright)
+- [00:05:45](https://youtu.be/shS6QuXp338?t=00h05m45s) *Fuel — Utsu-P* (instrumental)
+- [00:09:19](https://youtu.be/shS6QuXp338?t=00h09m19s) Evil appears \| **Karaoke** \| *Kill The Ghost — little image*
+- [00:15:02](https://youtu.be/shS6QuXp338?t=00h15m02s) *Numb — Linkin Park*
+- [00:20:52](https://youtu.be/shS6QuXp338?t=00h20m52s) *Zoom — Last Dinosaurs*
+- [00:27:17](https://youtu.be/shS6QuXp338?t=00h27m17s) *Sanjou — Maretu*
+- [00:33:54](https://youtu.be/shS6QuXp338?t=00h33m54s) *ORDINARY LOSS — HEALTH*
+- [00:40:23](https://youtu.be/shS6QuXp338?t=00h40m23s) *Venger — Perturbator*
+- [00:48:20](https://youtu.be/shS6QuXp338?t=00h48m20s) *Dancin' (KRONO Remix) — Aaron Smith*
+- [00:54:19](https://youtu.be/shS6QuXp338?t=00h54m19s) *hate that i made you love me — Ariana Grande*
+- [01:00:16](https://youtu.be/shS6QuXp338?t=01h00m16s) *Whole World Is Watching — Within Temptation* (duet)
+- [01:06:54](https://youtu.be/shS6QuXp338?t=01h06m54s) *The Last Stand — Sabaton*
+- [01:13:32](https://youtu.be/shS6QuXp338?t=01h13m32s) *Bizarre Food — Utsu-P*
+- [01:19:08](https://youtu.be/shS6QuXp338?t=01h19m08s) *Phoenix — Netrum & Halvorsen*
+- [01:25:48](https://youtu.be/shS6QuXp338?t=01h25m48s) *Jet Lag — Simple Plan* (duet)
+- [01:31:56](https://youtu.be/shS6QuXp338?t=01h31m56s) *I Appear Missing — Queens of the Stone Age*
+- [01:37:54](https://youtu.be/shS6QuXp338?t=01h37m54s) *& — Tally Hall*
+- [01:43:55](https://youtu.be/shS6QuXp338?t=01h43m55s) *killing me faster — Miyolophone*
+- [01:50:09](https://youtu.be/shS6QuXp338?t=01h50m09s) *Take Me Back To Eden — Sleep Token*
+- [01:58:23](https://youtu.be/shS6QuXp338?t=01h58m23s) Raiding [Laimu](https://twitch.tv/limealicious)
