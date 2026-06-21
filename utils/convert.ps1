@@ -58,7 +58,8 @@ $CONTENT_TABLE_HEADER = '| Content                                   | Type     
 $EVENTS_TABLE_HEADER = '| Event                                     | Stream'
 
 $NON_PARTICIPANTS = @(
-    "Notepad"
+    "Notepad",
+    "Note"
 )
 
 # Variables
