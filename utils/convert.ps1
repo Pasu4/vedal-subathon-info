@@ -180,9 +180,7 @@ if ($addContent -match $PRESENTS_RX) {
 
 # Parse other content
 if ($addContent -match $CONTENT_RX) {
-    $contentEntries += (Select-String $CONTENT_RX -InputObject $addContent -AllMatches).Matches
-        | ForEach-Object { $_.Groups[1].Value }
-        | Where-Object { $_ -ne "Just chatting" -and $_ -notmatch $PLAYING_RX -and $_ -notmatch $PRESENTS_RX }
+    $contentEntries += (Select-String $CONTENT_RX -InputObject $addContent -AllMatches).Matches | ForEach-Object { $_.Groups[1].Value } | Where-Object { $_ -ne "Just chatting" -and $_ -notmatch $PLAYING_RX -and $_ -notmatch $PRESENTS_RX }
 }
 # Transform compound entries
 if ($contentEntries -contains "3D karaoke") {
@@ -193,9 +191,7 @@ if ($contentEntries -contains "3D karaoke") {
 if ($addContent -match $PARTICIPANT_RX) {
     $participants += (Select-String $PARTICIPANT_RX -InputObject $addContent -AllMatches).Matches.Value
 }
-$participants = $participants
-    | Select-Object -Unique
-    | Where-Object { $_ -notin $NON_PARTICIPANTS }
+$participants = $participants | Select-Object -Unique | Where-Object { $_ -notin $NON_PARTICIPANTS }
 
 # Parse raid target
 $addContent -match $RAIDING_RX
