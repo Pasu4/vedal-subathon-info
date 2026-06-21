@@ -1492,3 +1492,28 @@
 - [01:40:35](https://youtu.be/8UgcH7YLxzA?t=01h40m35s) **Just chatting**
 - [01:50:58](https://youtu.be/8UgcH7YLxzA?t=01h50m58s) **3D stream**
 - [02:24:52](https://youtu.be/8UgcH7YLxzA?t=02h24m52s) Raiding [Saiiren](https://twitch.tv/saiiren)
+
+## skyrim ([20 Jun 2026](https://youtu.be/4_kgbL9ow_Y))
+
+- [00:00:00](https://youtu.be/4_kgbL9ow_Y?t=00h00m00s) *Roar — Katy Perry*
+- [00:03:39](https://youtu.be/4_kgbL9ow_Y?t=00h03m39s) *Flower Face — Kaleidoscope*
+- [00:06:45](https://youtu.be/4_kgbL9ow_Y?t=00h06m45s) Neuro appears \| **Just chatting**
+- [00:09:30](https://youtu.be/4_kgbL9ow_Y?t=00h09m30s) **Playing *The Elder Scrolls V: Skyrim***
+- [00:17:28](https://youtu.be/4_kgbL9ow_Y?t=00h17m28s) Eldergleam Sap retrieved
+- [00:17:52](https://youtu.be/4_kgbL9ow_Y?t=00h17m52s) Death loop #1 starts
+- [00:21:22](https://youtu.be/4_kgbL9ow_Y?t=00h21m22s) Eldergleam Sap (re-)retrieved
+- [00:22:24](https://youtu.be/4_kgbL9ow_Y?t=00h22m24s) Eldergleam Sap (re-)(re-)retrieved
+- [00:27:20](https://youtu.be/4_kgbL9ow_Y?t=00h27m20s) Death loop #1 ends (deaths: 7)
+- [00:31:07](https://youtu.be/4_kgbL9ow_Y?t=00h31m07s) Speaking to Danica
+- [00:36:55](https://youtu.be/4_kgbL9ow_Y?t=00h36m55s) Defeated Hamelyn
+- [00:37:21](https://youtu.be/4_kgbL9ow_Y?t=00h37m21s) Nest poisoned
+- [00:38:05](https://youtu.be/4_kgbL9ow_Y?t=00h38m05s) Reading 'Three Thieves'
+- [02:32:15](https://youtu.be/4_kgbL9ow_Y?t=02h32m15s) Death loop #2 starts
+- [02:47:10](https://youtu.be/4_kgbL9ow_Y?t=02h47m10s) Death loop 2 ends (deaths: 23)
+- [02:57:18](https://youtu.be/4_kgbL9ow_Y?t=02h57m18s) Note appears
+- [02:58:22](https://youtu.be/4_kgbL9ow_Y?t=02h58m22s) "Dawnguard" quest started(?)
+- [03:05:11](https://youtu.be/4_kgbL9ow_Y?t=03h05m11s) Death #31
+- [03:10:51](https://youtu.be/4_kgbL9ow_Y?t=03h10m51s) Death #32
+- [03:12:46](https://youtu.be/4_kgbL9ow_Y?t=03h12m46s) Death #33
+- [03:30:12](https://youtu.be/4_kgbL9ow_Y?t=03h30m12s) Gameplay ends \| **Just chatting**
+- [03:22:23](https://youtu.be/4_kgbL9ow_Y?t=03h22m23s)~ Raiding [Shylily](https://twitch.tv/shylily)
