@@ -1,16 +1,5 @@
 # 2026 Content Overview
 
-<span style="color: red; font-weight: bold;">
-NOTE: Neuro Archiver has been inactive as of 09 Jun 2026.
-I have already contacted them to ask if this is a temporary hiatus or permanent.
-Timestamps will be delayed until the situation is resolved.
-</span>
-
-<span style="color: red; font-weight: bold;">
-UPDATE: Neuro Archiver is active again.
-We are working on timestamping the backlog on the `backlog` branch.
-</span>
-
 ## Streams
 
 List of streams that happened this year.
