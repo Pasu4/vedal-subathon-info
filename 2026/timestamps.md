@@ -1517,3 +1517,14 @@
 - [03:12:46](https://youtu.be/4_kgbL9ow_Y?t=03h12m46s) Death #33
 - [03:30:12](https://youtu.be/4_kgbL9ow_Y?t=03h30m12s) Gameplay ends \| **Just chatting**
 - [03:22:23](https://youtu.be/4_kgbL9ow_Y?t=03h22m23s)~ Raiding [Shylily](https://twitch.tv/shylily)
+
+## Chinese Parents w/ Yukai + Neuro ([21 Jun 2026](https://youtu.be/03-w0ZwYTxg))
+
+- [00:00:00](https://youtu.be/03-w0ZwYTxg?t=00h00m00s) *Take Me Hand — DAISHI DANCE*
+- [00:04:04](https://youtu.be/03-w0ZwYTxg?t=00h04m04s) *Heat abnormal — Iyowa*
+- [00:08:03](https://youtu.be/03-w0ZwYTxg?t=00h08m03s) Neuro and Yukai appear
+- [00:08:44](https://youtu.be/03-w0ZwYTxg?t=00h08m44s) **Playing *Chinese Parents***
+- [00:14:54](https://youtu.be/03-w0ZwYTxg?t=00h14m54s) Gameplay starts
+- [02:37:00](https://youtu.be/03-w0ZwYTxg?t=02h37m00s) Gameplay stops
+- [02:43:54](https://youtu.be/03-w0ZwYTxg?t=02h43m54s) Yukai leaves
+- [02:48:55](https://youtu.be/03-w0ZwYTxg?t=02h48m55s) Raiding [Chuuu Jiso](https://twitch.tv/chuuuJiso)
