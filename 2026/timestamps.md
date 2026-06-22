@@ -1556,7 +1556,7 @@
 - [00:35:13](https://youtu.be/qTgzqlF7NEc?t=00h35m13s) Playing *Connect Four*
 - [00:42:51](https://youtu.be/qTgzqlF7NEc?t=00h42m51s) Playing *Battleships*
 - [01:10:48](https://youtu.be/qTgzqlF7NEc?t=01h10m48s) **Art review**
-- [01:16:09](https://youtu.be/qTgzqlF7NEc?t=01h16m09s)~ Raid from mrekk
+- [01:16:09](https://youtu.be/qTgzqlF7NEc?t=01h16m09s)~ Raid from [mrekk](https://twitch.tv/mrekk)
 - [01:41:12](https://youtu.be/qTgzqlF7NEc?t=01h41m12s) **Themed stream: Job applications**
 - [02:15:03](https://youtu.be/qTgzqlF7NEc?t=02h15m03s) **Just chatting**
 - [02:26:57](https://youtu.be/qTgzqlF7NEc?t=02h26m57s) Raiding [Layna](https://twitch.tv/laynalazar)
