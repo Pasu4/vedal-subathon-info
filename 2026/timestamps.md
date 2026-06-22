@@ -1559,8 +1559,7 @@
 - [01:16:09](https://youtu.be/qTgzqlF7NEc?t=01h16m09s)~ Raid from mrekk
 - [01:41:12](https://youtu.be/qTgzqlF7NEc?t=01h41m12s) **Themed stream: Job applications**
 - [02:15:03](https://youtu.be/qTgzqlF7NEc?t=02h15m03s) **Just chatting**
-- [02:26:57](https://youtu.be/qTgzqlF7NEc?t=02h26m57s) Stream ending
-- ‒‒:‒‒:‒‒ Raiding [Layna](https://twitch.tv/laynalazar) (after end of VoD)
+- [02:26:57](https://youtu.be/qTgzqlF7NEc?t=02h26m57s) Raiding [Layna](https://twitch.tv/laynalazar)
 
 ## skyrim ([20 Jun 2026](https://youtu.be/4_kgbL9ow_Y))
 
