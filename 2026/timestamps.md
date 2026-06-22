@@ -1522,8 +1522,8 @@
 
 ## Neuro Stream to ease her itching brain ([16 Jun 2026](https://youtu.be/hZoVNDa68b4))
 
-- [00:00:00](https://youtu.be/hZoVNDa68b4?t=00h00m00s) *Machine Hearts - Miracle Of Sound* (muted until 00:02:59)
-- [00:05:36](https://youtu.be/hZoVNDa68b4?t=00h05m36s) *I Think We're Alone Now - Tiffany*
+- [00:00:00](https://youtu.be/hZoVNDa68b4?t=00h00m00s) *Machine Hearts — Miracle Of Sound* (muted until 00:02:59)
+— [00:05:36](https://youtu.be/hZoVNDa68b4?t=00h05m36s) *I Think We're Alone Now — Tiffany*
 - [00:09:21](https://youtu.be/hZoVNDa68b4?t=00h09m21s) Neuro appears \| **Just chatting**
 - [00:25:03](https://youtu.be/hZoVNDa68b4?t=00h25m03s) Cookie drawing
 - [00:26:55](https://youtu.be/hZoVNDa68b4?t=00h26m55s) Playing *Legally Distinct •••dle*
@@ -1532,13 +1532,13 @@
 - [00:31:55](https://youtu.be/hZoVNDa68b4?t=00h31m55s) Playing *Connect Four*
 - [00:40:35](https://youtu.be/hZoVNDa68b4?t=00h40m35s) Playing *Battleships*
 - [00:59:44](https://youtu.be/hZoVNDa68b4?t=00h59m44s) **Karaoke**
-- [00:59:45](https://youtu.be/hZoVNDa68b4?t=00h59m45s) *Gentle On My Mind - Glen Campbell*
-- [01:07:41](https://youtu.be/hZoVNDa68b4?t=01h07m41s) *Big Iron - Marty Robbins*
-- [01:13:51](https://youtu.be/hZoVNDa68b4?t=01h13m51s) *La Gata Bajo la Lluvia - Rocío Dúrcal*
-- [01:19:33](https://youtu.be/hZoVNDa68b4?t=01h19m33s) *Who Can It Be Now? - Men at Work*
-- [01:25:03](https://youtu.be/hZoVNDa68b4?t=01h25m03s) *Material Girl - Madonna*
-- [01:31:07](https://youtu.be/hZoVNDa68b4?t=01h31m07s) *Hold the Line - Toto*
-- [01:37:23](https://youtu.be/hZoVNDa68b4?t=01h37m23s) *Dreams - Fleetwood Mac* (duet)
+- [00:59:45](https://youtu.be/hZoVNDa68b4?t=00h59m45s) *Gentle On My Mind — Glen Campbell*
+- [01:07:41](https://youtu.be/hZoVNDa68b4?t=01h07m41s) *Big Iron — Marty Robbins*
+- [01:13:51](https://youtu.be/hZoVNDa68b4?t=01h13m51s) *La Gata Bajo la Lluvia — Rocío Dúrcal*
+- [01:19:33](https://youtu.be/hZoVNDa68b4?t=01h19m33s) *Who Can It Be Now? — Men at Work*
+- [01:25:03](https://youtu.be/hZoVNDa68b4?t=01h25m03s) *Material Girl — Madonna*
+- [01:31:07](https://youtu.be/hZoVNDa68b4?t=01h31m07s) *Hold the Line — Toto*
+- [01:37:23](https://youtu.be/hZoVNDa68b4?t=01h37m23s) *Dreams — Fleetwood Mac* (duet)
 - [01:42:09](https://youtu.be/hZoVNDa68b4?t=01h42m09s) **Just chatting**
 - [01:50:54](https://youtu.be/hZoVNDa68b4?t=01h50m54s) Cat(?) drawing
 - [02:00:28](https://youtu.be/hZoVNDa68b4?t=02h00m28s) **Art review**
