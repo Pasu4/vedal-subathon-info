@@ -1545,6 +1545,23 @@
 - [02:28:06](https://youtu.be/hZoVNDa68b4?t=02h28m06s) **Just chatting**
 - [02:29:28](https://youtu.be/hZoVNDa68b4?t=02h29m28s)~ Raiding [MOTHERv3](https://twitch.tv/motherv3)
 
+## FINISHING CYBER PUNK DLC TODAY ([17 Jun 2026](https://youtu.be/SFMX0moGnGY))
+
+- [00:00:00](https://youtu.be/SFMX0moGnGY?t=00h00m00s) *BIRDS OF A FEATHER — Billie Eilish*
+- [00:03:26](https://youtu.be/SFMX0moGnGY?t=00h03m26s) *Untitled (How Could This Happen to Me?) — Simple Plan*
+- [00:06:54](https://youtu.be/SFMX0moGnGY?t=00h06m54s) Vedal and Neuro appear
+- [00:10:14](https://youtu.be/SFMX0moGnGY?t=00h10m14s) **Playing *Cyberpunk 2077: Phantom Liberty***
+- [00:15:22](https://youtu.be/SFMX0moGnGY?t=00h15m22s) About Vedal's sleep schedule
+- [01:42:16](https://youtu.be/SFMX0moGnGY?t=01h42m16s) About the next game
+- [02:34:57](https://youtu.be/SFMX0moGnGY?t=02h34m57s) Credits
+- [02:40:37](https://youtu.be/SFMX0moGnGY?t=02h40m37s) Thoughts on the DLC's story and the last mission
+- [02:41:34](https://youtu.be/SFMX0moGnGY?t=02h41m34s) Credits end
+- [02:47:29](https://youtu.be/SFMX0moGnGY?t=02h47m29s) About switching outfits
+- [03:08:04](https://youtu.be/SFMX0moGnGY?t=03h08m04s) Point of no return
+- [03:48:44](https://youtu.be/SFMX0moGnGY?t=03h48m44s) End of the game
+- [03:49:33](https://youtu.be/SFMX0moGnGY?t=03h49m33s) About the next game
+- [03:52:05](https://youtu.be/SFMX0moGnGY?t=03h52m05s) Raiding [brien bean](https://twitch.tv/brienbean)
+
 ## very very very evil stream ([18 Jun 2026](https://youtu.be/qTgzqlF7NEc))
 
 - [00:00:00](https://youtu.be/qTgzqlF7NEc?t=00h00m00s) *I Can't Decide — Scissor Sisters*
