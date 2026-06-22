@@ -22,6 +22,9 @@ param (
     [Parameter(Mandatory=$false)][int]$Index = 1
 )
 
+# Set encoding for PowerShell 5.1
+$PSDefaultParameterValues['*:Encoding'] = 'utf8'
+
 # Transform parameters
 if ($Category -eq "<other>") {
     $Category = "<!-- TODO: Specify category -->"
