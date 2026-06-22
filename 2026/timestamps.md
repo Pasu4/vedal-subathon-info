@@ -1493,6 +1493,23 @@
 - [01:50:58](https://youtu.be/8UgcH7YLxzA?t=01h50m58s) **3D stream**
 - [02:24:52](https://youtu.be/8UgcH7YLxzA?t=02h24m52s) Raiding [Saiiren](https://twitch.tv/saiiren)
 
+## very very very evil stream ([18 Jun 2026](https://youtu.be/qTgzqlF7NEc))
+
+- [00:00:00](https://youtu.be/qTgzqlF7NEc?t=00h00m00s) *I Can't Decide - Scissor Sisters*
+- [00:02:41](https://youtu.be/qTgzqlF7NEc?t=00h02m41s) song I don't know the name of (muted for copyright)
+- [00:06:55](https://youtu.be/qTgzqlF7NEc?t=00h06m55s) Evil appears \| **Just chatting**
+- [00:29:31](https://youtu.be/qTgzqlF7NEc?t=00h29m31s) Playing *Legally Distinct •••dle*
+- [00:30:36](https://youtu.be/qTgzqlF7NEc?t=00h30m36s) Playing *Legally Distinct Connections*
+- [00:32:48](https://youtu.be/qTgzqlF7NEc?t=00h32m48s) Playing *Minesweeper*
+- [00:35:13](https://youtu.be/qTgzqlF7NEc?t=00h35m13s) Playing *Connect Four*
+- [00:42:51](https://youtu.be/qTgzqlF7NEc?t=00h42m51s) Playing *Battleships*
+- [01:10:48](https://youtu.be/qTgzqlF7NEc?t=01h10m48s) Art review
+- [01:16:09](https://youtu.be/qTgzqlF7NEc?t=01h16m09s)~ Raid from mrekk
+- [01:41:12](https://youtu.be/qTgzqlF7NEc?t=01h41m12s) **Themed stream: Job applications**
+- [02:15:03](https://youtu.be/qTgzqlF7NEc?t=02h15m03s) **Just chatting**
+- [02:26:57](https://youtu.be/qTgzqlF7NEc?t=02h26m57s) Stream ending
+- ‒‒:‒‒:‒‒ Raiding [Layna](https://twitch.tv/laynalazar) (after end of VoD)
+
 ## skyrim ([20 Jun 2026](https://youtu.be/4_kgbL9ow_Y))
 
 - [00:00:00](https://youtu.be/4_kgbL9ow_Y?t=00h00m00s) *Roar — Katy Perry*
