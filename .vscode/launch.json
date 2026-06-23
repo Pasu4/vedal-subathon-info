@@ -13,10 +13,17 @@
                 "-TimestampsFile", "'${workspaceFolder}\\2026\\timestamps.md'",
                 "-OverviewFile", "'${workspaceFolder}\\2026\\overview.md'",
                 "-Category", "'${input:category}'",
+                "-CommentAuthor", "'${input:author}'",
             ]
         }
     ],
     "inputs": [
+        {
+            "id": "author",
+            "type": "promptString",
+            "description": "YouTube handle of comment author",
+            "default": "@Pasu4"
+        },
         {
             "id": "category",
             "type": "pickString",

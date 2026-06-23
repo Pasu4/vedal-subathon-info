@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -1456,13 +1456,160 @@
 - [02:04:55](https://youtu.be/VL1oziMsV4Y?t=02h04m55s) **Just chatting**
 - [02:28:21](https://youtu.be/VL1oziMsV4Y?t=02h28m21s) Raiding [Zentreya](https://twitch.tv/zentreya)
 
-<span style="color: red; font-weight: bold;">
-NOTE: Neuro Archiver has been inactive as of 09 Jun 2026.
-I have already contacted them to ask if this is a temporary hiatus or permanent.
-Timestamps will be delayed until the situation is resolved.
-</span>
+## Evil karaoke to lower cortisol ([10 Jun 2026](https://youtu.be/shS6QuXp338))
 
-<span style="color: red; font-weight: bold;">
-UPDATE: Neuro Archiver is active again.
-We are working on timestamping the backlog on the `backlog` branch.
-</span>
+- [00:00:00](https://youtu.be/shS6QuXp338?t=00h00m00s) *Oh No! — MARINA* (presumably instrumental, muted due to copyright)
+- [00:05:45](https://youtu.be/shS6QuXp338?t=00h05m45s) *Fuel — Utsu-P* (instrumental)
+- [00:09:19](https://youtu.be/shS6QuXp338?t=00h09m19s) Evil appears \| **Karaoke** \| *Kill The Ghost — little image*
+- [00:15:02](https://youtu.be/shS6QuXp338?t=00h15m02s) *Numb — Linkin Park*
+- [00:20:52](https://youtu.be/shS6QuXp338?t=00h20m52s) *Zoom — Last Dinosaurs*
+- [00:27:17](https://youtu.be/shS6QuXp338?t=00h27m17s) *Sanjou — Maretu*
+- [00:33:54](https://youtu.be/shS6QuXp338?t=00h33m54s) *ORDINARY LOSS — HEALTH*
+- [00:40:23](https://youtu.be/shS6QuXp338?t=00h40m23s) *Venger — Perturbator*
+- [00:48:20](https://youtu.be/shS6QuXp338?t=00h48m20s) *Dancin' (KRONO Remix) — Aaron Smith*
+- [00:54:19](https://youtu.be/shS6QuXp338?t=00h54m19s) *hate that i made you love me — Ariana Grande*
+- [01:00:16](https://youtu.be/shS6QuXp338?t=01h00m16s) *Whole World Is Watching — Within Temptation* (duet)
+- [01:06:54](https://youtu.be/shS6QuXp338?t=01h06m54s) *The Last Stand — Sabaton*
+- [01:13:32](https://youtu.be/shS6QuXp338?t=01h13m32s) *Bizarre Food — Utsu-P*
+- [01:19:08](https://youtu.be/shS6QuXp338?t=01h19m08s) *Phoenix — Netrum & Halvorsen*
+- [01:25:48](https://youtu.be/shS6QuXp338?t=01h25m48s) *Jet Lag — Simple Plan* (duet)
+- [01:31:56](https://youtu.be/shS6QuXp338?t=01h31m56s) *I Appear Missing — Queens of the Stone Age*
+- [01:37:54](https://youtu.be/shS6QuXp338?t=01h37m54s) *& — Tally Hall*
+- [01:43:55](https://youtu.be/shS6QuXp338?t=01h43m55s) *killing me faster — Miyolophone*
+- [01:50:09](https://youtu.be/shS6QuXp338?t=01h50m09s) *Take Me Back To Eden — Sleep Token*
+- [01:58:23](https://youtu.be/shS6QuXp338?t=01h58m23s) Raiding [Laimu](https://twitch.tv/limealicious)
+
+## test ([11 Jun 2026](https://youtu.be/8UgcH7YLxzA))
+
+- [00:00:00](https://youtu.be/8UgcH7YLxzA?t=00h00m00s) *Oh No! — MARINA*
+- [00:02:41](https://youtu.be/8UgcH7YLxzA?t=00h02m41s) *Jill-o'-Lantern — LadyMonsters.*
+- [00:04:47](https://youtu.be/8UgcH7YLxzA?t=00h04m47s) Evil appears \| **Just chatting**
+- [00:22:04](https://youtu.be/8UgcH7YLxzA?t=00h22m04s) Playing *Legally Distinct •••dle*
+- [00:23:55](https://youtu.be/8UgcH7YLxzA?t=00h23m55s) Playing *Legally Distinct Connections*
+- [00:26:04](https://youtu.be/8UgcH7YLxzA?t=00h26m04s) Playing *Minesweeper* (7x7, 7 mines)
+- [00:33:05](https://youtu.be/8UgcH7YLxzA?t=00h33m05s) Playing *Connect Four*
+- [01:13:30](https://youtu.be/8UgcH7YLxzA?t=01h13m30s) **Art review**
+- [01:40:35](https://youtu.be/8UgcH7YLxzA?t=01h40m35s) **Just chatting**
+- [01:50:58](https://youtu.be/8UgcH7YLxzA?t=01h50m58s) **3D stream**
+- [02:24:52](https://youtu.be/8UgcH7YLxzA?t=02h24m52s) Raiding [Saiiren](https://twitch.tv/saiiren)
+
+## Skyrim - Inspired by the characters around me. ([13 Jun 2026](https://youtu.be/-QvvvL1kILU))
+
+- [00:00:00](https://youtu.be/-QvvvL1kILU?t=00h00m00s) *Hope Is the Thing With Feathers — Robin, HOYO-MiX & chevy* (slightly deep-fried)
+- [00:00:59](https://youtu.be/-QvvvL1kILU?t=00h00m59s) Neuro appears \| **Technical difficulties** (deep-fried audio)
+- [00:13:14](https://youtu.be/-QvvvL1kILU?t=00h13m14s) Technical difficulties for 50s
+- [00:16:57](https://youtu.be/-QvvvL1kILU?t=00h16m57s) Technical difficulties for 4m9s
+- [00:24:26](https://youtu.be/-QvvvL1kILU?t=00h24m26s) Technical difficulties for 20s
+- [00:28:38](https://youtu.be/-QvvvL1kILU?t=00h28m38s) **Playing *The Elder Scrolls V: Skyrim***
+- [00:50:20](https://youtu.be/-QvvvL1kILU?t=00h50m20s) Stuck in menu for 7m5s
+- [01:07:46](https://youtu.be/-QvvvL1kILU?t=01h07m46s) Stuck in menu for 7m14s
+- [03:42:46](https://youtu.be/-QvvvL1kILU?t=03h42m46s)~ Raiding [Camila](https://twitch.tv/camila)
+
+## cyber plink ([14 Jun 2026](https://youtu.be/ag3qJ0aiEtw))
+
+- [00:00:00](https://youtu.be/ag3qJ0aiEtw?t=00h00m00s) *PONPON SHIT — Namakopuri & Us Cracks*
+02:09 *エビチャーハン! (You’re Telling Me A SHRIMP Fried This Rice?!) — Jamie Paige*
+- [00:05:27](https://youtu.be/ag3qJ0aiEtw?t=00h05m27s) Vedal and Neuro appear \| **Just chatting**
+- [00:08:30](https://youtu.be/ag3qJ0aiEtw?t=00h08m30s) Checking Neuro's search history
+- [00:15:13](https://youtu.be/ag3qJ0aiEtw?t=00h15m13s) Checking Evil's search history
+- [00:25:02](https://youtu.be/ag3qJ0aiEtw?t=00h25m02s) About Neuro's arms
+- [00:26:30](https://youtu.be/ag3qJ0aiEtw?t=00h26m30s) **Playing *Cyberpunk 2077: Phantom Liberty***
+- [01:50:47](https://youtu.be/ag3qJ0aiEtw?t=01h50m47s) About the new server
+- [03:16:51](https://youtu.be/ag3qJ0aiEtw?t=03h16m51s) Schedule
+- [03:18:21](https://youtu.be/ag3qJ0aiEtw?t=03h18m21s) About dev stream
+- [03:19:06](https://youtu.be/ag3qJ0aiEtw?t=03h19m06s) Raiding [Camila](https://twitch.tv/camila)
+
+
+## Neuro Stream to ease her itching brain ([16 Jun 2026](https://youtu.be/hZoVNDa68b4))
+
+- [00:00:00](https://youtu.be/hZoVNDa68b4?t=00h00m00s) *Machine Hearts — Miracle Of Sound* (muted until 00:02:59)
+— [00:05:36](https://youtu.be/hZoVNDa68b4?t=00h05m36s) *I Think We're Alone Now — Tiffany*
+- [00:09:21](https://youtu.be/hZoVNDa68b4?t=00h09m21s) Neuro appears \| **Just chatting**
+- [00:25:03](https://youtu.be/hZoVNDa68b4?t=00h25m03s) Cookie drawing
+- [00:26:55](https://youtu.be/hZoVNDa68b4?t=00h26m55s) Playing *Legally Distinct •••dle*
+- [00:27:43](https://youtu.be/hZoVNDa68b4?t=00h27m43s) Playing *Legally Distinct Connections*
+- [00:29:29](https://youtu.be/hZoVNDa68b4?t=00h29m29s) Playing *Minesweeper*
+- [00:31:55](https://youtu.be/hZoVNDa68b4?t=00h31m55s) Playing *Connect Four*
+- [00:40:35](https://youtu.be/hZoVNDa68b4?t=00h40m35s) Playing *Battleships*
+- [00:59:44](https://youtu.be/hZoVNDa68b4?t=00h59m44s) **Karaoke**
+- [00:59:45](https://youtu.be/hZoVNDa68b4?t=00h59m45s) *Gentle On My Mind — Glen Campbell*
+- [01:07:41](https://youtu.be/hZoVNDa68b4?t=01h07m41s) *Big Iron — Marty Robbins*
+- [01:13:51](https://youtu.be/hZoVNDa68b4?t=01h13m51s) *La Gata Bajo la Lluvia — Rocío Dúrcal*
+- [01:19:33](https://youtu.be/hZoVNDa68b4?t=01h19m33s) *Who Can It Be Now? — Men at Work*
+- [01:25:03](https://youtu.be/hZoVNDa68b4?t=01h25m03s) *Material Girl — Madonna*
+- [01:31:07](https://youtu.be/hZoVNDa68b4?t=01h31m07s) *Hold the Line — Toto*
+- [01:37:23](https://youtu.be/hZoVNDa68b4?t=01h37m23s) *Dreams — Fleetwood Mac* (duet)
+- [01:42:09](https://youtu.be/hZoVNDa68b4?t=01h42m09s) **Just chatting**
+- [01:50:54](https://youtu.be/hZoVNDa68b4?t=01h50m54s) Cat(?) drawing
+- [02:00:28](https://youtu.be/hZoVNDa68b4?t=02h00m28s) **Art review**
+- [02:28:06](https://youtu.be/hZoVNDa68b4?t=02h28m06s) **Just chatting**
+- [02:29:28](https://youtu.be/hZoVNDa68b4?t=02h29m28s)~ Raiding [MOTHERv3](https://twitch.tv/motherv3)
+
+## FINISHING CYBER PUNK DLC TODAY ([17 Jun 2026](https://youtu.be/SFMX0moGnGY))
+
+- [00:00:00](https://youtu.be/SFMX0moGnGY?t=00h00m00s) *BIRDS OF A FEATHER — Billie Eilish*
+- [00:03:26](https://youtu.be/SFMX0moGnGY?t=00h03m26s) *Untitled (How Could This Happen to Me?) — Simple Plan*
+- [00:06:54](https://youtu.be/SFMX0moGnGY?t=00h06m54s) Vedal and Neuro appear
+- [00:10:14](https://youtu.be/SFMX0moGnGY?t=00h10m14s) **Playing *Cyberpunk 2077: Phantom Liberty***
+- [00:15:22](https://youtu.be/SFMX0moGnGY?t=00h15m22s) About Vedal's sleep schedule
+- [01:42:16](https://youtu.be/SFMX0moGnGY?t=01h42m16s) About the next game
+- [02:34:57](https://youtu.be/SFMX0moGnGY?t=02h34m57s) Credits
+- [02:40:37](https://youtu.be/SFMX0moGnGY?t=02h40m37s) Thoughts on the DLC's story and the last mission
+- [02:41:34](https://youtu.be/SFMX0moGnGY?t=02h41m34s) Credits end
+- [02:47:29](https://youtu.be/SFMX0moGnGY?t=02h47m29s) About switching outfits
+- [03:08:04](https://youtu.be/SFMX0moGnGY?t=03h08m04s) Point of no return
+- [03:48:44](https://youtu.be/SFMX0moGnGY?t=03h48m44s) End of the game
+- [03:49:33](https://youtu.be/SFMX0moGnGY?t=03h49m33s) About the next game
+- [03:52:05](https://youtu.be/SFMX0moGnGY?t=03h52m05s) Raiding [brien bean](https://twitch.tv/brienbean)
+
+## very very very evil stream ([18 Jun 2026](https://youtu.be/qTgzqlF7NEc))
+
+- [00:00:00](https://youtu.be/qTgzqlF7NEc?t=00h00m00s) *I Can't Decide — Scissor Sisters*
+- [00:02:41](https://youtu.be/qTgzqlF7NEc?t=00h02m41s) song I don't know the name of (muted for copyright)
+- [00:06:55](https://youtu.be/qTgzqlF7NEc?t=00h06m55s) Evil appears \| **Just chatting**
+- [00:29:31](https://youtu.be/qTgzqlF7NEc?t=00h29m31s) Playing *Legally Distinct •••dle*
+- [00:30:36](https://youtu.be/qTgzqlF7NEc?t=00h30m36s) Playing *Legally Distinct Connections*
+- [00:32:48](https://youtu.be/qTgzqlF7NEc?t=00h32m48s) Playing *Minesweeper*
+- [00:35:13](https://youtu.be/qTgzqlF7NEc?t=00h35m13s) Playing *Connect Four*
+- [00:42:51](https://youtu.be/qTgzqlF7NEc?t=00h42m51s) Playing *Battleships*
+- [01:10:48](https://youtu.be/qTgzqlF7NEc?t=01h10m48s) **Art review**
+- [01:16:09](https://youtu.be/qTgzqlF7NEc?t=01h16m09s)~ Raid from [mrekk](https://twitch.tv/mrekk)
+- [01:41:12](https://youtu.be/qTgzqlF7NEc?t=01h41m12s) **Themed stream: Job applications**
+- [02:15:03](https://youtu.be/qTgzqlF7NEc?t=02h15m03s) **Just chatting**
+- [02:26:57](https://youtu.be/qTgzqlF7NEc?t=02h26m57s) Raiding [Layna](https://twitch.tv/laynalazar)
+
+## skyrim ([20 Jun 2026](https://youtu.be/4_kgbL9ow_Y))
+
+- [00:00:00](https://youtu.be/4_kgbL9ow_Y?t=00h00m00s) *Roar — Katy Perry*
+- [00:03:39](https://youtu.be/4_kgbL9ow_Y?t=00h03m39s) *Flower Face — Kaleidoscope*
+- [00:06:45](https://youtu.be/4_kgbL9ow_Y?t=00h06m45s) Neuro appears \| **Just chatting**
+- [00:09:30](https://youtu.be/4_kgbL9ow_Y?t=00h09m30s) **Playing *The Elder Scrolls V: Skyrim***
+- [00:17:28](https://youtu.be/4_kgbL9ow_Y?t=00h17m28s) Eldergleam Sap retrieved
+- [00:17:52](https://youtu.be/4_kgbL9ow_Y?t=00h17m52s) Death loop #1 starts
+- [00:21:22](https://youtu.be/4_kgbL9ow_Y?t=00h21m22s) Eldergleam Sap (re-)retrieved
+- [00:22:24](https://youtu.be/4_kgbL9ow_Y?t=00h22m24s) Eldergleam Sap (re-)(re-)retrieved
+- [00:27:20](https://youtu.be/4_kgbL9ow_Y?t=00h27m20s) Death loop #1 ends (deaths: 7)
+- [00:31:07](https://youtu.be/4_kgbL9ow_Y?t=00h31m07s) Speaking to Danica
+- [00:36:55](https://youtu.be/4_kgbL9ow_Y?t=00h36m55s) Defeated Hamelyn
+- [00:37:21](https://youtu.be/4_kgbL9ow_Y?t=00h37m21s) Nest poisoned
+- [00:38:05](https://youtu.be/4_kgbL9ow_Y?t=00h38m05s) Reading 'Three Thieves'
+- [02:32:15](https://youtu.be/4_kgbL9ow_Y?t=02h32m15s) Death loop #2 starts
+- [02:47:10](https://youtu.be/4_kgbL9ow_Y?t=02h47m10s) Death loop 2 ends (deaths: 23)
+- [02:57:18](https://youtu.be/4_kgbL9ow_Y?t=02h57m18s) Note appears
+- [02:58:22](https://youtu.be/4_kgbL9ow_Y?t=02h58m22s) "Dawnguard" quest started(?)
+- [03:05:11](https://youtu.be/4_kgbL9ow_Y?t=03h05m11s) Death #31
+- [03:10:51](https://youtu.be/4_kgbL9ow_Y?t=03h10m51s) Death #32
+- [03:12:46](https://youtu.be/4_kgbL9ow_Y?t=03h12m46s) Death #33
+- [03:30:12](https://youtu.be/4_kgbL9ow_Y?t=03h30m12s) Gameplay ends \| **Just chatting**
+- [03:22:23](https://youtu.be/4_kgbL9ow_Y?t=03h22m23s)~ Raiding [Shylily](https://twitch.tv/shylily)
+
+## Chinese Parents w/ Yukai + Neuro ([21 Jun 2026](https://youtu.be/03-w0ZwYTxg))
+
+- [00:00:00](https://youtu.be/03-w0ZwYTxg?t=00h00m00s) *Take Me Hand — DAISHI DANCE*
+- [00:04:04](https://youtu.be/03-w0ZwYTxg?t=00h04m04s) *Heat abnormal — Iyowa*
+- [00:08:03](https://youtu.be/03-w0ZwYTxg?t=00h08m03s) Neuro and Yukai appear
+- [00:08:44](https://youtu.be/03-w0ZwYTxg?t=00h08m44s) **Playing *Chinese Parents***
+- [00:14:54](https://youtu.be/03-w0ZwYTxg?t=00h14m54s) Gameplay starts
+- [02:37:00](https://youtu.be/03-w0ZwYTxg?t=02h37m00s) Gameplay stops
+- [02:43:54](https://youtu.be/03-w0ZwYTxg?t=02h43m54s) Yukai leaves
+- [02:48:55](https://youtu.be/03-w0ZwYTxg?t=02h48m55s) Raiding [Chuuu Jiso](https://twitch.tv/chuuuJiso)
