@@ -1,4 +1,4 @@
-﻿# 2026 Timestamps
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -1613,3 +1613,18 @@
 - [02:37:00](https://youtu.be/03-w0ZwYTxg?t=02h37m00s) Gameplay stops
 - [02:43:54](https://youtu.be/03-w0ZwYTxg?t=02h43m54s) Yukai leaves
 - [02:48:55](https://youtu.be/03-w0ZwYTxg?t=02h48m55s) Raiding [Chuuu Jiso](https://twitch.tv/chuuuJiso)
+
+## Chewsday Neuro stream innit ([23 Jun 2026](https://youtu.be/CwA807CsD08))
+
+- [00:00:00](https://youtu.be/CwA807CsD08?t=00h00m00s) *Wolves Without Teeth — Of Monsters and Men*
+- [00:02:13](https://youtu.be/CwA807CsD08?t=00h02m13s) *Furthest Star — Dirt Poor Robins*
+- [00:06:53](https://youtu.be/CwA807CsD08?t=00h06m53s) Neuro appears \| **Just chatting**
+- [00:16:00](https://youtu.be/CwA807CsD08?t=00h16m00s) Playing *Legally Distinct W•rdle*
+- [00:16:50](https://youtu.be/CwA807CsD08?t=00h16m50s) Playing *Legally Distinct C•nnections* \| Drawing: Chill
+- [00:18:06](https://youtu.be/CwA807CsD08?t=00h18m06s) Playing *Minesweeper* (7x7, 7 mines)
+- [00:19:03](https://youtu.be/CwA807CsD08?t=00h19m03s) Playing *Connect Four*
+- [00:25:02](https://youtu.be/CwA807CsD08?t=00h25m02s) Playing *Battleships*
+- [00:35:55](https://youtu.be/CwA807CsD08?t=00h35m55s) Playing *Battleships* (rematch)
+- [00:39:52](https://youtu.be/CwA807CsD08?t=00h39m52s) Drawing: Battleship board
+- [01:08:33](https://youtu.be/CwA807CsD08?t=01h08m33s) **Themed stream: Fishing**
+- [02:26:56](https://youtu.be/CwA807CsD08?t=02h26m56s) Raiding [Shylily](https://twitch.tv/shylily)
