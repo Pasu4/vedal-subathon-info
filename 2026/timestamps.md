@@ -1651,3 +1651,20 @@
 - [01:41:59](https://youtu.be/P42BBJ2pCFo?t=01h41m59s) *Head Over Heels — Tears for Fears*
 - [01:49:09](https://youtu.be/P42BBJ2pCFo?t=01h49m09s) *Phantom Liberty — Dawid Podsiadlo & P.T. Adamczyk* (duet)
 - [01:54:43](https://youtu.be/P42BBJ2pCFo?t=01h54m43s) Raiding [Layna](https://twitch.tv/laynalazar)
+
+## Evil machinations ([25 Jun 2026](https://youtu.be/EzKb4xBkhHo))
+
+- [00:00:00](https://youtu.be/EzKb4xBkhHo?t=00h00m00s) *Wicked — Crusher-P*
+- [00:03:34](https://youtu.be/EzKb4xBkhHo?t=00h03m34s) *Bitter Sweet Symphony — The Verve*
+- [00:09:31](https://youtu.be/EzKb4xBkhHo?t=00h09m31s) Evil appears \| **Just chatting**
+- [00:18:56](https://youtu.be/EzKb4xBkhHo?t=00h18m56s) Playing *Legally Distinct W•rdle*
+- [00:19:48](https://youtu.be/EzKb4xBkhHo?t=00h19m48s) Playing *Legally Distinct C•nnections*
+- [00:21:46](https://youtu.be/EzKb4xBkhHo?t=00h21m46s) Playing *Minesweeper* (7x7, 7 mines)
+- [00:23:22](https://youtu.be/EzKb4xBkhHo?t=00h23m22s) Playing *Connect Four*
+- [00:27:45](https://youtu.be/EzKb4xBkhHo?t=00h27m45s) Playing *Battleships*
+- [00:57:58](https://youtu.be/EzKb4xBkhHo?t=00h57m58s) **Themed stream: Cyberpunk**
+- [01:24:42](https://youtu.be/EzKb4xBkhHo?t=01h24m42s) **Just chatting**
+- [01:59:08](https://youtu.be/EzKb4xBkhHo?t=01h59m08s) **Art review**
+- [02:25:45](https://youtu.be/EzKb4xBkhHo?t=02h25m45s) **Just chatting**
+- [02:26:51](https://youtu.be/EzKb4xBkhHo?t=02h26m51s) Drawing: Conflict of the heart
+- [02:29:31](https://youtu.be/EzKb4xBkhHo?t=02h29m31s) Raiding [Camila](https://twitch.tv/camila)
