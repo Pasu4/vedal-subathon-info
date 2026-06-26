@@ -54,6 +54,8 @@ $CONTENT_RX = '(?:[\s-[\n]])\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)*(?: appears?| joins?| wakes? up))'
 $RAIDING_RX = '(?m)Raiding (.+?)(?:$| \|)'
 $PRESENTS_RX = '(\w+) presents _(.+?)_'
+$DUET_RX = '\(duet\)'
+$DUET_WITH_RX = '\(duet w/ ([^)\n,]+)\)'
 
 $STREAMS_TABLE_HEADER = '| Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target'
 $PARTICIPANTS_TABLE_HEADER = '| Participant                                                   | Streams'
@@ -180,6 +182,14 @@ if ($addContent -match $PRESENTS_RX) {
     $events += (Select-String $PRESENTS_RX -input $addContent -AllMatches).Matches |
         ForEach-Object {"$($_.Groups[1].Value) presents *$($_.Groups[2].Value)*"}
     $contentEntries += "Presentation"
+}
+
+# Parse duets
+if ($addContent -match $DUET_RX) {
+    $participants += @("Neuro", "Evil")
+}
+if ($addContent -match $DUET_WITH_RX) {
+    $participants += $Matches[1]
 }
 
 # Parse other content
