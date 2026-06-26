@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -1664,6 +1664,8 @@
 - [00:27:45](https://youtu.be/EzKb4xBkhHo?t=00h27m45s) Playing *Battleships*
 - [00:57:58](https://youtu.be/EzKb4xBkhHo?t=00h57m58s) **Themed stream: Cyberpunk**
 - [01:24:42](https://youtu.be/EzKb4xBkhHo?t=01h24m42s) **Just chatting**
+- [01:28:57](https://youtu.be/EzKb4xBkhHo?t=01h28m57s) Camila joins
+- [01:58:03](https://youtu.be/EzKb4xBkhHo?t=01h58m03s) Camila leaves
 - [01:59:08](https://youtu.be/EzKb4xBkhHo?t=01h59m08s) **Art review**
 - [02:25:45](https://youtu.be/EzKb4xBkhHo?t=02h25m45s) **Just chatting**
 - [02:26:51](https://youtu.be/EzKb4xBkhHo?t=02h26m51s) Drawing: Conflict of the heart

@@ -1,4 +1,4 @@
-# 2026 Content Overview
+﻿# 2026 Content Overview
 
 ## Streams
 
@@ -88,7 +88,7 @@ Participants are ordered by the time they appeared on stream.
 | [21 Jun 2026](https://youtu.be/03-w0ZwYTxg) | Chinese Parents w/ Yukai + Neuro                                    | Gaming collab         | Neuro, Yukai                          | [Chuuu Jiso](https://twitch.tv/chuuuJiso)
 | [23 Jun 2026](https://youtu.be/CwA807CsD08) | Chewsday Neuro stream innit                                         | Just chatting         | Neuro                                 | [Shylily](https://twitch.tv/shylily)
 | [24 Jun 2026](https://youtu.be/P42BBJ2pCFo) | an acute angle (neuro-sama) will sing to you                        | Just chatting         | Neuro, Evil                           | [Layna](https://twitch.tv/laynalazar)
-| [25 Jun 2026](https://youtu.be/EzKb4xBkhHo) | Evil machinations                                                   | Just chatting         | Evil                                  | [Camila](https://twitch.tv/camila)
+| [25 Jun 2026](https://youtu.be/EzKb4xBkhHo) | Evil machinations                                                   | Just chatting         | Evil, Camila                          | [Camila](https://twitch.tv/camila)
 
 ## Participants
 
@@ -102,7 +102,7 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 | [Koko](https://twitch.tv/kokonuts)                            | [02-12](https://youtu.be/nkkRZFvCIJA), [03-12](https://youtu.be/Pbe-2pvRo70), [03-19](https://youtu.be/RnUXQKq-o70), [03-25](https://youtu.be/2ybvriJM_Co)
 | [Crelly](https://twitch.tv/crelly)                            | [02-12](https://youtu.be/nkkRZFvCIJA), [03-19](https://youtu.be/RnUXQKq-o70), [03-25](https://youtu.be/2ybvriJM_Co)
 | [Vedal](https://twitch.tv/vedal987)                           | [03-01](https://youtu.be/nDh6wiUC4dw), [03-07](https://youtu.be/6WmySg-glU8), [03-09](https://youtu.be/f4YwpciOb8c), [03-14](https://youtu.be/8He-42U23TM), [03-20](https://youtu.be/i2QspkWXMw4), [03-25](https://youtu.be/2ybvriJM_Co), [03-28](https://youtu.be/ueTlmIHIO_k), [04-04](https://youtu.be/G3N5lZxq8xw), [04-12](https://youtu.be/Qy4agD90vy4), [04-20](https://youtu.be/CUb8HfPYCQc), [04-24](https://youtu.be/Z_ZWwV3jjU4), [04-27](https://youtu.be/FC7B8wFbhgY), [05-03](https://youtu.be/D36Hn9s7dco), [05-17](https://youtu.be/BS9TxqIBvcY), [06-14](https://youtu.be/ag3qJ0aiEtw), [06-17](https://youtu.be/SFMX0moGnGY)
-| [Camila](https://twitch.tv/camila)                            | [03-09](https://youtu.be/f4YwpciOb8c), [03-25](https://youtu.be/2ybvriJM_Co), [05-10](https://youtu.be/8mKb6SGAGBM), [06-02](https://youtu.be/J2_lwQevOKA)
+| [Camila](https://twitch.tv/camila)                            | [03-09](https://youtu.be/f4YwpciOb8c), [03-25](https://youtu.be/2ybvriJM_Co), [05-10](https://youtu.be/8mKb6SGAGBM), [06-02](https://youtu.be/J2_lwQevOKA), [06-25](https://youtu.be/EzKb4xBkhHo)
 | [Layna](https://twitch.tv/laynalazar)                         | [03-19](https://youtu.be/RnUXQKq-o70), [03-25](https://youtu.be/2ybvriJM_Co), [05-22](https://youtu.be/IaU9TkjCAGA)
 | [Noah (@MagicTheNoah)](https://twitch.tv/magicthenoah)        | [03-19](https://youtu.be/RnUXQKq-o70)
 | [Cerber](https://twitch.tv/cerbervt)                          | [03-25](https://youtu.be/2ybvriJM_Co), [05-16](https://youtu.be/Sa9xeUkuRh4)
