@@ -189,7 +189,8 @@ if ($addContent -match $DUET_RX) {
     $participants += @("Neuro", "Evil")
 }
 if ($addContent -match $DUET_WITH_RX) {
-    $participants += $Matches[1]
+    $participants += (Select-String $DUET_WITH_RX -input $addContent -AllMatches).Matches |
+        ForEach-Object { $_.Groups[1].Value }
 }
 
 # Parse other content
@@ -205,7 +206,14 @@ if ($contentEntries -contains "3D karaoke") {
 if ($addContent -match $PARTICIPANT_RX) {
     $participants += (Select-String $PARTICIPANT_RX -InputObject $addContent -AllMatches).Matches.Value
 }
+
+# Make lists unique
+# If the list only has one participant it is converted to a string for some reason,
+# so the second assignment fixes that
 $participants = $participants | Select-Object -Unique | Where-Object { $_ -notin $NON_PARTICIPANTS }
+$participants = @() + $participants
+$contentEntries = $contentEntries | Select-Object -Unique
+$contentEntries = @() + $contentEntries
 
 # Parse raid target
 $addContent -match $RAIDING_RX
@@ -269,9 +277,14 @@ if (Test-Path $OverviewFile) {
         # Detect end of participants section
         elseif ($stage -eq "participants" -and -not $line) {
             $notFoundParticipants = $participants | Where-Object { $_ -notin $foundParticipants }
+            $notFoundParticipants = @() + $notFoundParticipants
             if ($notFoundParticipants) {
-                Write-Warning "The following participants were not found in the overview file, add them manually:`n$($notFoundParticipants -join "`n")"
-                "<!-- TODO: Add missing participants: $($notFoundParticipants -join ', ') -->"
+                Write-Warning "The following participants were added to the overview file, you need to link their twitch:`n$($notFoundParticipants -join "`n")"
+                # "<!-- TODO: Add missing participants: $($notFoundParticipants -join ', ') -->"
+            }
+            foreach ($newParticipant in $notFoundParticipants) {
+                "| " + $newParticipant.PadRight(61) +
+                " | " + $overviewVideoLink
             }
 
             $stage = "none"
@@ -293,9 +306,22 @@ if (Test-Path $OverviewFile) {
         # Detect end of content section
         elseif ($stage -eq "content" -and -not $line) {
             $notFoundContent = $contentEntries | Where-Object { $_ -notin $foundContent }
+            $notFoundContent = @() + $notFoundContent
+            $guessParticipant = $participants[0]
             if ($notFoundContent) {
-                Write-Warning "The following content entries could not be classified, add them manually:`n$($notFoundContent -join "`n")"
-                "<!-- TODO: Add missing content entries: $($notFoundContent -join ', ') -->"
+                Write-Warning "The following content entries were added, you need to configure the type and participants (guessing $guessParticipant):`n$($notFoundContent -join "`n")"
+                # "<!-- TODO: Add missing content entries: $($notFoundContent -join ', ') -->"
+            }
+            foreach ($newContent in $notFoundContent) {
+                $guessType = "TODO"
+                if ($newContent.StartsWith("Themed stream: ")) {
+                    $guessType = "Themed stream"
+                }
+                # Not guessing game since there is no distinction whether it is integrated
+                "| " + $newContent.PadRight(41) +
+                " | " + $guessType.PadRight(17) +
+                " | " + $guessParticipant.PadRight(29) +
+                " | " + $overviewVideoLink
             }
 
             $stage = "none"
