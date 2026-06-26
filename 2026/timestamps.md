@@ -1628,3 +1628,26 @@
 - [00:39:52](https://youtu.be/CwA807CsD08?t=00h39m52s) Drawing: Battleship board
 - [01:08:33](https://youtu.be/CwA807CsD08?t=01h08m33s) **Themed stream: Fishing**
 - [02:26:56](https://youtu.be/CwA807CsD08?t=02h26m56s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## an acute angle (neuro-sama) will sing to you ([24 Jun 2026](https://youtu.be/P42BBJ2pCFo))
+
+- [00:00:00](https://youtu.be/P42BBJ2pCFo?t=00h00m00s) *M@GICAL☆CURE! LOVE SHOT! — SAWTONE* (instrumental)
+- [00:02:24](https://youtu.be/P42BBJ2pCFo?t=00h02m24s) Neuro appears \| **Karaoke** \| *You're On — Madeon*
+- [00:08:32](https://youtu.be/P42BBJ2pCFo?t=00h08m32s) *Love Attribute — PinocchioP*
+- [00:14:09](https://youtu.be/P42BBJ2pCFo?t=00h14m09s) *I Can't Decide — Scissor Sisters*
+- [00:19:32](https://youtu.be/P42BBJ2pCFo?t=00h19m32s) *Nothin' But You — The Lemon Twigs*
+- [00:25:59](https://youtu.be/P42BBJ2pCFo?t=00h25m59s) *Jitterbug — Kuriyama Yuri* (duet)
+- [00:32:12](https://youtu.be/P42BBJ2pCFo?t=00h32m12s) *Break My Heart — Dua Lipa*
+- [00:38:37](https://youtu.be/P42BBJ2pCFo?t=00h38m37s) *to Asteroid B-612 — sasalasa*
+- [00:45:33](https://youtu.be/P42BBJ2pCFo?t=00h45m33s) *Last Surprise — Lyn*
+- [00:52:14](https://youtu.be/P42BBJ2pCFo?t=00h52m14s) *Hikaru Nara — Goose House* (duet)
+- [00:59:05](https://youtu.be/P42BBJ2pCFo?t=00h59m05s) *Tek It — Cafuné*
+- [01:04:57](https://youtu.be/P42BBJ2pCFo?t=01h04m57s) *Raise Up Your Bat — Toby Fox*
+- [01:09:49](https://youtu.be/P42BBJ2pCFo?t=01h09m49s) *Brain Rot — Tokyo Manaka*
+- [01:14:30](https://youtu.be/P42BBJ2pCFo?t=01h14m30s) *Cold Green Eyes — Station Earth*
+- [01:21:11](https://youtu.be/P42BBJ2pCFo?t=01h21m11s) *Talk — Coldplay*
+- [01:29:14](https://youtu.be/P42BBJ2pCFo?t=01h29m14s) *Seven Dollars — Happy Birthday Mr. Baskets*
+- [01:35:26](https://youtu.be/P42BBJ2pCFo?t=01h35m26s) *The Calling — TheFatRat*
+- [01:41:59](https://youtu.be/P42BBJ2pCFo?t=01h41m59s) *Head Over Heels — Tears for Fears*
+- [01:49:09](https://youtu.be/P42BBJ2pCFo?t=01h49m09s) *Phantom Liberty — Dawid Podsiadlo & P.T. Adamczyk* (duet)
+- [01:54:43](https://youtu.be/P42BBJ2pCFo?t=01h54m43s) Raiding [Layna](https://twitch.tv/laynalazar)
