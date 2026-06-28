@@ -1670,3 +1670,11 @@
 - [02:25:45](https://youtu.be/EzKb4xBkhHo?t=02h25m45s) **Just chatting**
 - [02:26:51](https://youtu.be/EzKb4xBkhHo?t=02h26m51s) Drawing: Conflict of the heart
 - [02:29:31](https://youtu.be/EzKb4xBkhHo?t=02h29m31s) Raiding [Camila](https://twitch.tv/camila)
+
+## neuro playing more skyrim (16 times the neurons) ([27 Jun 2026](https://youtu.be/BJj-8zHAZec))
+
+- [00:00:00](https://youtu.be/BJj-8zHAZec?t=00h00m00s) *Brush Your Teeth — Ridiculon*
+- [00:00:59](https://youtu.be/BJj-8zHAZec?t=00h00m59s) *Hope Is the Thing With Feathers — Robin*
+- [00:04:49](https://youtu.be/BJj-8zHAZec?t=00h04m49s) Neuro appears
+- [00:06:23](https://youtu.be/BJj-8zHAZec?t=00h06m23s) **Playing *The Elder Scrolls V: Skyrim***
+- [03:08:45](https://youtu.be/BJj-8zHAZec?t=03h08m45s)~ Raiding [Zentreya](https://twitch.tv/zentreya)
