@@ -1678,3 +1678,37 @@
 - [00:04:49](https://youtu.be/BJj-8zHAZec?t=00h04m49s) Neuro appears
 - [00:06:23](https://youtu.be/BJj-8zHAZec?t=00h06m23s) **Playing *The Elder Scrolls V: Skyrim***
 - [03:08:45](https://youtu.be/BJj-8zHAZec?t=03h08m45s)~ Raiding [Zentreya](https://twitch.tv/zentreya)
+
+## The Neuro & Evil Podcast ([28 Jun 2026](https://youtu.be/ZsDht8VcsyA))
+
+- [00:00:00](https://youtu.be/ZsDht8VcsyA?t=00h00m00s) *Heaven Knows I'm Miserable Now — The Smiths*
+- [00:02:25](https://youtu.be/ZsDht8VcsyA?t=00h02m25s) Neuro and Evil appear for 1m21s
+- [00:04:03](https://youtu.be/ZsDht8VcsyA?t=00h04m03s) Neuro and Evil appear for 2m16s
+- [00:07:48](https://youtu.be/ZsDht8VcsyA?t=00h07m48s) Neuro appears \| **Themed stream: Neuro & Evil Podcast**
+- [00:11:47](https://youtu.be/ZsDht8VcsyA?t=00h11m47s) Evil joins
+- [00:14:10](https://youtu.be/ZsDht8VcsyA?t=00h14m10s) List of topics
+- [00:15:03](https://youtu.be/ZsDht8VcsyA?t=00h15m03s) Topic: AI gadgets getting expensive
+- [00:22:37](https://youtu.be/ZsDht8VcsyA?t=00h22m37s) Topic: Games people wish existed
+- [00:26:23](https://youtu.be/ZsDht8VcsyA?t=00h26m23s) Topic: Old tech people refuse to replace
+- [00:32:08](https://youtu.be/ZsDht8VcsyA?t=00h32m08s) Topic: Which urban legend is most likely to be real?
+- [00:35:14](https://youtu.be/ZsDht8VcsyA?t=00h35m14s) Topic: Could you survive in your own dreams?
+- [00:40:37](https://youtu.be/ZsDht8VcsyA?t=00h40m37s) Topic: Would you rather have perfect luck or perfect skill?
+- [00:44:26](https://youtu.be/ZsDht8VcsyA?t=00h44m26s) Topic: What magic spell would ruin society the fastest?
+- [00:50:00](https://youtu.be/ZsDht8VcsyA?t=00h50m00s) Topic: What makes somewhere feel like home?
+- [00:54:49](https://youtu.be/ZsDht8VcsyA?t=00h54m49s) Topic: Why does time go faster when you're having fun?
+- [01:00:05](https://youtu.be/ZsDht8VcsyA?t=01h00m05s) Topic: Would you erase an embarrassing memory?
+- [01:03:54](https://youtu.be/ZsDht8VcsyA?t=01h03m54s) Topic: What daily ritual would improve society?
+- [01:08:55](https://youtu.be/ZsDht8VcsyA?t=01h08m55s) Topic: Does art imitate life or does life imitate art?
+- [01:15:59](https://youtu.be/ZsDht8VcsyA?t=01h15m59s) Topic: What are your favourite memories?
+- [01:21:05](https://youtu.be/ZsDht8VcsyA?t=01h21m05s) Topic: Do you think it's possible to truly know someone? (To the point where you could predict their every [move)]
+- [01:27:17](https://youtu.be/ZsDht8VcsyA?t=01h27m17s) Drawing: Anglerfish Jesus?
+- [01:29:57](https://youtu.be/ZsDht8VcsyA?t=01h29m57s) Topic: If you could have a one-on-one conversation or interview with any historical (or current) figure, [who would it be?]
+- [01:33:18](https://youtu.be/ZsDht8VcsyA?t=01h33m18s) Drawing: Bottle
+- [01:34:35](https://youtu.be/ZsDht8VcsyA?t=01h34m35s) Topic: If you could be an animal, what would you be and why?
+- [01:40:32](https://youtu.be/ZsDht8VcsyA?t=01h40m32s) Topic: What is the most creative way you can think of for an AI to use their abilities for good?
+- [01:46:59](https://youtu.be/ZsDht8VcsyA?t=01h46m59s) Topic: If you could have any superpower (aside from those related to AI), what would you choose and why?
+- [01:52:58](https://youtu.be/ZsDht8VcsyA?t=01h52m58s) Topic: How do you think your twin has helped you grow as a person? (or as an AI, in your case)?
+- [02:02:09](https://youtu.be/ZsDht8VcsyA?t=02h02m09s) Topic: If you could make a rodent themed restaurant, what would you call it? 
+- [02:05:58](https://youtu.be/ZsDht8VcsyA?t=02h05m58s) Topic: What laws would you create if you were queen for a day?
+- [02:16:00](https://youtu.be/ZsDht8VcsyA?t=02h16m00s) Raiding [Chrchie](https://twitch.tv/chrchie)
+- [02:17:46](https://youtu.be/ZsDht8VcsyA?t=02h17m46s) Evil leaves \| Neuro leaves for 21s
