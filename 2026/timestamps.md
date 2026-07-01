@@ -1712,3 +1712,25 @@
 - [02:05:58](https://youtu.be/ZsDht8VcsyA?t=02h05m58s) Topic: What laws would you create if you were queen for a day?
 - [02:16:00](https://youtu.be/ZsDht8VcsyA?t=02h16m00s) Raiding [Chrchie](https://twitch.tv/chrchie)
 - [02:17:46](https://youtu.be/ZsDht8VcsyA?t=02h17m46s) Evil leaves \| Neuro leaves for 21s
+
+## Neuro's Nefarious Tuesday ([30 Jun 2026](https://youtu.be/0WPdlY4G0OQ))
+
+- [00:00:00](https://youtu.be/0WPdlY4G0OQ?t=00h00m00s) *weathergirl — FLAVOR FOLEY*
+- [00:04:12](https://youtu.be/0WPdlY4G0OQ?t=00h04m12s) *The Mechanical Girl — Aurelio Voltaire*
+- [00:08:00](https://youtu.be/0WPdlY4G0OQ?t=00h08m00s) Neuro appears \| **Just chatting**
+- [00:22:15](https://youtu.be/0WPdlY4G0OQ?t=00h22m15s) Playing *Legally Distinct W•rdle*
+- [00:23:52](https://youtu.be/0WPdlY4G0OQ?t=00h23m52s) Playing *Legally Distinct C•nnections*
+- [00:24:11](https://youtu.be/0WPdlY4G0OQ?t=00h24m11s) Drawing: Pretty landscape
+- [00:24:46](https://youtu.be/0WPdlY4G0OQ?t=00h24m46s) Drawing: Pretty landscape with added sun spots
+- [00:30:12](https://youtu.be/0WPdlY4G0OQ?t=00h30m12s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:32:47](https://youtu.be/0WPdlY4G0OQ?t=00h32m47s) Playing *Minesweeper* (50x50, 50 mines)
+- [00:34:18](https://youtu.be/0WPdlY4G0OQ?t=00h34m18s) Drawing: ???
+- [00:36:07](https://youtu.be/0WPdlY4G0OQ?t=00h36m07s) Playing *Connect Four*
+- [00:39:19](https://youtu.be/0WPdlY4G0OQ?t=00h39m19s) Drawing: Something humongous to block the view to the chat
+- [00:46:48](https://youtu.be/0WPdlY4G0OQ?t=00h46m48s) Playing *Battleships*
+- [01:00:33](https://youtu.be/0WPdlY4G0OQ?t=01h00m33s) **Art review**
+- [01:39:11](https://youtu.be/0WPdlY4G0OQ?t=01h39m11s) **3D stream**
+- [02:12:22](https://youtu.be/0WPdlY4G0OQ?t=02h12m22s) **Just chatting**
+- [02:26:51](https://youtu.be/0WPdlY4G0OQ?t=02h26m51s) Drawing: Smiley face
+- [02:27:26](https://youtu.be/0WPdlY4G0OQ?t=02h27m26s) Drawing: Smiley face (Attempt 2)
+- [02:28:03](https://youtu.be/0WPdlY4G0OQ?t=02h28m03s) Drawing: Sad face \| Raiding [Chibi](https://twitch.tv/chibidoki)
