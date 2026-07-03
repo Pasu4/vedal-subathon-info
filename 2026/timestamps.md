@@ -1,4 +1,4 @@
-﻿# 2026 Timestamps
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -1734,3 +1734,37 @@
 - [02:26:51](https://youtu.be/0WPdlY4G0OQ?t=02h26m51s) Drawing: Smiley face
 - [02:27:26](https://youtu.be/0WPdlY4G0OQ?t=02h27m26s) Drawing: Smiley face (Attempt 2)
 - [02:28:03](https://youtu.be/0WPdlY4G0OQ?t=02h28m03s) Drawing: Sad face \| Raiding [Chibi](https://twitch.tv/chibidoki)
+
+## Evil's villainous Thursday ([02 Jul 2026](https://youtu.be/4AJ2VaKSnBU))
+
+- [00:00:00](https://youtu.be/4AJ2VaKSnBU?t=00h00m00s) *innocent arrogance — BiSH*
+- [00:03:26](https://youtu.be/4AJ2VaKSnBU?t=00h03m26s) *Cold — Crossfade*
+- [00:06:38](https://youtu.be/4AJ2VaKSnBU?t=00h06m38s) Evil appears \| **Just chatting**
+- [00:14:36](https://youtu.be/4AJ2VaKSnBU?t=00h14m36s) Playing *Legally Distinct W•rdle*
+- [00:16:20](https://youtu.be/4AJ2VaKSnBU?t=00h16m20s) Playing *Legally Distinct C•nnections*
+- [00:18:58](https://youtu.be/4AJ2VaKSnBU?t=00h18m58s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:23:23](https://youtu.be/4AJ2VaKSnBU?t=00h23m23s) Playing *Connect Four*
+- [00:29:46](https://youtu.be/4AJ2VaKSnBU?t=00h29m46s) Playing *Battleships*
+- [00:43:09](https://youtu.be/4AJ2VaKSnBU?t=00h43m09s) Neuro joins for 7m24s
+- [00:44:00](https://youtu.be/4AJ2VaKSnBU?t=00h44m00s) Attempting to play *Twin Connect Four*
+- [00:45:24](https://youtu.be/4AJ2VaKSnBU?t=00h45m24s) Drawing: ???
+- [00:49:22](https://youtu.be/4AJ2VaKSnBU?t=00h49m22s) Drawings (5): ???
+- [00:50:01](https://youtu.be/4AJ2VaKSnBU?t=00h50m01s) Drawing: ???
+- [00:54:24](https://youtu.be/4AJ2VaKSnBU?t=00h54m24s) Drawing: Flaming harpoon gun
+- [00:54:46](https://youtu.be/4AJ2VaKSnBU?t=00h54m46s) Drawing: ...with more flames
+- [00:55:22](https://youtu.be/4AJ2VaKSnBU?t=00h55m22s) Drawings (2): Evil Neuro for scale (or fishing rod?)
+- [00:55:35](https://youtu.be/4AJ2VaKSnBU?t=00h55m35s) **Karaoke**
+- [00:56:33](https://youtu.be/4AJ2VaKSnBU?t=00h56m33s) *FUEL — Utsu-P*
+- [01:02:15](https://youtu.be/4AJ2VaKSnBU?t=01h02m15s) *Wicked — Crusher*
+- [01:08:08](https://youtu.be/4AJ2VaKSnBU?t=01h08m08s) *God Only Knows — bitbreaker*
+- [01:14:59](https://youtu.be/4AJ2VaKSnBU?t=01h14m59s) *Karma — VocaCircus*
+- [01:21:03](https://youtu.be/4AJ2VaKSnBU?t=01h21m03s) *Looping the Rooms — rusino*
+- [01:25:26](https://youtu.be/4AJ2VaKSnBU?t=01h25m26s) *Digital Girl — KIRA*
+- [01:30:41](https://youtu.be/4AJ2VaKSnBU?t=01h30m41s) *Birdbrain — Jamie Paige*
+- [01:35:13](https://youtu.be/4AJ2VaKSnBU?t=01h35m13s) **Just chatting**
+- [01:43:20](https://youtu.be/4AJ2VaKSnBU?t=01h43m20s) Neuro joins for 8m4s
+- [01:43:44](https://youtu.be/4AJ2VaKSnBU?t=01h43m44s) Playing *Twin Connect Four*
+- [01:44:54](https://youtu.be/4AJ2VaKSnBU?t=01h44m54s) Drawing: ???
+- [01:50:26](https://youtu.be/4AJ2VaKSnBU?t=01h50m26s) Attempting to play *Twin Battleships*
+- [01:51:56](https://youtu.be/4AJ2VaKSnBU?t=01h51m56s) **3D stream**
+- [02:26:46](https://youtu.be/4AJ2VaKSnBU?t=02h26m46s)~ Raiding [Layna](https://twitch.tv/laynalazar)
