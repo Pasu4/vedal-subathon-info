@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -1768,3 +1768,13 @@
 - [01:50:26](https://youtu.be/4AJ2VaKSnBU?t=01h50m26s) Attempting to play *Twin Battleships*
 - [01:51:56](https://youtu.be/4AJ2VaKSnBU?t=01h51m56s) **3D stream**
 - [02:26:46](https://youtu.be/4AJ2VaKSnBU?t=02h26m46s)~ Raiding [Layna](https://twitch.tv/laynalazar)
+
+## SKYRIM!!!!! ([04 Jul 2026](https://youtu.be/3ObVH1U1620))
+
+- [00:00:00](https://youtu.be/3ObVH1U1620?t=00h00m00s) *Say It Back — tv room*
+- [00:02:13](https://youtu.be/3ObVH1U1620?t=00h02m13s) *Winter Wonderland — Amy Grant*
+- [00:04:27](https://youtu.be/3ObVH1U1620?t=00h04m27s) Neuro appears
+- [00:08:19](https://youtu.be/3ObVH1U1620?t=00h08m19s) **Playing *The Elder Scrolls V: Skyrim***
+- [03:48:19](https://youtu.be/3ObVH1U1620?t=03h48m19s) Raiding [Shylily](https://twitch.tv/shylily)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
