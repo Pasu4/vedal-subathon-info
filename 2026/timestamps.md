@@ -1778,3 +1778,15 @@
 - [03:48:19](https://youtu.be/3ObVH1U1620?t=03h48m19s) Raiding [Shylily](https://twitch.tv/shylily)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## neuro & evil tomodachi life w/ camila ([05 Jul 2026](https://youtu.be/GLE4JMJyVbg))
+
+- [00:00:00](https://youtu.be/GLE4JMJyVbg?t=00h00m00s) Unknown song (presumably muted due to copyright)
+- [00:03:11](https://youtu.be/GLE4JMJyVbg?t=00h03m11s) *Hypnodancer — Little Big*
+- [00:06:14](https://youtu.be/GLE4JMJyVbg?t=00h06m14s) Neuro and Evil appear \| **Just chatting**
+- [00:08:08](https://youtu.be/GLE4JMJyVbg?t=00h08m08s) Camila joins
+- [00:38:49](https://youtu.be/GLE4JMJyVbg?t=00h38m49s) **Playing *Tomodachi Life: Living the Dream***
+- [00:42:59](https://youtu.be/GLE4JMJyVbg?t=00h42m59s) About the state of the game
+- [01:49:07](https://youtu.be/GLE4JMJyVbg?t=01h49m07s) Camila leaves for 5m39s
+- [02:54:32](https://youtu.be/GLE4JMJyVbg?t=02h54m32s) Camila leaves
+- [02:56:55](https://youtu.be/GLE4JMJyVbg?t=02h56m55s) Raiding [Henya](https://twitch.tv/henyathegenius)
