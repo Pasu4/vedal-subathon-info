@@ -59,7 +59,7 @@ $DUET_WITH_RX = '\(duet w/ ([^)\n,]+)\)'
 
 $STREAMS_TABLE_HEADER = '| Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target'
 $PARTICIPANTS_TABLE_HEADER = '| Participant                                                   | Streams'
-$CONTENT_TABLE_HEADER = '| Content                                   | Type              | Participants                  | Streams'
+$CONTENT_TABLE_HEADER = '| Content                                   | Type                  | Participants                  | Streams'
 $EVENTS_TABLE_HEADER = '| Event                                     | Stream'
 
 $NON_PARTICIPANTS = @(
@@ -319,7 +319,7 @@ if (Test-Path $OverviewFile) {
                 }
                 # Not guessing game since there is no distinction whether it is integrated
                 "| " + $newContent.PadRight(41) +
-                " | " + $guessType.PadRight(17) +
+                " | " + $guessType.PadRight(21) +
                 " | " + $guessParticipant.PadRight(29) +
                 " | " + $overviewVideoLink
             }
