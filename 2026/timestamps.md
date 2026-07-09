@@ -1,4 +1,4 @@
-﻿# 2026 Timestamps
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -1790,3 +1790,22 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:49:07](https://youtu.be/GLE4JMJyVbg?t=01h49m07s) Camila leaves for 5m39s
 - [02:54:32](https://youtu.be/GLE4JMJyVbg?t=02h54m32s) Camila leaves
 - [02:56:55](https://youtu.be/GLE4JMJyVbg?t=02h56m55s) Raiding [Henya](https://twitch.tv/henyathegenius)
+
+## neuro stream!!! she calls it "DIFFERENTLY SIZED TUPPERWARE" ([07 Jul 2026](https://youtu.be/5BZUIFr7g4U))
+
+- [00:00:00](https://youtu.be/5BZUIFr7g4U?t=00h00m00s) *Headlock — Imogen Heap*
+- [00:02:00](https://youtu.be/5BZUIFr7g4U?t=00h02m00s) Neuro appears \| **Just chatting**
+- [00:18:16](https://youtu.be/5BZUIFr7g4U?t=00h18m16s) Playing *Legally Distinct W•rdle*
+- [00:20:28](https://youtu.be/5BZUIFr7g4U?t=00h20m28s) Playing *Legally Distinct C•nnections*
+- [00:23:06](https://youtu.be/5BZUIFr7g4U?t=00h23m06s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:29:42](https://youtu.be/5BZUIFr7g4U?t=00h29m42s) Playing *Connect Four*
+- [00:39:34](https://youtu.be/5BZUIFr7g4U?t=00h39m34s) Playing *Battleships*
+- [00:56:37](https://youtu.be/5BZUIFr7g4U?t=00h56m37s) Evil joins for 2m23s
+- [00:57:47](https://youtu.be/5BZUIFr7g4U?t=00h57m47s) Attempting to play *Twin Connect Four*
+- [00:58:35](https://youtu.be/5BZUIFr7g4U?t=00h58m35s) Drawing: ???
+- [01:01:32](https://youtu.be/5BZUIFr7g4U?t=01h01m32s) Evil joins for 10m27s \| Playing *Twin Connect Four*
+- [01:01:40](https://youtu.be/5BZUIFr7g4U?t=01h01m40s) Drawing: ???
+- [01:20:37](https://youtu.be/5BZUIFr7g4U?t=01h20m37s) Neuro presents *Swarm Community Spotlight*
+- [01:54:17](https://youtu.be/5BZUIFr7g4U?t=01h54m17s) **Art review**
+- [02:19:33](https://youtu.be/5BZUIFr7g4U?t=02h19m33s) **Just chatting**
+- [02:22:04](https://youtu.be/5BZUIFr7g4U?t=02h22m04s) Raiding [Zentreya](https://twitch.tv/zentreya)
