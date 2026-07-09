@@ -15,6 +15,19 @@
                 "-Category", "'${input:category}'",
                 "-CommentAuthor", "'${input:author}'",
             ]
+        },
+        {
+            "name": "PowerShell: convert.ps1 -Index {}",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/utils/convert.ps1",
+            "args": [
+                "-TimestampsFile", "'${workspaceFolder}\\2026\\timestamps.md'",
+                "-OverviewFile", "'${workspaceFolder}\\2026\\overview.md'",
+                "-Category", "'${input:category}'",
+                "-CommentAuthor", "'${input:author}'",
+                "-Index", "${input:index}"
+            ]
         }
     ],
     "inputs": [
@@ -40,6 +53,12 @@
                 "<other>",
             ],
             "description": "The general type of content in the stream. Choose <other> to add it manually."
+        },
+        {
+            "id": "index",
+            "type": "promptString",
+            "default": "1",
+            "description": "The index of the video. 1 means latest.",
         }
     ]
 }

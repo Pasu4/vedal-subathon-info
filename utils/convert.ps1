@@ -292,7 +292,7 @@ if (Test-Path $OverviewFile) {
         # Add stream links to participants section
         elseif ($stage -eq "participants") {
             foreach ($participant in $participants) {
-                if ($line.Contains($participant)) {
+                if ($line -match "^\| \[$([Regex]::Escape($participant))\]\([^)]+?\) +\|") {
                     $line += ", " + $overviewVideoLink
                     $foundParticipants += $participant
                     break
@@ -329,7 +329,7 @@ if (Test-Path $OverviewFile) {
         # Add stream links to content section
         elseif ($stage -eq "content") {
             foreach ($entry in $contentEntries) {
-                if ($line.Contains($entry)) {
+                if ($line -match "^\| $([Regex]::Escape($entry)) +\|") {
                     $line += ", " + $overviewVideoLink
                     $foundContent += $entry
                     break
