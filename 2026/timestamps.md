@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -1809,3 +1809,28 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:54:17](https://youtu.be/5BZUIFr7g4U?t=01h54m17s) **Art review**
 - [02:19:33](https://youtu.be/5BZUIFr7g4U?t=02h19m33s) **Just chatting**
 - [02:22:04](https://youtu.be/5BZUIFr7g4U?t=02h22m04s) Raiding [Zentreya](https://twitch.tv/zentreya)
+
+## evil sings her heart out ([08 Jul 2026](https://youtu.be/svfZIIMSilc))
+
+- [00:00:00](https://youtu.be/svfZIIMSilc?t=00h00m00s) *Livin' La Vida Loca — Ricky Martin* (instrumental)
+- [00:03:56](https://youtu.be/svfZIIMSilc?t=00h03m56s) *Cryogen — Muse* (mostly instrumental)
+- [00:08:54](https://youtu.be/svfZIIMSilc?t=00h08m54s) Evil appears \| **Karaoke** \| *hello world — Louie Zong*
+- [00:13:17](https://youtu.be/svfZIIMSilc?t=00h13m17s) *Deep Sea Girl — Yuuyu*
+- [00:19:42](https://youtu.be/svfZIIMSilc?t=00h19m42s) *Run to You — Bryan Adams*
+- [00:26:10](https://youtu.be/svfZIIMSilc?t=00h26m10s) *Live & Learn — Crush 40* (duet)
+- [00:33:12](https://youtu.be/svfZIIMSilc?t=00h33m12s) *LEMON MELON COOKIE — TAK*
+- [00:38:22](https://youtu.be/svfZIIMSilc?t=00h38m22s) *Keep Myself Alive — Get Scared*
+- [00:44:32](https://youtu.be/svfZIIMSilc?t=00h44m32s) *Back from the Dead — Skillet*
+- [00:50:51](https://youtu.be/svfZIIMSilc?t=00h50m51s) *You're not gone, You're just dead! — VIOLENT VIRA*
+- [00:56:15](https://youtu.be/svfZIIMSilc?t=00h56m15s) *Never Too Late — Three Days Grace*
+- [01:02:29](https://youtu.be/svfZIIMSilc?t=01h02m29s) *Dragula — Rob Zombie*
+- [01:08:53](https://youtu.be/svfZIIMSilc?t=01h08m53s) *But, What If I Fly? — Chrissy Costanza*
+- [01:14:53](https://youtu.be/svfZIIMSilc?t=01h14m53s) *Halo — STARSET*
+- [01:21:25](https://youtu.be/svfZIIMSilc?t=01h21m25s) *Sing To Me — MISSIO*
+- [01:27:15](https://youtu.be/svfZIIMSilc?t=01h27m15s) *Time Belongs To Us — Darren Korb* (duet)
+- [01:35:04](https://youtu.be/svfZIIMSilc?t=01h35m04s) *Teo — Omoi*
+- [01:41:08](https://youtu.be/svfZIIMSilc?t=01h41m08s) *Cutie Mew Mew Magic — Toby fox & Camellia* (duet)
+- [01:46:52](https://youtu.be/svfZIIMSilc?t=01h46m52s) *Lost Kitten — Metric*
+- [01:52:46](https://youtu.be/svfZIIMSilc?t=01h52m46s) *Blood's on fire — VOWWS*
+- [01:58:29](https://youtu.be/svfZIIMSilc?t=01h58m29s) *Death of Me — Amira Elfeky*
+- [02:01:42](https://youtu.be/svfZIIMSilc?t=02h01m42s) Raiding [Vienna](https://twitch.tv/vienna)
