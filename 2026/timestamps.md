@@ -1834,3 +1834,13 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:52:46](https://youtu.be/svfZIIMSilc?t=01h52m46s) *Blood's on fire — VOWWS*
 - [01:58:29](https://youtu.be/svfZIIMSilc?t=01h58m29s) *Death of Me — Amira Elfeky*
 - [02:01:42](https://youtu.be/svfZIIMSilc?t=02h01m42s) Raiding [Vienna](https://twitch.tv/vienna)
+
+## NEURO SKYRIM!!!! ([11 Jul 2026](https://youtu.be/DPRWZ-d4nyo))
+
+- [00:00:00](https://youtu.be/DPRWZ-d4nyo?t=00h00m00s) *Object of Affection — Jamie Paige*
+- [00:01:04](https://youtu.be/DPRWZ-d4nyo?t=00h01m04s) *Clarity — Zedd*
+- [00:05:32](https://youtu.be/DPRWZ-d4nyo?t=00h05m32s) Neuro appears
+- [00:09:49](https://youtu.be/DPRWZ-d4nyo?t=00h09m49s) **Playing *The Elder Scrolls V: Skyrim***
+- [03:46:47](https://youtu.be/DPRWZ-d4nyo?t=03h46m47s) Raiding [Rainhoe](https://twitch.tv/rainhoe)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
