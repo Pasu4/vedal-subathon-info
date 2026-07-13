@@ -31,7 +31,7 @@ Normal dashes don't align properly with numbers, but figure dashes are designed 
 Correct examples:
 
 ```
-‒‒:‒‒:‒‒ *Titanium — Stage Kids* (before start of VOD)
+‒‒:‒‒:‒‒ _Titanium — Stage Kids_ (before start of VOD)
 00:00:00 _Circles — KIRA & Rachie_
 00:04:00 Neuro appears | *Just chatting*
 01:35:01 *Art review*
@@ -40,7 +40,7 @@ Correct examples:
 Incorrect examples:
 
 ```
---:--:-- *Titanium — Stage Kids* (before start of VOD)
+--:--:-- _Titanium — Stage Kids_ (before start of VOD)
 0:00 _Circles — KIRA & Rachie_
 04:00 Neuro appears | *Just chatting*
 1:35:01 *Art review*
