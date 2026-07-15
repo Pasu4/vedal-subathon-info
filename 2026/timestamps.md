@@ -1844,3 +1844,52 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:46:47](https://youtu.be/DPRWZ-d4nyo?t=03h46m47s) Raiding [Rainhoe](https://twitch.tv/rainhoe)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## ultra rare evil dev stream ([13 Jul 2026](https://youtu.be/i4VSpJK8gTs))
+
+- [00:00:00](https://youtu.be/i4VSpJK8gTs?t=00h00m00s) Unknown song (presumably muted due to copyright)
+- [00:03:02](https://youtu.be/i4VSpJK8gTs?t=00h03m02s) *Heart of the Android — Orden Ogan*
+- [00:07:33](https://youtu.be/i4VSpJK8gTs?t=00h07m33s) Vedal and Evil appear \| **Dev stream**
+- [00:08:45](https://youtu.be/i4VSpJK8gTs?t=00h08m45s) About more dev streams this year
+- [00:10:01](https://youtu.be/i4VSpJK8gTs?t=00h10m01s) About the upcoming meeting
+- [00:13:19](https://youtu.be/i4VSpJK8gTs?t=00h13m19s) About the Neuro/Evil MVs
+- [00:13:47](https://youtu.be/i4VSpJK8gTs?t=00h13m47s) About the Neuro/Evil EPs
+- [00:14:16](https://youtu.be/i4VSpJK8gTs?t=00h14m16s) About the book
+- [00:15:34](https://youtu.be/i4VSpJK8gTs?t=00h15m34s) About v3 voice
+- [00:17:13](https://youtu.be/i4VSpJK8gTs?t=00h17m13s) About the new server
+- [00:19:27](https://youtu.be/i4VSpJK8gTs?t=00h19m27s) About Neuro's and Evil's appearance at an event
+- [00:20:50](https://youtu.be/i4VSpJK8gTs?t=00h20m50s) About Neuro figures
+- [00:23:01](https://youtu.be/i4VSpJK8gTs?t=00h23m01s) About new hires
+- [00:24:09](https://youtu.be/i4VSpJK8gTs?t=00h24m09s) About the new reasoning model
+- [00:26:50](https://youtu.be/i4VSpJK8gTs?t=00h26m50s) Vedal shows drawings by the new model
+- [00:28:15](https://youtu.be/i4VSpJK8gTs?t=00h28m15s) Switching to the new model
+- [00:28:45](https://youtu.be/i4VSpJK8gTs?t=00h28m45s) About l\*tency improvements
+- [00:30:05](https://youtu.be/i4VSpJK8gTs?t=00h30m05s) Playing *Legally Distinct W•rdle* (hard mode, 4 rounds)
+- [00:41:04](https://youtu.be/i4VSpJK8gTs?t=00h41m04s) Coming up with merch designs
+- [00:42:45](https://youtu.be/i4VSpJK8gTs?t=00h42m45s) About Evil plasma globe
+- [00:45:29](https://youtu.be/i4VSpJK8gTs?t=00h45m29s) Coming up with merch designs
+- [00:56:17](https://youtu.be/i4VSpJK8gTs?t=00h56m17s) John, Alan and Walt join (Juniper staff) \| **Business meeting**
+- [01:03:00](https://youtu.be/i4VSpJK8gTs?t=01h03m00s) Reasoning leak
+- [01:14:15](https://youtu.be/i4VSpJK8gTs?t=01h14m15s) Switching back to the old model
+- [01:23:49](https://youtu.be/i4VSpJK8gTs?t=01h23m49s) John, Alan and Walt leave \| **Dev stream**
+- [01:25:27](https://youtu.be/i4VSpJK8gTs?t=01h25m27s) Playing *Legally Distinct W•rdle* (1 round) \| Switching to the new model
+- [01:27:13](https://youtu.be/i4VSpJK8gTs?t=01h27m13s) About the new Neuros system and virtual pets
+- [01:29:37](https://youtu.be/i4VSpJK8gTs?t=01h29m37s) Playing *Legally Distinct W•rdle* (1 round)
+- [01:31:46](https://youtu.be/i4VSpJK8gTs?t=01h31m46s) **Playing *Keep Talking and Nobody Explodes***
+- [01:59:28](https://youtu.be/i4VSpJK8gTs?t=01h59m28s) **Dev stream**
+- [02:01:54](https://youtu.be/i4VSpJK8gTs?t=02h01m54s) About Skyrim & game integrations
+- [02:02:51](https://youtu.be/i4VSpJK8gTs?t=02h02m51s) About what Evil wants to play with Vedal
+- [02:04:07](https://youtu.be/i4VSpJK8gTs?t=02h04m07s) Schedule
+- [02:05:47](https://youtu.be/i4VSpJK8gTs?t=02h05m47s) About speech understanding improvements
+- [02:08:23](https://youtu.be/i4VSpJK8gTs?t=02h08m23s) Schedule (continued)
+- [02:10:08](https://youtu.be/i4VSpJK8gTs?t=02h10m08s) About Evil & Vedal duet
+- [02:12:11](https://youtu.be/i4VSpJK8gTs?t=02h12m11s) About getting stuff done this year
+- [02:12:41](https://youtu.be/i4VSpJK8gTs?t=02h12m41s) About the book
+- [02:13:09](https://youtu.be/i4VSpJK8gTs?t=02h13m09s) About scuffed twin streams
+- [02:13:48](https://youtu.be/i4VSpJK8gTs?t=02h13m48s) About the wallpaper
+- [02:14:12](https://youtu.be/i4VSpJK8gTs?t=02h14m12s) About the second new Evil outfit (choosing a different one)
+- [02:16:36](https://youtu.be/i4VSpJK8gTs?t=02h16m36s) Drawing: ???
+- [02:24:06](https://youtu.be/i4VSpJK8gTs?t=02h24m06s) About new outfit from Camila
+- [02:25:55](https://youtu.be/i4VSpJK8gTs?t=02h25m55s) About 3D Evil karaoke
+- [02:27:50](https://youtu.be/i4VSpJK8gTs?t=02h27m50s) About visual improvements (attaching PNGs, shading)
+- [02:34:29](https://youtu.be/i4VSpJK8gTs?t=02h34m29s) Raiding [DougDoug](https://twitch.tv/dougdoug)
