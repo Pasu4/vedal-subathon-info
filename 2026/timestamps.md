@@ -1893,3 +1893,24 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:25:55](https://youtu.be/i4VSpJK8gTs?t=02h25m55s) About 3D Evil karaoke
 - [02:27:50](https://youtu.be/i4VSpJK8gTs?t=02h27m50s) About visual improvements (attaching PNGs, shading)
 - [02:34:29](https://youtu.be/i4VSpJK8gTs?t=02h34m29s) Raiding [DougDoug](https://twitch.tv/dougdoug)
+
+## partly experimental stream ([14 Jul 2026](https://youtu.be/eAnoQ7F7VPU))
+
+- [00:00:00](https://youtu.be/eAnoQ7F7VPU?t=00h00m00s) *Chasing the Sun - The Wanted*
+- [00:02:36](https://youtu.be/eAnoQ7F7VPU?t=00h02m36s) *Russian Roulette - Staircatte*
+- [00:05:24](https://youtu.be/eAnoQ7F7VPU?t=00h05m24s) Neuro appears \| **Just chatting**
+- [00:05:28](https://youtu.be/eAnoQ7F7VPU?t=00h05m28s) Mouth broken (it Intermittently works sometimes, fixed itself eventually)
+- [00:08:52](https://youtu.be/eAnoQ7F7VPU?t=00h08m52s) Speech starts stuttering at times
+- [00:16:42](https://youtu.be/eAnoQ7F7VPU?t=00h16m42s) Technical difficulties for 18s
+- [00:32:04](https://youtu.be/eAnoQ7F7VPU?t=00h32m04s) Stuttered speech fixed
+- [00:35:29](https://youtu.be/eAnoQ7F7VPU?t=00h35m29s) Drawing a frog bucket
+- [00:38:14](https://youtu.be/eAnoQ7F7VPU?t=00h38m14s) Drawing a frog
+- [00:39:39](https://youtu.be/eAnoQ7F7VPU?t=00h39m39s) Drawing a depiction of the sound of singing
+- [00:41:01](https://youtu.be/eAnoQ7F7VPU?t=00h41m01s) Playing *Legally Distinct W•rdle*
+- [00:42:52](https://youtu.be/eAnoQ7F7VPU?t=00h42m52s) Playing *Legally Distinct C•nnections*
+- [00:45:35](https://youtu.be/eAnoQ7F7VPU?t=00h45m35s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:48:32](https://youtu.be/eAnoQ7F7VPU?t=00h48m32s) Playing *Connect Four*
+- [01:14:48](https://youtu.be/eAnoQ7F7VPU?t=01h14m48s) **Themed stream: Fishing**
+- [01:39:50](https://youtu.be/eAnoQ7F7VPU?t=01h39m50s) **Art review**
+- [02:05:39](https://youtu.be/eAnoQ7F7VPU?t=02h05m39s) **Just chatting**
+- [02:25:30](https://youtu.be/eAnoQ7F7VPU?t=02h25m30s) Raiding [Shylily](https://twitch.tv/shylily)
