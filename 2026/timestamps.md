@@ -1700,7 +1700,7 @@
 - [01:03:54](https://youtu.be/ZsDht8VcsyA?t=01h03m54s) Topic: What daily ritual would improve society?
 - [01:08:55](https://youtu.be/ZsDht8VcsyA?t=01h08m55s) Topic: Does art imitate life or does life imitate art?
 - [01:15:59](https://youtu.be/ZsDht8VcsyA?t=01h15m59s) Topic: What are your favourite memories?
-- [01:21:05](https://youtu.be/ZsDht8VcsyA?t=01h21m05s) Topic: Do you think it's possible to truly know someone? (To the point where you could predict their every [move)]
+- [01:21:05](https://youtu.be/ZsDht8VcsyA?t=01h21m05s) Topic: Do you think it's possible to truly know someone? (To the point where you could predict their every move)
 - [01:27:17](https://youtu.be/ZsDht8VcsyA?t=01h27m17s) Drawing: Anglerfish Jesus?
 - [01:29:57](https://youtu.be/ZsDht8VcsyA?t=01h29m57s) Topic: If you could have a one-on-one conversation or interview with any historical (or current) figure, [who would it be?]
 - [01:33:18](https://youtu.be/ZsDht8VcsyA?t=01h33m18s) Drawing: Bottle
