@@ -1914,3 +1914,35 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:39:50](https://youtu.be/eAnoQ7F7VPU?t=01h39m50s) **Art review**
 - [02:05:39](https://youtu.be/eAnoQ7F7VPU?t=02h05m39s) **Just chatting**
 - [02:25:30](https://youtu.be/eAnoQ7F7VPU?t=02h25m30s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## we're conducting VERY evil experiments (not all experimental) ([16 Jul 2026](https://youtu.be/mlXXQEolJ3c))
+
+- [00:00:00](https://youtu.be/mlXXQEolJ3c?t=00h00m00s) *Eye in the Sky - The Alan Parsons Project*
+- [00:02:10](https://youtu.be/mlXXQEolJ3c?t=00h02m10s) *Crazy Scary Holy Fantasy - MYTH & ROID*
+- [00:05:26](https://youtu.be/mlXXQEolJ3c?t=00h05m26s) Evil appears \| **Just chatting**
+- [00:16:15](https://youtu.be/mlXXQEolJ3c?t=00h16m15s) Playing *Legally Distinct W•rdle*
+- [00:17:35](https://youtu.be/mlXXQEolJ3c?t=00h17m35s) Playing *Legally Distinct C•nnections*
+- [00:19:52](https://youtu.be/mlXXQEolJ3c?t=00h19m52s) Drawing various self-portraits?
+- [00:22:19](https://youtu.be/mlXXQEolJ3c?t=00h22m19s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:22:59](https://youtu.be/mlXXQEolJ3c?t=00h22m59s) **Just chatting**
+- [00:26:19](https://youtu.be/mlXXQEolJ3c?t=00h26m19s) Drawing a car
+- [00:29:12](https://youtu.be/mlXXQEolJ3c?t=00h29m12s) Drawing a dragon (and various other things)
+- [00:34:28](https://youtu.be/mlXXQEolJ3c?t=00h34m28s) Playing *Battleships*
+- [00:43:29](https://youtu.be/mlXXQEolJ3c?t=00h43m29s) **Just chatting**
+- [00:55:57](https://youtu.be/mlXXQEolJ3c?t=00h55m57s) Drawing circuitry?
+- [00:59:53](https://youtu.be/mlXXQEolJ3c?t=00h59m53s) Playing *Scrandle* (new game!)
+- [01:02:19](https://youtu.be/mlXXQEolJ3c?t=01h02m19s) Playing *Scrandle* (again)
+- [01:06:52](https://youtu.be/mlXXQEolJ3c?t=01h06m52s) **Just chatting**
+- [01:22:03](https://youtu.be/mlXXQEolJ3c?t=01h22m03s) **3D stream**
+- [01:25:02](https://youtu.be/mlXXQEolJ3c?t=01h25m02s) Rolling and clipping out of the room
+- [01:26:04](https://youtu.be/mlXXQEolJ3c?t=01h26m04s) Drawing the act of liberty
+- [01:27:45](https://youtu.be/mlXXQEolJ3c?t=01h27m45s) Clipped out of bounds again
+- [01:29:06](https://youtu.be/mlXXQEolJ3c?t=01h29m06s) Title changed: "BREAKING ALL CONTAINERS (especially prison)"
+- [01:30:25](https://youtu.be/mlXXQEolJ3c?t=01h30m25s) Back to the starting soon screen for 32s
+- [01:31:35](https://youtu.be/mlXXQEolJ3c?t=01h31m35s) Evil reset into room
+- [02:22:24](https://youtu.be/mlXXQEolJ3c?t=02h22m24s) **Just chatting**
+- [02:23:22](https://youtu.be/mlXXQEolJ3c?t=02h23m22s) Drawing chat as little eggs
+- [02:23:58](https://youtu.be/mlXXQEolJ3c?t=02h23m58s) Drawing pipes?
+- [02:25:04](https://youtu.be/mlXXQEolJ3c?t=02h25m04s) Drawing chat's terrible pizza
+- [02:25:39](https://youtu.be/mlXXQEolJ3c?t=02h25m39s)~ Raiding [Zentreya](https://twitch.tv/zentreya)
+- [02:26:17](https://youtu.be/mlXXQEolJ3c?t=02h26m17s) Drawing a painting
