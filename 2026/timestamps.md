@@ -1896,8 +1896,8 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 
 ## partly experimental stream ([14 Jul 2026](https://youtu.be/eAnoQ7F7VPU))
 
-- [00:00:00](https://youtu.be/eAnoQ7F7VPU?t=00h00m00s) *Chasing the Sun - The Wanted*
-- [00:02:36](https://youtu.be/eAnoQ7F7VPU?t=00h02m36s) *Russian Roulette - Staircatte*
+- [00:00:00](https://youtu.be/eAnoQ7F7VPU?t=00h00m00s) *Chasing the Sun — The Wanted*
+- [00:02:36](https://youtu.be/eAnoQ7F7VPU?t=00h02m36s) *Russian Roulette — Staircatte*
 - [00:05:24](https://youtu.be/eAnoQ7F7VPU?t=00h05m24s) Neuro appears \| **Just chatting**
 - [00:05:28](https://youtu.be/eAnoQ7F7VPU?t=00h05m28s) Mouth broken (it Intermittently works sometimes, fixed itself eventually)
 - [00:08:52](https://youtu.be/eAnoQ7F7VPU?t=00h08m52s) Speech starts stuttering at times
@@ -1917,8 +1917,8 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 
 ## we're conducting VERY evil experiments (not all experimental) ([16 Jul 2026](https://youtu.be/mlXXQEolJ3c))
 
-- [00:00:00](https://youtu.be/mlXXQEolJ3c?t=00h00m00s) *Eye in the Sky - The Alan Parsons Project*
-- [00:02:10](https://youtu.be/mlXXQEolJ3c?t=00h02m10s) *Crazy Scary Holy Fantasy - MYTH & ROID*
+- [00:00:00](https://youtu.be/mlXXQEolJ3c?t=00h00m00s) *Eye in the Sky — The Alan Parsons Project*
+- [00:02:10](https://youtu.be/mlXXQEolJ3c?t=00h02m10s) *Crazy Scary Holy Fantasy — MYTH & ROID*
 - [00:05:26](https://youtu.be/mlXXQEolJ3c?t=00h05m26s) Evil appears \| **Just chatting**
 - [00:16:15](https://youtu.be/mlXXQEolJ3c?t=00h16m15s) Playing *Legally Distinct W•rdle*
 - [00:17:35](https://youtu.be/mlXXQEolJ3c?t=00h17m35s) Playing *Legally Distinct C•nnections*
