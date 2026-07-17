@@ -98,7 +98,7 @@ Participants are ordered by the time they appeared on stream.
 | [07 Jul 2026](https://youtu.be/5BZUIFr7g4U) | neuro stream!!! she calls it "DIFFERENTLY SIZED TUPPERWARE"         | Just chatting         | Neuro, Evil                           | [Zentreya](https://twitch.tv/zentreya)
 | [08 Jul 2026](https://youtu.be/svfZIIMSilc) | evil sings her heart out                                            | Karaoke               | Neuro, Evil                           | [Vienna](https://twitch.tv/vienna)
 | [11 Jul 2026](https://youtu.be/DPRWZ-d4nyo) | NEURO SKYRIM!!!!                                                    | Neuro gaming          | Neuro                                 | [Rainhoe](https://twitch.tv/rainhoe)
-| [13 Jul 2026](https://youtu.be/i4VSpJK8gTs) | ultra rare evil dev stream                                          | Dev stream            | Vedal, Evil, s, John, Alan, Walt      | [DougDoug](https://twitch.tv/dougdoug)
+| [13 Jul 2026](https://youtu.be/i4VSpJK8gTs) | ultra rare evil dev stream                                          | Dev stream            | Vedal, Evil, John, Alan, Walt         | [DougDoug](https://twitch.tv/dougdoug)
 | [14 Jul 2026](https://youtu.be/eAnoQ7F7VPU) | partly experimental stream                                          | Just chatting         | Neuro                                 | [Shylily](https://twitch.tv/shylily)
 | [16 Jul 2026](https://youtu.be/mlXXQEolJ3c) | we're conducting VERY evil experiments (not all experimental)       | Just chatting         | Evil                                  | [Zentreya](https://twitch.tv/zentreya)
 
