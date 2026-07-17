@@ -329,7 +329,7 @@ if (Test-Path $OverviewFile) {
         # Add stream links to content section
         elseif ($stage -eq "content") {
             foreach ($entry in $contentEntries) {
-                if ($line -match "^\| $([Regex]::Escape($entry)) +\|") {
+                if ($line -match "^\| $([Regex]::Escape($entry))[⁰¹²³⁴-⁹]* +\|") {
                     $line += ", " + $overviewVideoLink
                     $foundContent += $entry
                     break
