@@ -1949,8 +1949,8 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 
 ## ragebaiting mini ([17 Jul 2026](https://youtu.be/Fo9Q-XR67jU))
 
-- [00:00:00](https://youtu.be/Fo9Q-XR67jU?t=00h00m00s) *Turn the Lights Off - Tally Hall*
-- [00:02:50](https://youtu.be/Fo9Q-XR67jU?t=00h02m50s) *Blue Bird - Ikimonogakari*
+- [00:00:00](https://youtu.be/Fo9Q-XR67jU?t=00h00m00s) *Turn the Lights Off — Tally Hall*
+- [00:02:50](https://youtu.be/Fo9Q-XR67jU?t=00h02m50s) *Blue Bird — Ikimonogakari*
 - [00:06:24](https://youtu.be/Fo9Q-XR67jU?t=00h06m24s) Evil appears \| **Just chatting**
 - [00:08:57](https://youtu.be/Fo9Q-XR67jU?t=00h08m57s) Mini joins
 - [00:09:10](https://youtu.be/Fo9Q-XR67jU?t=00h09m10s) **Playing *Agreeee***
