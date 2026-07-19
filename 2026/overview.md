@@ -101,7 +101,7 @@ Participants are ordered by the time they appeared on stream.
 | [13 Jul 2026](https://youtu.be/i4VSpJK8gTs) | ultra rare evil dev stream                                          | Dev stream            | Vedal, Evil, John, Alan, Walt         | [DougDoug](https://twitch.tv/dougdoug)
 | [14 Jul 2026](https://youtu.be/eAnoQ7F7VPU) | partly experimental stream                                          | Just chatting         | Neuro                                 | [Shylily](https://twitch.tv/shylily)
 | [16 Jul 2026](https://youtu.be/mlXXQEolJ3c) | we're conducting VERY evil experiments (not all experimental)       | Just chatting         | Evil                                  | [Zentreya](https://twitch.tv/zentreya)
-| [17 Jul 2026](https://youtu.be/Fo9Q-XR67jU) | ragebaiting mini                                                    |                       | Evil, Mini                            | [Zentreya](https://twitch.tv/zentreya)
+| [17 Jul 2026](https://youtu.be/Fo9Q-XR67jU) | ragebaiting mini                                                    | Gaming collab         | Evil, Mini                            | [Zentreya](https://twitch.tv/zentreya)
 
 ## Participants
 
