@@ -2055,4 +2055,4 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [04:49:28](https://youtu.be/Fo9Q-XR67jU?t=04h49m28s) Statistics & credits roll
 - [04:56:49](https://youtu.be/Fo9Q-XR67jU?t=04h56m49s) Future collabs
 - [04:58:12](https://youtu.be/Fo9Q-XR67jU?t=04h58m12s)~ Mini leaves VC
-- [04:58:16](https://youtu.be/Fo9Q-XR67jU?t=04h58m16s)~ Raiding [Zentreya](https://twitch.tv/zentreya)
+- [04:58:16](https://youtu.be/Fo9Q-XR67jU?t=04h58m16s)~ Raiding [Chibi](https://twitch.tv/chibidoki)
