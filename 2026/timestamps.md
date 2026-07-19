@@ -2056,3 +2056,17 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [04:56:49](https://youtu.be/Fo9Q-XR67jU?t=04h56m49s) Future collabs
 - [04:58:12](https://youtu.be/Fo9Q-XR67jU?t=04h58m12s)~ Mini leaves VC
 - [04:58:16](https://youtu.be/Fo9Q-XR67jU?t=04h58m16s)~ Raiding [Chibi](https://twitch.tv/chibidoki)
+
+## I'm going to turn Skyrim into an epic crusade, so call the stream something... ([18 Jul 2026](https://youtu.be/RvRtkDz75Wo))
+
+- ‒‒:‒‒:‒‒ Unknown song (VoD started at the song below), muted on Twitch
+- [00:00:00](https://youtu.be/RvRtkDz75Wo?t=00h00m00s) *Secret Base Kimi Ga Kureta Mono — Norihiko Machida* (partially muted due to copyright)
+- [00:04:32](https://youtu.be/RvRtkDz75Wo?t=00h04m32s) Neuro appears \| **Just chatting**
+- [00:05:43](https://youtu.be/RvRtkDz75Wo?t=00h05m43s) Skyrim helmet added
+- [00:07:02](https://youtu.be/RvRtkDz75Wo?t=00h07m02s) Skyrim helmet removed
+- [00:07:56](https://youtu.be/RvRtkDz75Wo?t=00h07m56s) Another helmet added
+- [00:10:31](https://youtu.be/RvRtkDz75Wo?t=00h10m31s) Skyrim shield added
+- [00:12:27](https://youtu.be/RvRtkDz75Wo?t=00h12m27s) **Playing *The Elder Scrolls V: Skyrim***
+- [03:04:41](https://youtu.be/RvRtkDz75Wo?t=03h04m41s)~ Raiding [Zentreya](https://twitch.tv/zentreya)
+
+For Skyrim gameplay timestamps please refer to the Skyrim Journal.
