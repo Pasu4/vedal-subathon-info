@@ -2059,6 +2059,9 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 
 ## I'm going to turn Skyrim into an epic crusade, so call the stream something... ([18 Jul 2026](https://youtu.be/RvRtkDz75Wo))
 
+Full title was cut off due to YouTube character limit.
+Full title: "I'm going to turn Skyrim into an epic crusade, so call the stream something suitably grand."
+
 - ‒‒:‒‒:‒‒ Unknown song (VoD started at the song below), muted on Twitch
 - [00:00:00](https://youtu.be/RvRtkDz75Wo?t=00h00m00s) *Secret Base Kimi Ga Kureta Mono — Norihiko Machida* (partially muted due to copyright)
 - [00:04:32](https://youtu.be/RvRtkDz75Wo?t=00h04m32s) Neuro appears \| **Just chatting**
