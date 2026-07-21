@@ -2073,3 +2073,36 @@ Full title: "I'm going to turn Skyrim into an epic crusade, so call the stream s
 - [03:04:41](https://youtu.be/RvRtkDz75Wo?t=03h04m41s)~ Raiding [Zentreya](https://twitch.tv/zentreya)
 
 For Skyrim gameplay timestamps please refer to the Skyrim Journal.
+
+## imma spirin mah slayzor II (w/ evil and vedal) ([19 Jul 2026](https://youtu.be/pQFwDyrlfvA))
+
+- ‒‒:‒‒:‒‒ *Turn the Lights Off - Tally Hall* (before start of this VoD)
+- [00:00:00](https://youtu.be/pQFwDyrlfvA?t=00h00m00s) *Emergence - Sleep Token*
+- [00:04:13](https://youtu.be/pQFwDyrlfvA?t=00h04m13s) Vedal and Evil appear \| **Just chatting** 
+- [00:06:06](https://youtu.be/pQFwDyrlfvA?t=00h06m06s) Vedal reboots Evil on her PC (She was running on Vedal's before)
+- [00:08:02](https://youtu.be/pQFwDyrlfvA?t=00h08m02s) Evil re-appears (visually)
+- [00:19:40](https://youtu.be/pQFwDyrlfvA?t=00h19m40s) **Playing *Slay the Spire II***
+- [00:20:43](https://youtu.be/pQFwDyrlfvA?t=00h20m43s) Run #1 begins
+- [01:12:29](https://youtu.be/pQFwDyrlfvA?t=01h12m29s) Testing OBS window capture; screen changes 
+- [01:12:55](https://youtu.be/pQFwDyrlfvA?t=01h12m55s) Back to gameplay
+- [01:20:39](https://youtu.be/pQFwDyrlfvA?t=01h20m39s) Run #1 ends
+- [01:25:28](https://youtu.be/pQFwDyrlfvA?t=01h25m28s) Re-arranging screens to allow viewing Evil's PoV
+- [01:26:34](https://youtu.be/pQFwDyrlfvA?t=01h26m34s) Run #2 begins
+- [01:59:40](https://youtu.be/pQFwDyrlfvA?t=01h59m40s)~ Noah joins
+- [02:00:08](https://youtu.be/pQFwDyrlfvA?t=02h00m08s)~ Noah leaves
+- [02:02:43](https://youtu.be/pQFwDyrlfvA?t=02h02m43s)~ Stream title changed: If we die, I will pay everyone in chat £100 - Vedal
+- [02:03:10](https://youtu.be/pQFwDyrlfvA?t=02h03m10s) Stream title changed: Slay the Spire II w/ Evil & Vedal
+- [02:03:18](https://youtu.be/pQFwDyrlfvA?t=02h03m18s) Stream title changed: imma spirin mah slayzor II (w/ evil and vedal)
+- [02:04:48](https://youtu.be/pQFwDyrlfvA?t=02h04m48s) Stream title changed: Slay the Spire II w/ Evil & Vedal
+- [02:09:54](https://youtu.be/pQFwDyrlfvA?t=02h09m54s) Run #2 ends
+- [02:13:43](https://youtu.be/pQFwDyrlfvA?t=02h13m43s) Run #3 begins
+- [02:15:13](https://youtu.be/pQFwDyrlfvA?t=02h15m13s) Run #3 prematurely ends
+- [02:16:03](https://youtu.be/pQFwDyrlfvA?t=02h16m03s) Run #3 (re-)begins
+- [02:26:38](https://youtu.be/pQFwDyrlfvA?t=02h26m38s) Run #3 ends (for real)
+- [02:27:37](https://youtu.be/pQFwDyrlfvA?t=02h27m37s) Run #4 begins
+- [02:34:48](https://youtu.be/pQFwDyrlfvA?t=02h34m48s) Vedal disconnects
+- [02:36:37](https://youtu.be/pQFwDyrlfvA?t=02h36m37s) Vedal reconnected
+- [03:11:53](https://youtu.be/pQFwDyrlfvA?t=03h11m53s) Evil draws a card(?)
+- [03:14:57](https://youtu.be/pQFwDyrlfvA?t=03h14m57s) Vedal shows a meme image from Mini
+- [03:39:41](https://youtu.be/pQFwDyrlfvA?t=03h39m41s) Run #4 ends
+- [03:41:41](https://youtu.be/pQFwDyrlfvA?t=03h41m41s)~ Raiding Sonneflower
