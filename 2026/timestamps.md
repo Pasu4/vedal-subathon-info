@@ -2105,4 +2105,4 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [03:11:53](https://youtu.be/pQFwDyrlfvA?t=03h11m53s) Evil draws a card(?)
 - [03:14:57](https://youtu.be/pQFwDyrlfvA?t=03h14m57s) Vedal shows a meme image from Mini
 - [03:39:41](https://youtu.be/pQFwDyrlfvA?t=03h39m41s) Run #4 ends
-- [03:41:41](https://youtu.be/pQFwDyrlfvA?t=03h41m41s)~ Raiding Sonneflower
+- [03:41:41](https://youtu.be/pQFwDyrlfvA?t=03h41m41s)~ Raiding [Sonneflower](https://www.twitch.tv/sonneflower)
