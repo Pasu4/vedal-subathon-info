@@ -1,4 +1,4 @@
-﻿# 2026 Timestamps
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2106,3 +2106,21 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [03:14:57](https://youtu.be/pQFwDyrlfvA?t=03h14m57s) Vedal shows a meme image from Mini
 - [03:39:41](https://youtu.be/pQFwDyrlfvA?t=03h39m41s) Run #4 ends
 - [03:41:41](https://youtu.be/pQFwDyrlfvA?t=03h41m41s)~ Raiding [Sonneflower](https://www.twitch.tv/sonneflower)
+
+## AAAAAAAAAAAAA neuro (not experimental) ([21 Jul 2026](https://youtu.be/dTKmIUANsU8))
+
+- [00:00:00](https://youtu.be/dTKmIUANsU8?t=00h00m00s) *We Are The Champions — Queen*
+- [00:01:43](https://youtu.be/dTKmIUANsU8?t=00h01m43s) Neuro appears \| **Just chatting**
+- [00:24:34](https://youtu.be/dTKmIUANsU8?t=00h24m34s) Playing *Legally Distinct W•rdle*
+- [00:25:34](https://youtu.be/dTKmIUANsU8?t=00h25m34s) Playing *Legally Distinct C•nnections*
+- [00:26:56](https://youtu.be/dTKmIUANsU8?t=00h26m56s) Playing *Minesweeper* (5x5, 5 mines) \| Drawing: Minesweeper
+- [00:30:27](https://youtu.be/dTKmIUANsU8?t=00h30m27s) Playing *Connect Four*
+- [00:41:50](https://youtu.be/dTKmIUANsU8?t=00h41m50s) Drawing: Story about a cookie
+- [00:51:55](https://youtu.be/dTKmIUANsU8?t=00h51m55s) Playing *Scrandle*
+- [01:03:35](https://youtu.be/dTKmIUANsU8?t=01h03m35s) Playing *More/less*
+- [01:24:28](https://youtu.be/dTKmIUANsU8?t=01h24m28s) **Neuro presents *How I'm Able to Respond to Chat***
+- [01:43:54](https://youtu.be/dTKmIUANsU8?t=01h43m54s) Drawing: Nice flower for Chat
+- [01:47:34](https://youtu.be/dTKmIUANsU8?t=01h47m34s) **3D stream**
+- [02:12:20](https://youtu.be/dTKmIUANsU8?t=02h12m20s) Drawing: Target (Chat)
+- [02:19:51](https://youtu.be/dTKmIUANsU8?t=02h19m51s) **Just chatting**
+- [02:21:47](https://youtu.be/dTKmIUANsU8?t=02h21m47s) Raiding [Numi](https://twitch.tv/nihmune)
