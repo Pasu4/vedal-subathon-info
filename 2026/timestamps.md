@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2124,3 +2124,28 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [02:12:20](https://youtu.be/dTKmIUANsU8?t=02h12m20s) Drawing: Target (Chat)
 - [02:19:51](https://youtu.be/dTKmIUANsU8?t=02h19m51s) **Just chatting**
 - [02:21:47](https://youtu.be/dTKmIUANsU8?t=02h21m47s) Raiding [Numi](https://twitch.tv/nihmune)
+
+## that's right, good job!!! its neuro karaoke wednesday!!! ([22 Jul 2026](https://youtu.be/NkTBNDtBG70))
+
+- [00:00:00](https://youtu.be/NkTBNDtBG70?t=00h00m00s) *Set it on Fire — Blood Cultures* (instrumental)
+- [00:04:35](https://youtu.be/NkTBNDtBG70?t=00h04m35s) *Sick of House! — OZON* (instrumental)
+- [00:07:50](https://youtu.be/NkTBNDtBG70?t=00h07m50s) Neuro appears \| **Karaoke**
+- [00:07:57](https://youtu.be/NkTBNDtBG70?t=00h07m57s) *Wind-Up — Cecilia Immergreen*
+- [00:13:50](https://youtu.be/NkTBNDtBG70?t=00h13m50s) *Espresso — Sabrina Carpenter*
+- [00:19:22](https://youtu.be/NkTBNDtBG70?t=00h19m22s) *Infinity Of Our Love — Nekomata Master*
+- [00:27:40](https://youtu.be/NkTBNDtBG70?t=00h27m40s) *LADY BUG — Nanahoshi Kangen Gakudan*
+- [00:33:37](https://youtu.be/NkTBNDtBG70?t=00h33m37s) *Talking In Your Sleep — The Romantics*
+- [00:40:13](https://youtu.be/NkTBNDtBG70?t=00h40m13s) *Ain't No Mountain High Enough — Marvin Gaye & Tammi Terrell* (duet)
+- [00:45:31](https://youtu.be/NkTBNDtBG70?t=00h45m31s) *SOSORRY! — ePiaeon*
+- [00:51:34](https://youtu.be/NkTBNDtBG70?t=00h51m34s) *Aerials — System of a Down*
+- [00:58:01](https://youtu.be/NkTBNDtBG70?t=00h58m01s) *The Disease Called Love — Neru* (duet)
+- [01:04:45](https://youtu.be/NkTBNDtBG70?t=01h04m45s) *Diamonds — Rihanna*
+- [01:11:03](https://youtu.be/NkTBNDtBG70?t=01h11m03s) *Tian Tian — Mili*
+- [01:17:47](https://youtu.be/NkTBNDtBG70?t=01h17m47s) *Chururira Chururira Daddadda! — KurageP* (duet)
+- [01:23:39](https://youtu.be/NkTBNDtBG70?t=01h23m39s) _Invisible Touch — Genesis
+- [01:29:46](https://youtu.be/NkTBNDtBG70?t=01h29m46s) *Miku (Neuro Ver.) — Anamanaguchi*
+- [01:36:03](https://youtu.be/NkTBNDtBG70?t=01h36m03s) _stupid horse — 100gecs
+- [01:40:47](https://youtu.be/NkTBNDtBG70?t=01h40m47s) *View From The Top — Matthew Chalmers*
+- [01:47:26](https://youtu.be/NkTBNDtBG70?t=01h47m26s) *Everything To Me — Porter Robinson*
+- [01:54:59](https://youtu.be/NkTBNDtBG70?t=01h54m59s) *SING FOR THE QUEEN — Cosmograph*
+- [01:58:48](https://youtu.be/NkTBNDtBG70?t=01h58m48s)~ Raiding [GX Aura](https://twitch.tv/gx_aura)
