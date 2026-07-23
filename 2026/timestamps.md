@@ -2142,9 +2142,9 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [01:04:45](https://youtu.be/NkTBNDtBG70?t=01h04m45s) *Diamonds — Rihanna*
 - [01:11:03](https://youtu.be/NkTBNDtBG70?t=01h11m03s) *Tian Tian — Mili*
 - [01:17:47](https://youtu.be/NkTBNDtBG70?t=01h17m47s) *Chururira Chururira Daddadda! — KurageP* (duet)
-- [01:23:39](https://youtu.be/NkTBNDtBG70?t=01h23m39s) _Invisible Touch — Genesis
+- [01:23:39](https://youtu.be/NkTBNDtBG70?t=01h23m39s) *Invisible Touch — Genesis*
 - [01:29:46](https://youtu.be/NkTBNDtBG70?t=01h29m46s) *Miku (Neuro Ver.) — Anamanaguchi*
-- [01:36:03](https://youtu.be/NkTBNDtBG70?t=01h36m03s) _stupid horse — 100gecs
+- [01:36:03](https://youtu.be/NkTBNDtBG70?t=01h36m03s) *stupid horse — 100gecs*
 - [01:40:47](https://youtu.be/NkTBNDtBG70?t=01h40m47s) *View From The Top — Matthew Chalmers*
 - [01:47:26](https://youtu.be/NkTBNDtBG70?t=01h47m26s) *Everything To Me — Porter Robinson*
 - [01:54:59](https://youtu.be/NkTBNDtBG70?t=01h54m59s) *SING FOR THE QUEEN — Cosmograph*
