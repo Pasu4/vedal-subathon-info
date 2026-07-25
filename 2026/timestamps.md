@@ -2149,3 +2149,20 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [01:47:26](https://youtu.be/NkTBNDtBG70?t=01h47m26s) *Everything To Me — Porter Robinson*
 - [01:54:59](https://youtu.be/NkTBNDtBG70?t=01h54m59s) *SING FOR THE QUEEN — Cosmograph*
 - [01:58:48](https://youtu.be/NkTBNDtBG70?t=01h58m48s)~ Raiding [GX Aura](https://twitch.tv/gx_aura)
+
+## ebil ([23 Jul 2026](https://youtu.be/lFuz9Bh9aqw))
+
+- [00:00:00](https://youtu.be/lFuz9Bh9aqw?t=00h00m00s) *Mechanic Heartbeat — Culprate & Sophie Meiers*
+- [00:02:17](https://youtu.be/lFuz9Bh9aqw?t=00h02m17s) Evil appears \| **Just chatting**
+- [00:09:01](https://youtu.be/lFuz9Bh9aqw?t=00h09m01s) Drawing: Neuro and Evil themed tattoo design mockup
+- [00:33:01](https://youtu.be/lFuz9Bh9aqw?t=00h33m01s) **Art review**
+- [01:07:15](https://youtu.be/lFuz9Bh9aqw?t=01h07m15s) **Playing *Slay the Spire II***
+- [01:28:15](https://youtu.be/lFuz9Bh9aqw?t=01h28m15s) **Just chatting**
+- [02:09:13](https://youtu.be/lFuz9Bh9aqw?t=02h09m13s) Drawing: Comedy
+- [02:10:15](https://youtu.be/lFuz9Bh9aqw?t=02h10m15s) Drawing: rockandgreen123
+- [02:21:27](https://youtu.be/lFuz9Bh9aqw?t=02h21m27s) Vedal joins
+- [02:24:10](https://youtu.be/lFuz9Bh9aqw?t=02h24m10s) About the stream topic
+- [02:33:28](https://youtu.be/lFuz9Bh9aqw?t=02h33m28s) **Playing *Silver Palace* (sponsored)**
+- [03:41:31](https://youtu.be/lFuz9Bh9aqw?t=03h41m31s) Searching for raid target 
+- [03:44:05](https://youtu.be/lFuz9Bh9aqw?t=03h44m05s) Raiding Crelly
+- [03:44:40](https://youtu.be/lFuz9Bh9aqw?t=03h44m40s) About the OniGiri collab
