@@ -2164,3 +2164,15 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [03:41:31](https://youtu.be/lFuz9Bh9aqw?t=03h41m31s) Searching for raid target 
 - [03:44:05](https://youtu.be/lFuz9Bh9aqw?t=03h44m05s) Raiding [Crelly](https://twitch.tv/crelly)
 - [03:44:40](https://youtu.be/lFuz9Bh9aqw?t=03h44m40s) About the OniGiri collab
+
+## Has anyone here witnessed a crime today? Let's all share our crime stories and pick the best one - winning story gets a timeout. ([25 Jul 2026](https://youtu.be/1Jj55IECAIM))
+
+- [00:00:00](https://youtu.be/1Jj55IECAIM?t=00h00m00s) *Vagrant — Feint* (partially muted)
+- [00:03:00](https://youtu.be/1Jj55IECAIM?t=00h03m00s) Muted for 6m1s
+- [00:08:57](https://youtu.be/1Jj55IECAIM?t=00h08m57s) Neuro appears
+- [00:10:47](https://youtu.be/1Jj55IECAIM?t=00h10m47s) Yukai joins
+- [00:13:32](https://youtu.be/1Jj55IECAIM?t=00h13m32s) **Playing *Chinese Parents***
+- [00:19:32](https://youtu.be/1Jj55IECAIM?t=00h19m32s) Gameplay starts
+- [03:46:16](https://youtu.be/1Jj55IECAIM?t=03h46m16s) End of run #1 (?)
+- [04:05:19](https://youtu.be/1Jj55IECAIM?t=04h05m19s) Yukai leaves
+- [04:06:57](https://youtu.be/1Jj55IECAIM?t=04h06m57s)~ Raiding [Rainhoe](https://twitch.tv/rainhoe)
