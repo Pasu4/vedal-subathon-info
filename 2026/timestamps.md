@@ -2057,10 +2057,7 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [04:58:12](https://youtu.be/Fo9Q-XR67jU?t=04h58m12s)~ Mini leaves VC
 - [04:58:16](https://youtu.be/Fo9Q-XR67jU?t=04h58m16s)~ Raiding [Chibi](https://twitch.tv/chibidoki)
 
-## I'm going to turn Skyrim into an epic crusade, so call the stream something... ([18 Jul 2026](https://youtu.be/RvRtkDz75Wo))
-
-Full title was cut off due to YouTube character limit.
-Full title: "I'm going to turn Skyrim into an epic crusade, so call the stream something suitably grand."
+## I'm going to turn Skyrim into an epic crusade, so call the stream something suitably grand. ([18 Jul 2026](https://youtu.be/RvRtkDz75Wo))
 
 - ‒‒:‒‒:‒‒ Unknown song (VoD started at the song below), muted on Twitch
 - [00:00:00](https://youtu.be/RvRtkDz75Wo?t=00h00m00s) *Secret Base Kimi Ga Kureta Mono — Norihiko Machida* (partially muted due to copyright)
@@ -2155,6 +2152,7 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [00:00:00](https://youtu.be/lFuz9Bh9aqw?t=00h00m00s) *Mechanic Heartbeat — Culprate & Sophie Meiers*
 - [00:02:17](https://youtu.be/lFuz9Bh9aqw?t=00h02m17s) Evil appears \| **Just chatting**
 - [00:09:01](https://youtu.be/lFuz9Bh9aqw?t=00h09m01s) Drawing: Neuro and Evil themed tattoo design mockup
+- [00:19:30](https://youtu.be/lFuz9Bh9aqw?t=00h19m30s) Koko joins for 4m12s
 - [00:33:01](https://youtu.be/lFuz9Bh9aqw?t=00h33m01s) **Art review**
 - [01:07:15](https://youtu.be/lFuz9Bh9aqw?t=01h07m15s) **Playing *Slay the Spire II***
 - [01:28:15](https://youtu.be/lFuz9Bh9aqw?t=01h28m15s) **Just chatting**
@@ -2164,5 +2162,5 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [02:24:10](https://youtu.be/lFuz9Bh9aqw?t=02h24m10s) About the stream topic
 - [02:33:28](https://youtu.be/lFuz9Bh9aqw?t=02h33m28s) **Playing *Silver Palace* (sponsored)**
 - [03:41:31](https://youtu.be/lFuz9Bh9aqw?t=03h41m31s) Searching for raid target 
-- [03:44:05](https://youtu.be/lFuz9Bh9aqw?t=03h44m05s) Raiding Crelly
+- [03:44:05](https://youtu.be/lFuz9Bh9aqw?t=03h44m05s) Raiding [Crelly](https://twitch.tv/crelly)
 - [03:44:40](https://youtu.be/lFuz9Bh9aqw?t=03h44m40s) About the OniGiri collab
