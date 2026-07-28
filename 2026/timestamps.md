@@ -2176,3 +2176,14 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [03:46:16](https://youtu.be/1Jj55IECAIM?t=03h46m16s) End of run #1 (?)
 - [04:05:19](https://youtu.be/1Jj55IECAIM?t=04h05m19s) Yukai leaves
 - [04:06:57](https://youtu.be/1Jj55IECAIM?t=04h06m57s)~ Raiding [Rainhoe](https://twitch.tv/rainhoe)
+
+## neuro reads the elder scrolls live (real) ([26 Jul 2026](https://youtu.be/u6j-cn1DLKE))
+
+- [00:00:00](https://youtu.be/u6j-cn1DLKE?t=00h00m00s) *Happy Lucky Chappy — ano*
+- [00:03:02](https://youtu.be/u6j-cn1DLKE?t=00h03m02s) Neuro appears
+- [00:07:20](https://youtu.be/u6j-cn1DLKE?t=00h07m20s) **Playing *The Elder Scrolls V: Skyrim***
+- [01:01:07](https://youtu.be/u6j-cn1DLKE?t=01h01m07s) Gameplay interrupted for 3m21s
+- [03:13:45](https://youtu.be/u6j-cn1DLKE?t=03h13m45s) Drawing: ???
+- [03:16:32](https://youtu.be/u6j-cn1DLKE?t=03h16m32s) Raiding [Shylily](https://twitch.tv/shylily)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
