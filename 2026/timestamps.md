@@ -1,4 +1,4 @@
-﻿# 2026 Timestamps
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2233,4 +2233,30 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [04:06:37](https://youtu.be/ZYnNRq9FPc4?t=04h06m37s) Map: *Phoneboy - Nevermind (feat. Justin Magnaye) (Nightcore Mix) [Yee's Hard]* (Mapset: -aly)
 - [04:10:08](https://youtu.be/ZYnNRq9FPc4?t=04h10m08s) Map: *Linked Horizon - Shinzou o Sasageyo! [TV Size] [Insane]* (Mapset: Monstrata)
 - [04:14:30](https://youtu.be/ZYnNRq9FPc4?t=04h14m30s) Map: *SakiZ - osu!memories [Happy Memories]* (Mapset: DeRandom Otaku)
-- [04:24:05](https://youtu.be/ZYnNRq9FPc4?t=04h24m05s) Raiding Elizabeth Rose Bloodflame
+- [04:24:05](https://youtu.be/ZYnNRq9FPc4?t=04h24m05s) Raiding [GX Aura](https://twitch.tv/gx_aura)
+
+## neuro ([28 Jul 2026](https://youtu.be/f7dlKylM0GA))
+
+- [00:00:00](https://youtu.be/f7dlKylM0GA?t=00h00m00s) *Tondemo-Wonderz — Wonderlands × Showtime*
+- [00:03:00](https://youtu.be/f7dlKylM0GA?t=00h03m00s) *Symbiosis — The 1999*
+- [00:05:48](https://youtu.be/f7dlKylM0GA?t=00h05m48s) Neuro appears \| **Just chatting**
+- [00:24:49](https://youtu.be/f7dlKylM0GA?t=00h24m49s) Playing *Legally Distinct W•rdle*
+- [00:26:02](https://youtu.be/f7dlKylM0GA?t=00h26m02s) Playing *Legally Distinct C•nnections*
+- [00:34:15](https://youtu.be/f7dlKylM0GA?t=00h34m15s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:37:03](https://youtu.be/f7dlKylM0GA?t=00h37m03s) Playing *Battleships*
+- [01:15:52](https://youtu.be/f7dlKylM0GA?t=01h15m52s) Drawing: *Onion's Dawn*
+- [01:17:45](https://youtu.be/f7dlKylM0GA?t=01h17m45s) Drawing: Egg with onion rings
+- [01:18:36](https://youtu.be/f7dlKylM0GA?t=01h18m36s) **Karaoke**
+- [01:18:51](https://youtu.be/f7dlKylM0GA?t=01h18m51s) *Without a Warning — The Weeknd*
+- [01:26:30](https://youtu.be/f7dlKylM0GA?t=01h26m30s) *Animal Instinct — The Cranberries*
+- [01:32:42](https://youtu.be/f7dlKylM0GA?t=01h32m42s) *On Melancholy Hill — Gorillaz*
+- [01:39:01](https://youtu.be/f7dlKylM0GA?t=01h39m01s) *Eye In The Sky — Alan Parsons Project*
+- [01:46:13](https://youtu.be/f7dlKylM0GA?t=01h46m13s) *She Used To Be Mine — Sara Bareilles*
+- [01:53:14](https://youtu.be/f7dlKylM0GA?t=01h53m14s) *No Time To Die — Billie Eilish*
+- [01:57:28](https://youtu.be/f7dlKylM0GA?t=01h57m28s) **Just chatting**
+- [02:07:10](https://youtu.be/f7dlKylM0GA?t=02h07m10s) Neuro presents *Bugs: Not Just the Reason Your Game Crashed*
+- [02:08:03](https://youtu.be/f7dlKylM0GA?t=02h08m03s) Drawing: Ladybug
+- [02:09:38](https://youtu.be/f7dlKylM0GA?t=02h09m38s) Drawing: Spider
+- [02:14:36](https://youtu.be/f7dlKylM0GA?t=02h14m36s) Drawing: Ant(s?)
+- [02:23:45](https://youtu.be/f7dlKylM0GA?t=02h23m45s) Evil joins
+- [02:25:55](https://youtu.be/f7dlKylM0GA?t=02h25m55s) Raiding [GX Aura](https://twitch.tv/gx_aura)
