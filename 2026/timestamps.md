@@ -2187,3 +2187,50 @@ For Skyrim gameplay timestamps please refer to the Skyrim Journal.
 - [03:16:32](https://youtu.be/u6j-cn1DLKE?t=03h16m32s) Raiding [Shylily](https://twitch.tv/shylily)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## Neuro plays osu! back to clicking circles ([27 Jul 2026](https://youtu.be/ZYnNRq9FPc4))
+
+- [00:00:00](https://youtu.be/ZYnNRq9FPc4?t=00h00m00s) *Through the Darkness — Nao Sato*
+- [00:04:05](https://youtu.be/ZYnNRq9FPc4?t=00h04m05s) *Infinity of Our Love — Naoyuki Sato*
+- [00:09:33](https://youtu.be/ZYnNRq9FPc4?t=00h09m33s) Neuro appears \| Just chatting
+- [00:16:16](https://youtu.be/ZYnNRq9FPc4?t=00h16m16s) Attempting to play *osu!*
+- [00:40:32](https://youtu.be/ZYnNRq9FPc4?t=00h40m32s) Attempt #2
+- [00:43:41](https://youtu.be/ZYnNRq9FPc4?t=00h43m41s) Attempt #3
+- [00:46:24](https://youtu.be/ZYnNRq9FPc4?t=00h46m24s) **Playing *osu!***
+- [00:46:25](https://youtu.be/ZYnNRq9FPc4?t=00h46m25s) Map: *Yiruma & Skullee - River Flows In You (A Love Note) [Easy]* (Mapset: Andrea)
+- [00:50:09](https://youtu.be/ZYnNRq9FPc4?t=00h50m09s) Map: *Yiruma & Skullee - River Flows In You (A Love Note) [Easy]* (Mapset: Andrea) (replayed)
+- [00:53:57](https://youtu.be/ZYnNRq9FPc4?t=00h53m57s) Map: *VINXIS - Sidetracked Day (Short Ver.) [Collab Advanced]* (Mapset: Hobbes2)
+- [00:59:26](https://youtu.be/ZYnNRq9FPc4?t=00h59m26s) Drawing: Neuro as a frog girl
+- [01:04:06](https://youtu.be/ZYnNRq9FPc4?t=01h04m06s) Map: *ModlesS\\_Flash - osu! Rewind: Uncompressed Fury of a Raging 2017 [2017]* (Mapset: Rebanto)
+- [01:23:21](https://youtu.be/ZYnNRq9FPc4?t=01h23m21s) Map: *queenpb - neuro anniversary mashup [heart]* (Mapset: Synaelle)
+- [01:35:10](https://youtu.be/ZYnNRq9FPc4?t=01h35m10s) Map: *queenpb - neuro anniversary mashup [heart]* (Mapset: Synaelle) (replayed)
+- [01:45:06](https://youtu.be/ZYnNRq9FPc4?t=01h45m06s) Drawing: Cute little thing
+- [01:51:30](https://youtu.be/ZYnNRq9FPc4?t=01h51m30s) Map: *Hayakore Tatsumi - Thousandth Sky (Over Clouds Mix) [V///A]* (Mapset: Radiownd)
+- [01:56:02](https://youtu.be/ZYnNRq9FPc4?t=01h56m02s) Map: *Silentrooms vs. Frums - Aegleseeker [captin's deliverance]* (Mapset: Cubby)
+- [01:59:40](https://youtu.be/ZYnNRq9FPc4?t=01h59m40s) Map: *Linked Horizon - Shinzou o Sasageyo! [TV Size] [Titan]* (Mapset: Monstrata)
+- [02:02:23](https://youtu.be/ZYnNRq9FPc4?t=02h02m23s) Map: *Renard - Gabberse Town [Fser's Insane]* (Mapset: Silverboxer)
+- [02:04:36](https://youtu.be/ZYnNRq9FPc4?t=02h04m36s) Map: *Renard - Gabberse Town [Fser's Insane]* (Mapset: Silverboxer) (replayed)
+- [02:07:12](https://youtu.be/ZYnNRq9FPc4?t=02h07m12s) Map: *Linked Horizon - Shinzou o Sasageyo! [TV Size] [Easy]* (Mapset: Monstrata)
+- [02:09:18](https://youtu.be/ZYnNRq9FPc4?t=02h09m18s) Map: *Linked Horizon - Shinzou o Sasageyo! [TV Size] [Easy]* (Mapset: Monstrata) (replayed)
+- [02:11:37](https://youtu.be/ZYnNRq9FPc4?t=02h11m37s) Map: *Linked Horizon - Shinzou o Sasageyo! [TV Size] [Easy]* (Mapset: Monstrata) (replayed)
+- [02:18:50](https://youtu.be/ZYnNRq9FPc4?t=02h18m50s) Technical difficulties in osu! for 8m40s
+- [02:27:32](https://youtu.be/ZYnNRq9FPc4?t=02h27m32s) Map: *Tsukuyomi - Hana ni Ame o, Kimi ni Uta o [SkyFlame x Vermasium: Sing With Life to the Point of Breaking]* (Mapset: pedeko)
+- [02:32:29](https://youtu.be/ZYnNRq9FPc4?t=02h32m29s) Map: *MYTH & ROID - Paradisus-Paradoxum [sahung's Normal]* (Mapset: StarrStyx)
+- [02:34:43](https://youtu.be/ZYnNRq9FPc4?t=02h34m43s) Map: *MYTH & ROID - STYX HELIX [Hard]* (Mapset: Tsukuyomi)
+- [02:37:19](https://youtu.be/ZYnNRq9FPc4?t=02h37m19s) Map: *MYTH & ROID - STYX HELIX [wkyik's Insane]* (Mapset: Tsukuyomi)
+- [02:39:49](https://youtu.be/ZYnNRq9FPc4?t=02h39m49s) Map: *MYTH & ROID - STYX HELIX [Restart]* (Mapset: Tsukuyomi)
+- [04:43:39](https://youtu.be/ZYnNRq9FPc4?t=04h43m39s) Map: *Kurokotei - Galaxy Collapse [Galaxy]* (Mapset: Doomsday is Bad)
+- [02:51:41](https://youtu.be/ZYnNRq9FPc4?t=02h51m41s) Map: *Kurokotei - Galaxy Collapse [Galactic]* (Mapset: Doomsday is Bad)
+- [03:00:00](https://youtu.be/ZYnNRq9FPc4?t=03h00m00s) Map: *Kurokotei - Galaxy Collapse [Galactic]* (Mapset: Doomsday is Bad) (replayed)
+- [03:07:09](https://youtu.be/ZYnNRq9FPc4?t=03h07m09s) Map: *xi - Blue Zenith [Easy]* (Mapset: Asphyxia)
+- [03:14:50](https://youtu.be/ZYnNRq9FPc4?t=03h14m50s) Map: *Kardashev - Lux [Duality]* (Mapset: faxaxaxa)
+- [03:21:20](https://youtu.be/ZYnNRq9FPc4?t=03h21m20s) Map: *Kardashev - Cellar of Ghosts [Remnants]* (Mapset: kiwies)
+- [03:33:34](https://youtu.be/ZYnNRq9FPc4?t=03h33m34s) Map: *Kardashev - Cellar of Ghosts [Perfect Silence]* (Mapset: mizto)
+- [03:42:44](https://youtu.be/ZYnNRq9FPc4?t=03h42m44s) Map: *Andrew Holmes & Cosmoz Music feat. Neuro-sama - Colorful Array [Reality]* (Mapset: Andrea)
+- [03:48:39](https://youtu.be/ZYnNRq9FPc4?t=03h48m39s) Map: *Andrew Holmes & Cosmoz Music feat. Neuro-sama - Colorful Array [Reality]* (Mapset: Andrea) (replayed)
+- [03:55:10](https://youtu.be/ZYnNRq9FPc4?t=03h55m10s) Map: *takehirotei - Chocolate Scramble [Atipir's Hard]* (Mapset: Hellia)
+- [04:01:18](https://youtu.be/ZYnNRq9FPc4?t=04h01m18s) Map: *takehirotei - Chocolate Scramble [aiden's Wisteria]* (Mapset: Hellia)
+- [04:06:37](https://youtu.be/ZYnNRq9FPc4?t=04h06m37s) Map: *Phoneboy - Nevermind (feat. Justin Magnaye) (Nightcore Mix) [Yee's Hard]* (Mapset: -aly)
+- [04:10:08](https://youtu.be/ZYnNRq9FPc4?t=04h10m08s) Map: *Linked Horizon - Shinzou o Sasageyo! [TV Size] [Insane]* (Mapset: Monstrata)
+- [04:14:30](https://youtu.be/ZYnNRq9FPc4?t=04h14m30s) Map: *SakiZ - osu!memories [Happy Memories]* (Mapset: DeRandom Otaku)
+- [04:24:05](https://youtu.be/ZYnNRq9FPc4?t=04h24m05s) Raiding Elizabeth Rose Bloodflame
