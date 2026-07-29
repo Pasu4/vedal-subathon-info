@@ -190,7 +190,7 @@ Some content counts for multiple rows, e.g. "3D karaoke" is also counted as "3D 
 | Doki-Doki Action Game³                    | Game                  | Evil, Mini                    | [07-17](https://youtu.be/Fo9Q-XR67jU)
 | More/less                                 | Game integration      | Neuro                         | [07-21](https://youtu.be/dTKmIUANsU8)
 | Silver Palace                             | Game                  | Vedal, Evil                   | [07-23](https://youtu.be/lFuz9Bh9aqw)
-| osu!                                      | Game                  | Neuro                         | [07-27](https://youtu.be/ZYnNRq9FPc4)
+| osu!                                      | Game integration      | Neuro                         | [07-27](https://youtu.be/ZYnNRq9FPc4)
 
 ¹Formerly called _Legally Distinct •••dle_
 
