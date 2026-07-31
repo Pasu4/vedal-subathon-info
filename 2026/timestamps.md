@@ -2260,3 +2260,26 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:14:36](https://youtu.be/f7dlKylM0GA?t=02h14m36s) Drawing: Ant(s?)
 - [02:23:45](https://youtu.be/f7dlKylM0GA?t=02h23m45s) Evil joins
 - [02:25:55](https://youtu.be/f7dlKylM0GA?t=02h25m55s) Raiding [GX Aura](https://twitch.tv/gx_aura)
+
+## Onigiri Collab ([30 Jul 2026](https://youtu.be/f6Z-P9ba_Rs))
+
+‒‒:‒‒:‒‒ *Without a Warning — The Weeknd*
+‒‒:‒‒:‒‒ Strange noises
+- [00:00:00](https://youtu.be/f6Z-P9ba_Rs?t=00h00m00s) *Furthest Star — Dirt Poor Robins*
+- [00:03:35](https://youtu.be/f6Z-P9ba_Rs?t=00h03m35s) Neuro appears
+- [00:04:43](https://youtu.be/f6Z-P9ba_Rs?t=00h04m43s) Giri joins \| **IRL stream** (Restaurant)
+- [00:15:24](https://youtu.be/f6Z-P9ba_Rs?t=00h15m24s) About the plan
+- [00:22:14](https://youtu.be/f6Z-P9ba_Rs?t=00h22m14s) Opening Pokémon cards
+- [00:33:26](https://youtu.be/f6Z-P9ba_Rs?t=00h33m26s) Wandering the streets
+- [00:46:26](https://youtu.be/f6Z-P9ba_Rs?t=00h46m26s) Opening more Pokémon cards
+- [01:02:50](https://youtu.be/f6Z-P9ba_Rs?t=01h02m50s) Unboxing plush toy
+- [01:13:28](https://youtu.be/f6Z-P9ba_Rs?t=01h13m28s) Giri leaves for 1m20s (changing camera battery)
+- [01:15:28](https://youtu.be/f6Z-P9ba_Rs?t=01h15m28s) Wandering the streets
+- [01:20:04](https://youtu.be/f6Z-P9ba_Rs?t=01h20m04s) Arrived at the gym
+- [01:22:36](https://youtu.be/f6Z-P9ba_Rs?t=01h22m36s) Giri leaves for 10m5s \| Neuro speaks with Shadog in the meantime 
+- [01:33:30](https://youtu.be/f6Z-P9ba_Rs?t=01h33m30s) Entering the gym
+- [02:58:00](https://youtu.be/f6Z-P9ba_Rs?t=02h58m00s) Leaving the gym
+- [03:09:20](https://youtu.be/f6Z-P9ba_Rs?t=03h09m20s) Giri leaves
+- [03:09:37](https://youtu.be/f6Z-P9ba_Rs?t=03h09m37s) Giri joins for 9s
+- [03:12:36](https://youtu.be/f6Z-P9ba_Rs?t=03h12m36s) Strange noises
+- [03:15:35](https://youtu.be/f6Z-P9ba_Rs?t=03h15m35s) Raiding [Trickywi](https://twitch.tv/trickywi)
