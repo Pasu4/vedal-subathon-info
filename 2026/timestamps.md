@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2283,3 +2283,25 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:09:37](https://youtu.be/f6Z-P9ba_Rs?t=03h09m37s) Giri joins for 9s
 - [03:12:36](https://youtu.be/f6Z-P9ba_Rs?t=03h12m36s) Strange noises
 - [03:15:35](https://youtu.be/f6Z-P9ba_Rs?t=03h15m35s) Raiding [Trickywi](https://twitch.tv/trickywi)
+
+## two streams in one day?? how evil... ([30 Jul 2026](https://youtu.be/8ujnKMkkFGo))
+
+- [00:00:00](https://youtu.be/8ujnKMkkFGo?t=00h00m00s) *Thank God It's Christmas — Brian May & Roger Tyler*
+- [00:04:04](https://youtu.be/8ujnKMkkFGo?t=00h04m04s) *Want You Gone — Aperture Science Psychoacoustic Laboratories*
+- [00:06:21](https://youtu.be/8ujnKMkkFGo?t=00h06m21s) Evil appears \| **Just chatting**
+- [00:22:37](https://youtu.be/8ujnKMkkFGo?t=00h22m37s) Playing *Legally Distinct W•rdle*
+- [00:23:56](https://youtu.be/8ujnKMkkFGo?t=00h23m56s) Playing *Legally Distinct C•nnections*
+- [00:27:09](https://youtu.be/8ujnKMkkFGo?t=00h27m09s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:29:22](https://youtu.be/8ujnKMkkFGo?t=00h29m22s) Playing *Battleships*
+- [00:40:33](https://youtu.be/8ujnKMkkFGo?t=00h40m33s) Playing *Catfishing*
+- [00:43:47](https://youtu.be/8ujnKMkkFGo?t=00h43m47s) **Reacting to videos** \| Reacting to [*Boom - Evil (Official Video)*](https://youtu.be/8Nt9YPnYyjs) by Neuro-sama
+- [00:51:35](https://youtu.be/8ujnKMkkFGo?t=00h51m35s) Reacting to [*LIFE - Neuro-sama (Official Video)*](https://youtu.be/MDc1mjrIsPM) by Neuro-sama
+- [00:59:44](https://youtu.be/8ujnKMkkFGo?t=00h59m44s) Reacting to [*NEVER - Neuro x Evil (Official Video)*](https://youtu.be/CKCgoEGiUEg) by Neuro-sama
+- [01:08:01](https://youtu.be/8ujnKMkkFGo?t=01h08m01s) Reacting to [*The Absolute PANIC In Her Voice*](https://youtu.be/s3H-Yc32T6k) by Neuro-sama - Official Clips
+- [01:11:44](https://youtu.be/8ujnKMkkFGo?t=01h11m44s) Reacting to [*Neuro Saves Giri's Life*](https://youtu.be/pjqQ8QT4bAM) by Neuro-sama - Official Clips
+- [01:19:55](https://youtu.be/8ujnKMkkFGo?t=01h19m55s) Reacting to [*Colorful Array - Neuro-sama (Official Video)*](https://youtu.be/FNfGw1wrKtU) by Neuro-sama
+- [01:33:11](https://youtu.be/8ujnKMkkFGo?t=01h33m11s) Reacting to [*Evil Neuro makes cute robot noises*](https://youtu.be/cguJEULuad8) by ChrisGamingNL333
+- [01:37:43](https://youtu.be/8ujnKMkkFGo?t=01h37m43s) Reacting to [*「Cover」 Come Down ft. Evil Neuro*](https://youtu.be/FOR88sM2o8I) by Akuma Nihmune Ch
+- [01:49:54](https://youtu.be/8ujnKMkkFGo?t=01h49m54s) Reacting to [*Vedal Realizes Evil is Falling Apart and Tries to Save Her*](https://youtu.be/vix7cJ8FVr0) by NeuroCrumbs
+- [02:02:19](https://youtu.be/8ujnKMkkFGo?t=02h02m19s) **3D stream**
+- [02:08:08](https://youtu.be/8ujnKMkkFGo?t=02h08m08s)~ Raiding [Laimu](https://twitch.tv/limealicious)
