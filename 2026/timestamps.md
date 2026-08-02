@@ -2305,3 +2305,13 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:49:54](https://youtu.be/8ujnKMkkFGo?t=01h49m54s) Reacting to [*Vedal Realizes Evil is Falling Apart and Tries to Save Her*](https://youtu.be/vix7cJ8FVr0) by NeuroCrumbs
 - [02:02:19](https://youtu.be/8ujnKMkkFGo?t=02h02m19s) **3D stream**
 - [02:08:08](https://youtu.be/8ujnKMkkFGo?t=02h08m08s)~ Raiding [Laimu](https://twitch.tv/limealicious)
+
+## Defeat the Draugr! The Draaaaugr! ([01 Aug 2026](https://youtu.be/aQlQReekXaw))
+
+- [00:00:00](https://youtu.be/aQlQReekXaw?t=00h00m00s) *Material Girl — Madonna*
+- [00:03:49](https://youtu.be/aQlQReekXaw?t=00h03m49s) *Thanks for Being Lifeless — PinocchioP*
+- [00:08:08](https://youtu.be/aQlQReekXaw?t=00h08m08s) Neuro appears
+- [00:16:35](https://youtu.be/aQlQReekXaw?t=00h16m35s) **Playing *The Elder Scrolls V: Skyrim***
+- [04:14:33](https://youtu.be/aQlQReekXaw?t=04h14m33s)~ Raiding [Shylily](https://twitch.tv/shylily)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
