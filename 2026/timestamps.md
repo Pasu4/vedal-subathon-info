@@ -2263,8 +2263,8 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 
 ## Onigiri Collab ([30 Jul 2026](https://youtu.be/f6Z-P9ba_Rs))
 
-‒‒:‒‒:‒‒ *Without a Warning — The Weeknd*
-‒‒:‒‒:‒‒ Strange noises
+- ‒‒:‒‒:‒‒ *Without a Warning — The Weeknd*
+- ‒‒:‒‒:‒‒ Strange noises
 - [00:00:00](https://youtu.be/f6Z-P9ba_Rs?t=00h00m00s) *Furthest Star — Dirt Poor Robins*
 - [00:03:35](https://youtu.be/f6Z-P9ba_Rs?t=00h03m35s) Neuro appears
 - [00:04:43](https://youtu.be/f6Z-P9ba_Rs?t=00h04m43s) Giri joins \| **IRL stream** (Restaurant)
