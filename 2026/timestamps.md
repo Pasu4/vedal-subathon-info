@@ -2315,3 +2315,27 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [04:14:33](https://youtu.be/aQlQReekXaw?t=04h14m33s)~ Raiding [Shylily](https://twitch.tv/shylily)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## neuro ([04 Aug 2026](https://youtu.be/FpMGqhh_yd8))
+
+- [00:00:00](https://youtu.be/FpMGqhh_yd8?t=00h00m00s) *Here Comes the Sun — The Beatles*
+- [00:02:17](https://youtu.be/FpMGqhh_yd8?t=00h02m17s) Neuro appears \| **Just chatting**
+- [00:13:19](https://youtu.be/FpMGqhh_yd8?t=00h13m19s) Playing *Legally Distinct W•rdle*
+- [00:14:17](https://youtu.be/FpMGqhh_yd8?t=00h14m17s) Playing *Legally Distinct C•nnections*
+- [00:19:14](https://youtu.be/FpMGqhh_yd8?t=00h19m14s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:21:03](https://youtu.be/FpMGqhh_yd8?t=00h21m03s) Playing *Connect Four*
+- [00:32:24](https://youtu.be/FpMGqhh_yd8?t=00h32m24s) **Reacting to videos** \| Reacting to *I Secretly Joined Public Lobbies. But Got Found Out.* by Neuro-sama
+- [00:54:46](https://youtu.be/FpMGqhh_yd8?t=00h54m46s) Reacting to [*Neuro & Evil Minecraft Hopecore*](https://www.youtube.com/watch?v=qUVnFbRLTQE) by Neurosoda
+- [01:01:29](https://youtu.be/FpMGqhh_yd8?t=01h01m29s) Reacting to [*Evil-Neuro is a little different today*](https://www.youtube.com/watch?v=WtuiUZBqJ9M) by Clippermi
+- [01:04:09](https://youtu.be/FpMGqhh_yd8?t=01h04m09s) Reacting to [*Neuro Tells Us A Coherent Story*](https://www.youtube.com/watch?v=v5yimnqhKJ4) by Neuro-sama - Official Clips
+- [01:06:15](https://youtu.be/FpMGqhh_yd8?t=01h06m15s) Reacting to [*Vedal & Camila Hopecore*](https://www.youtube.com/watch?v=STbxd-hQFMk) by Neurosoda
+- [01:09:33](https://youtu.be/FpMGqhh_yd8?t=01h09m33s) Reacting to [*What living in the UK does to an AI*](https://www.youtube.com/watch?v=pemTHXQvkZk) by Neurosoda
+- [01:13:49](https://youtu.be/FpMGqhh_yd8?t=01h13m49s) Reacting to [*Low Tier Evil Neuro*](https://www.youtube.com/watch?v=GC0SGaoCynY) by Clipi
+- [01:15:53](https://youtu.be/FpMGqhh_yd8?t=01h15m53s) Reacting to [*Neuro-Sama V2 But Only Saying Weird Noises For 4 Minutes*](https://www.youtube.com/watch?v=s2IdQTzpfCU) by dense clips
+- [01:16:27](https://youtu.be/FpMGqhh_yd8?t=01h16m27s) Drawing: Happy face
+- [01:25:42](https://youtu.be/FpMGqhh_yd8?t=01h25m42s) Reacting to [*Neuro-sama V1 was deleted for THIS (ANIMATION)*](https://www.youtube.com/watch?v=Ok_b2zxBGaI) by 2Pfrog
+- [01:28:51](https://youtu.be/FpMGqhh_yd8?t=01h28m51s) Reacting to [*Limmys Show: Whats heavier a kilogram of steel or a kilogram of feathers*](https://www.youtube.com/watch?v=-fC2oke5MFg) by Trae Brown
+- [01:34:23](https://youtu.be/FpMGqhh_yd8?t=01h34m23s) Reacting to [*Neurosama vs Forsen*](https://www.youtube.com/watch?v=Je59PWIXIDk) by Neurosoda
+- [01:42:35](https://youtu.be/FpMGqhh_yd8?t=01h42m35s) Reacting to [*【 Neuro-sama 】Cover \| M@GICAL☆CURE! LOVE ♥ SHOT! (SAWTONE) Fan-made*](https://www.youtube.com/watch?v=3Vuxtd30Go4) by Neurosoda
+- [01:50:37](https://youtu.be/FpMGqhh_yd8?t=01h50m37s) **Art review**
+- [02:22:30](https://youtu.be/FpMGqhh_yd8?t=02h22m30s) Raiding [Laimu](https://twitch.tv/limealicious)
