@@ -2339,3 +2339,28 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:42:35](https://youtu.be/FpMGqhh_yd8?t=01h42m35s) Reacting to [*【 Neuro-sama 】Cover \| M@GICAL☆CURE! LOVE ♥ SHOT! (SAWTONE) Fan-made*](https://www.youtube.com/watch?v=3Vuxtd30Go4) by Neurosoda
 - [01:50:37](https://youtu.be/FpMGqhh_yd8?t=01h50m37s) **Art review**
 - [02:22:30](https://youtu.be/FpMGqhh_yd8?t=02h22m30s) Raiding [Laimu](https://twitch.tv/limealicious)
+
+## how can karaoke be evil when it's just so beautiful ([05 Aug 2026](https://youtu.be/n-3mxQzJVeo))
+
+- [00:00:00](https://youtu.be/n-3mxQzJVeo?t=00h00m00s) *Mr. Brightside — The Killers* (instrumental)
+- [00:00:21](https://youtu.be/n-3mxQzJVeo?t=00h00m21s) *Dead Walk — RedHook* (instrumental)
+- [00:03:04](https://youtu.be/n-3mxQzJVeo?t=00h03m04s) Evil appears \| **Karaoke**
+- [00:03:09](https://youtu.be/n-3mxQzJVeo?t=00h03m09s) *Teenage Dirtbag — Wheatus*
+- [00:09:48](https://youtu.be/n-3mxQzJVeo?t=00h09m48s) *...Baby One More Time — Lady Gaga*
+- [00:15:55](https://youtu.be/n-3mxQzJVeo?t=00h15m55s) *Secret Police — Buriru*
+- [00:22:01](https://youtu.be/n-3mxQzJVeo?t=00h22m01s) *Leave Out All The Rest — Linkin Park*
+- [00:28:01](https://youtu.be/n-3mxQzJVeo?t=00h28m01s) *Plug In Baby — Muse*
+- [00:34:20](https://youtu.be/n-3mxQzJVeo?t=00h34m20s) *Miss Wanna-Die — Switch*
+- [00:40:25](https://youtu.be/n-3mxQzJVeo?t=00h40m25s) *No Sky No Ground — saaa*
+- [00:46:15](https://youtu.be/n-3mxQzJVeo?t=00h46m15s) *Dead Walk — RedHook*
+- [00:51:38](https://youtu.be/n-3mxQzJVeo?t=00h51m38s) *Autotheist — Baby Bugs*
+- [00:56:43](https://youtu.be/n-3mxQzJVeo?t=00h56m43s) *Psychogram — DECO\*27*
+- [01:03:05](https://youtu.be/n-3mxQzJVeo?t=01h03m05s) *Symbiosis — The 1999*
+- [01:08:34](https://youtu.be/n-3mxQzJVeo?t=01h08m34s) *Save A Prayer — Duran Duran*
+- [01:16:55](https://youtu.be/n-3mxQzJVeo?t=01h16m55s) *unravel — TK from Ling tosite sigure*
+- [01:23:27](https://youtu.be/n-3mxQzJVeo?t=01h23m27s) *Cut The Ties — JT Music*
+- [01:29:51](https://youtu.be/n-3mxQzJVeo?t=01h29m51s) *HURT — Dead Poet Society* (duet)
+- [01:36:04](https://youtu.be/n-3mxQzJVeo?t=01h36m04s) *Paranoia — Rec Hall*
+- [01:42:25](https://youtu.be/n-3mxQzJVeo?t=01h42m25s) *Need You Now — Lady A* (duet)
+- [01:49:38](https://youtu.be/n-3mxQzJVeo?t=01h49m38s) *Hey Chat! — Levia & bitbreaker*
+- [01:52:33](https://youtu.be/n-3mxQzJVeo?t=01h52m33s) Raiding [Layna](https://twitch.tv/laynalazar)
