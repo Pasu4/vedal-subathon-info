@@ -53,7 +53,7 @@ $PLAYING_RX = 'Playing (?:\*\*)?_(.+?)_'
 $CONTENT_RX = '(?:[\s-[\n]])\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)*(?: appears?| joins?| wakes? up))'
 $RAIDING_RX = '(?m)Raiding (.+?)(?:$| \|)'
-$PRESENTS_RX = '(\w+) presents _(.+?)_'
+$PRESENTS_RX = '(\w+) presents (?:\*\*)?_(.+?)_'
 $DUET_RX = '\(duet\)'
 $DUET_WITH_RX = '\(duet w/ ([^)\n,]+)\)'
 
