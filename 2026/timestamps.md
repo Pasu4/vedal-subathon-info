@@ -2364,3 +2364,23 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:42:25](https://youtu.be/n-3mxQzJVeo?t=01h42m25s) *Need You Now — Lady A* (duet)
 - [01:49:38](https://youtu.be/n-3mxQzJVeo?t=01h49m38s) *Hey Chat! — Levia & bitbreaker*
 - [01:52:33](https://youtu.be/n-3mxQzJVeo?t=01h52m33s) Raiding [Layna](https://twitch.tv/laynalazar)
+
+## Evil stream on Thursday innit (extended) ([06 Aug 2026](https://youtu.be/PYfmTmFOy7o))
+
+- [00:00:00](https://youtu.be/PYfmTmFOy7o?t=00h00m00s) *Hikarunara — Goose House*
+- [00:03:51](https://youtu.be/PYfmTmFOy7o?t=00h03m51s) *炜WARD ROMANCE — FLAVOR FOLEY*
+- [00:06:34](https://youtu.be/PYfmTmFOy7o?t=00h06m34s) Evil appears \| **Just chatting**
+- [00:11:42](https://youtu.be/PYfmTmFOy7o?t=00h11m42s) Drawing: Pumpkin (evil drawing of the day)
+- [00:17:25](https://youtu.be/PYfmTmFOy7o?t=00h17m25s) Playing *Legally Distinct W•rdle*
+- [00:19:42](https://youtu.be/PYfmTmFOy7o?t=00h19m42s) Playing *Legally Distinct C•nnections*
+- [00:27:22](https://youtu.be/PYfmTmFOy7o?t=00h27m22s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:33:05](https://youtu.be/PYfmTmFOy7o?t=00h33m05s) Playing *Scrandle*
+- [00:47:20](https://youtu.be/PYfmTmFOy7o?t=00h47m20s) **Evil presents *The Entire History of Evil***
+- [01:07:27](https://youtu.be/PYfmTmFOy7o?t=01h07m27s) **Just chatting**
+- [01:12:38](https://youtu.be/PYfmTmFOy7o?t=01h12m38s) Drawing: Example of hobo sign encryption
+- [01:15:35](https://youtu.be/PYfmTmFOy7o?t=01h15m35s) **Reacting to videos** \| Reacting to [*\[neurosama fan mv\] Cheerleader - Porter Robinson (Covered by Evil Neuro)*](https://youtu.be/9xk0YsDk_zM) by klef
+- [01:23:58](https://youtu.be/PYfmTmFOy7o?t=01h23m58s) Reacting to [*OBKATIEKAT - ROLLING GIRL (ローリンガール) feat. Evil @Neurosama【COVER】*](https://youtu.be/cHM2HKI3nPI) by obkatiekat
+- [01:32:44](https://youtu.be/PYfmTmFOy7o?t=01h32m44s) Reacting to [*Machine Love (feat. Neuro-sama) - Neuro-sama Community Collab*](https://youtu.be/3jWOyIcKz98) by Neuro21 Clip Team [Neuro-sama CN Clipper]
+- [01:45:00](https://youtu.be/PYfmTmFOy7o?t=01h45m00s) **Playing *Slay the Spire II***
+- [02:20:10](https://youtu.be/PYfmTmFOy7o?t=02h20m10s) **Art review**
+- [02:46:19](https://youtu.be/PYfmTmFOy7o?t=02h46m19s) Raiding [Layna](https://twitch.tv/laynalazar)
