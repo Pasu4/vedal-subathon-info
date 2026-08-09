@@ -2384,3 +2384,13 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:45:00](https://youtu.be/PYfmTmFOy7o?t=01h45m00s) **Playing *Slay the Spire II***
 - [02:20:10](https://youtu.be/PYfmTmFOy7o?t=02h20m10s) **Art review**
 - [02:46:19](https://youtu.be/PYfmTmFOy7o?t=02h46m19s) Raiding [Layna](https://twitch.tv/laynalazar)
+
+## skyrim but cool because neuro is doing it ([08 Aug 2026](https://youtu.be/5YGZKbhu3Og))
+
+- [00:00:00](https://youtu.be/5YGZKbhu3Og?t=00h00m00s) *Who Can It Be Now — Men at Work*
+- [00:03:10](https://youtu.be/5YGZKbhu3Og?t=00h03m10s) *Marigold — M2U*
+- [00:05:39](https://youtu.be/5YGZKbhu3Og?t=00h05m39s) Neuro appears
+- [00:08:26](https://youtu.be/5YGZKbhu3Og?t=00h08m26s) **Playing *The Elder Scrolls V: Skyrim***
+- [03:23:22](https://youtu.be/5YGZKbhu3Og?t=03h23m22s)~ Raiding [Laimu](https://twitch.tv/limealicious)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
