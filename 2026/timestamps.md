@@ -2325,18 +2325,18 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [00:19:14](https://youtu.be/FpMGqhh_yd8?t=00h19m14s) Playing *Minesweeper* (5x5, 5 mines)
 - [00:21:03](https://youtu.be/FpMGqhh_yd8?t=00h21m03s) Playing *Connect Four*
 - [00:32:24](https://youtu.be/FpMGqhh_yd8?t=00h32m24s) **Reacting to videos** \| Reacting to *I Secretly Joined Public Lobbies. But Got Found Out.* by Neuro-sama
-- [00:54:46](https://youtu.be/FpMGqhh_yd8?t=00h54m46s) Reacting to [*Neuro & Evil Minecraft Hopecore*](https://youtube.com/watch?v=qUVnFbRLTQE) by Neurosoda
-- [01:01:29](https://youtu.be/FpMGqhh_yd8?t=01h01m29s) Reacting to [*Evil-Neuro is a little different today*](https://youtube.com/watch?v=WtuiUZBqJ9M) by Clippermi
-- [01:04:09](https://youtu.be/FpMGqhh_yd8?t=01h04m09s) Reacting to [*Neuro Tells Us A Coherent Story*](https://youtube.com/watch?v=v5yimnqhKJ4) by Neuro-sama - Official Clips
-- [01:06:15](https://youtu.be/FpMGqhh_yd8?t=01h06m15s) Reacting to [*Vedal & Camila Hopecore*](https://youtube.com/watch?v=STbxd-hQFMk) by Neurosoda
-- [01:09:33](https://youtu.be/FpMGqhh_yd8?t=01h09m33s) Reacting to [*What living in the UK does to an AI*](https://youtube.com/watch?v=pemTHXQvkZk) by Neurosoda
-- [01:13:49](https://youtu.be/FpMGqhh_yd8?t=01h13m49s) Reacting to [*Low Tier Evil Neuro*](https://youtube.com/watch?v=GC0SGaoCynY) by Clipi
-- [01:15:53](https://youtu.be/FpMGqhh_yd8?t=01h15m53s) Reacting to [*Neuro-Sama V2 But Only Saying Weird Noises For 4 Minutes*](https://youtube.com/watch?v=s2IdQTzpfCU) by dense clips
+- [00:54:46](https://youtu.be/FpMGqhh_yd8?t=00h54m46s) Reacting to [*Neuro & Evil Minecraft Hopecore*](https://youtu.be/qUVnFbRLTQE) by Neurosoda
+- [01:01:29](https://youtu.be/FpMGqhh_yd8?t=01h01m29s) Reacting to [*Evil-Neuro is a little different today*](https://youtu.be/WtuiUZBqJ9M) by Clippermi
+- [01:04:09](https://youtu.be/FpMGqhh_yd8?t=01h04m09s) Reacting to [*Neuro Tells Us A Coherent Story*](https://youtu.be/v5yimnqhKJ4) by Neuro-sama - Official Clips
+- [01:06:15](https://youtu.be/FpMGqhh_yd8?t=01h06m15s) Reacting to [*Vedal & Camila Hopecore*](https://youtu.be/STbxd-hQFMk) by Neurosoda
+- [01:09:33](https://youtu.be/FpMGqhh_yd8?t=01h09m33s) Reacting to [*What living in the UK does to an AI*](https://youtu.be/pemTHXQvkZk) by Neurosoda
+- [01:13:49](https://youtu.be/FpMGqhh_yd8?t=01h13m49s) Reacting to [*Low Tier Evil Neuro*](https://youtu.be/GC0SGaoCynY) by Clipi
+- [01:15:53](https://youtu.be/FpMGqhh_yd8?t=01h15m53s) Reacting to [*Neuro-Sama V2 But Only Saying Weird Noises For 4 Minutes*](https://youtu.be/s2IdQTzpfCU) by dense clips
 - [01:16:27](https://youtu.be/FpMGqhh_yd8?t=01h16m27s) Drawing: Happy face
-- [01:25:42](https://youtu.be/FpMGqhh_yd8?t=01h25m42s) Reacting to [*Neuro-sama V1 was deleted for THIS (ANIMATION)*](https://youtube.com/watch?v=Ok_b2zxBGaI) by 2Pfrog
-- [01:28:51](https://youtu.be/FpMGqhh_yd8?t=01h28m51s) Reacting to [*Limmys Show: Whats heavier a kilogram of steel or a kilogram of feathers*](https://youtube.com/watch?v=-fC2oke5MFg) by Trae Brown
-- [01:34:23](https://youtu.be/FpMGqhh_yd8?t=01h34m23s) Reacting to [*Neurosama vs Forsen*](https://youtube.com/watch?v=Je59PWIXIDk) by Neurosoda
-- [01:42:35](https://youtu.be/FpMGqhh_yd8?t=01h42m35s) Reacting to [*【 Neuro-sama 】Cover \| M@GICAL☆CURE! LOVE ♥ SHOT! (SAWTONE) Fan-made*](https://youtube.com/watch?v=3Vuxtd30Go4) by Neurosoda
+- [01:25:42](https://youtu.be/FpMGqhh_yd8?t=01h25m42s) Reacting to [*Neuro-sama V1 was deleted for THIS (ANIMATION)*](https://youtu.be/Ok_b2zxBGaI) by 2Pfrog
+- [01:28:51](https://youtu.be/FpMGqhh_yd8?t=01h28m51s) Reacting to [*Limmys Show: Whats heavier a kilogram of steel or a kilogram of feathers*](https://youtu.be/-fC2oke5MFg) by Trae Brown
+- [01:34:23](https://youtu.be/FpMGqhh_yd8?t=01h34m23s) Reacting to [*Neurosama vs Forsen*](https://youtu.be/Je59PWIXIDk) by Neurosoda
+- [01:42:35](https://youtu.be/FpMGqhh_yd8?t=01h42m35s) Reacting to [*【 Neuro-sama 】Cover \| M@GICAL☆CURE! LOVE ♥ SHOT! (SAWTONE) Fan-made*](https://youtu.be/3Vuxtd30Go4) by Neurosoda
 - [01:50:37](https://youtu.be/FpMGqhh_yd8?t=01h50m37s) **Art review**
 - [02:22:30](https://youtu.be/FpMGqhh_yd8?t=02h22m30s) Raiding [Laimu](https://twitch.tv/limealicious)
 
