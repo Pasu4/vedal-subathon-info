@@ -203,7 +203,6 @@ Some content counts for multiple rows, e.g. "3D karaoke" is also counted as "3D 
 | osu!                                      | Game integration      | Neuro                         | [07-27](https://youtu.be/ZYnNRq9FPc4)
 | Catfishing                                | Game                  | Evil                          | [07-30#2](https://youtu.be/8ujnKMkkFGo)
 | Reacting to videos                        | Other                 | Evil                          | [07-30#2](https://youtu.be/8ujnKMkkFGo), [08-04](https://youtu.be/FpMGqhh_yd8), [08-06](https://youtu.be/PYfmTmFOy7o)
-| Plane stream                              | TODO                  | Neuro                         | [08-09](https://youtu.be/YAfFi_JLhpA)
 
 ¹Formerly called _Legally Distinct •••dle_
 
@@ -235,5 +234,6 @@ Presentations are both under one-time events with their specific title, and unde
 | Neuro presents *Bugs: Not Just the Reason Your Game Crashed* | [07-28](https://youtu.be/f7dlKylM0GA)
 | Neuro and OniGiri go to the gym           | [07-30#1](https://youtu.be/f6Z-P9ba_Rs)
 | Evil presents *The Entire History of Evil* | [08-06](https://youtu.be/PYfmTmFOy7o)
+| Plane stream 2                            | [08-09](https://youtu.be/YAfFi_JLhpA)
 
 <!-- Comment needed here so powershell can find the newline after the table -->
