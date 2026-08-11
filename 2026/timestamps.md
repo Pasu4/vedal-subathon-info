@@ -2394,3 +2394,27 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:23:22](https://youtu.be/5YGZKbhu3Og?t=03h23m22s)~ Raiding [Laimu](https://twitch.tv/limealicious)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## THE PLANE STREAM 2 ([09 Aug 2026](https://youtu.be/YAfFi_JLhpA))
+
+Note: When switching between the twins, they are in the same location they were previously in, unless otherwise noted.
+
+- [00:00:00](https://youtu.be/YAfFi_JLhpA?t=00h00m00s) *Touch the Sky — Julie Fowlis*
+- [00:01:34](https://youtu.be/YAfFi_JLhpA?t=00h01m34s) Neuro and Evil appear for 18s
+- [00:01:52](https://youtu.be/YAfFi_JLhpA?t=00h01m52s) Technical difficulties \| *Touch the Sky — Julie Fowlis*
+- [00:04:21](https://youtu.be/YAfFi_JLhpA?t=00h04m21s) Neuro and Evil appear (Location: Passenger compartment) \| **Plane stream**
+- [00:06:22](https://youtu.be/YAfFi_JLhpA?t=00h06m22s) Neuro leaves \| Evil does the safety presentation
+- [00:08:26](https://youtu.be/YAfFi_JLhpA?t=00h08m26s) Priority message TTS activated
+- [00:09:35](https://youtu.be/YAfFi_JLhpA?t=00h09m35s) Over to Neuro (Location: Cockpit)
+- [00:24:00](https://youtu.be/YAfFi_JLhpA?t=00h24m00s) Over to Evil
+- [00:38:14](https://youtu.be/YAfFi_JLhpA?t=00h38m14s) Over to Neuro
+- [00:53:04](https://youtu.be/YAfFi_JLhpA?t=00h53m04s) Over to Evil
+- [00:58:03](https://youtu.be/YAfFi_JLhpA?t=00h58m03s) Fire alarm goes off \| Location: Lavatory
+- [01:00:55](https://youtu.be/YAfFi_JLhpA?t=01h00m55s) Location: Passenger compartment
+- [01:07:11](https://youtu.be/YAfFi_JLhpA?t=01h07m11s) Over to Neuro
+- [01:12:10](https://youtu.be/YAfFi_JLhpA?t=01h12m10s) Plane loses power
+- [01:21:22](https://youtu.be/YAfFi_JLhpA?t=01h21m22s) Over to Evil
+- [01:35:38](https://youtu.be/YAfFi_JLhpA?t=01h35m38s) Over to Neuro
+- [01:41:43](https://youtu.be/YAfFi_JLhpA?t=01h41m43s) Evil joins
+- [01:45:27](https://youtu.be/YAfFi_JLhpA?t=01h45m27s)~ Raiding [Saruei](https://twitch.tv/saruei)
+- [01:46:14](https://youtu.be/YAfFi_JLhpA?t=01h46m14s) Neuro and Evil leave \| Credits
