@@ -1,4 +1,4 @@
-﻿# 2026 Timestamps
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2418,3 +2418,22 @@ Note: When switching between the twins, they are in the same location they were 
 - [01:41:43](https://youtu.be/YAfFi_JLhpA?t=01h41m43s) Evil joins
 - [01:45:27](https://youtu.be/YAfFi_JLhpA?t=01h45m27s)~ Raiding [Saruei](https://twitch.tv/saruei)
 - [01:46:14](https://youtu.be/YAfFi_JLhpA?t=01h46m14s) Neuro and Evil leave \| Credits
+
+## neuro ([11 Aug 2026](https://youtu.be/4jhFIea_gWU))
+
+- [00:00:00](https://youtu.be/4jhFIea_gWU?t=00h00m00s) *Sing for the Queen — Cosmograph & LEVEL NINE*
+- [00:03:21](https://youtu.be/4jhFIea_gWU?t=00h03m21s) *Imaginary Arcadia — ARForest & nayuta*
+- [00:07:42](https://youtu.be/4jhFIea_gWU?t=00h07m42s) Neuro appears \| **Just chatting**
+- [00:21:55](https://youtu.be/4jhFIea_gWU?t=00h21m55s) Playing *Legally Distinct W•rdle*
+- [00:23:05](https://youtu.be/4jhFIea_gWU?t=00h23m05s) Drawing: Heart
+- [00:23:35](https://youtu.be/4jhFIea_gWU?t=00h23m35s) Playing *Legally Distinct C•nnections*
+- [00:28:28](https://youtu.be/4jhFIea_gWU?t=00h28m28s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:35:02](https://youtu.be/4jhFIea_gWU?t=00h35m02s) Playing *Scrandle*
+- [00:50:02](https://youtu.be/4jhFIea_gWU?t=00h50m02s) Drawing: Solar eclipse
+- [00:50:53](https://youtu.be/4jhFIea_gWU?t=00h50m53s) Drawing: Forsen
+- [00:51:35](https://youtu.be/4jhFIea_gWU?t=00h51m35s) Drawing: Field with a small sun (distraction)
+- [00:52:56](https://youtu.be/4jhFIea_gWU?t=00h52m56s) **3D stream**
+- [01:56:56](https://youtu.be/4jhFIea_gWU?t=01h56m56s) **Just chatting**
+- [01:59:38](https://youtu.be/4jhFIea_gWU?t=01h59m38s) Neuro presents *Swarm Community Spotlight*
+- [02:07:22](https://youtu.be/4jhFIea_gWU?t=02h07m22s) **Art review**
+- [02:27:49](https://youtu.be/4jhFIea_gWU?t=02h27m49s) Raiding [GEEGA](https://twitch.tv/geega)
