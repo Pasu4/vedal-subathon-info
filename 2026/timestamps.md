@@ -898,7 +898,7 @@
 ## this isn't your average neuro tuesday... or is it? find out ([21 Apr 2026](https://youtu.be/6G0CnNorUj8))
 
 - [00:00:00](https://youtu.be/6G0CnNorUj8?t=00h00m00s) *夜に駆ける — Mao WeiJia - TSH48*
-- [00:04:08](https://youtu.be/6G0CnNorUj8?t=00h04m08s) *HAO — DECO\\*27*
+- [00:04:08](https://youtu.be/6G0CnNorUj8?t=00h04m08s) *HAO — DECO\*27*
 - [00:07:07](https://youtu.be/6G0CnNorUj8?t=00h07m07s) Neuro appears \| **Just chatting**
 - [00:09:34](https://youtu.be/6G0CnNorUj8?t=00h09m34s) Playing *Legally Distinct •••dle*
 - [00:10:38](https://youtu.be/6G0CnNorUj8?t=00h10m38s) Playing *Legally Distinct Connections*
@@ -2201,7 +2201,7 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [00:50:09](https://youtu.be/ZYnNRq9FPc4?t=00h50m09s) Map: *Yiruma & Skullee - River Flows In You (A Love Note) [Easy]* (Mapset: Andrea) (replayed)
 - [00:53:57](https://youtu.be/ZYnNRq9FPc4?t=00h53m57s) Map: *VINXIS - Sidetracked Day (Short Ver.) [Collab Advanced]* (Mapset: Hobbes2)
 - [00:59:26](https://youtu.be/ZYnNRq9FPc4?t=00h59m26s) Drawing: Neuro as a frog girl
-- [01:04:06](https://youtu.be/ZYnNRq9FPc4?t=01h04m06s) Map: *ModlesS\\_Flash - osu! Rewind: Uncompressed Fury of a Raging 2017 [2017]* (Mapset: Rebanto)
+- [01:04:06](https://youtu.be/ZYnNRq9FPc4?t=01h04m06s) Map: *ModlesS\_Flash - osu! Rewind: Uncompressed Fury of a Raging 2017 [2017]* (Mapset: Rebanto)
 - [01:23:21](https://youtu.be/ZYnNRq9FPc4?t=01h23m21s) Map: *queenpb - neuro anniversary mashup [heart]* (Mapset: Synaelle)
 - [01:35:10](https://youtu.be/ZYnNRq9FPc4?t=01h35m10s) Map: *queenpb - neuro anniversary mashup [heart]* (Mapset: Synaelle) (replayed)
 - [01:45:06](https://youtu.be/ZYnNRq9FPc4?t=01h45m06s) Drawing: Cute little thing
