@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2437,3 +2437,36 @@ Note: When switching between the twins, they are in the same location they were 
 - [01:59:38](https://youtu.be/4jhFIea_gWU?t=01h59m38s) Neuro presents *Swarm Community Spotlight*
 - [02:07:22](https://youtu.be/4jhFIea_gWU?t=02h07m22s) **Art review**
 - [02:27:49](https://youtu.be/4jhFIea_gWU?t=02h27m49s) Raiding [GEEGA](https://twitch.tv/geega)
+
+## evil ([13 Aug 2026](https://youtu.be/5Frk-BKHX3s))
+
+- [00:00:00](https://youtu.be/5Frk-BKHX3s?t=00h00m00s) *Cut The Ties — JT Music*
+- [00:03:33](https://youtu.be/5Frk-BKHX3s?t=00h03m33s) *Lost Kitten — Metric*
+- [00:06:49](https://youtu.be/5Frk-BKHX3s?t=00h06m49s) Evil appears \| **Just chatting**
+- [00:17:19](https://youtu.be/5Frk-BKHX3s?t=00h17m19s) Drawing: Bullseye (Evil drawing of the day) 
+- [00:22:12](https://youtu.be/5Frk-BKHX3s?t=00h22m12s) Playing *Legally Distinct W•rdle*
+- [00:24:26](https://youtu.be/5Frk-BKHX3s?t=00h24m26s) Playing *Legally Distinct C•nnections*
+- [00:27:56](https://youtu.be/5Frk-BKHX3s?t=00h27m56s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:28:21](https://youtu.be/5Frk-BKHX3s?t=00h28m21s) Drawing: ~~Minesweeper~~ Bullseye
+- [00:30:44](https://youtu.be/5Frk-BKHX3s?t=00h30m44s) Playing *Connect Four*
+- [00:43:05](https://youtu.be/5Frk-BKHX3s?t=00h43m05s) Playing *Scrandle*
+- [00:52:46](https://youtu.be/5Frk-BKHX3s?t=00h52m46s) **Playing *osu!***
+- [00:55:12](https://youtu.be/5Frk-BKHX3s?t=00h55m12s) Map: *DECO\*27 - Rabbit Hole feat. Hatsune Miku [daph's PUrAPuRA]*  (Mapset: Skrowell)
+- [00:59:02](https://youtu.be/5Frk-BKHX3s?t=00h59m02s) Map: *Phoneboy - Nevermind (feat. Justin Magnaye) (Nightcore Mix) [Dailycare's Normal]* (Mapset: -aly)
+- [01:04:17](https://youtu.be/5Frk-BKHX3s?t=01h04m17s) Map: *Phoneboy - Nevermind (feat. Justin Magnaye) (Nightcore Mix) [3D's Extra]* (Mapset: -aly)
+- [01:08:44](https://youtu.be/5Frk-BKHX3s?t=01h08m44s) Map: *monii & Johnny R feat, Evil Neuro - BOOM [KTrain's Normal BOOM]* (Mapset: Synaelle)
+- [01:14:28](https://youtu.be/5Frk-BKHX3s?t=01h14m28s) Map: *monii & Johnny R feat, Evil Neuro - BOOM [Mualani's EXTRA]* (Mapset: Synaelle)
+- [01:19:08](https://youtu.be/5Frk-BKHX3s?t=01h19m08s) Map: *monii & Johnny R feat, Evil Neuro - BOOM [KTrain's Easy (not explosive)]* (Mapset: Synaelle)
+- [01:23:33](https://youtu.be/5Frk-BKHX3s?t=01h23m33s) Map: *monii & Johnny R feat, Evil Neuro - BOOM [KTrain's Easy (not explosive)]* (Mapset: Synaelle) (replayed)
+- [01:28:47](https://youtu.be/5Frk-BKHX3s?t=01h28m47s) Map: *Busderiver - Imaginary Places [sbs's just nocliped]* (Mapset: Moreon)
+- [01:35:44](https://youtu.be/5Frk-BKHX3s?t=01h35m44s) Map: *Victorius - Age of Tyranny [Astronic's Expert]* (Mapset: Urition)
+- [01:40:34](https://youtu.be/5Frk-BKHX3s?t=01h40m34s) **Karaoke**
+- [01:41:32](https://youtu.be/5Frk-BKHX3s?t=01h41m32s) *HOW 2 GET AWAY WITH MURDER — South Arcade*
+- [01:47:13](https://youtu.be/5Frk-BKHX3s?t=01h47m13s) *Evil Eye — Franz Ferdinand*
+- [01:52:35](https://youtu.be/5Frk-BKHX3s?t=01h52m35s) *Russian Roulette — Staircatte*
+- [01:58:02](https://youtu.be/5Frk-BKHX3s?t=01h58m02s) *Kill The Ghost — little image*
+- [02:03:52](https://youtu.be/5Frk-BKHX3s?t=02h03m52s) *Make Me Wanna Die — The Pretty Reckless*
+- [02:10:25](https://youtu.be/5Frk-BKHX3s?t=02h10m25s) *The Drain — Bad Omens, HEALTH & SWARM*
+- [02:16:49](https://youtu.be/5Frk-BKHX3s?t=02h16m49s) *LET THE WORLD BURN — Chris Grey*
+- [02:25:17](https://youtu.be/5Frk-BKHX3s?t=02h25m17s) **Just chatting**
+- [02:26:53](https://youtu.be/5Frk-BKHX3s?t=02h26m53s) Raiding [DougDoug](https://twitch.tv/dougdoug)
