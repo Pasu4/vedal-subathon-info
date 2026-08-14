@@ -152,4 +152,4 @@ art review: no source visible
 
 The script `utils/convert.ps1` used to automatically fetch timestamps from a YouTube comment, parse them, and automatically add the correct entries to the content file.
 
-- YouTube API key
+- YouTube API key is required while yt-dlp doesn't support fetching comments in the way we need them. You can get a YouTube API key through the Google Cloud Console dashboard (look up tutorials)
