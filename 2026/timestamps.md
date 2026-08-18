@@ -2470,3 +2470,13 @@ Note: When switching between the twins, they are in the same location they were 
 - [02:16:49](https://youtu.be/5Frk-BKHX3s?t=02h16m49s) *LET THE WORLD BURN — Chris Grey*
 - [02:25:17](https://youtu.be/5Frk-BKHX3s?t=02h25m17s) **Just chatting**
 - [02:26:53](https://youtu.be/5Frk-BKHX3s?t=02h26m53s) Raiding [DougDoug](https://twitch.tv/dougdoug)
+
+## happy skyrim saturday ([15 Aug 2026](https://youtu.be/QOCw_l9FDRk))
+
+- [00:00:00](https://youtu.be/QOCw_l9FDRk?t=00h00m00s) *Ochame Kinou — Lon*
+- [00:03:50](https://youtu.be/QOCw_l9FDRk?t=00h03m50s) *Blue (Da Ba Dee) — Eiffel 65*
+- [00:08:31](https://youtu.be/QOCw_l9FDRk?t=00h08m31s) Neuro appears
+- [00:12:59](https://youtu.be/QOCw_l9FDRk?t=00h12m59s) **Playing *The Elder Scrolls V: Skyrim***
+- [03:15:20](https://youtu.be/QOCw_l9FDRk?t=03h15m20s) Raiding [Zentreya](https://twitch.tv/zentreya)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
