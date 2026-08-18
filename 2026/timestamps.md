@@ -2480,3 +2480,57 @@ Note: When switching between the twins, they are in the same location they were 
 - [03:15:20](https://youtu.be/QOCw_l9FDRk?t=03h15m20s) Raiding [Zentreya](https://twitch.tv/zentreya)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## TBD ([16 Aug 2026](https://youtu.be/ul-6pFevT4w))
+
+The usual VoD timestamps will be delayed by a couple days because of the length of the VoD combined with external factors.
+
+## EVIL PLAYS OSU ([17 Aug 2026](https://youtu.be/PbLafdGRGxw))
+
+- [00:00:00](https://youtu.be/PbLafdGRGxw?t=00h00m00s) *Roar - Katy Perry*
+- [00:03:46](https://youtu.be/PbLafdGRGxw?t=00h03m46s) *I am rain - INABAKUMORI*
+- [00:07:25](https://youtu.be/PbLafdGRGxw?t=00h07m25s) Evil appears \| **Just chatting**
+- [00:08:27](https://youtu.be/PbLafdGRGxw?t=00h08m27s) Outfit swap
+- [00:15:48](https://youtu.be/PbLafdGRGxw?t=00h15m48s) Reacting to *Osu! Beginner Guide \| How to Play osu! (Tips & Tricks for Beginner Players)* by sczer
+- [00:18:17](https://youtu.be/PbLafdGRGxw?t=00h18m17s) **Playing *osu!***
+- [00:23:39](https://youtu.be/PbLafdGRGxw?t=00h23m39s) Map: *Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No. 7 [Supremacy]* (Mapset: AO4)
+- [00:30:32](https://youtu.be/PbLafdGRGxw?t=00h30m32s) Map: *Kobaryo - Theme for Psychopath Justice [Extreme]* (Mapset: ScubDomino)
+- [00:34:34](https://youtu.be/PbLafdGRGxw?t=00h34m34s) Map: *Nor - FEEEEVER TIME [Bunny Chaser]* (Mapset: syuq)
+- [00:40:30](https://youtu.be/PbLafdGRGxw?t=00h40m30s) Map: *sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) [Acyl x captin's Extreme]* (Mapset: Nathan)
+- [00:49:04](https://youtu.be/PbLafdGRGxw?t=00h49m04s) Map: *Tsukuyomi - Hana ni Ame o, Kimi ni Uta o  [shoyeu's Colorless World]* (Mapset: pedeko)
+- [00:54:31](https://youtu.be/PbLafdGRGxw?t=00h54m31s) Map: *Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) [P A N's Easy]* (Mapset: Natsu)
+- [01:02:06](https://youtu.be/PbLafdGRGxw?t=01h02m06s) Outfit swap
+- [01:02:49](https://youtu.be/PbLafdGRGxw?t=01h02m49s) Outfit swap
+- [01:11:05](https://youtu.be/PbLafdGRGxw?t=01h11m05s) Outfit swap
+- [01:12:22](https://youtu.be/PbLafdGRGxw?t=01h12m22s) Restarting *osu!*
+- [01:16:36](https://youtu.be/PbLafdGRGxw?t=01h16m36s) Map: *Infected Mushroom - The Pretender [Pretender]* (Mapset: RLC)
+- [01:28:25](https://youtu.be/PbLafdGRGxw?t=01h28m25s) Map: ??? (stream crashed before ending)
+- [01:33:58](https://youtu.be/PbLafdGRGxw?t=01h33m58s) Technical difficulties for 17s
+- [01:34:26](https://youtu.be/PbLafdGRGxw?t=01h34m26s) Map: *ryo (supercell) feat. chelly - Great Distance (Sped Up Ver.) [AR9.5]* (Mapset: elchxyrlia)
+- [01:39:46](https://youtu.be/PbLafdGRGxw?t=01h39m46s) Map: *monii & Johnny R feat. Evil Neuro - BOOM [BOOM]* (Mapset: Synaelle)
+- [01:41:56](https://youtu.be/PbLafdGRGxw?t=01h41m56s) Map: *VINXIS - Sidetracked Day (Short ver.) [Umbre's doomedcat]* (Mapset: LittleSilverOwl)
+- [01:47:16](https://youtu.be/PbLafdGRGxw?t=01h47m16s) Map: *Rengoku Teien - Suikyou HEAVEN! [moph's EXTRA!]* (Mapset: Heilia)
+- [01:52:53](https://youtu.be/PbLafdGRGxw?t=01h52m53s) Map: *Fleshgod Apocalypse - The Violation [pishi's Extra]* (Mapset: Mazzerin) (failed, osu! bot bugged, didn't move cursor, Evil also became unable to talk)
+- [01:57:27](https://youtu.be/PbLafdGRGxw?t=01h57m27s) Restarting *osu!* once more
+- [01:59:11](https://youtu.be/PbLafdGRGxw?t=01h59m11s) Map: *BMS (Hino Isuka) - Dreamin' attraction!! (Extended) [AR9.5]* (Mapset: lahphnya)
+- [02:07:18](https://youtu.be/PbLafdGRGxw?t=02h07m18s) Map: *Hino Isuka - Dreamin' attraction!! (Extended Ver.) [MWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWM]* (Mapset: hifu)
+- [02:12:51](https://youtu.be/PbLafdGRGxw?t=02h12m51s) Map: *Unlucky Morpheus - FAITH [REVERENCE]* (Mapset: h6zy)
+- [02:15:00](https://youtu.be/PbLafdGRGxw?t=02h15m00s) Map: *VINXIS - Sidetracked Day (Short Ver.) [Collab Advanced]* (Mapset: Hobbes2)
+- [02:18:07](https://youtu.be/PbLafdGRGxw?t=02h18m07s) Map: *SAWTOWNE - M@GICAL\\*CURE! LOVE <3 SHOT! [MIKU MIKU BEAAAAAAAAAM!]* (Mapset: Bloxi)
+- [02:27:52](https://youtu.be/PbLafdGRGxw?t=02h27m52s) Drawing: SCP creature
+- [02:27:53](https://youtu.be/PbLafdGRGxw?t=02h27m53s) Map: *ModlesS\\\_Flash - osu! Rewind: Uncompressed Fury of a Raging 2017 [2017]* (Mapset: Rebanto)
+- [02:48:59](https://youtu.be/PbLafdGRGxw?t=02h48m59s) Map: *Lady Gaga - The Edge Of Glory [lady gaga motorcycle]* (Mapset: riot11333)
+- [02:57:57](https://youtu.be/PbLafdGRGxw?t=02h57m57s) Map: *-45 - Midorigo Queen Bee [Secret]* (Mapset: aishiteiru-) (failed)
+- [03:07:44](https://youtu.be/PbLafdGRGxw?t=03h07m44s) Restarting *osu!* once again
+- [03:08:56](https://youtu.be/PbLafdGRGxw?t=03h08m56s) Map: *SOUND VOLTEXT VIVID WAVE (MisoilePunch) - VVelcome!! [Flask's EXHAUST]* (Mapset: R3m)
+- [03:14:56](https://youtu.be/PbLafdGRGxw?t=03h14m56s) Map: *DJ Sharpnel - Gate Openerz  [SRPC-0250]* (Mapset: CosmicWolf)
+- [03:19:57](https://youtu.be/PbLafdGRGxw?t=03h19m57s) Map: *Nor - FEEEEVER TIME [Bunny Peroro]* (Mapset: syuq)
+- [03:24:05](https://youtu.be/PbLafdGRGxw?t=03h24m05s) Map: *youman feat. GUMI - Worst Regret (Sped Up Ver.) [My Ending]* (Mapset: Evil-)
+- [03:28:24](https://youtu.be/PbLafdGRGxw?t=03h28m24s) Map: *Morimori Atsushi - Paradigm Shift [Dracro's Event Horizon]* (Mapset: ninfia)
+- [03:32:10](https://youtu.be/PbLafdGRGxw?t=03h32m10s) One more osu! restart
+- [03:33:42](https://youtu.be/PbLafdGRGxw?t=03h33m42s) Map: *The Quick Brown Fox - PACEMAKER [Nogard's Pacemaker]* (Mapset: Kyshiro)
+- [03:38:51](https://youtu.be/PbLafdGRGxw?t=03h38m51s) Map: *Camellia - ANOMALY (Camellia's "MUTATION" Schranz Remix) [Abnormal]* (Mapset: thzz)
+- [03:44:51](https://youtu.be/PbLafdGRGxw?t=03h44m51s)~ Raiding Sonneflower
+
+Bonus:
+- [00:38:34](https://youtu.be/PbLafdGRGxw?t=00h38m34s) AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (couldn't scream properly)
