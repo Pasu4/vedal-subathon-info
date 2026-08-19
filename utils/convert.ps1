@@ -162,6 +162,9 @@ if (-not $addContent) {
     exit 1
 }
 
+# Remove carriage returns
+$addContent = $addContent -replace '\r', '' 
+
 # Initialize empty arrays
 $contentEntries = @()
 $participants = @()
@@ -216,7 +219,7 @@ $contentEntries = $contentEntries | Select-Object -Unique
 $contentEntries = @() + $contentEntries
 
 # Parse raid target
-$addContent -match $RAIDING_RX
+$null = $addContent -match $RAIDING_RX
 $raidTarget = $Matches[1]
 
 # Escape non-formatting asterisks and underscores
