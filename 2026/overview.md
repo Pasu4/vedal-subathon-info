@@ -1,4 +1,4 @@
-# 2026 Content Overview
+﻿# 2026 Content Overview
 
 ## Streams
 
@@ -124,7 +124,6 @@ Participants are ordered by the time they appeared on stream.
 | [15 Aug 2026](https://youtu.be/QOCw_l9FDRk) | happy skyrim saturday                                               | Neuro gaming          | Neuro                                 | [Zentreya](https://twitch.tv/zentreya)
 | [17 Aug 2026](https://youtu.be/PbLafdGRGxw) | EVIL PLAYS OSU                                                      | Evil gaming           | Evil                                  | [Sonneflower](https://twitch.tv/sonneflower)
 | [18 Aug 2026](https://youtu.be/dPp6tG1nbtQ) | it's a great day for neuro stream                                   | Just chatting         | Neuro, Evil                           | [MOTHERv3](https://twitch.tv/motherv3)
-
 
 ## Participants
 
