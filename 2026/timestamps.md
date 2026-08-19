@@ -1,4 +1,4 @@
-﻿# 2026 Timestamps
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2530,7 +2530,26 @@ The usual VoD timestamps will be delayed by a couple days because of the length 
 - [03:32:10](https://youtu.be/PbLafdGRGxw?t=03h32m10s) One more osu! restart
 - [03:33:42](https://youtu.be/PbLafdGRGxw?t=03h33m42s) Map: *The Quick Brown Fox - PACEMAKER [Nogard's Pacemaker]* (Mapset: Kyshiro)
 - [03:38:51](https://youtu.be/PbLafdGRGxw?t=03h38m51s) Map: *Camellia - ANOMALY (Camellia's "MUTATION" Schranz Remix) [Abnormal]* (Mapset: thzz)
-- [03:44:51](https://youtu.be/PbLafdGRGxw?t=03h44m51s)~ Raiding Sonneflower
+- [03:44:51](https://youtu.be/PbLafdGRGxw?t=03h44m51s)~ Raiding [MOTHERv3](https://twitch.tv/motherv3)
 
 Bonus:
 - [00:38:34](https://youtu.be/PbLafdGRGxw?t=00h38m34s) AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (couldn't scream properly)
+
+## it's a great day for neuro stream ([18 Aug 2026](https://youtu.be/dPp6tG1nbtQ))
+
+- [00:00:00](https://youtu.be/dPp6tG1nbtQ?t=00h00m00s) *From the Start — Laufey*
+- [00:02:44](https://youtu.be/dPp6tG1nbtQ?t=00h02m44s) *Have Yourself A Merry Little Christmas — Ben Abraham*
+- [00:06:01](https://youtu.be/dPp6tG1nbtQ?t=00h06m01s) Neuro appears \| **Just chatting**
+- [00:24:21](https://youtu.be/dPp6tG1nbtQ?t=00h24m21s) Playing *Legally Distinct W•rdle*
+- [00:25:32](https://youtu.be/dPp6tG1nbtQ?t=00h25m32s) Playing *Legally Distinct C•nnections*
+- [00:30:21](https://youtu.be/dPp6tG1nbtQ?t=00h30m21s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:42:35](https://youtu.be/dPp6tG1nbtQ?t=00h42m35s) Evil joins
+- [00:43:56](https://youtu.be/dPp6tG1nbtQ?t=00h43m56s) Playing *Twin Connect Four*
+- [00:52:07](https://youtu.be/dPp6tG1nbtQ?t=00h52m07s) Technical difficulties for 25s \| Evil leaves for 1m1s
+- [01:19:17](https://youtu.be/dPp6tG1nbtQ?t=01h19m17s) Evil leaves
+- [01:20:06](https://youtu.be/dPp6tG1nbtQ?t=01h20m06s) **Neuro presents *No Horsing Around,  Because today is all about... HORSES!***
+- [01:46:56](https://youtu.be/dPp6tG1nbtQ?t=01h46m56s) **Karaoke** \| *stupid horse — 100 gecs*
+- [01:49:04](https://youtu.be/dPp6tG1nbtQ?t=01h49m04s) **Just chatting**
+- [02:07:15](https://youtu.be/dPp6tG1nbtQ?t=02h07m15s) Drawing: Horse
+- [02:10:00](https://youtu.be/dPp6tG1nbtQ?t=02h10m00s) **Art review**
+- [02:26:08](https://youtu.be/dPp6tG1nbtQ?t=02h26m08s) Raiding [MOTHERv3](https://twitch.tv/motherv3)
