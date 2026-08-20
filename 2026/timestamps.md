@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2553,3 +2553,27 @@ Bonus:
 - [02:07:15](https://youtu.be/dPp6tG1nbtQ?t=02h07m15s) Drawing: Horse
 - [02:10:00](https://youtu.be/dPp6tG1nbtQ?t=02h10m00s) **Art review**
 - [02:26:08](https://youtu.be/dPp6tG1nbtQ?t=02h26m08s) Raiding [MOTHERv3](https://twitch.tv/motherv3)
+
+## NEURO KARAAOKE !!!!!!!!!! ([19 Aug 2026](https://youtu.be/DomhqHxd3KE))
+
+- [00:00:00](https://youtu.be/DomhqHxd3KE?t=00h00m00s) *Eatin' Rats - Ridiculon* (instrumental)
+- [00:03:32](https://youtu.be/DomhqHxd3KE?t=00h03m32s) Neuro appears \| **Karaoke**
+- [00:03:41](https://youtu.be/DomhqHxd3KE?t=00h03m41s) *Moves Like Jagger - Maroon 5*
+- [00:09:56](https://youtu.be/DomhqHxd3KE?t=00h09m56s) *Mozaik Role - DECO\*27*
+- [00:16:05](https://youtu.be/DomhqHxd3KE?t=00h16m05s) *This Charming Man - The Smiths*
+- [00:22:03](https://youtu.be/DomhqHxd3KE?t=00h22m03s) *Always on my Mind - M. Byrd*
+- [00:29:06](https://youtu.be/DomhqHxd3KE?t=00h29m06s) *Crazy - Patsy Cline*
+- [00:35:15](https://youtu.be/DomhqHxd3KE?t=00h35m15s) *1,2, FanClub - mikitoP* (duet)
+- [00:42:18](https://youtu.be/DomhqHxd3KE?t=00h42m18s) *Vs. SAYU - James Landino*
+- [00:50:28](https://youtu.be/DomhqHxd3KE?t=00h50m28s) *mumei - Nanashi Mumei*
+- [00:57:50](https://youtu.be/DomhqHxd3KE?t=00h57m50s) *Too Sweet - Hozier*
+- [01:05:19](https://youtu.be/DomhqHxd3KE?t=01h05m19s) *Behind Blue Eyes - Limp Bizkit*
+- [01:12:58](https://youtu.be/DomhqHxd3KE?t=01h12m58s) *Ensemble for Polaris - Ryuichi Takada* (duet) (muted)
+- [01:20:48](https://youtu.be/DomhqHxd3KE?t=01h20m48s) *Oh No! - MARINA*
+- [01:27:03](https://youtu.be/DomhqHxd3KE?t=01h27m03s) *No Mercy - The Living Tombstone* (duet)
+- [01:32:50](https://youtu.be/DomhqHxd3KE?t=01h32m50s) *Poltergeist - CircusP*
+- [01:40:06](https://youtu.be/DomhqHxd3KE?t=01h40m06s) *The Model - Astrophysics (original by Kraftwerk)*
+- [01:47:05](https://youtu.be/DomhqHxd3KE?t=01h47m05s) *cpu\\_crush - ePiaeon*
+- [01:53:12](https://youtu.be/DomhqHxd3KE?t=01h53m12s) *9 8 7 - Bill Wurtz*
+- [02:00:16](https://youtu.be/DomhqHxd3KE?t=02h00m16s) *WILDFLOWER - Billie Eilish*
+- [02:04:38](https://youtu.be/DomhqHxd3KE?t=02h04m38s) Raiding [Aethel](https://twitch.tv/lordaethelstan)
