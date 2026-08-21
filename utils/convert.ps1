@@ -49,6 +49,7 @@ $MONTHS = @{
     "Dec" = "12";
 }
 
+# Content triggers
 $PLAYING_RX = 'Playing (?:\*\*)?_(.+?)_'
 $CONTENT_RX = '(?:[\s-[\n]])\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)*(?: appears?| joins?| wakes? up))'
@@ -56,7 +57,9 @@ $RAIDING_RX = '(?m)Raiding (.+?)(?:$| \|)'
 $PRESENTS_RX = '(\w+) presents (?:\*\*)?_(.+?)_'
 $DUET_RX = '\(duet\)'
 $DUET_WITH_RX = '\(duet w/ ([^)\n,]+)\)'
+$REACTING_RX = '(?m)Reacting to (?:\*\*)?_(.+?)_ by (.+?)(?:$| \|)'
 
+# Parser section triggers
 $STREAMS_TABLE_HEADER = '| Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target'
 $PARTICIPANTS_TABLE_HEADER = '| Participant                                                   | Streams'
 $CONTENT_TABLE_HEADER = '| Content                                   | Type                  | Participants                  | Streams'
@@ -195,6 +198,12 @@ if ($addContent -match $DUET_WITH_RX) {
     $participants += (Select-String $DUET_WITH_RX -input $addContent -AllMatches).Matches |
         ForEach-Object { $_.Groups[1].Value }
 }
+
+# Parse reactions
+if ($addContent -match $REACTING_RX) {
+    $contentEntries += "Reacting to videos"
+}
+# TODO: Auto search videos
 
 # Parse other content
 if ($addContent -match $CONTENT_RX) {
