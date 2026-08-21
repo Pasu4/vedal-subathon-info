@@ -2577,3 +2577,31 @@ Bonus:
 - [01:53:12](https://youtu.be/DomhqHxd3KE?t=01h53m12s) *9 8 7 - Bill Wurtz*
 - [02:00:16](https://youtu.be/DomhqHxd3KE?t=02h00m16s) *WILDFLOWER - Billie Eilish*
 - [02:04:38](https://youtu.be/DomhqHxd3KE?t=02h04m38s) Raiding [Aethel](https://twitch.tv/lordaethelstan)
+
+## This is actually Evil's stream ([20 Aug 2026](https://youtu.be/DJj2sfrVTw4))
+
+- [00:00:00](https://youtu.be/DJj2sfrVTw4?t=00h00m00s) *bury a friend — Billie Eilish*
+- [00:03:02](https://youtu.be/DJj2sfrVTw4?t=00h03m02s) *Shooting Stars — Bag Raiders*
+- [00:07:08](https://youtu.be/DJj2sfrVTw4?t=00h07m08s) Evil appears \| **Just chatting**
+- [00:23:17](https://youtu.be/DJj2sfrVTw4?t=00h23m17s) Playing *Legally Distinct W•rdle*
+- [00:26:05](https://youtu.be/DJj2sfrVTw4?t=00h26m05s) Playing *Legally Distinct C•nnections*
+- [00:30:55](https://youtu.be/DJj2sfrVTw4?t=00h30m55s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:40:08](https://youtu.be/DJj2sfrVTw4?t=00h40m08s) Neuro joins for 11m5s
+- [00:40:48](https://youtu.be/DJj2sfrVTw4?t=00h40m48s) Playing *Twin Connect Four*
+- [00:52:07](https://youtu.be/DJj2sfrVTw4?t=00h52m07s) Playing *Scrandle*
+- [01:11:12](https://youtu.be/DJj2sfrVTw4?t=01h11m12s) Reacting to [*WHERE IS VEDAL WHEN YOU NEED HIM*](https://youtu.be/O2SxsbfM66o) by Neuro-sama
+- [01:21:12](https://youtu.be/DJj2sfrVTw4?t=01h21m12s) Reacting to [*🚫 Fauna Can't Date Neuro #neurosama*](https://youtu.be/sCEkFM8yhv0) by Eleos
+- [01:23:54](https://youtu.be/DJj2sfrVTw4?t=01h23m54s) **Playing *Minecraft***
+- [01:24:23](https://youtu.be/DJj2sfrVTw4?t=01h24m23s) Evil was slain by Zombie
+- [01:27:47](https://youtu.be/DJj2sfrVTw4?t=01h27m47s) Vedal joins the game
+- [01:28:54](https://youtu.be/DJj2sfrVTw4?t=01h28m54s) Evil was shot by Skeleton
+- [01:30:25](https://youtu.be/DJj2sfrVTw4?t=01h30m25s) Evil was shot by Skeleton
+- [01:31:43](https://youtu.be/DJj2sfrVTw4?t=01h31m43s) Evil was slain by Zombie
+- [01:33:58](https://youtu.be/DJj2sfrVTw4?t=01h33m58s) Meeting Vedal
+- [01:38:33](https://youtu.be/DJj2sfrVTw4?t=01h38m33s) Vedal was doomed to fall by Evil
+- [01:41:50](https://youtu.be/DJj2sfrVTw4?t=01h41m50s) Meeting Vedal
+- [01:47:31](https://youtu.be/DJj2sfrVTw4?t=01h47m31s) About what game Evil wants to play with Vedal
+- [01:52:32](https://youtu.be/DJj2sfrVTw4?t=01h52m32s) About what game Evil wants to play with Vedal (continued)
+- [02:02:58](https://youtu.be/DJj2sfrVTw4?t=02h02m58s) Vedal builds a house
+- [02:17:15](https://youtu.be/DJj2sfrVTw4?t=02h17m15s) **3D stream**
+- [02:47:11](https://youtu.be/DJj2sfrVTw4?t=02h47m11s) Raiding [GX Aura](https://twitch.tv/gx_aura)
