@@ -1,4 +1,4 @@
-﻿# 2026 Timestamps
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2605,3 +2605,19 @@ Bonus:
 - [02:02:58](https://youtu.be/DJj2sfrVTw4?t=02h02m58s) Vedal builds a house
 - [02:17:15](https://youtu.be/DJj2sfrVTw4?t=02h17m15s) **3D stream**
 - [02:47:11](https://youtu.be/DJj2sfrVTw4?t=02h47m11s) Raiding [GX Aura](https://twitch.tv/gx_aura)
+
+## live profiling w/@GEEGA ([21 Aug 2026](https://youtu.be/ROM2kYhbp38))
+
+- [00:00:00](https://youtu.be/ROM2kYhbp38?t=00h00m00s) *Ga1ahad and Scientific Witchery — Mili*
+- [00:03:28](https://youtu.be/ROM2kYhbp38?t=00h03m28s) *Dracula — Tame Impala*
+- [00:06:54](https://youtu.be/ROM2kYhbp38?t=00h06m54s) Neuro appears \| **Just chatting**
+- [00:07:16](https://youtu.be/ROM2kYhbp38?t=00h07m16s) GEEGA joins
+- [00:08:55](https://youtu.be/ROM2kYhbp38?t=00h08m55s) About the stream topic
+- [00:13:07](https://youtu.be/ROM2kYhbp38?t=00h13m07s) GEEGA introduces herself
+- [00:13:48](https://youtu.be/ROM2kYhbp38?t=00h13m48s) **Neuro and GEEGA profile chatters**
+- [01:49:09](https://youtu.be/ROM2kYhbp38?t=01h49m09s) Getting derailed
+- [02:27:03](https://youtu.be/ROM2kYhbp38?t=02h27m03s) Back on track
+- [03:34:37](https://youtu.be/ROM2kYhbp38?t=03h34m37s) Drawing: Badge
+- [03:55:17](https://youtu.be/ROM2kYhbp38?t=03h55m17s) **Just chatting**
+- [04:14:30](https://youtu.be/ROM2kYhbp38?t=04h14m30s) GEEGA leaves
+- [04:17:08](https://youtu.be/ROM2kYhbp38?t=04h17m08s) Raiding [Aethel](https://twitch.tv/lordaethelstan)
