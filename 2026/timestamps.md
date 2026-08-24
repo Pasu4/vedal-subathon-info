@@ -937,7 +937,7 @@
 - [01:53:21](https://youtu.be/uW3CXDvL18U?t=01h53m21s) **3D stream**
 - [02:19:49](https://youtu.be/uW3CXDvL18U?t=02h19m49s) Raiding [Zentreya](https://twitch.tv/zentreya)
 
-## evil and @AkumaNihmune do easy bake cooking ([24 Apr 2026](https://youtu.be/Z_ZWwV3jjU4))
+## evil and [@AkumaNihmune](https://twitch.tv/nihmune) do easy bake cooking ([24 Apr 2026](https://youtu.be/Z_ZWwV3jjU4))
 
 - [00:00:00](https://youtu.be/Z_ZWwV3jjU4?t=00h00m00s) *Off With Her Head — Icon for Hire*
 - [00:02:58](https://youtu.be/Z_ZWwV3jjU4?t=00h02m58s) *Avalanche — Bring Me the Horizon*
@@ -1197,7 +1197,7 @@
 - [02:07:10](https://youtu.be/ytFp-9S2wXU?t=02h07m10s) **Just chatting**
 - [02:17:23](https://youtu.be/ytFp-9S2wXU?t=02h17m23s) Raiding [Matara](https://twitch.tv/matarakan)
 
-## VR Hangout w/ Evil and @cerberVT ([16 May 2026](https://youtu.be/Sa9xeUkuRh4))
+## VR Hangout w/ Evil and [@cerberVT](https://twitch.tv/cerbervt) ([16 May 2026](https://youtu.be/Sa9xeUkuRh4))
 
 - [00:00:00](https://youtu.be/Sa9xeUkuRh4?t=00h00m00s) *The Chain — Fleetwood Mac*
 - [00:04:15](https://youtu.be/Sa9xeUkuRh4?t=00h04m15s) *Mebius — Meychain*
@@ -1284,7 +1284,7 @@
 - [02:17:26](https://youtu.be/SJxG6ASjZeY?t=02h17m26s) **Just chatting**
 - [02:27:10](https://youtu.be/SJxG6ASjZeY?t=02h27m10s) Raiding [Obkatiekat](https://twitch.tv/obkatiekat)
 
-## Evil is not a human but @LaynaLazar might be ([22 May 2026](https://youtu.be/IaU9TkjCAGA))
+## Evil is not a human but [@LaynaLazar](https://twitch.tv/laynalazar) might be ([22 May 2026](https://youtu.be/IaU9TkjCAGA))
 
 - [00:00:00](https://youtu.be/IaU9TkjCAGA?t=00h00m00s) *Kill Everyone — Hollywood Undead*
 - [00:02:48](https://youtu.be/IaU9TkjCAGA?t=00h02m48s) *Sweet Child O' Mine — Guns n' Roses*
@@ -1425,7 +1425,7 @@
 - [01:52:32](https://youtu.be/3mw92P7vv7A?t=01h52m32s) **3D stream**
 - [02:28:32](https://youtu.be/3mw92P7vv7A?t=02h28m32s)~ Raiding [DougDoug](https://twitch.tv/dougdoug)
 
-## MULTIPLAYER WITH @Ellie_Minibot ([05 Jun 2026](https://youtu.be/FdYBc6aMjd0))
+## MULTIPLAYER WITH [@Ellie_Minibot](https://twitch.tv/ellie_minibot) ([05 Jun 2026](https://youtu.be/FdYBc6aMjd0))
 
 - ‒‒:‒‒:‒‒ *Stupid Heart — Ellie Minibot* 
 - [00:00:00](https://youtu.be/FdYBc6aMjd0?t=00h00m00s) *Sayonara Moon Town — Scenarioart*
@@ -2719,7 +2719,7 @@ Regular mob and environmental deaths are displayed in gray.
 - [02:17:15](https://youtu.be/DJj2sfrVTw4?t=02h17m15s) **3D stream**
 - [02:47:11](https://youtu.be/DJj2sfrVTw4?t=02h47m11s) Raiding [GX Aura](https://twitch.tv/gx_aura)
 
-## live profiling w/@GEEGA ([21 Aug 2026](https://youtu.be/ROM2kYhbp38))
+## live profiling w/[@GEEGA](https://twitch.tv/geega) ([21 Aug 2026](https://youtu.be/ROM2kYhbp38))
 
 - [00:00:00](https://youtu.be/ROM2kYhbp38?t=00h00m00s) *Ga1ahad and Scientific Witchery — Mili*
 - [00:03:28](https://youtu.be/ROM2kYhbp38?t=00h03m28s) *Dracula — Tame Impala*
