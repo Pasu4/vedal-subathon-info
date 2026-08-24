@@ -232,7 +232,7 @@ $null = $addContent -match $RAIDING_RX
 $raidTarget = $Matches[1]
 
 # Escape non-formatting asterisks and underscores
-$addContent = $addContent -replace '([^\s*_-])([*_])([^\s*_-])', '$1\\$2$3'
+$addContent = $addContent -replace '([^\s*_-])([*_])([^\s*_-])', '$1\$2$3'
 # Convert bold text (single asterisks -> double asterisks)
 $addContent = $addContent -replace '(?<=^|[\s*_-])\*(.+?)\*(?=[\s*_-]|$)', '**$1**'
 # Remove quadruple asterisks (YouTube API bug)
@@ -243,6 +243,8 @@ $addContent = $addContent -replace '\b_(?=\S)(.+?)(?<=\S)_\b', '*$1*'
 $addContent = $addContent -replace '(?<=^|\s|\*|_)-(?=\S)(.+?)(?<=\S)-(?=\s|\*|_|$)', '~~$1~~'
 # Convert subheadings (double asterisks at start of line -> double hash)
 $addContent = $addContent -replace '(?m)^\*\*(.+)\*\*\s*$', ('### $1' + "`n")
+# Escape square brackets for non-links
+$addContent = $addContent -replace '(?<!\\)\[([^\]]+?)\](?!\()', '\[$1\]'
 
 $content = $content + "`n## `n`n$addContent"
 
