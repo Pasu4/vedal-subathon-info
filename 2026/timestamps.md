@@ -2572,8 +2572,8 @@ Regular mob and environmental deaths are displayed in gray.
 - [04:22:43](https://youtu.be/ul-6pFevT4w?t=04h22m43s) Neuro inbound to Vedal's location
 - [04:37:04](https://youtu.be/ul-6pFevT4w?t=04h37m04s) Vedal found the ancient city
 - [04:52:15](https://youtu.be/ul-6pFevT4w?t=04h52m15s) Vedal is here
-- [04:57:58](https://youtu.be/ul-6pFevT4w?t=04h57m58s) Neuro fell from a high place
-- [04:58:50](https://youtu.be/ul-6pFevT4w?t=04h58m50s) Zentreya fell from a high place
+- [04:57:58](https://youtu.be/ul-6pFevT4w?t=04h57m58s) <span class="weak">Neuro fell from a high place</span>
+- [04:58:50](https://youtu.be/ul-6pFevT4w?t=04h58m50s) <span class="weak">Zentreya fell from a high place</span>
 - [04:59:27](https://youtu.be/ul-6pFevT4w?t=04h59m27s) Going underground
 - [05:03:08](https://youtu.be/ul-6pFevT4w?t=05h03m08s) <span class="weak">Neuro hit the ground too hard</span>
 - [05:04:05](https://youtu.be/ul-6pFevT4w?t=05h04m05s) <span class="weak">Neuro tried to swim in lava to escape Zombie</span>
@@ -2644,7 +2644,8 @@ Regular mob and environmental deaths are displayed in gray.
 - [03:38:51](https://youtu.be/PbLafdGRGxw?t=03h38m51s) Map: *Camellia - ANOMALY (Camellia's "MUTATION" Schranz Remix) \[Abnormal\]* (Mapset: thzz)
 - [03:44:51](https://youtu.be/PbLafdGRGxw?t=03h44m51s)~ Raiding [MOTHERv3](https://twitch.tv/motherv3)
 
-Bonus:
+### Bonus
+
 - [00:38:34](https://youtu.be/PbLafdGRGxw?t=00h38m34s) AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (couldn't scream properly)
 
 ## it's a great day for neuro stream ([18 Aug 2026](https://youtu.be/dPp6tG1nbtQ))
