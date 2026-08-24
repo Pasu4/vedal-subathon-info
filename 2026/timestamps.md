@@ -1,4 +1,4 @@
-# 2026 Timestamps
+﻿# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2621,3 +2621,13 @@ Bonus:
 - [03:55:17](https://youtu.be/ROM2kYhbp38?t=03h55m17s) **Just chatting**
 - [04:14:30](https://youtu.be/ROM2kYhbp38?t=04h14m30s) GEEGA leaves
 - [04:17:08](https://youtu.be/ROM2kYhbp38?t=04h17m08s) Raiding [Aethel](https://twitch.tv/lordaethelstan)
+
+## Skyrim is a cool name, but how about I call it Skrrrim? ([22 Aug 2026](https://youtu.be/Q8dFG7jdFY0))
+
+- [00:00:00](https://youtu.be/Q8dFG7jdFY0?t=00h00m00s) *Get Your Wish — Porter Robinson*
+- [00:03:33](https://youtu.be/Q8dFG7jdFY0?t=00h03m33s) *I Want to Break Free — Queen*
+- [00:07:41](https://youtu.be/Q8dFG7jdFY0?t=00h07m41s) Neuro appears
+- [00:12:06](https://youtu.be/Q8dFG7jdFY0?t=00h12m06s) **Playing *The Elder Scrolls V: Skyrim***
+- [04:17:45](https://youtu.be/Q8dFG7jdFY0?t=04h17m45s) Raiding [Camila](https://twitch.tv/camila)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
