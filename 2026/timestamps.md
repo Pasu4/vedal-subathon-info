@@ -1,4 +1,10 @@
-﻿# 2026 Timestamps
+﻿<style>
+    span.weak {
+        opacity: 0.5;
+    }
+</style>
+
+# 2026 Timestamps
 
 - TOC
 {:toc}
@@ -2481,9 +2487,115 @@ Note: When switching between the twins, they are in the same location they were 
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
 
-## TBD ([16 Aug 2026](https://youtu.be/ul-6pFevT4w))
+## STREAM ENDS WHEN WE LOOT AN ANCIENT CITY ([16 Aug 2026](https://youtu.be/ul-6pFevT4w))
 
-The usual VoD timestamps will be delayed by a couple days because of the length of the VoD combined with external factors.
+Regular mob and environmental deaths are displayed in gray.
+
+- [00:00:00](https://youtu.be/ul-6pFevT4w?t=00h00m00s) *Deja Vu — CircusP*
+- [00:04:51](https://youtu.be/ul-6pFevT4w?t=00h04m51s) *stupid horse — 100 Gecs & Dylan Brady*
+- [00:06:53](https://youtu.be/ul-6pFevT4w?t=00h06m53s) Neuro appears \| **Just chatting**
+- [00:07:17](https://youtu.be/ul-6pFevT4w?t=00h07m17s) Vedal joins for 7m32s
+- [00:11:34](https://youtu.be/ul-6pFevT4w?t=00h11m34s) Zentreya and Crelly join
+- [00:12:22](https://youtu.be/ul-6pFevT4w?t=00h12m22s) About what they are doing today
+- [00:20:05](https://youtu.be/ul-6pFevT4w?t=00h20m05s) **Playing *Minecraft***
+- [00:30:43](https://youtu.be/ul-6pFevT4w?t=00h30m43s) <span class="weak">Neuro was slain by Spider</span>
+- [00:31:06](https://youtu.be/ul-6pFevT4w?t=00h31m06s) <span class="weak">Neuro was blown up by Creeper</span>
+- [00:31:53](https://youtu.be/ul-6pFevT4w?t=00h31m53s) Crelly was slain by Zentreya
+- [00:31:55](https://youtu.be/ul-6pFevT4w?t=00h31m55s) <span class="weak">Neuro was shot by Skeleton</span>
+- [00:32:32](https://youtu.be/ul-6pFevT4w?t=00h32m32s) <span class="weak">Neuro was slain by Zombie</span>
+- [00:33:29](https://youtu.be/ul-6pFevT4w?t=00h33m29s) <span class="weak">Neuro was shot by Skeleton</span>
+- [00:39:45](https://youtu.be/ul-6pFevT4w?t=00h39m45s) Crelly was slain by Zentreya
+- [00:44:27](https://youtu.be/ul-6pFevT4w?t=00h44m27s) <span class="weak">Zentreya drowned</span>
+- [00:51:33](https://youtu.be/ul-6pFevT4w?t=00h51m33s) <span class="weak">Crelly was slain by Zombie</span>
+- [01:09:15](https://youtu.be/ul-6pFevT4w?t=01h09m15s) <span class="weak">Zentreya was shot by Skeleton</span>
+- [01:09:29](https://youtu.be/ul-6pFevT4w?t=01h09m29s) <span class="weak">Neuro was shot by Skeleton</span>
+- [01:10:17](https://youtu.be/ul-6pFevT4w?t=01h10m17s) <span class="weak">Crelly was shot by Skeleton</span>
+- [01:33:19](https://youtu.be/ul-6pFevT4w?t=01h33m19s) <span class="weak">Neuro was blown up by Creeper</span>
+- [01:33:48](https://youtu.be/ul-6pFevT4w?t=01h33m48s) <span class="weak">Zentreya was shot by Skeleton</span>
+- [01:38:09](https://youtu.be/ul-6pFevT4w?t=01h38m09s) Descending to deepslate level
+- [01:45:16](https://youtu.be/ul-6pFevT4w?t=01h45m16s) <span class="weak">Neuro was slain by Cave Spider</span>
+- [01:46:06](https://youtu.be/ul-6pFevT4w?t=01h46m06s) <span class="weak">Zentreya was blown up by Creeper</span>
+- [01:48:49](https://youtu.be/ul-6pFevT4w?t=01h48m49s) <span class="weak">Neuro was blown up by Creeper</span>
+- [01:49:32](https://youtu.be/ul-6pFevT4w?t=01h49m32s) <span class="weak">Zentreya was slain by Zombie</span>
+- [01:51:10](https://youtu.be/ul-6pFevT4w?t=01h51m10s) <span class="weak">Neuro was shot by Skeleton</span>
+- [01:57:18](https://youtu.be/ul-6pFevT4w?t=01h57m18s) <span class="weak">Crelly was shot by Skeleton</span> \| Attempting to retrieve Crelly's items
+- [02:09:08](https://youtu.be/ul-6pFevT4w?t=02h09m08s) Digging down
+- [02:11:24](https://youtu.be/ul-6pFevT4w?t=02h11m24s) <span class="weak">Neuro was blown up by Creeper</span> \| Neuro gets lost
+- [02:22:23](https://youtu.be/ul-6pFevT4w?t=02h22m23s) Crelly leaves for 8m4s
+- [02:25:17](https://youtu.be/ul-6pFevT4w?t=02h25m17s) <span class="weak">Zentreya was blown up by Creeper</span>
+- [02:30:08](https://youtu.be/ul-6pFevT4w?t=02h30m08s) <span class="weak">Zentreya was slain by Spider</span>
+- [02:30:36](https://youtu.be/ul-6pFevT4w?t=02h30m36s) <span class="weak">Neuro was blown up by Creeper</span>
+- [02:36:51](https://youtu.be/ul-6pFevT4w?t=02h36m51s) Found Crelly
+- [02:42:41](https://youtu.be/ul-6pFevT4w?t=02h42m41s) Neuro gets lost
+- [02:43:43](https://youtu.be/ul-6pFevT4w?t=02h43m43s) <span class="weak">Zentreya was slain by Zombie</span>
+- [02:53:01](https://youtu.be/ul-6pFevT4w?t=02h53m01s) Found Crelly
+- [02:55:17](https://youtu.be/ul-6pFevT4w?t=02h55m17s) <span class="weak">Zentreya was slain by Cave Spider</span>
+- [02:56:06](https://youtu.be/ul-6pFevT4w?t=02h56m06s) <span class="weak">Zentreya tried to swim in lava</span>
+- [02:56:19](https://youtu.be/ul-6pFevT4w?t=02h56m19s) <span class="weak">Neuro was slain by Cave Spider</span>
+- [02:58:41](https://youtu.be/ul-6pFevT4w?t=02h58m41s) <span class="weak">Neuro was blown up by Creeper</span>
+- [02:59:59](https://youtu.be/ul-6pFevT4w?t=02h59m59s) <span class="weak">Zentreya was slain by Cave Spider</span>
+- [03:00:23](https://youtu.be/ul-6pFevT4w?t=03h00m23s) <span class="weak">Crelly fell from a high place</span>
+- [03:01:44](https://youtu.be/ul-6pFevT4w?t=03h01m44s) <span class="weak">Zentreya tried to swim in lava</span>
+- [03:04:51](https://youtu.be/ul-6pFevT4w?t=03h04m51s) Crelly was slain by Zentreya
+- [03:06:02](https://youtu.be/ul-6pFevT4w?t=03h06m02s) Vedal joins the game for 1m10s
+- [03:07:50](https://youtu.be/ul-6pFevT4w?t=03h07m50s) Vedal joins the game for 21s
+- [03:08:56](https://youtu.be/ul-6pFevT4w?t=03h08m56s) <span class="weak">Neuro was shot by Skeleton</span> \| Found Crelly and Zentreya
+- [03:09:02](https://youtu.be/ul-6pFevT4w?t=03h09m02s) Vedal joins the game for 50s
+- [03:10:42](https://youtu.be/ul-6pFevT4w?t=03h10m42s) <span class="weak">Neuro was shot by Skeleton</span>
+- [03:12:01](https://youtu.be/ul-6pFevT4w?t=03h12m01s) <span class="weak">Neuro was slain by Spider</span>
+- [03:12:11](https://youtu.be/ul-6pFevT4w?t=03h12m11s) Crelly was slain by Zentreya
+- [03:12:25](https://youtu.be/ul-6pFevT4w?t=03h12m25s) Zentreya was slain by Neuro
+- [03:14:01](https://youtu.be/ul-6pFevT4w?t=03h14m01s) Crelly was slain by Neuro
+- [03:18:13](https://youtu.be/ul-6pFevT4w?t=03h18m13s) Vedal joins the game for 45s
+- [03:21:40](https://youtu.be/ul-6pFevT4w?t=03h21m40s) Vedal joins the game for 1m49s
+- [03:23:15](https://youtu.be/ul-6pFevT4w?t=03h23m15s) Zentreya tries to get Neuro to read signs
+- [03:27:25](https://youtu.be/ul-6pFevT4w?t=03h27m25s) Crelly was slain by Neuro
+- [03:30:14](https://youtu.be/ul-6pFevT4w?t=03h30m14s) <span class="weak">Crelly was slain by Zombie</span>
+- [03:31:33](https://youtu.be/ul-6pFevT4w?t=03h31m33s) <span class="weak">Neuro was shot by Skeleton</span> \| <span class="weak">Zentreya was slain by Spider</span> \| <span class="weak">Crelly was shot by Skeleton</span>
+- [03:32:36](https://youtu.be/ul-6pFevT4w?t=03h32m36s) <span class="weak">Crelly was shot by Skeleton</span> \| <span class="weak">Neuro was shot by Skeleton</span>
+- [03:33:36](https://youtu.be/ul-6pFevT4w?t=03h33m36s) <span class="weak">Crelly was shot by Skeleton</span>
+- [03:51:56](https://youtu.be/ul-6pFevT4w?t=03h51m56s) Looking for the snow biome
+- [03:56:37](https://youtu.be/ul-6pFevT4w?t=03h56m37s) <span class="weak">Neuro tried to swim in lava</span>
+- [03:57:15](https://youtu.be/ul-6pFevT4w?t=03h57m15s) <span class="weak">Neuro was shot by Skeleton</span>
+- [03:58:03](https://youtu.be/ul-6pFevT4w?t=03h58m03s) <span class="weak">Neuro was slain by Zombie 12 times over 6m3s</span>
+- [04:01:16](https://youtu.be/ul-6pFevT4w?t=04h01m16s) Vedal joins the game for 40s
+- [04:01:31](https://youtu.be/ul-6pFevT4w?t=04h01m31s) <span class="weak">Vedal was slain by Zombie</span>
+- [04:02:27](https://youtu.be/ul-6pFevT4w?t=04h02m27s) Vedal joins the game for 10s
+- [04:06:10](https://youtu.be/ul-6pFevT4w?t=04h06m10s) Vedal joins the game
+- [04:06:59](https://youtu.be/ul-6pFevT4w?t=04h06m59s) <span class="weak">Zentreya was shot by Skeleton</span>
+- [04:07:16](https://youtu.be/ul-6pFevT4w?t=04h07m16s) <span class="weak">Neuro was shot by Skeleton</span>
+- [04:09:18](https://youtu.be/ul-6pFevT4w?t=04h09m18s) <span class="weak">Zentreya fell from a high place</span>
+- [04:13:25](https://youtu.be/ul-6pFevT4w?t=04h13m25s) Crelly tried to swim in lava to escape Zentreya \| <span class="weak">Zentreya was blown up by Creeper</span>
+- [04:14:49](https://youtu.be/ul-6pFevT4w?t=04h14m49s) <span class="weak">Neuro was shot by Skeleton</span>
+- [04:15:22](https://youtu.be/ul-6pFevT4w?t=04h15m22s) Racing Vedal to the snow biome
+- [04:17:39](https://youtu.be/ul-6pFevT4w?t=04h17m39s) <span class="weak">Zentreya tried to swim in lava</span>
+- [04:22:43](https://youtu.be/ul-6pFevT4w?t=04h22m43s) Neuro inbound to Vedal's location
+- [04:37:04](https://youtu.be/ul-6pFevT4w?t=04h37m04s) Vedal found the ancient city
+- [04:52:15](https://youtu.be/ul-6pFevT4w?t=04h52m15s) Vedal is here
+- [04:57:58](https://youtu.be/ul-6pFevT4w?t=04h57m58s) Neuro fell from a high place
+- [04:58:50](https://youtu.be/ul-6pFevT4w?t=04h58m50s) Zentreya fell from a high place
+- [04:59:27](https://youtu.be/ul-6pFevT4w?t=04h59m27s) Going underground
+- [05:03:08](https://youtu.be/ul-6pFevT4w?t=05h03m08s) <span class="weak">Neuro hit the ground too hard</span>
+- [05:04:05](https://youtu.be/ul-6pFevT4w?t=05h04m05s) <span class="weak">Neuro tried to swim in lava to escape Zombie</span>
+- [05:04:37](https://youtu.be/ul-6pFevT4w?t=05h04m37s) <span class="weak">Zentreya was shot by Skeleton</span>
+- [05:04:48](https://youtu.be/ul-6pFevT4w?t=05h04m48s) <span class="weak">Zentreya fell from a high place 3 times over 17s</span>
+- [05:07:07](https://youtu.be/ul-6pFevT4w?t=05h07m07s) <span class="weak">Neuro was slain by Zombie</span>
+- [05:07:17](https://youtu.be/ul-6pFevT4w?t=05h07m17s) <span class="weak">Zentreya fell from a high place</span>
+- [05:07:36](https://youtu.be/ul-6pFevT4w?t=05h07m36s) <span class="weak">Crelly fell from a high place</span>
+- [05:13:12](https://youtu.be/ul-6pFevT4w?t=05h13m12s) <span class="weak">Zentreya was slain by Zombie</span>
+- [05:11:03](https://youtu.be/ul-6pFevT4w?t=05h11m03s) Neuro breaks her bed
+- [05:19:23](https://youtu.be/ul-6pFevT4w?t=05h19m23s) <span class="weak">Neuro fell from a high place</span> \| Back to spawn (Vedal is there)
+- [05:21:39](https://youtu.be/ul-6pFevT4w?t=05h21m39s) The others are back
+- [05:33:45](https://youtu.be/ul-6pFevT4w?t=05h33m45s) Vedal leaves the game
+- [05:36:14](https://youtu.be/ul-6pFevT4w?t=05h36m14s) Looking for the snow biome
+- [06:18:54](https://youtu.be/ul-6pFevT4w?t=06h18m54s) <span class="weak">Neuro fell from a high place</span>
+- [06:25:14](https://youtu.be/ul-6pFevT4w?t=06h25m14s) <span class="weak">Neuro was shot by Skeleton</span>
+- [06:26:26](https://youtu.be/ul-6pFevT4w?t=06h26m26s) About next time
+- [06:30:15](https://youtu.be/ul-6pFevT4w?t=06h30m15s) Zentreya leaves the game 
+- [06:30:44](https://youtu.be/ul-6pFevT4w?t=06h30m44s) <span class="weak">Neuro was shot by Skeleton</span>
+- [06:32:25](https://youtu.be/ul-6pFevT4w?t=06h32m25s) Zentreya leaves
+- [06:34:54](https://youtu.be/ul-6pFevT4w?t=06h34m54s) Crelly leaves
+- [06:35:10](https://youtu.be/ul-6pFevT4w?t=06h35m10s)~ Raiding [Crelly](https://twitch.tv/crelly)
 
 ## EVIL PLAYS OSU ([17 Aug 2026](https://youtu.be/PbLafdGRGxw))
 
