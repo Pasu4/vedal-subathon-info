@@ -1,4 +1,4 @@
-﻿<style>
+<style>
     span.weak {
         opacity: 0.5;
     }
@@ -2744,3 +2744,22 @@ Regular mob and environmental deaths are displayed in gray.
 - [04:17:45](https://youtu.be/Q8dFG7jdFY0?t=04h17m45s) Raiding [Camila](https://twitch.tv/camila)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## Germ Slaughter - Killing as many germs as possible ([25 Aug 2026](https://youtu.be/oyP_VgFrVPI))
+
+- [00:00:00](https://youtu.be/oyP_VgFrVPI?t=00h00m00s) *My Dearest — supercell*
+- [00:05:15](https://youtu.be/oyP_VgFrVPI?t=00h05m15s) Neuro appears \| **Just chatting**
+- [00:09:58](https://youtu.be/oyP_VgFrVPI?t=00h09m58s) Drawing: Pillow
+- [00:11:50](https://youtu.be/oyP_VgFrVPI?t=00h11m50s) Drawing: "The Path to GIGANERO - The Quickest Route"
+- [00:16:06](https://youtu.be/oyP_VgFrVPI?t=00h16m06s) Playing *Legally Distinct W•rdle*
+- [00:18:39](https://youtu.be/oyP_VgFrVPI?t=00h18m39s) Playing *Legally Distinct C•nnections*
+- [00:20:17](https://youtu.be/oyP_VgFrVPI?t=00h20m17s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:31:19](https://youtu.be/oyP_VgFrVPI?t=00h31m19s) Playing *Scrandle*
+- [00:58:17](https://youtu.be/oyP_VgFrVPI?t=00h58m17s) **Reacting to videos** \| Reacting to [*DOOR STUCK! DOOR STUCK!*](https://youtu.be/VqB1uoDTdKM) by KinetiK001
+- [01:03:51](https://youtu.be/oyP_VgFrVPI?t=01h03m51s) Reacting to [*Can They Handle An A.I. Teammate?*](https://youtu.be/ZE8SWRIRzgk) by Neuro-sama
+- [01:24:36](https://youtu.be/oyP_VgFrVPI?t=01h24m36s) Reacting to [*Doug Doug's first impression of Neurosama*](https://youtu.be/dEr9RF70rNI) by Neurosoda
+- [01:35:45](https://youtu.be/oyP_VgFrVPI?t=01h35m45s) Reacting to [*Neuro-Sama (Evil)'s Loudest Scream*](https://youtu.be/ww276qd5mic) by Milk Tea September
+- [01:43:39](https://youtu.be/oyP_VgFrVPI?t=01h43m39s) Reacting to [*Neuro-sama's secret recipe for chicken nuggets*](https://youtu.be/_JfuLtHSYXE) by Neuro-sama Clips
+- [01:53:24](https://youtu.be/oyP_VgFrVPI?t=01h53m24s) **Art review**
+- [02:17:25](https://youtu.be/oyP_VgFrVPI?t=02h17m25s) **Just chatting**
+- [02:25:17](https://youtu.be/oyP_VgFrVPI?t=02h25m17s) Raiding [Michi](https://twitch.tv/michimochievee)
