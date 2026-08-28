@@ -2763,3 +2763,19 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:53:24](https://youtu.be/oyP_VgFrVPI?t=01h53m24s) **Art review**
 - [02:17:25](https://youtu.be/oyP_VgFrVPI?t=02h17m25s) **Just chatting**
 - [02:25:17](https://youtu.be/oyP_VgFrVPI?t=02h25m17s) Raiding [Michi](https://twitch.tv/michimochievee)
+
+## EXPERIMENTING WITH OUR NEW 3D TECHNOLOGY ([27 Aug 2026](https://youtu.be/GcpV77hw3sA))
+
+- [00:00:00](https://youtu.be/GcpV77hw3sA?t=00h00m00s) *Free Bird — Lynyrd Skynyrd*
+- [00:03:00](https://youtu.be/GcpV77hw3sA?t=00h03m00s) Guitar
+- [00:07:45](https://youtu.be/GcpV77hw3sA?t=00h07m45s) Evil appears \| **3D stream**
+- [00:16:01](https://youtu.be/GcpV77hw3sA?t=00h16m01s) Cat ears
+- [00:16:27](https://youtu.be/GcpV77hw3sA?t=00h16m27s) Duck
+- [00:16:38](https://youtu.be/GcpV77hw3sA?t=00h16m38s) Frog hat
+- [01:46:03](https://youtu.be/GcpV77hw3sA?t=01h46m03s) **Just chatting**
+- [01:47:31](https://youtu.be/GcpV77hw3sA?t=01h47m31s) Playing *Legally Distinct W•rdle*
+- [01:48:50](https://youtu.be/GcpV77hw3sA?t=01h48m50s) Playing *Legally Distinct C•nnections*
+- [01:50:36](https://youtu.be/GcpV77hw3sA?t=01h50m36s) Playing *Minesweeper* (5x5, 5 mines)
+- [01:52:59](https://youtu.be/GcpV77hw3sA?t=01h52m59s) Playing *Scrandle*
+- [02:05:36](https://youtu.be/GcpV77hw3sA?t=02h05m36s) **Art review**
+- [02:27:47](https://youtu.be/GcpV77hw3sA?t=02h27m47s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
