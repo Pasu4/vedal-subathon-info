@@ -2779,3 +2779,13 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:52:59](https://youtu.be/GcpV77hw3sA?t=01h52m59s) Playing *Scrandle*
 - [02:05:36](https://youtu.be/GcpV77hw3sA?t=02h05m36s) **Art review**
 - [02:27:47](https://youtu.be/GcpV77hw3sA?t=02h27m47s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
+
+## Skyrim: Frogs are coolers than you ([29 Aug 2026](https://youtu.be/rjYTX81wIkg))
+
+- [00:00:00](https://youtu.be/rjYTX81wIkg?t=00h00m00s) *M@GICAL☆CURE! LOVE SHOT! — SAWTONE*
+- [00:03:17](https://youtu.be/rjYTX81wIkg?t=00h03m17s) *spot late — inabakumori*
+- [00:06:20](https://youtu.be/rjYTX81wIkg?t=00h06m20s) Neuro appears
+- [00:10:25](https://youtu.be/rjYTX81wIkg?t=00h10m25s) **Playing *The Elder Scrolls V: Skyrim***
+- [04:24:15](https://youtu.be/rjYTX81wIkg?t=04h24m15s) Raiding [Zentreya](https://twitch.tv/zentreya)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Skyrim Journal' project.
