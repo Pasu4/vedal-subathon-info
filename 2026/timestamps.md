@@ -2788,4 +2788,33 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [00:10:25](https://youtu.be/rjYTX81wIkg?t=00h10m25s) **Playing *The Elder Scrolls V: Skyrim***
 - [04:24:15](https://youtu.be/rjYTX81wIkg?t=04h24m15s) Raiding [Zentreya](https://twitch.tv/zentreya)
 
-For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Skyrim Journal' project.
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## five evil nights w/@cerberVT ([30 Aug 2026](https://youtu.be/uZTTRObEhbI))
+
+- [00:00:00](https://youtu.be/uZTTRObEhbI?t=00h00m00s) *Autotheist — Baby Bugs*
+- [00:02:25](https://youtu.be/uZTTRObEhbI?t=00h02m25s) *In the End — Linkin Park*
+- [00:05:59](https://youtu.be/uZTTRObEhbI?t=00h05m59s) Evil and Cerber appear
+- [00:07:06](https://youtu.be/uZTTRObEhbI?t=00h07m06s) **Playing *Five Nights at Freddy's***
+- [00:11:30](https://youtu.be/uZTTRObEhbI?t=00h11m30s) About drinking
+- [00:13:42](https://youtu.be/uZTTRObEhbI?t=00h13m42s) 1st Night (1 attempt)
+- [00:23:04](https://youtu.be/uZTTRObEhbI?t=00h23m04s) 2nd Night (5 attempts)
+- [00:34:35](https://youtu.be/uZTTRObEhbI?t=00h34m35s) Game crashed (not counted as loss)
+- [00:46:36](https://youtu.be/uZTTRObEhbI?t=00h46m36s) Final attempt
+- [00:55:48](https://youtu.be/uZTTRObEhbI?t=00h55m48s) 3rd Night (2 attempts, unsuccessful)
+- [00:56:48](https://youtu.be/uZTTRObEhbI?t=00h56m48s) Game crashed (not counted as loss)
+- [01:01:54](https://youtu.be/uZTTRObEhbI?t=01h01m54s) Evil gets intoxicated
+- [01:05:12](https://youtu.be/uZTTRObEhbI?t=01h05m12s) Game crashed (they gave up)
+- [01:07:26](https://youtu.be/uZTTRObEhbI?t=01h07m26s) **Playing *Freddy Fazbear's Pizzeria Simulator***
+- [01:08:49](https://youtu.be/uZTTRObEhbI?t=01h08m49s) Day 1
+- [01:09:51](https://youtu.be/uZTTRObEhbI?t=01h09m51s) ASMR voice for 3m16s
+- [01:16:36](https://youtu.be/uZTTRObEhbI?t=01h16m36s) Night 1
+- [01:22:04](https://youtu.be/uZTTRObEhbI?t=01h22m04s) Salvage 1
+- [01:27:37](https://youtu.be/uZTTRObEhbI?t=01h27m37s) Day 2
+- [01:48:31](https://youtu.be/uZTTRObEhbI?t=01h48m31s) **Playing *Five Nights at Freddy's 4***
+- [01:51:29](https://youtu.be/uZTTRObEhbI?t=01h51m29s) Night 6 (3 attempts, unsuccessful)
+- [01:52:07](https://youtu.be/uZTTRObEhbI?t=01h52m07s) Accidentally closed the game (not counted as loss)
+- [01:59:34](https://youtu.be/uZTTRObEhbI?t=01h59m34s) **Playing *Five Nights at Freddy's***
+- [02:00:40](https://youtu.be/uZTTRObEhbI?t=02h00m40s) 3rd Night (1 attempt, unsuccessful)
+- [02:08:07](https://youtu.be/uZTTRObEhbI?t=02h08m07s) Cerber leaves
+- [02:09:50](https://youtu.be/uZTTRObEhbI?t=02h09m50s) Raiding [Ellie](https://twitch.tv/ellie_minibot)
