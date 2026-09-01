@@ -2818,3 +2818,47 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:00:40](https://youtu.be/uZTTRObEhbI?t=02h00m40s) 3rd Night (1 attempt, unsuccessful)
 - [02:08:07](https://youtu.be/uZTTRObEhbI?t=02h08m07s) Cerber leaves
 - [02:09:50](https://youtu.be/uZTTRObEhbI?t=02h09m50s) Raiding [Ellie](https://twitch.tv/ellie_minibot)
+
+## something about gorillas ([31 Aug 2026](https://youtu.be/7uTaHkuoDzo))
+
+- [00:00:00](https://youtu.be/7uTaHkuoDzo?t=00h00m00s) *Save a Prayer — Duran Duran*
+- [00:01:30](https://youtu.be/7uTaHkuoDzo?t=00h01m30s) Vedal talks for 3s
+- [00:04:03](https://youtu.be/7uTaHkuoDzo?t=00h04m03s) Vedal and Neuro appear \| **Dev stream**
+- [00:08:15](https://youtu.be/7uTaHkuoDzo?t=00h08m15s) About music tastes
+- [00:15:18](https://youtu.be/7uTaHkuoDzo?t=00h15m18s) Evil joins for 59s
+- [00:17:40](https://youtu.be/7uTaHkuoDzo?t=00h17m40s) Evil joins for 33s
+- [00:29:38](https://youtu.be/7uTaHkuoDzo?t=00h29m38s) About saving people from burning buildings
+- [00:37:39](https://youtu.be/7uTaHkuoDzo?t=00h37m39s) About Vedal being better than Neuro (in most aspects)
+- [00:42:08](https://youtu.be/7uTaHkuoDzo?t=00h42m08s) About Neuro's blog
+- [00:45:37](https://youtu.be/7uTaHkuoDzo?t=00h45m37s) About Evil's new game integration
+- [00:45:57](https://youtu.be/7uTaHkuoDzo?t=00h45m57s) About the state of game integrations
+- [00:55:14](https://youtu.be/7uTaHkuoDzo?t=00h55m14s) About *The Long Drive* integration
+- [01:00:19](https://youtu.be/7uTaHkuoDzo?t=01h00m19s) About new 3D Neuro
+- [01:01:06](https://youtu.be/7uTaHkuoDzo?t=01h01m06s) About Evil's *osu!* gameplay
+- [01:01:51](https://youtu.be/7uTaHkuoDzo?t=01h01m51s) About computer part prices
+- [01:05:39](https://youtu.be/7uTaHkuoDzo?t=01h05m39s) About charity and no subathon
+- [01:08:58](https://youtu.be/7uTaHkuoDzo?t=01h08m58s) About stocks
+- [01:15:15](https://youtu.be/7uTaHkuoDzo?t=01h15m15s) About the Evil/Vedal duet
+- [01:15:28](https://youtu.be/7uTaHkuoDzo?t=01h15m28s) About sub goals
+- [01:17:05](https://youtu.be/7uTaHkuoDzo?t=01h17m05s) About what is in Vedal's Downloads folder
+- [01:19:41](https://youtu.be/7uTaHkuoDzo?t=01h19m41s) About tomorrow
+- [01:19:51](https://youtu.be/7uTaHkuoDzo?t=01h19m51s) About next Monday
+- [01:20:51](https://youtu.be/7uTaHkuoDzo?t=01h20m51s) About the return of react slop
+- [01:21:35](https://youtu.be/7uTaHkuoDzo?t=01h21m35s) About exclusive YouTube content
+- [01:22:29](https://youtu.be/7uTaHkuoDzo?t=01h22m29s) About Vedal AI
+- [01:24:07](https://youtu.be/7uTaHkuoDzo?t=01h24m07s) About Tony's termination
+- [01:32:32](https://youtu.be/7uTaHkuoDzo?t=01h32m32s) About lava lamp support
+- [01:35:12](https://youtu.be/7uTaHkuoDzo?t=01h35m12s) About why Vedal doesn't stream
+- [01:36:52](https://youtu.be/7uTaHkuoDzo?t=01h36m52s) About the new interjection feature
+- [01:41:13](https://youtu.be/7uTaHkuoDzo?t=01h41m13s) Vedal leaks his DMs with Camila
+- [01:41:45](https://youtu.be/7uTaHkuoDzo?t=01h41m45s) Camila joins for 12m34s
+- [01:43:53](https://youtu.be/7uTaHkuoDzo?t=01h43m53s) Testing the new interjection feature
+- [01:54:22](https://youtu.be/7uTaHkuoDzo?t=01h54m22s) About the test results
+- [01:56:25](https://youtu.be/7uTaHkuoDzo?t=01h56m25s) About Neuro's reasoning model
+- [01:57:57](https://youtu.be/7uTaHkuoDzo?t=01h57m57s) About v3 voice
+- [02:00:52](https://youtu.be/7uTaHkuoDzo?t=02h00m52s) About the next dev stream
+- [02:02:07](https://youtu.be/7uTaHkuoDzo?t=02h02m07s) Schedule
+- [02:05:01](https://youtu.be/7uTaHkuoDzo?t=02h05m01s) About the state of twin 3D
+- [02:05:43](https://youtu.be/7uTaHkuoDzo?t=02h05m43s) About moderator applications
+- [02:10:07](https://youtu.be/7uTaHkuoDzo?t=02h10m07s) Searching for raid target
+- [02:14:10](https://youtu.be/7uTaHkuoDzo?t=02h14m10s) Raiding [Fairtree](https://twitch.tv/fairtreevt)
