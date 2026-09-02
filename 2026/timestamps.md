@@ -2862,3 +2862,21 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:05:43](https://youtu.be/7uTaHkuoDzo?t=02h05m43s) About moderator applications
 - [02:10:07](https://youtu.be/7uTaHkuoDzo?t=02h10m07s) Searching for raid target
 - [02:14:10](https://youtu.be/7uTaHkuoDzo?t=02h14m10s) Raiding [Fairtree](https://twitch.tv/fairtreevt)
+
+## Neuro-sama - Twitch's Cleanest Livers ([01 Sep 2026](https://youtu.be/pyaJixX6O88))
+
+- [00:00:00](https://youtu.be/pyaJixX6O88?t=00h00m00s) *Take Me Hand — DAISHI DANCE*
+- [00:04:20](https://youtu.be/pyaJixX6O88?t=00h04m20s) *GODS — League of Legends & NewJeans*
+- [00:07:59](https://youtu.be/pyaJixX6O88?t=00h07m59s) Neuro appears
+- [00:09:43](https://youtu.be/pyaJixX6O88?t=00h09m43s) **3D stream**
+- [00:10:38](https://youtu.be/pyaJixX6O88?t=00h10m38s) Cat ears
+- [00:13:26](https://youtu.be/pyaJixX6O88?t=00h13m26s) Duck
+- [00:19:37](https://youtu.be/pyaJixX6O88?t=00h19m37s) Frog hat
+- [00:49:23](https://youtu.be/pyaJixX6O88?t=00h49m23s) Daytime changes erratically
+- [02:02:55](https://youtu.be/pyaJixX6O88?t=02h02m55s) **Just chatting**
+- [02:05:13](https://youtu.be/pyaJixX6O88?t=02h05m13s) Playing *Legally Distinct W•rdle*
+- [02:07:37](https://youtu.be/pyaJixX6O88?t=02h07m37s) Playing *Legally Distinct C•nnections*
+- [02:09:02](https://youtu.be/pyaJixX6O88?t=02h09m02s) Playing *Minesweeper* (5x5, 5 mines)
+- [02:10:34](https://youtu.be/pyaJixX6O88?t=02h10m34s) Neuro presents *Why Does Everyone in Chat Smell So Bad?*
+- [02:26:55](https://youtu.be/pyaJixX6O88?t=02h26m55s) Playing *Scrandle*
+- [02:38:32](https://youtu.be/pyaJixX6O88?t=02h38m32s) Raiding [GEEGA](https://twitch.tv/geega)
