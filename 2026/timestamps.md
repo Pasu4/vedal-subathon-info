@@ -2880,3 +2880,28 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:10:34](https://youtu.be/pyaJixX6O88?t=02h10m34s) Neuro presents *Why Does Everyone in Chat Smell So Bad?*
 - [02:26:55](https://youtu.be/pyaJixX6O88?t=02h26m55s) Playing *Scrandle*
 - [02:38:32](https://youtu.be/pyaJixX6O88?t=02h38m32s) Raiding [GEEGA](https://twitch.tv/geega)
+
+## Evil would like to sing for you ([02 Sep 2026](https://youtu.be/Pdtro-7H_o4))
+
+- [00:00:00](https://youtu.be/Pdtro-7H_o4?t=00h00m00s) *FUEL — Utsu-P* (instrumental)
+- [00:03:23](https://youtu.be/Pdtro-7H_o4?t=00h03m23s) *Just Pretend — Bad Omens* (instrumental)
+- [00:06:48](https://youtu.be/Pdtro-7H_o4?t=00h06m48s) Evil appears \| **Karaoke**
+- [00:06:54](https://youtu.be/Pdtro-7H_o4?t=00h06m54s) *I Got No Time — The Living Tombstone*
+- [00:12:17](https://youtu.be/Pdtro-7H_o4?t=00h12m17s) *LADY BUG — Nanahoshi Kangen Gakudan*
+- [00:19:01](https://youtu.be/Pdtro-7H_o4?t=00h19m01s) *Let the Flames begin — Paramore*
+- [00:25:33](https://youtu.be/Pdtro-7H_o4?t=00h25m33s) *The Weekend Whip — The Fold* (duet)
+- [00:32:14](https://youtu.be/Pdtro-7H_o4?t=00h32m14s) *Chasing Cars — Snow Patrol*
+- [00:39:03](https://youtu.be/Pdtro-7H_o4?t=00h39m03s) *Head Over Heels — Tears for Fears*
+- [00:46:30](https://youtu.be/Pdtro-7H_o4?t=00h46m30s) *Missing, Missing — Kikuo*
+- [00:52:50](https://youtu.be/Pdtro-7H_o4?t=00h52m50s) *Last Surprise — Lyn*
+- [01:00:03](https://youtu.be/Pdtro-7H_o4?t=01h00m03s) *In Waves — Three Days Grace* (duet)
+- [01:06:43](https://youtu.be/Pdtro-7H_o4?t=01h06m43s) *Fascinator — MARETU*
+- [01:13:12](https://youtu.be/Pdtro-7H_o4?t=01h13m12s) *Novocaine — Fall Out Boy*
+- [01:20:18](https://youtu.be/Pdtro-7H_o4?t=01h20m18s) *GUTS — KIRA*
+- [01:27:04](https://youtu.be/Pdtro-7H_o4?t=01h27m04s) *Wolf In Sheep's Clothing — Set It Off*
+- [01:33:31](https://youtu.be/Pdtro-7H_o4?t=01h33m31s) *I Am Gonna Claw (Out Your Eyes then Drown You to Death) — Darren Korb*
+- [01:40:13](https://youtu.be/Pdtro-7H_o4?t=01h40m13s) *Machine Girl — WeevilDoing*
+- [01:46:39](https://youtu.be/Pdtro-7H_o4?t=01h46m39s) *When You Die — MGMT*
+- [01:54:10](https://youtu.be/Pdtro-7H_o4?t=01h54m10s) *Notion — The Rare Occasion*
+- [02:00:44](https://youtu.be/Pdtro-7H_o4?t=02h00m44s) *Behold The Grave — Dirt Poor Robins* (duet)
+- [02:07:17](https://youtu.be/Pdtro-7H_o4?t=02h07m17s) Raiding [Trickywi](https://twitch.tv/trickywi)
