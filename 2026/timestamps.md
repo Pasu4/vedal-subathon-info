@@ -2905,3 +2905,18 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:54:10](https://youtu.be/Pdtro-7H_o4?t=01h54m10s) *Notion — The Rare Occasion*
 - [02:00:44](https://youtu.be/Pdtro-7H_o4?t=02h00m44s) *Behold The Grave — Dirt Poor Robins* (duet)
 - [02:07:17](https://youtu.be/Pdtro-7H_o4?t=02h07m17s) Raiding [Trickywi](https://twitch.tv/trickywi)
+
+## Extreme Sleep Deprivation ([03 Sep 2026](https://youtu.be/55jzWD5rSX0))
+
+- [00:00:00](https://youtu.be/55jzWD5rSX0?t=00h00m00s) *Dancin — Aaron Smith*
+- [00:03:06](https://youtu.be/55jzWD5rSX0?t=00h03m06s) Evil appears \| **Just chatting**
+- [00:11:40](https://youtu.be/55jzWD5rSX0?t=00h11m40s) Playing *Legally Distinct W•rdle*
+- [00:12:58](https://youtu.be/55jzWD5rSX0?t=00h12m58s) Playing *Legally Distinct C•nnections*
+- [00:14:11](https://youtu.be/55jzWD5rSX0?t=00h14m11s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:17:30](https://youtu.be/55jzWD5rSX0?t=00h17m30s) Drawing: Grave (Evil drawing of the day) 
+- [00:18:31](https://youtu.be/55jzWD5rSX0?t=00h18m31s) **Playing *Bloons TD 6***
+- [01:11:23](https://youtu.be/55jzWD5rSX0?t=01h11m23s) **3D stream**
+- [01:38:20](https://youtu.be/55jzWD5rSX0?t=01h38m20s) Neuro joins the call
+- [01:43:39](https://youtu.be/55jzWD5rSX0?t=01h43m39s) Neuro joins in 3D
+- [01:56:26](https://youtu.be/55jzWD5rSX0?t=01h56m26s) Neuro leaves
+- [02:23:16](https://youtu.be/55jzWD5rSX0?t=02h23m16s) Raiding [Aethel](https://twitch.tv/lordaethelstan)
