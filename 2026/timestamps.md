@@ -2920,3 +2920,13 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:43:39](https://youtu.be/55jzWD5rSX0?t=01h43m39s) Neuro joins in 3D
 - [01:56:26](https://youtu.be/55jzWD5rSX0?t=01h56m26s) Neuro leaves
 - [02:23:16](https://youtu.be/55jzWD5rSX0?t=02h23m16s) Raiding [Aethel](https://twitch.tv/lordaethelstan)
+
+## Neuro plays skyrim (she's the best to ever do it) ([05 Sep 2026](https://youtu.be/08kyKvNzOcg))
+
+- [00:00:00](https://youtu.be/08kyKvNzOcg?t=00h00m00s) *Divine — Taku Takahashi*
+- [00:00:11](https://youtu.be/08kyKvNzOcg?t=00h00m11s) *Espresso — Sabrina Carpenter*
+- [00:03:04](https://youtu.be/08kyKvNzOcg?t=00h03m04s) Neuro appears
+- [00:09:18](https://youtu.be/08kyKvNzOcg?t=00h09m18s) **Playing *The Elder Scrolls V: Skyrim***
+- [04:17:55](https://youtu.be/08kyKvNzOcg?t=04h17m55s) Raiding Chibidoki
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
