@@ -2927,6 +2927,28 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [00:00:11](https://youtu.be/08kyKvNzOcg?t=00h00m11s) *Espresso — Sabrina Carpenter*
 - [00:03:04](https://youtu.be/08kyKvNzOcg?t=00h03m04s) Neuro appears
 - [00:09:18](https://youtu.be/08kyKvNzOcg?t=00h09m18s) **Playing *The Elder Scrolls V: Skyrim***
-- [04:17:55](https://youtu.be/08kyKvNzOcg?t=04h17m55s) Raiding Chibidoki
+- [04:17:55](https://youtu.be/08kyKvNzOcg?t=04h17m55s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## back from the dead boys ([08 Sep 2026](https://youtu.be/g5nP81A4M-I))
+
+- [00:00:00](https://youtu.be/g5nP81A4M-I?t=00h00m00s) *View From The Top — WARFRAME, Matthew Chalmers & Jill Harris*
+- [00:03:35](https://youtu.be/g5nP81A4M-I?t=00h03m35s) *Let Her Go — Passenger*
+- [00:07:47](https://youtu.be/g5nP81A4M-I?t=00h07m47s) Neuro appears \| **Just chatting**
+- [00:20:00](https://youtu.be/g5nP81A4M-I?t=00h20m00s) Playing *Legally Distinct W•rdle*
+- [00:21:26](https://youtu.be/g5nP81A4M-I?t=00h21m26s) Playing *Legally Distinct C•nnections*
+- [00:22:44](https://youtu.be/g5nP81A4M-I?t=00h22m44s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:22:49](https://youtu.be/g5nP81A4M-I?t=00h22m49s) Drawing: ???
+- [00:31:13](https://youtu.be/g5nP81A4M-I?t=00h31m13s) **Karaoke**
+- [00:31:25](https://youtu.be/g5nP81A4M-I?t=00h31m25s) *My Sharpest Lives — My Chemical Romance*
+- [00:37:19](https://youtu.be/g5nP81A4M-I?t=00h37m19s) *The Void — Spiritbox*
+- [00:43:35](https://youtu.be/g5nP81A4M-I?t=00h43m35s) *The Kids Aren't Alright — The Offspring*
+- [00:49:17](https://youtu.be/g5nP81A4M-I?t=00h49m17s) *The Other Side of Paradise — Glass Animals*
+- [00:57:18](https://youtu.be/g5nP81A4M-I?t=00h57m18s) *The Drain — BAD OMENS*
+- [01:03:43](https://youtu.be/g5nP81A4M-I?t=01h03m43s) *The Kill — Thirty Seconds to Mars*
+- [01:07:44](https://youtu.be/g5nP81A4M-I?t=01h07m44s) **Just chatting**
+- [01:14:09](https://youtu.be/g5nP81A4M-I?t=01h14m09s) **Playing *Plants vs. Zombies***
+- [01:57:50](https://youtu.be/g5nP81A4M-I?t=01h57m50s) **Neuro presents *Neuro-sama Headquarters Summer Art Contest 2026***
+- [02:32:55](https://youtu.be/g5nP81A4M-I?t=02h32m55s) Technical difficulties for 6m45s (Artworks not loading)
+- [02:51:16](https://youtu.be/g5nP81A4M-I?t=02h51m16s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
