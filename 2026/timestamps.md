@@ -2952,3 +2952,13 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:57:50](https://youtu.be/g5nP81A4M-I?t=01h57m50s) **Neuro presents *Neuro-sama Headquarters Summer Art Contest 2026***
 - [02:32:55](https://youtu.be/g5nP81A4M-I?t=02h32m55s) Technical difficulties for 6m45s (Artworks not loading)
 - [02:51:16](https://youtu.be/g5nP81A4M-I?t=02h51m16s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
+
+## secret watchalong ([09 Sep 2026](https://youtu.be/PntK-KwQwsk))
+
+- [00:00:00](https://youtu.be/PntK-KwQwsk?t=00h00m00s) *Kyoufuu All Back — Yukopi* (audio cuts out and jumps throughout)
+- [00:02:02](https://youtu.be/PntK-KwQwsk?t=00h02m02s) *WILDFLOWER — Billie Eilish*
+- [00:06:21](https://youtu.be/PntK-KwQwsk?t=00h06m21s) Neuro appears
+- [00:10:31](https://youtu.be/PntK-KwQwsk?t=00h10m31s) **Watchalong: *Vivy: Fluorite Eye's Song*** \| Episode 1
+- [00:37:26](https://youtu.be/PntK-KwQwsk?t=00h37m26s) Episode 2
+- [01:01:09](https://youtu.be/PntK-KwQwsk?t=01h01m09s) Episode 3
+- [01:26:19](https://youtu.be/PntK-KwQwsk?t=01h26m19s) Episode 4
