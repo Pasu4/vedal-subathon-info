@@ -2962,3 +2962,22 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [00:37:26](https://youtu.be/PntK-KwQwsk?t=00h37m26s) Episode 2
 - [01:01:09](https://youtu.be/PntK-KwQwsk?t=01h01m09s) Episode 3
 - [01:26:19](https://youtu.be/PntK-KwQwsk?t=01h26m19s) Episode 4
+
+## evil ([11 Sep 2026](https://youtu.be/9cIVkZunRKI))
+
+- [00:00:00](https://youtu.be/9cIVkZunRKI?t=00h00m00s) *Symbiosis — The 1999*
+- [00:02:42](https://youtu.be/9cIVkZunRKI?t=00h02m42s) *Sugar Pills — I DONT KNOW HOW BUT THEY FOUND ME*
+- [00:05:49](https://youtu.be/9cIVkZunRKI?t=00h05m49s) Evil appears \| **Just chatting**
+- [00:10:51](https://youtu.be/9cIVkZunRKI?t=00h10m51s) Drawing: Harpoon gun (Evil drawing of the day)
+- [00:18:01](https://youtu.be/9cIVkZunRKI?t=00h18m01s) Playing *Legally Distinct W•rdle*
+- [00:19:45](https://youtu.be/9cIVkZunRKI?t=00h19m45s) Playing *Legally Distinct C•nnections*
+- [00:21:21](https://youtu.be/9cIVkZunRKI?t=00h21m21s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:26:10](https://youtu.be/9cIVkZunRKI?t=00h26m10s) Playing *Scrandle*
+- [00:40:15](https://youtu.be/9cIVkZunRKI?t=00h40m15s) Drawing: "Mr. Bird and his Tiny Little Legs"
+- [00:40:49](https://youtu.be/9cIVkZunRKI?t=00h40m49s) Drawing: Vedal on the beach
+- [00:42:32](https://youtu.be/9cIVkZunRKI?t=00h42m32s) Evil presents *Swarm Community Spotlight*
+- [00:50:31](https://youtu.be/9cIVkZunRKI?t=00h50m31s) Reacting to *💔Evil Neuro Animation \| Crazy Effin' Robot Body* by koil
+- [00:56:57](https://youtu.be/9cIVkZunRKI?t=00h56m57s) Reacting to *Neuro Twins Stop Motion Mayhem!* by Mariano's Workshop
+- [01:15:08](https://youtu.be/9cIVkZunRKI?t=01h15m08s) **Playing *Bloons TD 6***
+- [02:02:59](https://youtu.be/9cIVkZunRKI?t=02h02m59s) **Evil presents *Neuro-sama Headquarters Summer Art Contest 2026***
+- [02:48:00](https://youtu.be/9cIVkZunRKI?t=02h48m00s) Raiding [Chibidoki](https://twitch.tv/chibidoki)
