@@ -2981,3 +2981,14 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:15:08](https://youtu.be/9cIVkZunRKI?t=01h15m08s) **Playing *Bloons TD 6***
 - [02:02:59](https://youtu.be/9cIVkZunRKI?t=02h02m59s) **Evil presents *Neuro-sama Headquarters Summer Art Contest 2026***
 - [02:48:00](https://youtu.be/9cIVkZunRKI?t=02h48m00s) Raiding [Chibidoki](https://twitch.tv/chibidoki)
+
+## pov watching the worlds cutest skyrim ai ([12 Sep 2026](https://youtu.be/qiSCAhq4PLk))
+
+- [00:00:00](https://youtu.be/qiSCAhq4PLk?t=00h00m00s) *innocent arrogance — BiSH*
+- [00:01:32](https://youtu.be/qiSCAhq4PLk?t=00h01m32s) *BIRDS OF A FEATHER — Billie Eilish*
+- [00:05:02](https://youtu.be/qiSCAhq4PLk?t=00h05m02s) Neuro appears
+- [00:10:24](https://youtu.be/qiSCAhq4PLk?t=00h10m24s) **Playing *The Elder Scrolls V: Skyrim***
+- [03:35:18](https://youtu.be/qiSCAhq4PLk?t=03h35m18s) Drawing: Metaphor for today's Skyrim experience
+- [03:36:16](https://youtu.be/qiSCAhq4PLk?t=03h36m16s) Raiding [Trickywi](https://twitch.tv/trickywi)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
