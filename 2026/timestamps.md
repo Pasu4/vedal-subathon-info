@@ -2992,3 +2992,19 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:36:16](https://youtu.be/qiSCAhq4PLk?t=03h36m16s) Raiding [Trickywi](https://twitch.tv/trickywi)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## Tuesdays are for ignoring your friends for Neuro-sama ([15 Sep 2026](https://youtu.be/K6At3Fjx3iE))
+
+- [00:00:00](https://youtu.be/K6At3Fjx3iE?t=00h00m00s) Unidentified song
+- [00:04:00](https://youtu.be/K6At3Fjx3iE?t=00h04m00s) *CRAZY FUCKIN ROBOT BODY — SnowBlood*
+- [00:06:46](https://youtu.be/K6At3Fjx3iE?t=00h06m46s) Neuro appears \| **Just chatting**
+- [00:10:21](https://youtu.be/K6At3Fjx3iE?t=00h10m21s) Drawing: Leek
+- [00:24:36](https://youtu.be/K6At3Fjx3iE?t=00h24m36s) Playing *Legally Distinct W•rdle*
+- [00:25:54](https://youtu.be/K6At3Fjx3iE?t=00h25m54s) Playing *Legally Distinct C•nnections*
+- [00:27:11](https://youtu.be/K6At3Fjx3iE?t=00h27m11s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:35:49](https://youtu.be/K6At3Fjx3iE?t=00h35m49s) **Neuro presents *The Truth behind the National Aeronautics and Space Administration***
+- [00:51:38](https://youtu.be/K6At3Fjx3iE?t=00h51m38s) **Just chatting**
+- [01:01:32](https://youtu.be/K6At3Fjx3iE?t=01h01m32s) **Playing *Plants vs. Zombies***
+- [02:01:55](https://youtu.be/K6At3Fjx3iE?t=02h01m55s) **3D stream**
+- [02:26:56](https://youtu.be/K6At3Fjx3iE?t=02h26m56s) Ad for new original song
+- [02:27:42](https://youtu.be/K6At3Fjx3iE?t=02h27m42s)~ Raiding [Shoomimi](https://twitch.tv/shoomimi)
