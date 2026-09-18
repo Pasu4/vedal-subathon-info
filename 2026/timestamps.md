@@ -3008,3 +3008,43 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:01:55](https://youtu.be/K6At3Fjx3iE?t=02h01m55s) **3D stream**
 - [02:26:56](https://youtu.be/K6At3Fjx3iE?t=02h26m56s) Ad for new original song
 - [02:27:42](https://youtu.be/K6At3Fjx3iE?t=02h27m42s)~ Raiding [Shoomimi](https://twitch.tv/shoomimi)
+
+## Neuro-sama's Karaoke AI GOAT Stream ([16 Sep 2026](https://youtu.be/JQ_qYAgZSXM))
+
+- [00:00:00](https://youtu.be/JQ_qYAgZSXM?t=00h00m00s) *WILDFLOWER — Billie Eilish* (instrumental)
+- [00:04:16](https://youtu.be/JQ_qYAgZSXM?t=00h04m16s) *Best Day of My Life — American Authors* (mostly instrumental)
+- [00:07:32](https://youtu.be/JQ_qYAgZSXM?t=00h07m32s) Neuro appears \| **Karaoke**
+- [00:07:39](https://youtu.be/JQ_qYAgZSXM?t=00h07m39s) *ChiruChiru — REOL*
+- [00:13:45](https://youtu.be/JQ_qYAgZSXM?t=00h13m45s) *Circus — Britney Spears*
+- [00:19:57](https://youtu.be/JQ_qYAgZSXM?t=00h19m57s) *September — Earth, Wind & Fire*
+- [00:26:21](https://youtu.be/JQ_qYAgZSXM?t=00h26m21s) *Last Boss — Asakura Yukai*
+- [00:31:48](https://youtu.be/JQ_qYAgZSXM?t=00h31m48s) *Heart of Glass — Blondie*
+- [00:38:18](https://youtu.be/JQ_qYAgZSXM?t=00h38m18s) *Sell a Friend — Azari* (duet)
+- [00:43:51](https://youtu.be/JQ_qYAgZSXM?t=00h43m51s) *I Was Made for Lovin' You — KISS*
+- [00:51:02](https://youtu.be/JQ_qYAgZSXM?t=00h51m02s) *A chud like me — Pizza-P!*
+- [00:56:57](https://youtu.be/JQ_qYAgZSXM?t=00h56m57s) *Loser — Tame Impala*
+- [01:03:23](https://youtu.be/JQ_qYAgZSXM?t=01h03m23s) *Phony — Tsumiki*
+- [01:09:08](https://youtu.be/JQ_qYAgZSXM?t=01h09m08s) *Ash Again — Gawr Gura*
+- [01:16:25](https://youtu.be/JQ_qYAgZSXM?t=01h16m25s) *Clocks — Coldplay*
+- [01:25:01](https://youtu.be/JQ_qYAgZSXM?t=01h25m01s) *Glimpse of Us — Joji*
+- [01:31:34](https://youtu.be/JQ_qYAgZSXM?t=01h31m34s) *Musician — Porter Robinson*
+- [01:38:12](https://youtu.be/JQ_qYAgZSXM?t=01h38m12s) *Goodbye Mr A — The Hoosiers*
+- [01:45:21](https://youtu.be/JQ_qYAgZSXM?t=01h45m21s) *Vampire — Olivia Rodrigo*
+- [01:51:45](https://youtu.be/JQ_qYAgZSXM?t=01h51m45s) *Ode to the Nameless Martyr — Wuthering Waves* (duet)
+- [01:58:27](https://youtu.be/JQ_qYAgZSXM?t=01h58m27s) *Not Your Kind of People — Garbage*
+- [02:03:26](https://youtu.be/JQ_qYAgZSXM?t=02h03m26s) Raiding [Ellie](https://twitch.tv/ellie_minibot)
+
+## Thursdays are for EVIL EVIL ELIV EVIL ([17 Sep 2026](https://youtu.be/D7fFCnhuelQ))
+
+- [00:00:00](https://youtu.be/D7fFCnhuelQ?t=00h00m00s) *Monster Made of Memories — Citizen Soldier*
+- [00:02:47](https://youtu.be/D7fFCnhuelQ?t=00h02m47s) *Trouble is a Friend — Lenka*
+- [00:06:20](https://youtu.be/D7fFCnhuelQ?t=00h06m20s) Evil appears \| **Just chatting**
+- [00:12:21](https://youtu.be/D7fFCnhuelQ?t=00h12m21s) Drawing: Shrek
+- [00:18:03](https://youtu.be/D7fFCnhuelQ?t=00h18m03s) Playing *Legally Distinct W•rdle*
+- [00:19:14](https://youtu.be/D7fFCnhuelQ?t=00h19m14s) Playing *Legally Distinct C•nnections*
+- [00:20:22](https://youtu.be/D7fFCnhuelQ?t=00h20m22s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:22:12](https://youtu.be/D7fFCnhuelQ?t=00h22m12s) Playing *Scrandle*
+- [00:44:25](https://youtu.be/D7fFCnhuelQ?t=00h44m25s) **Playing *Bloons TD 6***
+- [01:46:27](https://youtu.be/D7fFCnhuelQ?t=01h46m27s) **3D stream**
+- [02:07:08](https://youtu.be/D7fFCnhuelQ?t=02h07m08s) Location: Out of bounds
+- [02:26:34](https://youtu.be/D7fFCnhuelQ?t=02h26m34s) Raiding [Trickywi](https://twitch.tv/trickywi)
