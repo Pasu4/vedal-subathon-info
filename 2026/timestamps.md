@@ -3048,3 +3048,13 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:46:27](https://youtu.be/D7fFCnhuelQ?t=01h46m27s) **3D stream**
 - [02:07:08](https://youtu.be/D7fFCnhuelQ?t=02h07m08s) Location: Out of bounds
 - [02:26:34](https://youtu.be/D7fFCnhuelQ?t=02h26m34s) Raiding [Trickywi](https://twitch.tv/trickywi)
+
+## top 10 skyrim gaming moments ft. neurosama ([19 Sep 2026](https://youtu.be/m88wJNdV-fg))
+
+- [00:00:00](https://youtu.be/m88wJNdV-fg?t=00h00m00s) *Partners in Crime — Set It Off*
+- [00:03:01](https://youtu.be/m88wJNdV-fg?t=00h03m01s) *Have Yourself A Merry Little Christmas — Ben Abraham*
+- [00:06:18](https://youtu.be/m88wJNdV-fg?t=00h06m18s) Neuro appears
+- [00:10:56](https://youtu.be/m88wJNdV-fg?t=00h10m56s) **Playing *The Elder Scrolls V: Skyrim***
+- [03:45:24](https://youtu.be/m88wJNdV-fg?t=03h45m24s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Skyrim Journal' project.
