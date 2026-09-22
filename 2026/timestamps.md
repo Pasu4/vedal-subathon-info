@@ -2963,6 +2963,26 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:01:09](https://youtu.be/PntK-KwQwsk?t=01h01m09s) Episode 3
 - [01:26:19](https://youtu.be/PntK-KwQwsk?t=01h26m19s) Episode 4
 
+## D&D CHARITY STREAM FOR CALM !donate !auction ([10 Sep 2026](https://youtu.be/mQe0ryhxt5c))
+
+I currently don't have the time to watch this fully, so timestamps are only partial. I'll come back to it if I remember.
+
+- [00:00:00](https://youtu.be/mQe0ryhxt5c?t=00h00m00s) *La Rosette — A Carousing Consort*
+- [00:01:35](https://youtu.be/mQe0ryhxt5c?t=00h01m35s) *í Lok Dags — Blackbard*
+- [00:06:03](https://youtu.be/mQe0ryhxt5c?t=00h06m03s) *Skaldernes Sang — Blackbard*
+- [00:09:09](https://youtu.be/mQe0ryhxt5c?t=00h09m09s) *Storytime at the Rotten Raccoon — idokay*
+- [00:11:17](https://youtu.be/mQe0ryhxt5c?t=00h11m17s) *Fable — Timothy Shortell*
+- [00:13:48](https://youtu.be/mQe0ryhxt5c?t=00h13m48s) *Elven Song — Tilman Sillescu*
+- [00:14:55](https://youtu.be/mQe0ryhxt5c?t=00h14m55s) Charity introduction
+- [00:17:24](https://youtu.be/mQe0ryhxt5c?t=00h17m24s) Mara, Cottontail, Neuro and Zentreya appear \| **Playing *Dungeons & Dragons*** \| Introductions
+- [00:19:31](https://youtu.be/mQe0ryhxt5c?t=00h19m31s) Introducing the charity
+- [00:22:57](https://youtu.be/mQe0ryhxt5c?t=00h22m57s) Will joins \| Introducing donation milestones and auction house
+- [00:27:18](https://youtu.be/mQe0ryhxt5c?t=00h27m18s) Campaign starts
+- [00:29:15](https://youtu.be/mQe0ryhxt5c?t=00h29m15s) Cottontail introduction
+- [00:34:38](https://youtu.be/mQe0ryhxt5c?t=00h34m38s) Kaxsandra (Neuro) introduction
+- [00:38:27](https://youtu.be/mQe0ryhxt5c?t=00h38m27s) £10,000 milestone reached
+- [00:39:43](https://youtu.be/mQe0ryhxt5c?t=00h39m43s) Zentreya introduction
+
 ## evil ([11 Sep 2026](https://youtu.be/9cIVkZunRKI))
 
 - [00:00:00](https://youtu.be/9cIVkZunRKI?t=00h00m00s) *Symbiosis — The 1999*
