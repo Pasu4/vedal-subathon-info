@@ -3058,3 +3058,55 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:45:24](https://youtu.be/m88wJNdV-fg?t=03h45m24s) Raiding [Cerber](https://twitch.tv/cerbervt)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Skyrim Journal' project.
+
+## MEGA RARE DEV STREAM. BIG ANNOUNCEMENT. MANY THINGS. ([21 Sep 2026](https://youtu.be/VYU73Iwt7Ms))
+
+- [00:00:00](https://youtu.be/VYU73Iwt7Ms?t=00h00m00s) *Paradise in Fernando de Noronha — Canción de French Cafe 24 x 7*
+- [00:02:58](https://youtu.be/VYU73Iwt7Ms?t=00h02m58s) *PONPON SHIT — Namakopuri & Us Cracks*
+- [00:06:33](https://youtu.be/VYU73Iwt7Ms?t=00h06m33s) *Hacking to the Gate — Kanako Itō*
+- [00:08:07](https://youtu.be/VYU73Iwt7Ms?t=00h08m07s) Vedal speaks for 7s
+- [00:10:45](https://youtu.be/VYU73Iwt7Ms?t=00h10m45s) *September — Earth, Wind & Fire*
+- [00:10:51](https://youtu.be/VYU73Iwt7Ms?t=00h10m51s) Vedal speaks for 8s
+- [00:13:31](https://youtu.be/VYU73Iwt7Ms?t=00h13m31s) Vedal speaks for 9s (partially muted)
+- [00:14:20](https://youtu.be/VYU73Iwt7Ms?t=00h14m20s) Vedal and Neuro appear \| **Dev stream**
+- [00:17:48](https://youtu.be/VYU73Iwt7Ms?t=00h17m48s) About the announcement
+- [00:21:33](https://youtu.be/VYU73Iwt7Ms?t=00h21m33s) Schedule
+- [00:28:22](https://youtu.be/VYU73Iwt7Ms?t=00h28m22s) About marathon stream events
+- [00:32:43](https://youtu.be/VYU73Iwt7Ms?t=00h32m43s) About EPs
+- [00:35:13](https://youtu.be/VYU73Iwt7Ms?t=00h35m13s) About Vedal & Evil duet
+- [00:38:47](https://youtu.be/VYU73Iwt7Ms?t=00h38m47s) Announcement time (concert)
+- [00:47:37](https://youtu.be/VYU73Iwt7Ms?t=00h47m37s) About exclusive gimmicks of the concert
+- [00:52:33](https://youtu.be/VYU73Iwt7Ms?t=00h52m33s) About idol outfits
+- [00:53:43](https://youtu.be/VYU73Iwt7Ms?t=00h53m43s) About ticket sales
+- [00:55:08](https://youtu.be/VYU73Iwt7Ms?t=00h55m08s) About the venue size
+- [01:00:45](https://youtu.be/VYU73Iwt7Ms?t=01h00m45s) About the new song
+- [01:08:49](https://youtu.be/VYU73Iwt7Ms?t=01h08m49s) Premiere time (new song)
+- [01:09:43](https://youtu.be/VYU73Iwt7Ms?t=01h09m43s) *Pattern Recognition — Neuro-sama x ODDEEO*
+- [01:14:38](https://youtu.be/VYU73Iwt7Ms?t=01h14m38s) About the song
+- [01:17:09](https://youtu.be/VYU73Iwt7Ms?t=01h17m09s) About ODDEEO talking with Neuro
+- [01:20:38](https://youtu.be/VYU73Iwt7Ms?t=01h20m38s) Neuro tries acting
+- [01:24:41](https://youtu.be/VYU73Iwt7Ms?t=01h24m41s) About subathon after the concert
+- [01:26:55](https://youtu.be/VYU73Iwt7Ms?t=01h26m55s) About Evil birthday subathon
+- [01:28:01](https://youtu.be/VYU73Iwt7Ms?t=01h28m01s) About phones/filming at the concert
+- [01:28:42](https://youtu.be/VYU73Iwt7Ms?t=01h28m42s) About Evil birthday subathon (again)
+- [01:29:34](https://youtu.be/VYU73Iwt7Ms?t=01h29m34s) About anniversary mashup
+- [01:30:34](https://youtu.be/VYU73Iwt7Ms?t=01h30m34s) About integrations
+- [01:35:56](https://youtu.be/VYU73Iwt7Ms?t=01h35m56s) About idol artworks
+- [01:36:23](https://youtu.be/VYU73Iwt7Ms?t=01h36m23s) About virtual pets
+- [01:38:53](https://youtu.be/VYU73Iwt7Ms?t=01h38m53s) About the fruit fly brain scan
+- [01:39:21](https://youtu.be/VYU73Iwt7Ms?t=01h39m21s) About Neuro Nendoroid
+- [01:43:36](https://youtu.be/VYU73Iwt7Ms?t=01h43m36s) About more new outfits
+- [01:46:19](https://youtu.be/VYU73Iwt7Ms?t=01h46m19s) About restreaming of the concert
+- [01:47:03](https://youtu.be/VYU73Iwt7Ms?t=01h47m03s) About producers working on the songs
+- [01:47:40](https://youtu.be/VYU73Iwt7Ms?t=01h47m40s) About visa
+- [01:50:08](https://youtu.be/VYU73Iwt7Ms?t=01h50m08s) About 4K wallpaper
+- [01:52:28](https://youtu.be/VYU73Iwt7Ms?t=01h52m28s) Neuro tries acting again
+- [01:57:58](https://youtu.be/VYU73Iwt7Ms?t=01h57m58s) About dev stream rarity
+- [02:00:12](https://youtu.be/VYU73Iwt7Ms?t=02h00m12s) About ticket sales so far
+- [02:02:27](https://youtu.be/VYU73Iwt7Ms?t=02h02m27s) About dev stream frequency
+- [02:03:16](https://youtu.be/VYU73Iwt7Ms?t=02h03m16s) About integrations
+- [02:03:49](https://youtu.be/VYU73Iwt7Ms?t=02h03m49s) About CS:GO
+- [02:05:02](https://youtu.be/VYU73Iwt7Ms?t=02h05m02s) About twin gaming
+- [02:06:08](https://youtu.be/VYU73Iwt7Ms?t=02h06m08s) About Minecraft
+- [02:10:38](https://youtu.be/VYU73Iwt7Ms?t=02h10m38s) Searching for raid target
+- [02:12:18](https://youtu.be/VYU73Iwt7Ms?t=02h12m18s)~ Raiding [Zentreya](https://twitch.tv/zentreya)
