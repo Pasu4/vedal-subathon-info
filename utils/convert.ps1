@@ -50,6 +50,7 @@ $MONTHS = @{
 }
 
 # Content triggers
+# If one of these fails inexplicably, check for "NO-BREAK SPACE" characters (U+00A0) in the comment
 $PLAYING_RX = 'Playing (?:\*\*)?_(.+?)_'
 $CONTENT_RX = '(?:[\s-[\n]])\*(?=\S)(.+?)(?<=\S)\*(?=\s|$)'
 $PARTICIPANT_RX = '\w+(?=(?:(?:, | and )\w+)*(?: appears?| joins?| wakes? up))'
@@ -58,6 +59,7 @@ $PRESENTS_RX = '(\w+) presents (?:\*\*)?_(.+?)_'
 $DUET_RX = '\(duet\)'
 $DUET_WITH_RX = '\(duet w/ ([^)\n,]+)\)'
 $REACTING_RX = '(?m)Reacting to (?:\*\*)?_(.+?)_ by (.+?)(?:$| \|)'
+$WATCHALONG_RX = 'Watchalong: (?:\*\*)?_(.+?)_'
 
 # Parser section triggers
 $STREAMS_TABLE_HEADER = '| Date / Link                                 | Title                                                               | Type                  | Participants                          | Raid target'
@@ -205,9 +207,16 @@ if ($addContent -match $REACTING_RX) {
 }
 # TODO: Auto search videos
 
+# Parse watchalongs
+if ($addContent -match $WATCHALONG_RX) {
+    $contentEntries += (Select-String $WATCHALONG_RX -InputObject $addContent -AllMatches).Matches |
+        ForEach-Object { $_.Groups[1].Value }
+    # TODO: Auto set category
+}
+
 # Parse other content
 if ($addContent -match $CONTENT_RX) {
-    $contentEntries += (Select-String $CONTENT_RX -InputObject $addContent -AllMatches).Matches | ForEach-Object { $_.Groups[1].Value } | Where-Object { $_ -ne "Just chatting" -and $_ -notmatch $PLAYING_RX -and $_ -notmatch $PRESENTS_RX }
+    $contentEntries += (Select-String $CONTENT_RX -InputObject $addContent -AllMatches).Matches | ForEach-Object { $_.Groups[1].Value } | Where-Object { $_ -ne "Just chatting" -and $_ -notmatch $PLAYING_RX -and $_ -notmatch $PRESENTS_RX -and $_ -notmatch $WATCHALONG_RX }
 }
 # Transform compound entries
 if ($contentEntries -contains "3D karaoke") {
