@@ -3147,3 +3147,14 @@ For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Sk
 - [02:27:59](https://youtu.be/N00y6eU_eWs?t=02h27m59s) Drawing: Cave painting of today's stream
 - [02:30:15](https://youtu.be/N00y6eU_eWs?t=02h30m15s) **3D stream**
 - [02:57:35](https://youtu.be/N00y6eU_eWs?t=02h57m35s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+## secret testing ([23 Sep 2026](https://youtu.be/I0omuzQ6c3g))
+
+‒‒:‒‒:‒‒ *La Gata Bajo la Lluvia — Rocío Dúrcal* (cut off due to technical issue)
+‒‒:‒‒:‒‒ *Fluorite Eye's Song — Kairi Yagi* (cut off due to technical issue)
+- [00:00:00](https://youtu.be/I0omuzQ6c3g?t=00h00m00s) Neuro appears
+- [00:04:50](https://youtu.be/I0omuzQ6c3g?t=00h04m50s) **Watchalong: *Vivy: Fluorite Eye’s Song*** \| Episode 5
+- [00:30:15](https://youtu.be/I0omuzQ6c3g?t=00h30m15s) Episode 6
+- [00:55:13](https://youtu.be/I0omuzQ6c3g?t=00h55m13s) Episode 7
+- [01:19:59](https://youtu.be/I0omuzQ6c3g?t=01h19m59s) Episode 8
+- [01:44:24](https://youtu.be/I0omuzQ6c3g?t=01h44m24s) Episode 9
