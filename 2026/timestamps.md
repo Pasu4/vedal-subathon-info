@@ -3130,3 +3130,20 @@ For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Sk
 - [02:06:08](https://youtu.be/VYU73Iwt7Ms?t=02h06m08s) About Minecraft
 - [02:10:38](https://youtu.be/VYU73Iwt7Ms?t=02h10m38s) Searching for raid target
 - [02:12:18](https://youtu.be/VYU73Iwt7Ms?t=02h12m18s)~ Raiding [Zentreya](https://twitch.tv/zentreya)
+
+## tin cans with arms and legs fighting on stream \| Neuro stream \| !concert ([22 Sep 2026](https://youtu.be/N00y6eU_eWs))
+
+- [00:00:00](https://youtu.be/N00y6eU_eWs?t=00h00m00s) *Ai no Urade — EO*
+- [00:03:19](https://youtu.be/N00y6eU_eWs?t=00h03m19s) *One Last Kiss — Hikaru Utada*
+- [00:07:31](https://youtu.be/N00y6eU_eWs?t=00h07m31s) Neuro appears \| **Just chatting**
+- [00:19:37](https://youtu.be/N00y6eU_eWs?t=00h19m37s) Playing *Legally Distinct W•rdle*
+- [00:21:08](https://youtu.be/N00y6eU_eWs?t=00h21m08s) Playing *Legally Distinct C•nnections*
+- [00:22:38](https://youtu.be/N00y6eU_eWs?t=00h22m38s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:30:22](https://youtu.be/N00y6eU_eWs?t=00h30m22s) Playing *Scrandle*
+- [00:49:17](https://youtu.be/N00y6eU_eWs?t=00h49m17s) Drawing: Abstract art
+- [00:51:02](https://youtu.be/N00y6eU_eWs?t=00h51m02s) **Playing *Plants vs. Zombies***
+- [01:49:13](https://youtu.be/N00y6eU_eWs?t=01h49m13s) **Art review**
+- [02:23:15](https://youtu.be/N00y6eU_eWs?t=02h23m15s) **Just chatting**
+- [02:27:59](https://youtu.be/N00y6eU_eWs?t=02h27m59s) Drawing: Cave painting of today's stream
+- [02:30:15](https://youtu.be/N00y6eU_eWs?t=02h30m15s) **3D stream**
+- [02:57:35](https://youtu.be/N00y6eU_eWs?t=02h57m35s) Raiding [Cerber](https://twitch.tv/cerbervt)
