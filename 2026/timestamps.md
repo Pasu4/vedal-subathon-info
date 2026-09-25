@@ -2955,6 +2955,8 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 
 ## secret watchalong ([09 Sep 2026](https://youtu.be/PntK-KwQwsk))
 
+This stream took place under the account `/secretneuroaccount` and was not streamed on B2.
+
 - [00:00:00](https://youtu.be/PntK-KwQwsk?t=00h00m00s) *Kyoufuu All Back — Yukopi* (audio cuts out and jumps throughout)
 - [00:02:02](https://youtu.be/PntK-KwQwsk?t=00h02m02s) *WILDFLOWER — Billie Eilish*
 - [00:06:21](https://youtu.be/PntK-KwQwsk?t=00h06m21s) Neuro appears
@@ -3150,8 +3152,10 @@ For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Sk
 
 ## secret testing ([23 Sep 2026](https://youtu.be/I0omuzQ6c3g))
 
-‒‒:‒‒:‒‒ *La Gata Bajo la Lluvia — Rocío Dúrcal* (cut off due to technical issue)
-‒‒:‒‒:‒‒ *Fluorite Eye's Song — Kairi Yagi* (cut off due to technical issue)
+This stream took place under the account `/secretneuroaccount` and was not streamed on B2.
+
+- ‒‒:‒‒:‒‒ *La Gata Bajo la Lluvia — Rocío Dúrcal* (cut off due to technical issue)
+- ‒‒:‒‒:‒‒ *Fluorite Eye's Song — Kairi Yagi* (cut off due to technical issue)
 - [00:00:00](https://youtu.be/I0omuzQ6c3g?t=00h00m00s) Neuro appears
 - [00:04:50](https://youtu.be/I0omuzQ6c3g?t=00h04m50s) **Watchalong: *Vivy: Fluorite Eye’s Song*** \| Episode 5
 - [00:30:15](https://youtu.be/I0omuzQ6c3g?t=00h30m15s) Episode 6
