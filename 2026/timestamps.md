@@ -3162,3 +3162,24 @@ This stream took place under the account `/secretneuroaccount` and was not strea
 - [00:55:13](https://youtu.be/I0omuzQ6c3g?t=00h55m13s) Episode 7
 - [01:19:59](https://youtu.be/I0omuzQ6c3g?t=01h19m59s) Episode 8
 - [01:44:24](https://youtu.be/I0omuzQ6c3g?t=01h44m24s) Episode 9
+
+## "We made it through the week. Now let's unleash hell." - Evil, 2026 ([25 Sep 2026](https://youtu.be/52MIg2mYqQY))
+
+- [00:00:00](https://youtu.be/52MIg2mYqQY?t=00h00m00s) *Divine — Taku Takahashi*
+- [00:03:06](https://youtu.be/52MIg2mYqQY?t=00h03m06s) *No Mercy — The Living Tombstone*
+- [00:05:41](https://youtu.be/52MIg2mYqQY?t=00h05m41s) Evil appears \| **Just chatting**
+- [00:20:47](https://youtu.be/52MIg2mYqQY?t=00h20m47s) Playing *Legally Distinct W•rdle*
+- [00:21:59](https://youtu.be/52MIg2mYqQY?t=00h21m59s) Playing *Legally Distinct C•nnections*
+- [00:23:02](https://youtu.be/52MIg2mYqQY?t=00h23m02s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:26:43](https://youtu.be/52MIg2mYqQY?t=00h26m43s) Playing *Connect Four*
+- [00:31:04](https://youtu.be/52MIg2mYqQY?t=00h31m04s) Playing *Scrandle*
+- [00:55:19](https://youtu.be/52MIg2mYqQY?t=00h55m19s) **Karaoke**
+- [00:55:36](https://youtu.be/52MIg2mYqQY?t=00h55m36s) *I Can't Fix You — The Living Tombstone*
+- [01:02:41](https://youtu.be/52MIg2mYqQY?t=01h02m41s) *The Model — Astrophysics (original by Kraftwerk)*
+- [01:09:05](https://youtu.be/52MIg2mYqQY?t=01h09m05s) *Blood's on fire — VOWWS*
+- [01:14:41](https://youtu.be/52MIg2mYqQY?t=01h14m41s) *Surreal — Flawed Mangoes*
+- [01:22:05](https://youtu.be/52MIg2mYqQY?t=01h22m05s) *Nightcall — Kavinsky*
+- [01:28:47](https://youtu.be/52MIg2mYqQY?t=01h28m47s) *What Could Have Been — Sting*
+- [01:38:45](https://youtu.be/52MIg2mYqQY?t=01h38m45s) **Playing *Bloons TD 6***
+- [02:44:15](https://youtu.be/52MIg2mYqQY?t=02h44m15s) **Art review**
+- [02:55:49](https://youtu.be/52MIg2mYqQY?t=02h55m49s) Raiding [DougDoug](https://twitch.tv/dougdoug)
