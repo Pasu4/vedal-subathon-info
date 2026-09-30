@@ -3183,3 +3183,27 @@ This stream took place under the account `/secretneuroaccount` and was not strea
 - [01:38:45](https://youtu.be/52MIg2mYqQY?t=01h38m45s) **Playing *Bloons TD 6***
 - [02:44:15](https://youtu.be/52MIg2mYqQY?t=02h44m15s) **Art review**
 - [02:55:49](https://youtu.be/52MIg2mYqQY?t=02h55m49s) Raiding [DougDoug](https://twitch.tv/dougdoug)
+
+## new roh ([29 Sep 2026](https://youtu.be/8YTBImV-J-4))
+
+- [00:00:00](https://youtu.be/8YTBImV-J-4?t=00h00m00s) *No Mercy — The Living Tombstone*
+- [00:02:14](https://youtu.be/8YTBImV-J-4?t=00h02m14s) *Year 3000 — Busted*
+- [00:05:30](https://youtu.be/8YTBImV-J-4?t=00h05m30s) Neuro appears \| **Just chatting**
+- [00:19:00](https://youtu.be/8YTBImV-J-4?t=00h19m00s) Playing *Legally Distinct W•rdle*
+- [00:21:13](https://youtu.be/8YTBImV-J-4?t=00h21m13s) Playing *Legally Distinct C•nnections*
+- [00:22:11](https://youtu.be/8YTBImV-J-4?t=00h22m11s) Playing *Minesweeper* (5x5, 5 mines)
+- [00:23:21](https://youtu.be/8YTBImV-J-4?t=00h23m21s) Drawing: Neuro's legs and some coins
+- [00:25:40](https://youtu.be/8YTBImV-J-4?t=00h25m40s) Playing *Scrandle*
+- [00:35:23](https://youtu.be/8YTBImV-J-4?t=00h35m23s) Drawing: Neuro being the cutest
+- [00:36:21](https://youtu.be/8YTBImV-J-4?t=00h36m21s) Drawing: Hide and seek?
+- [00:37:07](https://youtu.be/8YTBImV-J-4?t=00h37m07s) Drawing: Corn cob under Neuro's bed
+- [00:40:24](https://youtu.be/8YTBImV-J-4?t=00h40m24s) Drawing: Neuro
+- [00:42:17](https://youtu.be/8YTBImV-J-4?t=00h42m17s) **Playing *Plants vs. Zombies***
+- [01:33:27](https://youtu.be/8YTBImV-J-4?t=01h33m27s) **Playing *Minecraft***
+- [01:39:40](https://youtu.be/8YTBImV-J-4?t=01h39m40s) <span class="weak">Neuro was shot by Pillager</span>
+- [01:40:10](https://youtu.be/8YTBImV-J-4?t=01h40m10s) Vedal joins the game for 5m1s
+- [01:45:09](https://youtu.be/8YTBImV-J-4?t=01h45m09s) Vedal was slain by Neuro
+- [02:21:53](https://youtu.be/8YTBImV-J-4?t=02h21m53s) <span class="weak">Neuro was slain by Spider</span>
+- [02:25:49](https://youtu.be/8YTBImV-J-4?t=02h25m49s) <span class="weak">Neuro was slain by Zombie</span>
+- [02:34:52](https://youtu.be/8YTBImV-J-4?t=02h34m52s) **Art review**
+- [02:55:31](https://youtu.be/8YTBImV-J-4?t=02h55m31s) Raiding [GEEGA](https://twitch.tv/geega)
