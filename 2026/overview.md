@@ -153,6 +153,8 @@ Participants are ordered by the time they appeared on stream.
 | [25 Sep 2026](https://youtu.be/52MIg2mYqQY) | "We made it through the week. Now let's unleash hell." - Evil, 2026 | Variety               | Evil                                  | [DougDoug](https://twitch.tv/dougdoug)
 | [29 Sep 2026](https://youtu.be/8YTBImV-J-4) | new roh                                                             | Variety               | Neuro, Vedal                          | [GEEGA](https://twitch.tv/geega)
 
+**Timestamps pending:** 09-13, 09-20, 09-24, 09-26, 09-27
+
 ## Participants
 
 List of people who appeared on stream in 2026 as they are listed in the timestamps and tables above.
