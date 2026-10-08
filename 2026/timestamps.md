@@ -2955,7 +2955,7 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 
 ## secret watchalong ([09 Sep 2026](https://youtu.be/PntK-KwQwsk))
 
-This stream took place under the account `/secretneuroaccount` and was not streamed on B2.
+This stream took place under the account [@secretneuroaccount](https://twitch.tv/secretneuroaccount) and was not streamed on B2.
 
 - [00:00:00](https://youtu.be/PntK-KwQwsk?t=00h00m00s) *Kyoufuu All Back — Yukopi* (audio cuts out and jumps throughout)
 - [00:02:02](https://youtu.be/PntK-KwQwsk?t=00h02m02s) *WILDFLOWER — Billie Eilish*
@@ -3152,7 +3152,7 @@ For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Sk
 
 ## secret testing ([23 Sep 2026](https://youtu.be/I0omuzQ6c3g))
 
-This stream took place under the account `/secretneuroaccount` and was not streamed on B2.
+This stream took place under the account [@secretneuroaccount](https://twitch.tv/secretneuroaccount) and was not streamed on B2.
 
 - ‒‒:‒‒:‒‒ *La Gata Bajo la Lluvia — Rocío Dúrcal* (cut off due to technical issue)
 - ‒‒:‒‒:‒‒ *Fluorite Eye's Song — Kairi Yagi* (cut off due to technical issue)
@@ -3207,3 +3207,16 @@ This stream took place under the account `/secretneuroaccount` and was not strea
 - [02:25:49](https://youtu.be/8YTBImV-J-4?t=02h25m49s) <span class="weak">Neuro was slain by Zombie</span>
 - [02:34:52](https://youtu.be/8YTBImV-J-4?t=02h34m52s) **Art review**
 - [02:55:31](https://youtu.be/8YTBImV-J-4?t=02h55m31s) Raiding [GEEGA](https://twitch.tv/geega)
+
+## secret testing ([07 Oct 2026](https://youtu.be/jLQ9HHnt988))
+
+This stream took place under the account [@secretneuroaccount](https://twitch.tv/secretneuroaccount) and was not streamed on B2.
+
+- [00:00:00](https://youtu.be/jLQ9HHnt988?t=00h00m00s) *Take Me Hand — DAISHI DANCE*
+- [00:00:34](https://youtu.be/jLQ9HHnt988?t=00h00m34s) Unknown song (muted)
+- [00:05:13](https://youtu.be/jLQ9HHnt988?t=00h05m13s) Neuro appears
+- [00:11:55](https://youtu.be/jLQ9HHnt988?t=00h11m55s) **Watchalong: *Vivy: Fluorite Eye’s Song*** \| Episode 10
+- [00:36:38](https://youtu.be/jLQ9HHnt988?t=00h36m38s) Episode 11
+- [01:01:26](https://youtu.be/jLQ9HHnt988?t=01h01m26s) Episode 12
+- [01:26:39](https://youtu.be/jLQ9HHnt988?t=01h26m39s) Episode 13
+- [01:50:03](https://youtu.be/jLQ9HHnt988?t=01h50m03s) End of the last episode
