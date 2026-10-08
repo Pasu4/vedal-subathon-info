@@ -1,5 +1,13 @@
 ﻿# 2026 Content Overview
 
+<span style="color:red;font-weight:bold;">
+
+Notice:
+I am now able to timestamp again. Timestamps for currently missing streams will be added over the next few days/weeks, in the order they were streamed, but new streams coming out (excluding Silksong, which I want to watch in order) have priority.
+Timestamps pending: 09-13, 09-20, 09-24, 09-26, 09-27, 09-30, 10-01, 10-03, 10-04, 10-07
+
+</span>
+
 ## Streams
 
 List of streams that happened this year.
@@ -153,8 +161,6 @@ Participants are ordered by the time they appeared on stream.
 | [25 Sep 2026](https://youtu.be/52MIg2mYqQY) | "We made it through the week. Now let's unleash hell." - Evil, 2026 | Variety               | Evil                                  | [DougDoug](https://twitch.tv/dougdoug)
 | [29 Sep 2026](https://youtu.be/8YTBImV-J-4) | new roh                                                             | Variety               | Neuro, Vedal                          | [GEEGA](https://twitch.tv/geega)
 | [07 Oct 2026](https://youtu.be/jLQ9HHnt988) | secret testing                                                      | Watchalong            | Neuro                                 | -
-
-**Timestamps pending:** 09-13, 09-20, 09-24, 09-26, 09-27, 09-30, 10-01, 10-03, 10-04, 10-07
 
 ## Participants
 

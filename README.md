@@ -1,6 +1,6 @@
 # Vedal Subathon Info
 
-<span style="color:red;font-weight:bold;">Notice: I am currently very busy, so I don't have time to timestamp everything. As a result, timestamps for the Silksong VODs will be delayed until 7 October, after which they will be added over the following days. Regular streams (chill, karaoke, etc.) remain unaffected.</span>
+<span style="color:red;font-weight:bold;">Notice: I am now able to timestamp again. Timestamps for currently missing streams will be added over the next few days/weeks, in the order they were streamed, but new streams coming out (excluding Silksong, which I want to watch in order) have priority.</span>
 
 ## About
 

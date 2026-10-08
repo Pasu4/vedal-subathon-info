@@ -4,6 +4,14 @@
     }
 </style>
 
+<span style="color:red;font-weight:bold;">
+
+Notice:
+I am now able to timestamp again. Timestamps for currently missing streams will be added over the next few days/weeks, in the order they were streamed, but new streams coming out (excluding Silksong, which I want to watch in order) have priority.
+Timestamps pending: 09-13, 09-20, 09-24, 09-26, 09-27, 09-30, 10-01, 10-03, 10-04, 10-07
+
+</span>
+
 # 2026 Timestamps
 
 - TOC
