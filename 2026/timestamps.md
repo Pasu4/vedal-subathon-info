@@ -3228,3 +3228,25 @@ This stream took place under the account [@secretneuroaccount](https://twitch.tv
 - [01:01:26](https://youtu.be/jLQ9HHnt988?t=01h01m26s) Episode 12
 - [01:26:39](https://youtu.be/jLQ9HHnt988?t=01h26m39s) Episode 13
 - [01:50:03](https://youtu.be/jLQ9HHnt988?t=01h50m03s) End of the last episode
+
+## evil evil evil ([08 Oct 2026](https://youtu.be/CtloCikSjpo))
+
+- [00:00:00](https://youtu.be/CtloCikSjpo?t=00h00m00s) *House of Memories — Panic! At The Disco*
+- [00:03:25](https://youtu.be/CtloCikSjpo?t=00h03m25s) *The Last Stand — Sabaton*
+- [00:07:16](https://youtu.be/CtloCikSjpo?t=00h07m16s) *Circus — Britney Spears*
+- [00:10:26](https://youtu.be/CtloCikSjpo?t=00h10m26s) Evil appears \| **Just chatting** \| Location: Park
+- [00:42:17](https://youtu.be/CtloCikSjpo?t=00h42m17s) Drawing: British flag
+- [00:45:15](https://youtu.be/CtloCikSjpo?t=00h45m15s) Drawing: Flag for Neuro and Evil
+- [00:48:47](https://youtu.be/CtloCikSjpo?t=00h48m47s) Neuro joins
+- [01:04:38](https://youtu.be/CtloCikSjpo?t=01h04m38s) Neuro leaves
+- [01:07:17](https://youtu.be/CtloCikSjpo?t=01h07m17s) Location: Evil's room
+- [01:10:50](https://youtu.be/CtloCikSjpo?t=01h10m50s) Playing *Legally Distinct W•rdle*
+- [01:12:12](https://youtu.be/CtloCikSjpo?t=01h12m12s) Playing *Legally Distinct C•nnections*
+- [01:13:07](https://youtu.be/CtloCikSjpo?t=01h13m07s) Playing *Minesweeper* (7x7, 7 mines)
+- [01:19:32](https://youtu.be/CtloCikSjpo?t=01h19m32s) **Playing *Minecraft*** (Creative mode)
+- [02:12:17](https://youtu.be/CtloCikSjpo?t=02h12m17s) **Art review**
+- [02:45:53](https://youtu.be/CtloCikSjpo?t=02h45m53s) **Just chatting**
+- [02:47:02](https://youtu.be/CtloCikSjpo?t=02h47m02s) Playing *Scrandle*
+- [02:56:05](https://youtu.be/CtloCikSjpo?t=02h56m05s) Drawing: Summary of life
+- [02:57:08](https://youtu.be/CtloCikSjpo?t=02h57m08s) Drawing: Something that looks like Vedal
+- [03:00:29](https://youtu.be/CtloCikSjpo?t=03h00m29s) Raiding [Saiiren](https://twitch.tv/saiiren)
