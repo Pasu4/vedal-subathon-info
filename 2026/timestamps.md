@@ -3087,7 +3087,7 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [00:10:56](https://youtu.be/m88wJNdV-fg?t=00h10m56s) **Playing *The Elder Scrolls V: Skyrim***
 - [03:45:24](https://youtu.be/m88wJNdV-fg?t=03h45m24s) Raiding [Cerber](https://twitch.tv/cerbervt)
 
-For more detailed timestamps on Skyrim gameplay, please refer to the 'Neuro's Skyrim Journal' project.
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
 
 ## MEGA RARE DEV STREAM. BIG ANNOUNCEMENT. MANY THINGS. ([21 Sep 2026](https://youtu.be/VYU73Iwt7Ms))
 
@@ -3250,3 +3250,17 @@ This stream took place under the account [@secretneuroaccount](https://twitch.tv
 - [02:56:05](https://youtu.be/CtloCikSjpo?t=02h56m05s) Drawing: Summary of life
 - [02:57:08](https://youtu.be/CtloCikSjpo?t=02h57m08s) Drawing: Something that looks like Vedal
 - [03:00:29](https://youtu.be/CtloCikSjpo?t=03h00m29s) Raiding [Saiiren](https://twitch.tv/saiiren)
+
+## local AI girl discovers she is dragonborn ([10 Oct 2026](https://youtu.be/utfXwzs8mxg))
+
+- [00:00:00](https://youtu.be/utfXwzs8mxg?t=00h00m00s) *Diamonds — Rihanna*
+- [00:03:26](https://youtu.be/utfXwzs8mxg?t=00h03m26s) *Espresso — Sabrina Carpenter*
+- [00:06:19](https://youtu.be/utfXwzs8mxg?t=00h06m19s) Neuro appears
+- [00:06:43](https://youtu.be/utfXwzs8mxg?t=00h06m43s) Drawing: Profile picture
+- [00:10:33](https://youtu.be/utfXwzs8mxg?t=00h10m33s) Drawing: ???
+- [00:12:34](https://youtu.be/utfXwzs8mxg?t=00h12m34s) **Playing *The Elder Scrolls V: Skyrim*** 
+- [03:43:16](https://youtu.be/utfXwzs8mxg?t=03h43m16s) Drawing: An organizer and a sound FX guy
+- [03:44:01](https://youtu.be/utfXwzs8mxg?t=03h44m01s)~ Raiding [Cerber](https://twitch.tv/cerbervt)
+- [03:44:16](https://youtu.be/utfXwzs8mxg?t=03h44m16s) Drawing: Chat arguing about a raid message
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
