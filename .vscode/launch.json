@@ -51,6 +51,7 @@
                 "Gaming collab",
                 "Watchalong",
                 "Special event",
+                "Marathon",
                 "<other>",
             ],
             "description": "The general type of content in the stream. Choose <other> to add it manually."
