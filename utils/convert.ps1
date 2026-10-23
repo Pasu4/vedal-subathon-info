@@ -19,7 +19,9 @@ param (
     # YouTube channel of the channel to fetch the comment from. Default is "@NArchiver".
     [Parameter(Mandatory=$false)][string]$ArchiverChannel = "@NArchiver",
     # Index of the video to fetch. Default is 1 (latest video).
-    [Parameter(Mandatory=$false)][int]$Index = 1
+    [Parameter(Mandatory=$false)][int]$Index = 1,
+    # Video URL to fetch the comment from. If specified, $ArchiverChannel and $Index are ignored.
+    [Parameter(Mandatory=$false)][string]$VideoUrl
 )
 
 # Set encoding for PowerShell 5.1
@@ -123,8 +125,13 @@ if (-not $youtubeApiKey) {
     exit 1
 }
 
-$fetched = yt-dlp.exe -s -O '{"title":%(title)j,"id":%(id)j}' -I $Index "https://www.youtube.com/$ArchiverChannel" |
-    ConvertFrom-Json
+if ($VideoUrl) {
+    $fetched = yt-dlp.exe -s -O '{"title":%(title)j,"id":%(id)j}' $VideoUrl |
+        ConvertFrom-Json
+} else {
+    $fetched = yt-dlp.exe -s -O '{"title":%(title)j,"id":%(id)j}' -I $Index "https://www.youtube.com/$ArchiverChannel" |
+        ConvertFrom-Json
+}
 $videoTitle = $fetched.title
 $videoId = $fetched.id
 

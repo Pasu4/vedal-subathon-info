@@ -28,6 +28,19 @@
                 "-CommentAuthor", "'${input:author}'",
                 "-Index", "${input:index}"
             ]
+        },
+        {
+            "name": "PowerShell: convert.ps1 -VideoUrl {}",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/utils/convert.ps1",
+            "args": [
+                "-TimestampsFile", "'${workspaceFolder}\\2026\\timestamps.md'",
+                "-OverviewFile", "'${workspaceFolder}\\2026\\overview.md'",
+                "-Category", "'${input:category}'",
+                "-CommentAuthor", "'${input:author}'",
+                "-VideoUrl", "${input:url}"
+            ]
         }
     ],
     "inputs": [
@@ -61,6 +74,11 @@
             "type": "promptString",
             "default": "1",
             "description": "The index of the video. 1 means latest.",
+        },
+        {
+            "id": "url",
+            "type": "promptString",
+            "description": "The URL of the video.",
         }
     ]
 }

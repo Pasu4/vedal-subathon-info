@@ -12,6 +12,12 @@
             "type": "shell",
             "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -OverviewFile '${workspaceFolder}\\2026\\overview.md' -Category '${input:category}' -Index ${input:index}",
             "problemMatcher": []
+        },
+        {
+            "label": "Auto-convert timestamps (by URL)",
+            "type": "shell",
+            "command": "${workspaceFolder}\\utils\\convert.ps1 -TimestampsFile '${workspaceFolder}\\2026\\timestamps.md' -OverviewFile '${workspaceFolder}\\2026\\overview.md' -Category '${input:category}' -VideoUrl ${input:url}",
+            "problemMatcher": []
         }
     ],
     "inputs": [
@@ -39,6 +45,11 @@
             "type": "promptString",
             "default": "1",
             "description": "The index of the video. 1 means latest.",
+        },
+        {
+            "id": "url",
+            "type": "promptString",
+            "description": "The URL of the video.",
         }
     ]
 }
