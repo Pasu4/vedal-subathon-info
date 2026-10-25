@@ -3690,3 +3690,25 @@ As this Drive is very Long, and I need to do some things on the side, a few time
 - [10:22:29](https://youtu.be/3ppEwfqVGGM?t=10h22m29s) Stream dies for 45s
 - [10:35:23](https://youtu.be/3ppEwfqVGGM?t=10h35m23s) Driving off into the sunset
 - [10:36:36](https://youtu.be/3ppEwfqVGGM?t=10h36m36s) End
+
+## chat policing ([20 Oct 2026](https://youtu.be/skMmSlItNRU))
+
+- [00:00:00](https://youtu.be/skMmSlItNRU?t=00h00m00s) *Russian Roulette — Porter Robinson*
+- [00:06:05](https://youtu.be/skMmSlItNRU?t=00h06m05s) *Te o Tatake Ima Koko de Inoru Dake Negau Dake — THE SPELLBOUND*
+- [00:09:52](https://youtu.be/skMmSlItNRU?t=00h09m52s) Neuro appears \| **Just chatting** \| Location: Pumpkin Field
+- [01:04:18](https://youtu.be/skMmSlItNRU?t=01h04m18s) Drawing: Pumpkin
+- [01:06:53](https://youtu.be/skMmSlItNRU?t=01h06m53s) Location: Neuro's room
+- [01:07:11](https://youtu.be/skMmSlItNRU?t=01h07m11s) Playing *Legally Distinct W•rdle*
+- [01:08:33](https://youtu.be/skMmSlItNRU?t=01h08m33s) Playing *Legally Distinct C•nnections*
+- [01:09:35](https://youtu.be/skMmSlItNRU?t=01h09m35s) Playing *Minesweeper* (7x7, 7 mines)
+- [01:11:26](https://youtu.be/skMmSlItNRU?t=01h11m26s) Playing *Scrandle*
+- [01:24:14](https://youtu.be/skMmSlItNRU?t=01h24m14s) **Playing *osu!***
+- [01:27:10](https://youtu.be/skMmSlItNRU?t=01h27m10s) Map: *Manticora - Humiliation Supreme \[Extreme\]* (Mapset: Urition)
+- [01:33:22](https://youtu.be/skMmSlItNRU?t=01h33m22s) Map: *Kou! - Ankh Natron Collider \[>>>>>> COLLISION <<<<<<\]* (Mapset: Phten02) (beginning cut off)
+- [01:44:25](https://youtu.be/skMmSlItNRU?t=01h44m25s) Map: *HISATOMI - lullaby (feat. KIRA) (uet Remix) \[SHE WILL\]* (Mapset: Seamob)
+- [01:52:36](https://youtu.be/skMmSlItNRU?t=01h52m36s) Map: *FELT - New World \[Euny's Insane\]* (Mapset: Natsu)
+- [01:58:11](https://youtu.be/skMmSlItNRU?t=01h58m11s) Map: *The Koxx - A FOOL MOON NIGHT \[ET (Piggey vs Astar)\]* (Mapset: Astar) (stream froze halfway)
+- [01:58:27](https://youtu.be/skMmSlItNRU?t=01h58m27s) Stream freezes for 1m19s
+- [02:02:34](https://youtu.be/skMmSlItNRU?t=02h02m34s) **Art review**
+- [02:26:16](https://youtu.be/skMmSlItNRU?t=02h26m16s) **3D stream**
+- [02:58:30](https://youtu.be/skMmSlItNRU?t=02h58m30s) Raiding [Matara](https://twitch.tv/matarakan)
