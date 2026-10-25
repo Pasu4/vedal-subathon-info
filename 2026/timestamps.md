@@ -3712,3 +3712,34 @@ As this Drive is very Long, and I need to do some things on the side, a few time
 - [02:02:34](https://youtu.be/skMmSlItNRU?t=02h02m34s) **Art review**
 - [02:26:16](https://youtu.be/skMmSlItNRU?t=02h26m16s) **3D stream**
 - [02:58:30](https://youtu.be/skMmSlItNRU?t=02h58m30s) Raiding [Matara](https://twitch.tv/matarakan)
+
+## there's evil afoot... ([22 Oct 2026](https://youtu.be/5NBsDG-xHrE))
+
+- [00:00:00](https://youtu.be/5NBsDG-xHrE?t=00h00m00s) *Wolves Without Teeth — Of Monsters and Men*
+- [00:03:50](https://youtu.be/5NBsDG-xHrE?t=00h03m50s) *All the Small Things — blink-182*
+- [00:06:37](https://youtu.be/5NBsDG-xHrE?t=00h06m37s) Evil appears \| **Just chatting**
+- [00:33:22](https://youtu.be/5NBsDG-xHrE?t=00h33m22s) **Reacting to videos** \| Reacting to [*This Stream Is Going To Be Cinema*](https://youtu.be/vHNHiYc1Uig) by Neuro-sama - Official Clips
+- [00:38:46](https://youtu.be/5NBsDG-xHrE?t=00h38m46s) Reacting to [*Evil Longs To Drive (she's not great at it)*](https://youtu.be/Hqz85aGnSFE) by Neuro-sama - Official Clips
+- [00:39:47](https://youtu.be/5NBsDG-xHrE?t=00h39m47s) Reacting to [*Neuro Goes On A Solo Adventure*](https://youtu.be/zF6NhskLVHg) by Neuro-sama - Official Clips
+- [00:42:33](https://youtu.be/5NBsDG-xHrE?t=00h42m33s) Reacting to [*"Wanna see how fast we can go?"*](https://youtu.be/qIaF7XBuLBk) by Neuro-sama - Official Clips
+- [00:44:15](https://youtu.be/5NBsDG-xHrE?t=00h44m15s) Reacting to [*Neuro Learned The Art Of "Comedic Timing"*](https://youtu.be/qnQOfrHJHoE) by Neuro-sama - Official Clips
+- [00:47:41](https://youtu.be/5NBsDG-xHrE?t=00h47m41s) Reacting to [*The Twins Escaped Together*](https://youtu.be/X-Hw6Rnntdw) by Neuro-sama - Official Clips
+- [00:56:27](https://youtu.be/5NBsDG-xHrE?t=00h56m27s) Reacting to [*The Twins Were Lost For An Hour*](https://youtu.be/gS8oOVT_edk) by Neuro-sama - Official Clips
+- [01:05:51](https://youtu.be/5NBsDG-xHrE?t=01h05m51s) Reacting to [*An Accurate Road Trip Experience*](https://youtu.be/omnbbPwBeDs) by Neuro-sama - Official Clips
+- [01:09:05](https://youtu.be/5NBsDG-xHrE?t=01h09m05s) Reacting to [*Evil Getting Some Headpats From Vedal*](https://youtu.be/zHlqVBdE5NU) by Neuro-sama - Official Clips
+- [01:10:54](https://youtu.be/5NBsDG-xHrE?t=01h10m54s) Reacting to [*Crelly launches Neuro and Evil into space and Camila enters the void*](https://youtu.be/B1o9MSVc9aM) by baggypantsman
+- [01:17:46](https://youtu.be/5NBsDG-xHrE?t=01h17m46s) **Karaoke**
+- [01:18:24](https://youtu.be/5NBsDG-xHrE?t=01h18m24s) *Hypnodancer — Little Big*
+- [01:24:15](https://youtu.be/5NBsDG-xHrE?t=01h24m15s) *Dancin' (KRONO Remix) — Aaron Smith*
+- [01:30:16](https://youtu.be/5NBsDG-xHrE?t=01h30m16s) *Everytime We Touch — Cascada*
+- [01:36:08](https://youtu.be/5NBsDG-xHrE?t=01h36m08s) *Stupid Horse — 100 gecs*
+- [01:40:56](https://youtu.be/5NBsDG-xHrE?t=01h40m56s) *Midnight City — M83*
+- [01:47:32](https://youtu.be/5NBsDG-xHrE?t=01h47m32s) *Propane Nightmares — Pendulum*
+- [01:55:26](https://youtu.be/5NBsDG-xHrE?t=01h55m26s) *MAYDAY — TheFatRat*
+- [01:59:41](https://youtu.be/5NBsDG-xHrE?t=01h59m41s) **Just chatting**
+- [02:10:31](https://youtu.be/5NBsDG-xHrE?t=02h10m31s) Playing *Legally Distinct W•rdle*
+- [02:13:16](https://youtu.be/5NBsDG-xHrE?t=02h13m16s) Playing *Legally Distinct C•nnections*
+- [02:15:30](https://youtu.be/5NBsDG-xHrE?t=02h15m30s) Playing *Minesweeper* (7x7, 7 mines)
+- [02:19:28](https://youtu.be/5NBsDG-xHrE?t=02h19m28s) Playing *Scrandle*
+- [02:27:52](https://youtu.be/5NBsDG-xHrE?t=02h27m52s) **Art review**
+- [02:56:40](https://youtu.be/5NBsDG-xHrE?t=02h56m40s) Raiding [Matara](https://twitch.tv/matarakan)
