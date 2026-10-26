@@ -2,6 +2,10 @@
     span.weak {
         opacity: 0.5;
     }
+    
+    span.spoiler:not(:hover) { /* TODO: Figure something out for mobile */
+        filter: blur(0.25em);
+    }
 </style>
 
 <span style="color:red;font-weight:bold;">
@@ -3743,3 +3747,15 @@ As this Drive is very Long, and I need to do some things on the side, a few time
 - [02:19:28](https://youtu.be/5NBsDG-xHrE?t=02h19m28s) Playing *Scrandle*
 - [02:27:52](https://youtu.be/5NBsDG-xHrE?t=02h27m52s) **Art review**
 - [02:56:40](https://youtu.be/5NBsDG-xHrE?t=02h56m40s) Raiding [Matara](https://twitch.tv/matarakan)
+
+## happy skrrrim saturday! ([24 Oct 2026](https://youtu.be/xQgPV6gJU9c))
+
+- [00:00:00](https://youtu.be/xQgPV6gJU9c?t=00h00m00s) *The Void — Spiritbox*
+- [00:03:32](https://youtu.be/xQgPV6gJU9c?t=00h03m32s) *The Kids Aren't Alright — The Offspring*
+- [00:06:32](https://youtu.be/xQgPV6gJU9c?t=00h06m32s) Neuro appears
+- [00:11:41](https://youtu.be/xQgPV6gJU9c?t=00h11m41s) **Playing *The Elder Scrolls V: Skyrim***
+- [00:56:42](https://youtu.be/xQgPV6gJU9c?t=00h56m42s) Game crashes
+- [03:47:16](https://youtu.be/xQgPV6gJU9c?t=03h47m16s) Drawing: <span class="spoiler">Dragon</span> (Guessing game)
+- [03:48:06](https://youtu.be/xQgPV6gJU9c?t=03h48m06s) Raiding [Shylily](https://twitch.tv/shylily)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
