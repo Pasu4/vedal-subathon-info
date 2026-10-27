@@ -18,3 +18,16 @@ Escape pipe characters in timestamps so they aren't interpreted as tables by Jek
 
 **Find:** `(?<=(\)|\|) )[^*—\n|]+—( [^\\\(\n\| ]+)+`<br>
 **Replace:** `*$&*`
+
+## Find negative timestamps
+
+**Find:** `:-\d+`
+
+## Find overflowing timestamps
+
+**Find:** `:[6-9]\d|:1[01]\d`
+
+## Fix timestamps with 1 digit
+
+**Find:** `:(\d)(?=\]|:)`<br>
+**Replace:** `:0$1`
