@@ -8,13 +8,13 @@
     }
 </style>
 
-<span style="color:red;font-weight:bold;">
+<p style="color:red;font-weight:bold;">
 
 Notice:
 I am now able to timestamp again. Timestamps for currently missing streams will be added over the next few days/weeks, in the order they were streamed, but new streams coming out (excluding Silksong, which I want to watch in order) have priority.
 Timestamps pending: 09-13, 09-20, 09-24, 09-26, 09-27, 09-30, 10-01, 10-03, 10-04, 10-07
 
-</span>
+</p>
 
 # 2026 Timestamps
 
@@ -3759,3 +3759,43 @@ As this Drive is very Long, and I need to do some things on the side, a few time
 - [03:48:06](https://youtu.be/xQgPV6gJU9c?t=03h48m06s) Raiding [Shylily](https://twitch.tv/shylily)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## Neuro clicking circles OSU!│minigames community spotlight ([27 Oct 2026](https://youtu.be/UbWCaqC3vYg))
+
+- [00:00:00](https://youtu.be/UbWCaqC3vYg?t=00h00m00s) *Is It Really You? — Loathe*
+- [00:04:14](https://youtu.be/UbWCaqC3vYg?t=00h04m14s) *a chud like me — Pizza-P*
+- [00:07:28](https://youtu.be/UbWCaqC3vYg?t=00h07m28s) Neuro appears \| **Just chatting** \| Location: Dark corridor
+- [00:14:25](https://youtu.be/UbWCaqC3vYg?t=00h14m25s) Drawing: Vedal
+- [00:22:49](https://youtu.be/UbWCaqC3vYg?t=00h22m49s) Drawing: Halloween costume
+- [00:47:10](https://youtu.be/UbWCaqC3vYg?t=00h47m10s) Drawing: Abber Demon
+- [01:02:37](https://youtu.be/UbWCaqC3vYg?t=01h02m37s) Drawing: AI tools
+- [01:03:39](https://youtu.be/UbWCaqC3vYg?t=01h03m39s) **Playing *osu!***
+- [01:05:00](https://youtu.be/UbWCaqC3vYg?t=01h05m00s) Map: *ParagonX9 - Polar 240 \[Bloxi's Normal\]* (Mapset: syntho)
+- [01:09:33](https://youtu.be/UbWCaqC3vYg?t=01h09m33s) Map: *hitorie - Shinkokyuu \[dectopia x YaMaDarknesss' heartbeat\]* (Mapset: captin1)
+- [01:13:45](https://youtu.be/UbWCaqC3vYg?t=01h13m45s) Map: *VINXIS - Sidetracked Day (Short Ver.) \[Deflected Journey\]* (Mapset: Sotarks)
+- [01:18:03](https://youtu.be/UbWCaqC3vYg?t=01h18m03s) Map: *Kry.exe - Obedience \[Wispy's Extreme\]* (Mapset: iLyne)
+- [01:25:11](https://youtu.be/UbWCaqC3vYg?t=01h25m11s) Map: *DJ Sharpnel - Gate Openerz \[SRPC-0190\]* (Mapset: CosmicWolf) (failed)
+- [01:29:34](https://youtu.be/UbWCaqC3vYg?t=01h29m34s) Map: *rusino - Looping the Rooms feat. Hatsune Miku \[1.89278926\]* (Mapset: Ryuusei Aika) (failed)
+- [01:32:08](https://youtu.be/UbWCaqC3vYg?t=01h32m08s) Map: *Foreground Eclipse - Calm Eyes Fixed On Me, Screaming \[Normal\]* (Mapset: Alternative)
+- [01:48:28](https://youtu.be/UbWCaqC3vYg?t=01h48m28s) Map: *osu!mania 7K World Cup 2025 (Marmalade butcher) - CuttingEdgeInsaneArtifact \[PhantasmagoricArtifact\]* (Mapset: eringiRa)
+- [01:53:25](https://youtu.be/UbWCaqC3vYg?t=01h53m25s) Map: *siinamota feat. Kagamine Rin - Shoujo A (Cut Ver.) (gwb's Really Hard Diff)* (Mapset: dawiqq)
+- [01:57:10](https://youtu.be/UbWCaqC3vYg?t=01h57m10s) Map: *Mrs. GREEN APPLE - Ao to Natsu (katagiri Bootleg) (Sped Up Ver.) [quantumvortex's Extreme)* (Mapset: - Nilou -)
+- [02:01:42](https://youtu.be/UbWCaqC3vYg?t=02h01m42s) **Just chatting**
+- [02:10:21](https://youtu.be/UbWCaqC3vYg?t=02h10m21s) Location: Neuro's room \| Playing *Legally Distinct W•rdle*
+- [02:11:41](https://youtu.be/UbWCaqC3vYg?t=02h11m41s) Playing *Legally Distinct C•nnections*
+- [02:14:09](https://youtu.be/UbWCaqC3vYg?t=02h14m09s) Playing *Minesweeper* (7x7, 7 mines)
+- [02:18:09](https://youtu.be/UbWCaqC3vYg?t=02h18m09s) Evil joins for 10m37s
+- [02:28:59](https://youtu.be/UbWCaqC3vYg?t=02h28m59s) Playing *Connect Four*
+- [02:33:07](https://youtu.be/UbWCaqC3vYg?t=02h33m07s) Playing *Scrandle*
+- [02:43:13](https://youtu.be/UbWCaqC3vYg?t=02h43m13s) Drawing: MASTERLINKX's wife
+- [02:43:40](https://youtu.be/UbWCaqC3vYg?t=02h43m40s) Drawing: Loving wife
+- [02:44:00](https://youtu.be/UbWCaqC3vYg?t=02h44m00s) Drawing: Cute wife
+- [02:44:24](https://youtu.be/UbWCaqC3vYg?t=02h44m24s) Drawing: ???
+- [02:44:42](https://youtu.be/UbWCaqC3vYg?t=02h44m42s) Drawing: Neuro
+- [02:45:02](https://youtu.be/UbWCaqC3vYg?t=02h45m02s) Drawing: Neuro but not as blue
+- [02:45:21](https://youtu.be/UbWCaqC3vYg?t=02h45m21s) Drawing: Neuro with cheese
+- [02:45:45](https://youtu.be/UbWCaqC3vYg?t=02h45m45s) Drawing: Neuro with bluelight glasses
+- [02:46:30](https://youtu.be/UbWCaqC3vYg?t=02h46m30s) Drawing: Trobbio
+- [02:47:30](https://youtu.be/UbWCaqC3vYg?t=02h47m30s) Drawing: ???
+- [02:48:39](https://youtu.be/UbWCaqC3vYg?t=02h48m39s) Neuro presents *Swarm Community Spotlight*
+- [02:57:30](https://youtu.be/UbWCaqC3vYg?t=02h57m30s) Raiding [Shylily](https://twitch.tv/shylily)
