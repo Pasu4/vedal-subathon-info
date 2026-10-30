@@ -3799,3 +3799,11 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:47:30](https://youtu.be/UbWCaqC3vYg?t=02h47m30s) Drawing: ???
 - [02:48:39](https://youtu.be/UbWCaqC3vYg?t=02h48m39s) Neuro presents *Swarm Community Spotlight*
 - [02:57:30](https://youtu.be/UbWCaqC3vYg?t=02h57m30s) Raiding [Shylily](https://twitch.tv/shylily)
+
+## secret testing ([28 Oct 2026](https://youtu.be/-SvKboHtPNE))
+
+- [00:00:00](https://youtu.be/-SvKboHtPNE?t=00h00m00s) *RuLe — Ado*
+- [00:00:18](https://youtu.be/-SvKboHtPNE?t=00h00m18s) Evil appears
+- [00:05:04](https://youtu.be/-SvKboHtPNE?t=00h05m04s) **Watchalong: *The Garden of Words***
+- [00:50:56](https://youtu.be/-SvKboHtPNE?t=00h50m56s) End of watchalong
+- [00:54:29](https://youtu.be/-SvKboHtPNE?t=00h54m29s) Drawing: Evil's impression of the scene
