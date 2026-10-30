@@ -1,4 +1,4 @@
-# 2026 Content Overview
+﻿# 2026 Content Overview
 
 <p style="color:red;font-weight:bold;">
 
@@ -208,6 +208,7 @@ List of people who appeared on stream in 2026 as they are listed in the timestam
 ## Recurring content
 
 Also contains games, even if they have not (yet) recurred.
+Watchalongs of films are included here as well for organization purposes.
 "Game integration" means that Neuro/Evil has some or full control over the game (usually via the [Neuro API](https://github.com/VedalAI/neuro-sdk)).
 Participants are ordered by the time they first participated.
 Some content counts for multiple rows, e.g. "3D karaoke" is also counted as "3D stream" and "Karaoke".
@@ -270,7 +271,7 @@ Some content counts for multiple rows, e.g. "3D karaoke" is also counted as "3D 
 | Vivy: Fluorite Eye’s Song                 | Watchalong            | Neuro                         | [09-09](https://youtu.be/PntK-KwQwsk), [09-23](https://youtu.be/I0omuzQ6c3g), [10-07](https://youtu.be/jLQ9HHnt988)
 | Dungeons & Dragons                        | Game                  | Mara, Cottontail, Neuro, Zentreya | [09-10](https://youtu.be/mQe0ryhxt5c)
 | The Long Drive                            | Game integration      | Vedal, Neuro, Evil, Koko, Camila, Crelly | [10-12](https://youtu.be/y_1h95iAv6s), [10-13](https://youtu.be/ixr9NmSJcno), [10-14](https://youtu.be/1Za8wK-8154), [10-15](https://youtu.be/9j4PL5Q3sLY), [10-16](https://youtu.be/3ppEwfqVGGM)
-| The Garden of Words                       | TODO                  | Evil                          | [10-28](https://youtu.be/-SvKboHtPNE)
+| The Garden of Words                       | Watchalong            | Evil                          | [10-28](https://youtu.be/-SvKboHtPNE)
 
 ¹Formerly called _Legally Distinct •••dle_
 
