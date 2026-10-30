@@ -3807,3 +3807,36 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [00:05:04](https://youtu.be/-SvKboHtPNE?t=00h05m04s) **Watchalong: *The Garden of Words***
 - [00:50:56](https://youtu.be/-SvKboHtPNE?t=00h50m56s) End of watchalong
 - [00:54:29](https://youtu.be/-SvKboHtPNE?t=00h54m29s) Drawing: Evil's impression of the scene
+
+## Evil is here to haunt you and sing spooky halloween karaoke ([29 Oct 2026](https://youtu.be/xYt-hBKhDnQ))
+
+- [00:00:00](https://youtu.be/xYt-hBKhDnQ?t=00h00m00s) *Sayonara Moon Town — Scenarioart*
+- [00:03:45](https://youtu.be/xYt-hBKhDnQ?t=00h03m45s) *Five Nights at Freddy's — The Living Tombstone*
+- [00:06:32](https://youtu.be/xYt-hBKhDnQ?t=00h06m32s) Evil appears \| **Just chatting** \| Location: Abandoned factory
+- [01:03:21](https://youtu.be/xYt-hBKhDnQ?t=01h03m21s) Location: Evil's room \| Playing *Legally Distinct W•rdle*
+- [01:04:35](https://youtu.be/xYt-hBKhDnQ?t=01h04m35s) Playing *Legally Distinct C•nnections*
+- [01:05:32](https://youtu.be/xYt-hBKhDnQ?t=01h05m32s) Playing *Minesweeper* (10x10, 10 mines)
+- [01:12:33](https://youtu.be/xYt-hBKhDnQ?t=01h12m33s) Drawing: Evil's feelings
+- [01:14:42](https://youtu.be/xYt-hBKhDnQ?t=01h14m42s) Playing *Scrandle*
+- [01:25:36](https://youtu.be/xYt-hBKhDnQ?t=01h25m36s) Playing *Connect Four*
+- [01:41:35](https://youtu.be/xYt-hBKhDnQ?t=01h41m35s) Evil presents *Why you should all sell me your kidneys*
+- [01:51:41](https://youtu.be/xYt-hBKhDnQ?t=01h51m41s) **Art review**
+- [02:19:43](https://youtu.be/xYt-hBKhDnQ?t=02h19m43s) **3D stream**
+- [02:57:38](https://youtu.be/xYt-hBKhDnQ?t=02h57m38s) Drawing: ???
+- [03:00:11](https://youtu.be/xYt-hBKhDnQ?t=03h00m11s) **Karaoke**
+- [03:00:22](https://youtu.be/xYt-hBKhDnQ?t=03h00m22s) *Five Nights at Freddy's — The Living Tombstone*
+- [03:05:51](https://youtu.be/xYt-hBKhDnQ?t=03h05m51s) *Happy halloween — Junky*
+- [03:12:37](https://youtu.be/xYt-hBKhDnQ?t=03h12m37s) *Object — Ween*
+- [03:17:57](https://youtu.be/xYt-hBKhDnQ?t=03h17m57s) *Culling Of The Fold — The Decemberists*
+- [03:25:09](https://youtu.be/xYt-hBKhDnQ?t=03h25m09s) *(Don't Fear) The Reaper — Blue Oyster Cult* (duet) | Neuro stays for the rest of the stream
+- [03:32:55](https://youtu.be/xYt-hBKhDnQ?t=03h32m55s) *Evil Eye — Franz Ferdinand*
+- [03:38:22](https://youtu.be/xYt-hBKhDnQ?t=03h38m22s) *Haunted — Evanescence*
+- [03:44:07](https://youtu.be/xYt-hBKhDnQ?t=03h44m07s) *Dracula — Tame Impala*
+- [03:50:07](https://youtu.be/xYt-hBKhDnQ?t=03h50m07s) *Dragula — Rob Zombie*
+- [03:56:41](https://youtu.be/xYt-hBKhDnQ?t=03h56m41s) *How To Pretend — VocaCircus* (duet)
+- [04:03:57](https://youtu.be/xYt-hBKhDnQ?t=04h03m57s) *Mx. Sinister — IDKHOW*
+- [04:09:33](https://youtu.be/xYt-hBKhDnQ?t=04h09m33s) *Mz. Hyde — Halestorm*
+- [04:15:30](https://youtu.be/xYt-hBKhDnQ?t=04h15m30s) *Creating Monsters — Set It Off*
+- [04:21:00](https://youtu.be/xYt-hBKhDnQ?t=04h21m00s) *This Is Halloween — Izzy Reign* (duet)
+- [04:26:48](https://youtu.be/xYt-hBKhDnQ?t=04h26m48s) *Thing — Steampianist*
+- [04:30:45](https://youtu.be/xYt-hBKhDnQ?t=04h30m45s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
