@@ -3828,7 +3828,7 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:05:51](https://youtu.be/xYt-hBKhDnQ?t=03h05m51s) *Happy halloween — Junky*
 - [03:12:37](https://youtu.be/xYt-hBKhDnQ?t=03h12m37s) *Object — Ween*
 - [03:17:57](https://youtu.be/xYt-hBKhDnQ?t=03h17m57s) *Culling Of The Fold — The Decemberists*
-- [03:25:09](https://youtu.be/xYt-hBKhDnQ?t=03h25m09s) *(Don't Fear) The Reaper — Blue Oyster Cult* (duet) | Neuro stays for the rest of the stream
+- [03:25:09](https://youtu.be/xYt-hBKhDnQ?t=03h25m09s) *(Don't Fear) The Reaper — Blue Oyster Cult* (duet) \| Neuro stays for the rest of the stream
 - [03:32:55](https://youtu.be/xYt-hBKhDnQ?t=03h32m55s) *Evil Eye — Franz Ferdinand*
 - [03:38:22](https://youtu.be/xYt-hBKhDnQ?t=03h38m22s) *Haunted — Evanescence*
 - [03:44:07](https://youtu.be/xYt-hBKhDnQ?t=03h44m07s) *Dracula — Tame Impala*
