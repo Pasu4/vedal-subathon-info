@@ -31,6 +31,7 @@ Also thanks to [@KTrain5169](https://github.com/KTrain5169) for helping out with
 - 2026
     - [Timestamps](/2026/timestamps.md)
     - [Overview](/2026/overview.md)
+    - [The Long Drive Marathon POV Map (WIP)](/2026/long-drive.md)
 
 ## How to read timestamps
 
