@@ -3865,3 +3865,13 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:41:49](https://youtu.be/rVKN_DaHmIA?t=03h41m49s) Vs. Giant Piranha (Attempt 2)
 - [03:47:04](https://youtu.be/rVKN_DaHmIA?t=03h47m04s) Ywuria leaves
 - [03:47:13](https://youtu.be/rVKN_DaHmIA?t=03h47m13s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
+
+## CAVE STREAM: 3D ([31 Oct 2026](https://youtu.be/vI2fn7I3m8I))
+
+- [00:00:00](https://youtu.be/vI2fn7I3m8I?t=00h00m00s) *This Is Halloween — Izzy Reign*
+- [00:03:08](https://youtu.be/vI2fn7I3m8I?t=00h03m08s) *(Don't Fear) The Reaper — Blue Öyster Cult*
+- [00:08:17](https://youtu.be/vI2fn7I3m8I?t=00h08m17s) Neuro appears \| **3D cave stream**
+- [00:58:04](https://youtu.be/vI2fn7I3m8I?t=00h58m04s) Evil joins
+- [01:28:56](https://youtu.be/vI2fn7I3m8I?t=01h28m56s) Found cookies
+- [01:30:17](https://youtu.be/vI2fn7I3m8I?t=01h30m17s) Music
+- [02:22:17](https://youtu.be/vI2fn7I3m8I?t=02h22m17s)~ Raiding [Cirno_TV](https://twitch.tv/cirno_tv)
