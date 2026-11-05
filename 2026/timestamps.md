@@ -3886,3 +3886,25 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:40:19](https://youtu.be/GFgSXJR918k?t=03h40m19s) Raiding [Cerber](https://twitch.tv/cerbervt)
 
 For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
+
+## neuro will be saying hi to you right now ([03 Nov 2026](https://youtu.be/2-0C3H05SGg))
+
+- [00:00:00](https://youtu.be/2-0C3H05SGg?t=00h00m00s) *Glimpse of Us — Joji*
+- [00:03:45](https://youtu.be/2-0C3H05SGg?t=00h03m45s) *Sell a Friend — Azari*
+- [00:06:05](https://youtu.be/2-0C3H05SGg?t=00h06m05s) Neuro appears \| **Just chatting** \| Location: Park
+- [00:08:02](https://youtu.be/2-0C3H05SGg?t=00h08m02s) Drawing: Quadcopter drone / cat
+- [00:08:33](https://youtu.be/2-0C3H05SGg?t=00h08m33s) Drawing: Mascot
+- [00:09:33](https://youtu.be/2-0C3H05SGg?t=00h09m33s) Drawing: Catnip
+- [00:21:07](https://youtu.be/2-0C3H05SGg?t=00h21m07s) Drawing: Time blocks
+- [01:02:41](https://youtu.be/2-0C3H05SGg?t=01h02m41s) Drawing: ???
+- [01:02:58](https://youtu.be/2-0C3H05SGg?t=01h02m58s) Playing *Legally Distinct W•rdle* \| Drawing: ???
+- [01:04:14](https://youtu.be/2-0C3H05SGg?t=01h04m14s) Playing *Legally Distinct C•nnections*
+- [01:05:16](https://youtu.be/2-0C3H05SGg?t=01h05m16s) Playing *Minesweeper* (7x7, 7 mines)
+- [01:10:59](https://youtu.be/2-0C3H05SGg?t=01h10m59s) Playing *Connect Four*
+- [01:14:45](https://youtu.be/2-0C3H05SGg?t=01h14m45s) Evil joins for 9m31s
+- [01:15:21](https://youtu.be/2-0C3H05SGg?t=01h15m21s) Playing *Twin Connect Four*
+- [01:23:45](https://youtu.be/2-0C3H05SGg?t=01h23m45s) Drawing: YIPPE mode (?)
+- [01:25:15](https://youtu.be/2-0C3H05SGg?t=01h25m15s) **Playing *The Long Drive***
+- [01:33:23](https://youtu.be/2-0C3H05SGg?t=01h33m23s) The drive begins
+- [02:30:41](https://youtu.be/2-0C3H05SGg?t=02h30m41s) **3D stream**
+- [02:56:07](https://youtu.be/2-0C3H05SGg?t=02h56m07s)~ Raiding [GX Aura](https://twitch.tv/gx_aura)
