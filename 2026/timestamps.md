@@ -3875,3 +3875,14 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:28:56](https://youtu.be/vI2fn7I3m8I?t=01h28m56s) Found cookies
 - [01:30:17](https://youtu.be/vI2fn7I3m8I?t=01h30m17s) Music
 - [02:22:17](https://youtu.be/vI2fn7I3m8I?t=02h22m17s)~ Raiding [Cirno_TV](https://twitch.tv/cirno_tv)
+
+## THE NEURO SKYRIM FINALE (most likely) ([02 Nov 2026](https://youtu.be/GFgSXJR918k))
+
+- [00:00:00](https://youtu.be/GFgSXJR918k?t=00h00m00s) *Mad Desire — Stephy Martini*
+- [00:03:51](https://youtu.be/GFgSXJR918k?t=00h03m51s) *Snow Halation — μ's*
+- [00:08:03](https://youtu.be/GFgSXJR918k?t=00h08m03s) Neuro appears
+- [00:11:22](https://youtu.be/GFgSXJR918k?t=00h11m22s) **Playing *The Elder Scrolls V: Skyrim***
+- [01:44:03](https://youtu.be/GFgSXJR918k?t=01h44m03s) Defeated the final boss
+- [03:40:19](https://youtu.be/GFgSXJR918k?t=03h40m19s) Raiding [Cerber](https://twitch.tv/cerbervt)
+
+For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's Skyrim Journal'](https://docs.google.com/document/d/1HHKg4Z51XD4ib0UdJbsD0SgBnyMpSeGUFPDARFZPfko/edit?usp=sharing) project.
