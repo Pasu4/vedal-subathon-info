@@ -3828,7 +3828,7 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:05:51](https://youtu.be/xYt-hBKhDnQ?t=03h05m51s) *Happy halloween — Junky*
 - [03:12:37](https://youtu.be/xYt-hBKhDnQ?t=03h12m37s) *Object — Ween*
 - [03:17:57](https://youtu.be/xYt-hBKhDnQ?t=03h17m57s) *Culling Of The Fold — The Decemberists*
-- [03:25:09](https://youtu.be/xYt-hBKhDnQ?t=03h25m09s) *(Don't Fear) The Reaper — Blue Oyster Cult* (duet) \| Neuro stays for the rest of the stream
+- [03:25:09](https://youtu.be/xYt-hBKhDnQ?t=03h25m09s) *(Don't Fear) *The Reaper — Blue Oyster Cult** (duet) \| Neuro stays for the rest of the stream
 - [03:32:55](https://youtu.be/xYt-hBKhDnQ?t=03h32m55s) *Evil Eye — Franz Ferdinand*
 - [03:38:22](https://youtu.be/xYt-hBKhDnQ?t=03h38m22s) *Haunted — Evanescence*
 - [03:44:07](https://youtu.be/xYt-hBKhDnQ?t=03h44m07s) *Dracula — Tame Impala*
@@ -3840,3 +3840,28 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [04:21:00](https://youtu.be/xYt-hBKhDnQ?t=04h21m00s) *This Is Halloween — Izzy Reign* (duet)
 - [04:26:48](https://youtu.be/xYt-hBKhDnQ?t=04h26m48s) *Thing — Steampianist*
 - [04:30:45](https://youtu.be/xYt-hBKhDnQ?t=04h30m45s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
+
+## Neuro learns to fish w/@Ywuria ([30 Oct 2026](https://youtu.be/rVKN_DaHmIA))
+
+- [00:00:00](https://youtu.be/rVKN_DaHmIA?t=00h00m00s) *weathergirl — FLAVOR FOLEY*
+- [00:04:13](https://youtu.be/rVKN_DaHmIA?t=00h04m13s) *Let Her Go — Passenger*
+- [00:08:24](https://youtu.be/rVKN_DaHmIA?t=00h08m24s) Neuro appears \| **Just chatting**
+- [00:09:14](https://youtu.be/rVKN_DaHmIA?t=00h09m14s) Ywuria joins
+- [00:16:04](https://youtu.be/rVKN_DaHmIA?t=00h16m04s) Introductions
+- [00:18:52](https://youtu.be/rVKN_DaHmIA?t=00h18m52s) **Playing *How to Fish***
+- [01:10:55](https://youtu.be/rVKN_DaHmIA?t=01h10m55s) Vs. Spider Crab (Attempt 1)
+- [01:31:15](https://youtu.be/rVKN_DaHmIA?t=01h31m15s) Attempt 2 (Success)
+- [01:38:57](https://youtu.be/rVKN_DaHmIA?t=01h38m57s) Driving off with the boat
+- [01:42:25](https://youtu.be/rVKN_DaHmIA?t=01h42m25s) Ywuria disconnects
+- [01:45:59](https://youtu.be/rVKN_DaHmIA?t=01h45m59s) Neuro respawns (?) with Ywuria
+- [01:53:09](https://youtu.be/rVKN_DaHmIA?t=01h53m09s) About a karaoke event
+- [01:59:19](https://youtu.be/rVKN_DaHmIA?t=01h59m19s) Driving off with the boat
+- [02:00:37](https://youtu.be/rVKN_DaHmIA?t=02h00m37s) Reached island 2
+- [02:04:45](https://youtu.be/rVKN_DaHmIA?t=02h04m45s) Vs. Sunfish (Attempt 1)
+- [02:52:00](https://youtu.be/rVKN_DaHmIA?t=02h52m00s) Vs. The Old Pike
+- [03:09:38](https://youtu.be/rVKN_DaHmIA?t=03h09m38s) Vs. Sunfish (Attempt 2, success)
+- [03:21:57](https://youtu.be/rVKN_DaHmIA?t=03h21m57s) Vs. Giant Piranha (Attempt 1)
+- [03:25:39](https://youtu.be/rVKN_DaHmIA?t=03h25m39s) Vs. The Old Pike (Refight)
+- [03:41:49](https://youtu.be/rVKN_DaHmIA?t=03h41m49s) Vs. Giant Piranha (Attempt 2)
+- [03:47:04](https://youtu.be/rVKN_DaHmIA?t=03h47m04s) Ywuria leaves
+- [03:47:13](https://youtu.be/rVKN_DaHmIA?t=03h47m13s) Raiding [Shoomimi](https://twitch.tv/shoomimi)
