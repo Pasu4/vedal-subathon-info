@@ -390,7 +390,8 @@ $content = $content -replace '(?m)^(\d\d):(\d\d):(\d\d)', ('- [$0](https://youtu
 $content = $content -replace '(?m)(?<!\\)\|', '\|'
 
 # Make song titles italic
-$content = $content -replace '(?m)(?<=(\)|\|) )[^*—\n|]+—( [^\\\(\n\| ]+)+', '*$0*'
+# Disabled for now since it breaks if the song title contains parentheses
+# $content = $content -replace '(?m)(?<=(\)|\|) )[^*—\n|]+—( [^\\\(\n\| ]+)+', '*$0*'
 
 # Add link to raid target
 $content = $content -replace '(?m)Raiding (\w.*?)(?:$| \|)', "Raiding $raidTargetLink"
