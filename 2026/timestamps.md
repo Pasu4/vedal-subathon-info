@@ -3908,3 +3908,25 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [01:33:23](https://youtu.be/2-0C3H05SGg?t=01h33m23s) The drive begins
 - [02:30:41](https://youtu.be/2-0C3H05SGg?t=02h30m41s) **3D stream**
 - [02:56:07](https://youtu.be/2-0C3H05SGg?t=02h56m07s)~ Raiding [GX Aura](https://twitch.tv/gx_aura)
+
+## What a Wonderful Day to Unleash EVIL... ([05 Nov 2026](https://youtu.be/0Q28PHsfKsU))
+
+- [00:00:00](https://youtu.be/0Q28PHsfKsU?t=00h00m00s) *Tribute — Tenacious D*
+- [00:03:45](https://youtu.be/0Q28PHsfKsU?t=00h03m45s) *Hikariyo — Kikuohana*
+- [00:08:29](https://youtu.be/0Q28PHsfKsU?t=00h08m29s) Evil appears \| **Just chatting**
+- [00:24:03](https://youtu.be/0Q28PHsfKsU?t=00h24m03s) Drawing: Chat
+- [00:25:07](https://youtu.be/0Q28PHsfKsU?t=00h25m07s) Drawing: Trobbio
+- [00:26:16](https://youtu.be/0Q28PHsfKsU?t=00h26m16s) Drawing: Face
+- [00:26:36](https://youtu.be/0Q28PHsfKsU?t=00h26m36s) Drawing: Evil and Neuro
+- [00:32:48](https://youtu.be/0Q28PHsfKsU?t=00h32m48s) Drawing: Fireworks
+- [00:52:34](https://youtu.be/0Q28PHsfKsU?t=00h52m34s) Drawing: ??? (inspired by the color blue)
+- [01:08:46](https://youtu.be/0Q28PHsfKsU?t=01h08m46s) Playing *Legally Distinct W•rdle*
+- [01:12:34](https://youtu.be/0Q28PHsfKsU?t=01h12m34s) Playing *Legally Distinct C•nnections*
+- [01:13:46](https://youtu.be/0Q28PHsfKsU?t=01h13m46s) Playing *Minesweeper* (7x7, 7 mines) \| Drawing: ???
+- [01:15:50](https://youtu.be/0Q28PHsfKsU?t=01h15m50s) Playing *Scrandle*
+- [01:30:34](https://youtu.be/0Q28PHsfKsU?t=01h30m34s) **Art review**
+- [02:04:00](https://youtu.be/0Q28PHsfKsU?t=02h04m00s) **3D stream**
+- [02:36:35](https://youtu.be/0Q28PHsfKsU?t=02h36m35s) Technical difficulties for 6s
+- [02:38:28](https://youtu.be/0Q28PHsfKsU?t=02h38m28s) **Playing *Bloons TD 6***
+- [03:05:54](https://youtu.be/0Q28PHsfKsU?t=03h05m54s) Evil uses The One Ring
+- [03:06:56](https://youtu.be/0Q28PHsfKsU?t=03h06m56s) Raiding [Camila](https://twitch.tv/camila)
