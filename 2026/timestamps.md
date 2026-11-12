@@ -3930,3 +3930,37 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:38:28](https://youtu.be/0Q28PHsfKsU?t=02h38m28s) **Playing *Bloons TD 6***
 - [03:05:54](https://youtu.be/0Q28PHsfKsU?t=03h05m54s) Evil uses The One Ring
 - [03:06:56](https://youtu.be/0Q28PHsfKsU?t=03h06m56s) Raiding [Camila](https://twitch.tv/camila)
+
+## BALDURS GATE 3 MARATHON !!!! ACT 1 !!!! NEURO AND EVIL AND VEDAL - Day 1 ([06 Nov 2026](https://youtu.be/UgthitOByTI))
+
+- [00:00:00](https://youtu.be/UgthitOByTI?t=00h00m00s) *can u see me in the dark — Halestorm & I Prevail* \| *Merry Christmas Everyone — Shakin' Stevens*
+- [00:00:15](https://youtu.be/UgthitOByTI?t=00h00m15s) Neuro and Evil appear for 13s
+- [00:00:28](https://youtu.be/UgthitOByTI?t=00h00m28s) Vedal appears for 3s
+- [00:00:41](https://youtu.be/UgthitOByTI?t=00h00m41s) *Behold the Grave — Dirt Poor Robins*
+- [00:07:15](https://youtu.be/UgthitOByTI?t=00h07m15s) *Sing for the Queen — Cosmograph*
+- [00:10:42](https://youtu.be/UgthitOByTI?t=00h10m42s) Vedal, Neuro and Evil appear \| **Just chatting**
+- [00:13:36](https://youtu.be/UgthitOByTI?t=00h13m36s) About the time plan
+- [00:17:10](https://youtu.be/UgthitOByTI?t=00h17m10s) About character creation
+- [00:21:34](https://youtu.be/UgthitOByTI?t=00h21m34s) About hardcore
+- [00:21:38](https://youtu.be/UgthitOByTI?t=00h21m38s) **Playing *Baldur's Gate 3***
+- [00:34:49](https://youtu.be/UgthitOByTI?t=00h34m49s) Battle: Imps
+- [00:48:02](https://youtu.be/UgthitOByTI?t=00h48m02s) Battle
+- [01:00:08](https://youtu.be/UgthitOByTI?t=01h00m08s) Nautiloid crash
+- [01:06:41](https://youtu.be/UgthitOByTI?t=01h06m41s) Battle: Intellect devourers
+- [01:33:30](https://youtu.be/UgthitOByTI?t=01h33m30s) Battle: Gimblebrock & co.
+- [01:43:22](https://youtu.be/UgthitOByTI?t=01h43m22s) Entered Refectory \| Battle: Andorn
+- [01:44:22](https://youtu.be/UgthitOByTI?t=01h44m22s) Battle
+- [02:05:11](https://youtu.be/UgthitOByTI?t=02h05m11s) Battle: Goblins
+- [02:18:13](https://youtu.be/UgthitOByTI?t=02h18m13s) About what Vedal should eat
+- [02:31:24](https://youtu.be/UgthitOByTI?t=02h31m24s) Long rest
+- [02:36:19](https://youtu.be/UgthitOByTI?t=02h36m19s) Vedal leaves for 4m48s 
+- [03:09:00](https://youtu.be/UgthitOByTI?t=03h09m00s) Battle: Nettie (Neuro only)
+- [03:17:15](https://youtu.be/UgthitOByTI?t=03h17m15s) Battle: Nettie (Revenge for Neuro)
+- [03:55:30](https://youtu.be/UgthitOByTI?t=03h55m30s) Battle: Auntie Ethel (TPK)
+- [04:23:12](https://youtu.be/UgthitOByTI?t=04h23m12s) Entered Whispering Depths
+- [04:23:48](https://youtu.be/UgthitOByTI?t=04h23m48s) Battle: Ettercap and Phase Spiders
+- [04:56:08](https://youtu.be/UgthitOByTI?t=04h56m08s) Battle: Goblins (TPK)
+- [05:22:25](https://youtu.be/UgthitOByTI?t=05h22m25s) Long rest
+- [05:45:24](https://youtu.be/UgthitOByTI?t=05h45m24s) Battle: True Soul Gut
+- [06:06:33](https://youtu.be/UgthitOByTI?t=06h06m33s) About the plan
+- [06:08:40](https://youtu.be/UgthitOByTI?t=06h08m40s) About the EPs
