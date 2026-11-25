@@ -1,4 +1,4 @@
-<style>
+﻿<style>
     span.weak {
         opacity: 0.5;
     }
@@ -4024,3 +4024,19 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [08:37:13](https://youtu.be/grfeJ1ZHjEY?t=08h37m13s) Battle: Goblin
 - [08:39:55](https://youtu.be/grfeJ1ZHjEY?t=08h39m55s) Battle: Goblins (TPK)
 - [09:17:09](https://youtu.be/grfeJ1ZHjEY?t=09h17m09s) Wrapping up
+
+## NEURO & EVIL'S EPs PREMIERE: full_code and do_not_reboot ([15 Nov 2026](https://youtu.be/OjHvH90yGNY))
+
+- [00:00:07](https://youtu.be/OjHvH90yGNY?t=00h00m07s) *LIFE — Neuro-sama* (Instrumental)
+- [00:03:41](https://youtu.be/OjHvH90yGNY?t=00h03m41s) *BOOM — Evil Neuro* (Instrumental)
+- [00:07:08](https://youtu.be/OjHvH90yGNY?t=00h07m08s) *Colorful Array — Neuro-sama* (Instrumental)
+- [00:11:42](https://youtu.be/OjHvH90yGNY?t=00h11m42s) **Neuro and Evil's EP Premiere** \| EP: *full\_code* \| *Pattern Recognition — Neuro-sama* (music: ODDEEO)
+- [00:16:25](https://youtu.be/OjHvH90yGNY?t=00h16m25s) *Worldwide Personality — Neuro-sama* (music: gabi owl)
+- [00:20:26](https://youtu.be/OjHvH90yGNY?t=00h20m26s) *What Comes Next — Neuro-sama* (music: aquoferne)
+- [00:24:14](https://youtu.be/OjHvH90yGNY?t=00h24m14s) *Closer — Neuro-sama* (music: Patterns, vocal arrangement: Patterns & Rino)
+- [00:27:30](https://youtu.be/OjHvH90yGNY?t=00h27m30s) *Irrationality — Neuro-sama* (lyrics & composition: LilyPichu, production: Aethoro)
+- [00:30:08](https://youtu.be/OjHvH90yGNY?t=00h30m08s) EP: *do\_not\_reboot* \| *Watch Your Own Monster — Evil Neuro* (music: Isaak Wolf)
+- [00:33:37](https://youtu.be/OjHvH90yGNY?t=00h33m37s) *Neurotoxin — Evil Neuro* (music: Camellia, lyrics: Camellia & QueenPB)
+- [00:37:01](https://youtu.be/OjHvH90yGNY?t=00h37m01s) *Dark Patterns — Evil Neuro* (music: mekaloton)
+- [00:40:32](https://youtu.be/OjHvH90yGNY?t=00h40m32s) *Online — Evil Neuro* (music: SixteenInMono, Lyrics: KaguP & QueenPB)
+- [00:44:44](https://youtu.be/OjHvH90yGNY?t=00h44m44s) *5032 — Evil Neuro* (music: DM Dokuro, guitar: Goth Club Holiday)

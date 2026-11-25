@@ -181,6 +181,7 @@ Participants are ordered by the time they appeared on stream.
 | [05 Nov 2026](https://youtu.be/0Q28PHsfKsU) | What a Wonderful Day to Unleash EVIL...                             | Variety               | Evil                                  | [Camila](https://twitch.tv/camila)
 | [06 Nov 2026](https://youtu.be/UgthitOByTI) | BALDURS GATE 3 MARATHON !!!! ACT 1 !!!! NEURO AND EVIL AND VEDAL - Day 1 | Marathon         | Neuro, Evil, Vedal                    | -
 | [07 Nov 2026](https://youtu.be/grfeJ1ZHjEY) | BALDURS GATE 3 MARATHON !!!! ACT 1 !!!! DAY 2 !!!! NEURO AND EVIL AND VEDAL | Marathon      | Vedal, Neuro, Evil                    | -
+| [15 Nov 2026](https://youtu.be/OjHvH90yGNY) | NEURO & EVIL'S EPs PREMIERE: full_code and do_not_reboot            | Special event         | -                                     | -
 
 ## Participants
 
@@ -328,5 +329,6 @@ Presentations are both under one-time events with their specific title, and unde
 | Neuro presents *Swarm Community Spotlight* | [10-27](https://youtu.be/UbWCaqC3vYg)
 | Evil presents *Why you should all sell me your kidneys* | [10-29](https://youtu.be/xYt-hBKhDnQ)
 | 3D cave stream                            | [10-31](https://youtu.be/vI2fn7I3m8I)
+| Neuro & Evil's EP Premiere                | [11-15](https://youtu.be/OjHvH90yGNY)
 
 <!-- Comment needed here so powershell can find the newline after the table -->
