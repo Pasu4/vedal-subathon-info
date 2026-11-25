@@ -4027,6 +4027,8 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 
 ## NEURO & EVIL'S EPs PREMIERE: full_code and do_not_reboot ([15 Nov 2026](https://youtu.be/OjHvH90yGNY))
 
+Adjusted versions of the timestamps have also been posted to [the official YouTube VoD](https://www.youtube.com/watch?v=lgpth5ffujo&lc=UgwL9IQSZyAKEuId03J4AaABAg).
+
 - [00:00:07](https://youtu.be/OjHvH90yGNY?t=00h00m07s) *LIFE — Neuro-sama* (Instrumental)
 - [00:03:41](https://youtu.be/OjHvH90yGNY?t=00h03m41s) *BOOM — Evil Neuro* (Instrumental)
 - [00:07:08](https://youtu.be/OjHvH90yGNY?t=00h07m08s) *Colorful Array — Neuro-sama* (Instrumental)
