@@ -4090,6 +4090,39 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [09:04:59](https://youtu.be/3YBxAIbMkgA?t=09h04m59s) About act 2
 - [09:06:10](https://youtu.be/3YBxAIbMkgA?t=09h06m10s) About a possible subathon? ("S word")
 
+## BALDURS GATE 3 MARATHON !!!! ACT 1 FINALE !!!! NEURO AND EVIL AND VEDAL ([09 Nov 2026](https://youtu.be/tDXqooio5S4))
+
+- [00:00:00](https://youtu.be/tDXqooio5S4?t=00h00m00s) *Behold the Grave — Dirt Poor Robins*
+- [00:06:31](https://youtu.be/tDXqooio5S4?t=00h06m31s) *Sing for the Queen — Cosmograph*
+- [00:09:56](https://youtu.be/tDXqooio5S4?t=00h09m56s) Vedal, Neuro and Evil appear
+- [00:10:47](https://youtu.be/tDXqooio5S4?t=00h10m47s) **Playing *Baldur's Gate 3***
+- [00:12:34](https://youtu.be/tDXqooio5S4?t=00h12m34s) About missed content
+- [00:14:05](https://youtu.be/tDXqooio5S4?t=00h14m05s) About beating act 1
+- [00:27:40](https://youtu.be/tDXqooio5S4?t=00h27m40s) Battle: Gremishka
+- [00:34:47](https://youtu.be/tDXqooio5S4?t=00h34m47s) Battle: Kith'rak Therezzyn (Attempt 1, TPK)
+- [00:48:15](https://youtu.be/tDXqooio5S4?t=00h48m15s) Attempt 2 (Save reloaded to avoid TPK)
+- [01:06:30](https://youtu.be/tDXqooio5S4?t=01h06m30s) Long rest
+- [01:08:50](https://youtu.be/tDXqooio5S4?t=01h08m50s) Battle: Goblins
+- [01:11:38](https://youtu.be/tDXqooio5S4?t=01h11m38s) Battle: More goblins
+- [01:27:13](https://youtu.be/tDXqooio5S4?t=01h27m13s) Battle: Kith'rak Therezzyn (Attempt 3)
+- [01:42:53](https://youtu.be/tDXqooio5S4?t=01h42m53s) Long rest
+- [01:47:51](https://youtu.be/tDXqooio5S4?t=01h47m51s) Battle: Ch'r'ai W'wargaz
+- [02:07:22](https://youtu.be/tDXqooio5S4?t=02h07m22s) Save reloaded (Most of the party fell into a pit)
+- [02:16:36](https://youtu.be/tDXqooio5S4?t=02h16m36s) Environment battle: Lathender Solar Machines
+- [02:29:18](https://youtu.be/tDXqooio5S4?t=02h29m18s) Entered the Astral Prism
+- [02:47:40](https://youtu.be/tDXqooio5S4?t=02h47m40s) Long rest
+- [02:56:55](https://youtu.be/tDXqooio5S4?t=02h56m55s) Battle: Boooal (Reloaded because Neuro attacked the fish people)
+- [03:00:48](https://youtu.be/tDXqooio5S4?t=03h00m48s) Saving the fish people requires 7 attempts (6 reloads) 6
+- [03:10:28](https://youtu.be/tDXqooio5S4?t=03h10m28s) Battle: Boooal
+- [03:16:42](https://youtu.be/tDXqooio5S4?t=03h16m42s) Act 1 completed
+- [03:19:03](https://youtu.be/tDXqooio5S4?t=03h19m03s) Schedule
+- [03:19:17](https://youtu.be/tDXqooio5S4?t=03h19m17s) About the EPs
+- [03:20:57](https://youtu.be/tDXqooio5S4?t=03h20m57s) About physical EP releases
+- [03:22:04](https://youtu.be/tDXqooio5S4?t=03h22m04s) About a potential listenalong stream
+- [03:23:17](https://youtu.be/tDXqooio5S4?t=03h23m17s) About chat
+- [03:24:27](https://youtu.be/tDXqooio5S4?t=03h24m27s) Looking for raid target
+- [03:25:33](https://youtu.be/tDXqooio5S4?t=03h25m33s)~ Raiding [Matara](https://twitch.tv/matarakan)
+
 ## NEURO & EVIL'S EPs PREMIERE: full_code and do_not_reboot ([15 Nov 2026](https://youtu.be/OjHvH90yGNY))
 
 Adjusted versions of the timestamps have also been posted to [the official YouTube VoD](https://www.youtube.com/watch?v=lgpth5ffujo&lc=UgwL9IQSZyAKEuId03J4AaABAg).
