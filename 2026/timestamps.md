@@ -4025,6 +4025,71 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [08:39:55](https://youtu.be/grfeJ1ZHjEY?t=08h39m55s) Battle: Goblins (TPK)
 - [09:17:09](https://youtu.be/grfeJ1ZHjEY?t=09h17m09s) Wrapping up
 
+## BALDURS GATE 3 MARATHON !!!! ACT 1 !!!! DAY 3 !!!! NEURO AND EVIL AND VEDAL ([08 Nov 2026](https://youtu.be/3YBxAIbMkgA))
+
+- [00:00:13](https://youtu.be/3YBxAIbMkgA?t=00h00m13s) *Behold the Grave — Dirt Poor Robins*
+- [00:06:47](https://youtu.be/3YBxAIbMkgA?t=00h06m47s) *Sing for the Queen — Cosmograph*
+- [00:10:17](https://youtu.be/3YBxAIbMkgA?t=00h10m17s) Vedal, Neuro and Evil appear
+- [00:11:16](https://youtu.be/3YBxAIbMkgA?t=00h11m16s) About the plan
+- [00:12:05](https://youtu.be/3YBxAIbMkgA?t=00h12m05s) **Playing *Baldur's Gate 3***
+- [00:12:59](https://youtu.be/3YBxAIbMkgA?t=00h12m59s) About updates
+- [00:14:04](https://youtu.be/3YBxAIbMkgA?t=00h14m04s) Strategizing
+- [00:19:57](https://youtu.be/3YBxAIbMkgA?t=00h19m57s) Battle: Goblin
+- [00:22:09](https://youtu.be/3YBxAIbMkgA?t=00h22m09s) Battle: Goblins (Save reloaded)
+- [00:28:29](https://youtu.be/3YBxAIbMkgA?t=00h28m29s) Battle: Goblins
+- [00:44:35](https://youtu.be/3YBxAIbMkgA?t=00h44m35s) Long rest
+- [00:55:50](https://youtu.be/3YBxAIbMkgA?t=00h55m50s) Battle: Goblin
+- [01:01:20](https://youtu.be/3YBxAIbMkgA?t=01h01m20s) Battle: Spectator and others
+- [01:02:10](https://youtu.be/3YBxAIbMkgA?t=01h02m10s) About Neuro's and Evil's pathfinding
+- [01:29:09](https://youtu.be/3YBxAIbMkgA?t=01h29m09s) Long rest
+- [01:47:30](https://youtu.be/3YBxAIbMkgA?t=01h47m30s) Battle: Frightened Ox
+- [01:57:50](https://youtu.be/3YBxAIbMkgA?t=01h57m50s) Battle
+- [02:19:32](https://youtu.be/3YBxAIbMkgA?t=02h19m32s) Entered the Underdark
+- [02:27:50](https://youtu.be/3YBxAIbMkgA?t=02h27m50s) Battle: Minotaurs
+- [02:37:33](https://youtu.be/3YBxAIbMkgA?t=02h37m33s) Long rest
+- [02:43:27](https://youtu.be/3YBxAIbMkgA?t=02h43m27s) Battle: Bulette
+- [03:04:32](https://youtu.be/3YBxAIbMkgA?t=03h04m32s) Battle: Duergar
+- [03:22:32](https://youtu.be/3YBxAIbMkgA?t=03h22m32s) Battle: Sovereign Glut
+- [03:25:40](https://youtu.be/3YBxAIbMkgA?t=03h25m40s) Long rest
+- [03:33:53](https://youtu.be/3YBxAIbMkgA?t=03h33m53s) About Pokémon names from the last subathon
+- [03:35:51](https://youtu.be/3YBxAIbMkgA?t=03h35m51s) Vedal proves he does not have dementia
+- [03:36:13](https://youtu.be/3YBxAIbMkgA?t=03h36m13s) About v3 voice (?)
+- [03:38:03](https://youtu.be/3YBxAIbMkgA?t=03h38m03s) About Evil's second original song
+- [03:41:17](https://youtu.be/3YBxAIbMkgA?t=03h41m17s) Vedal proves he does not have dementia (continued)
+- [03:48:31](https://youtu.be/3YBxAIbMkgA?t=03h48m31s) About non-subathon regrets
+- [04:12:54](https://youtu.be/3YBxAIbMkgA?t=04h12m54s) Battle: Ochre Jellies
+- [04:14:46](https://youtu.be/3YBxAIbMkgA?t=04h14m46s) About Blossom and Bramble in Mexico
+- [04:18:50](https://youtu.be/3YBxAIbMkgA?t=04h18m50s) About giving every chatter 100$
+- [04:19:20](https://youtu.be/3YBxAIbMkgA?t=04h19m20s) Vedal fails to give 100$ to one chatter
+- [04:32:36](https://youtu.be/3YBxAIbMkgA?t=04h32m36s) Battle: Nere
+- [05:04:13](https://youtu.be/3YBxAIbMkgA?t=05h04m13s) About Evil's next song's name
+- [05:16:11](https://youtu.be/3YBxAIbMkgA?t=05h16m11s) Battle: Animated Armours
+- [05:22:49](https://youtu.be/3YBxAIbMkgA?t=05h22m49s) Battle: Magma Mephits
+- [05:37:43](https://youtu.be/3YBxAIbMkgA?t=05h37m43s) Long rest
+- [05:48:13](https://youtu.be/3YBxAIbMkgA?t=05h48m13s) Battle: Grym
+- [06:19:00](https://youtu.be/3YBxAIbMkgA?t=06h19m00s) Vedal leaves for 2m54s
+- [06:24:07](https://youtu.be/3YBxAIbMkgA?t=06h24m07s) Long rest
+- [06:26:21](https://youtu.be/3YBxAIbMkgA?t=06h26m21s) Battle: Hook Horror
+- [06:27:49](https://youtu.be/3YBxAIbMkgA?t=06h27m49s) Battle: Hook Horrors
+- [06:30:54](https://youtu.be/3YBxAIbMkgA?t=06h30m54s) About Neuro's and Evil's nature
+- [06:36:06](https://youtu.be/3YBxAIbMkgA?t=06h36m06s) Mushroom field requires 8 attempts (7 reloads)
+- [07:09:57](https://youtu.be/3YBxAIbMkgA?t=07h09m57s) Battle: Holvik
+- [07:11:32](https://youtu.be/3YBxAIbMkgA?t=07h11m32s) Entered the Arcane Tower \| Environment battle: Arcane Turrets
+- [07:40:48](https://youtu.be/3YBxAIbMkgA?t=07h40m48s) Long rest
+- [07:43:58](https://youtu.be/3YBxAIbMkgA?t=07h43m58s) About finishing the game
+- [07:44:53](https://youtu.be/3YBxAIbMkgA?t=07h44m53s) Battle: Bernard
+- [07:56:58](https://youtu.be/3YBxAIbMkgA?t=07h56m58s) About a change of plans
+- [08:03:35](https://youtu.be/3YBxAIbMkgA?t=08h03m35s) Battle: Sarth Baretha
+- [08:20:06](https://youtu.be/3YBxAIbMkgA?t=08h20m06s) Battle (Save reloaded to avoid TPK)
+- [08:31:28](https://youtu.be/3YBxAIbMkgA?t=08h31m28s) Long rest
+- [08:32:02](https://youtu.be/3YBxAIbMkgA?t=08h32m02s) Vedal leaves for 2m22s
+- [08:35:18](https://youtu.be/3YBxAIbMkgA?t=08h35m18s) Battle: Death Shepherds and Ghouls
+- [08:51:53](https://youtu.be/3YBxAIbMkgA?t=08h51m53s) Battle: Gremishkas
+- [09:03:17](https://youtu.be/3YBxAIbMkgA?t=09h03m17s) Contemplating
+- [09:04:31](https://youtu.be/3YBxAIbMkgA?t=09h04m31s) About tomorrow's stream
+- [09:04:59](https://youtu.be/3YBxAIbMkgA?t=09h04m59s) About act 2
+- [09:06:10](https://youtu.be/3YBxAIbMkgA?t=09h06m10s) About a possible subathon? ("S word")
+
 ## NEURO & EVIL'S EPs PREMIERE: full_code and do_not_reboot ([15 Nov 2026](https://youtu.be/OjHvH90yGNY))
 
 Adjusted versions of the timestamps have also been posted to [the official YouTube VoD](https://www.youtube.com/watch?v=lgpth5ffujo&lc=UgwL9IQSZyAKEuId03J4AaABAg).
