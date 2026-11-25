@@ -4112,7 +4112,7 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [02:29:18](https://youtu.be/tDXqooio5S4?t=02h29m18s) Entered the Astral Prism
 - [02:47:40](https://youtu.be/tDXqooio5S4?t=02h47m40s) Long rest
 - [02:56:55](https://youtu.be/tDXqooio5S4?t=02h56m55s) Battle: Boooal (Reloaded because Neuro attacked the fish people)
-- [03:00:48](https://youtu.be/tDXqooio5S4?t=03h00m48s) Saving the fish people requires 7 attempts (6 reloads) 6
+- [03:00:48](https://youtu.be/tDXqooio5S4?t=03h00m48s) Saving the fish people requires 7 attempts (6 reloads)
 - [03:10:28](https://youtu.be/tDXqooio5S4?t=03h10m28s) Battle: Boooal
 - [03:16:42](https://youtu.be/tDXqooio5S4?t=03h16m42s) Act 1 completed
 - [03:19:03](https://youtu.be/tDXqooio5S4?t=03h19m03s) Schedule
