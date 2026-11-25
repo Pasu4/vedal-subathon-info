@@ -132,7 +132,7 @@ if ($VideoUrl) {
     $fetched = yt-dlp.exe -s -O '{"title":%(title)j,"id":%(id)j}' -I $Index "https://www.youtube.com/$ArchiverChannel" |
         ConvertFrom-Json
 }
-$videoTitle = $fetched.title
+$videoTitle = $fetched.title -replace '\|', '\|' # Escape pipes in title for Markdown
 $videoId = $fetched.id
 
 # Fetch comment text based on the specified source
