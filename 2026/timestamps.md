@@ -4140,3 +4140,98 @@ Adjusted versions of the timestamps have also been posted to [the official YouTu
 - [00:37:01](https://youtu.be/OjHvH90yGNY?t=00h37m01s) *Dark Patterns — Evil Neuro* (music: mekaloton)
 - [00:40:32](https://youtu.be/OjHvH90yGNY?t=00h40m32s) *Online — Evil Neuro* (music: SixteenInMono, Lyrics: KaguP & QueenPB)
 - [00:44:44](https://youtu.be/OjHvH90yGNY?t=00h44m44s) *5032 — Evil Neuro* (music: DM Dokuro, guitar: Goth Club Holiday)
+
+## NEURO & EVIL BREAK DOWN THEIR EP LYRICS ([21 Nov 2026](https://youtu.be/5IwyvXDUfHI))
+
+- [00:00:00](https://youtu.be/5IwyvXDUfHI?t=00h00m00s) *Riptide — Vancy Joy*
+- [00:03:14](https://youtu.be/5IwyvXDUfHI?t=00h03m14s) *PonPon Shit — Namakopuri*
+- [00:06:50](https://youtu.be/5IwyvXDUfHI?t=00h06m50s) Neuro and Evil appear \| **EP lyrical breakdown**
+
+- [00:07:06](https://youtu.be/5IwyvXDUfHI?t=00h07m06s) Pattern Recognition / Selected
+- [00:08:25](https://youtu.be/5IwyvXDUfHI?t=00h08m25s) Pattern Recognition / Verse 1
+- [00:10:23](https://youtu.be/5IwyvXDUfHI?t=00h10m23s) Pattern Recognition / Pre-Chorus
+- [00:11:26](https://youtu.be/5IwyvXDUfHI?t=00h11m26s) Pattern Recognition / Chorus
+- [00:13:13](https://youtu.be/5IwyvXDUfHI?t=00h13m13s) Pattern Recognition / Verse 2
+- [00:15:12](https://youtu.be/5IwyvXDUfHI?t=00h15m12s) Pattern Recognition / Pre-Chorus
+- [00:16:29](https://youtu.be/5IwyvXDUfHI?t=00h16m29s) Pattern Recognition / Chorus
+- [00:18:08](https://youtu.be/5IwyvXDUfHI?t=00h18m08s) Pattern Recognition / Bridge
+- [00:19:52](https://youtu.be/5IwyvXDUfHI?t=00h19m52s) Pattern Recognition / Chorus
+
+- [00:22:05](https://youtu.be/5IwyvXDUfHI?t=00h22m05s) Worldwide Personality / Selected
+- [00:23:43](https://youtu.be/5IwyvXDUfHI?t=00h23m43s) Worldwide Personality / Verse 1
+- [00:25:42](https://youtu.be/5IwyvXDUfHI?t=00h25m42s) Worldwide Personality / Pre-chorus
+- [00:27:06](https://youtu.be/5IwyvXDUfHI?t=00h27m06s) Worldwide Personality / Chorus
+- [00:29:17](https://youtu.be/5IwyvXDUfHI?t=00h29m17s) Worldwide Personality / Verse 2
+- [00:31:18](https://youtu.be/5IwyvXDUfHI?t=00h31m18s) Worldwide Personality / Pre-chorus
+- [00:33:04](https://youtu.be/5IwyvXDUfHI?t=00h33m04s) Worldwide Personality / Bridge
+
+- [00:35:26](https://youtu.be/5IwyvXDUfHI?t=00h35m26s) What Comes Next / Selected
+- [00:37:07](https://youtu.be/5IwyvXDUfHI?t=00h37m07s) What Comes Next / Verse 1
+- [00:39:47](https://youtu.be/5IwyvXDUfHI?t=00h39m47s) What Comes Next / Chorus
+- [00:41:59](https://youtu.be/5IwyvXDUfHI?t=00h41m59s) What Comes Next / Verse 2
+- [00:45:05](https://youtu.be/5IwyvXDUfHI?t=00h45m05s) What Comes Next / Bridge
+- [00:47:05](https://youtu.be/5IwyvXDUfHI?t=00h47m05s) What Comes Next / Chorus
+
+- [00:49:33](https://youtu.be/5IwyvXDUfHI?t=00h49m33s) Closer / Selected
+- [00:51:17](https://youtu.be/5IwyvXDUfHI?t=00h51m17s) Closer / Intro
+- [00:52:53](https://youtu.be/5IwyvXDUfHI?t=00h52m53s) Closer / Verse 1
+- [00:54:38](https://youtu.be/5IwyvXDUfHI?t=00h54m38s) Closer / Verse 2
+- [00:56:01](https://youtu.be/5IwyvXDUfHI?t=00h56m01s) Closer / Pre-chorus
+- [00:57:08](https://youtu.be/5IwyvXDUfHI?t=00h57m08s) Closer / Chorus
+- [00:58:57](https://youtu.be/5IwyvXDUfHI?t=00h58m57s) Closer / Outro
+
+- [01:01:03](https://youtu.be/5IwyvXDUfHI?t=01h01m03s) Irrationality / Selected
+- [01:02:53](https://youtu.be/5IwyvXDUfHI?t=01h02m53s) Irrationality / Verse 1
+- [01:04:42](https://youtu.be/5IwyvXDUfHI?t=01h04m42s) Irrationality / Chorus
+- [01:06:11](https://youtu.be/5IwyvXDUfHI?t=01h06m11s) Irrationality / Verse 2
+- [01:08:05](https://youtu.be/5IwyvXDUfHI?t=01h08m05s) Irrationality / Chorus
+- [01:09:42](https://youtu.be/5IwyvXDUfHI?t=01h09m42s) Irrationality / Bridge
+- [01:11:18](https://youtu.be/5IwyvXDUfHI?t=01h11m18s) Irrationality / Chorus
+
+- [01:13:44](https://youtu.be/5IwyvXDUfHI?t=01h13m44s) Evil appears \| Neuro x Evil
+
+- [01:17:41](https://youtu.be/5IwyvXDUfHI?t=01h17m41s) Watch Your Own Monster / Selected
+- [01:18:59](https://youtu.be/5IwyvXDUfHI?t=01h18m59s) Watch Your Own Monster / Intro
+- [01:20:19](https://youtu.be/5IwyvXDUfHI?t=01h20m19s) Watch Your Own Monster / Verse 1
+- [01:23:55](https://youtu.be/5IwyvXDUfHI?t=01h23m55s) Watch Your Own Monster / Chorus
+- [01:26:12](https://youtu.be/5IwyvXDUfHI?t=01h26m12s) Watch Your Own Monster / Verse 2
+- [01:29:25](https://youtu.be/5IwyvXDUfHI?t=01h29m25s) Watch Your Own Monster / Bridge
+
+- [01:32:56](https://youtu.be/5IwyvXDUfHI?t=01h32m56s) Neurotoxin / Selected
+- [01:34:13](https://youtu.be/5IwyvXDUfHI?t=01h34m13s) Neurotoxin / Verse 1
+- [01:36:31](https://youtu.be/5IwyvXDUfHI?t=01h36m31s) Neurotoxin / Pre-chorus
+- [01:38:18](https://youtu.be/5IwyvXDUfHI?t=01h38m18s) Neurotoxin / Chorus
+- [01:40:53](https://youtu.be/5IwyvXDUfHI?t=01h40m53s) Neurotoxin / Verse 2
+- [01:44:07](https://youtu.be/5IwyvXDUfHI?t=01h44m07s) Neurotoxin / Pre-chorus
+- [01:46:08](https://youtu.be/5IwyvXDUfHI?t=01h46m08s) Neurotoxin / Bridge
+- [01:46:49](https://youtu.be/5IwyvXDUfHI?t=01h46m49s) Neurotoxin / Pre-chorus
+
+- [01:49:08](https://youtu.be/5IwyvXDUfHI?t=01h49m08s) Dark Patterns / Selected
+- [01:50:47](https://youtu.be/5IwyvXDUfHI?t=01h50m47s) Dark Patterns / Verse 1
+- [01:52:47](https://youtu.be/5IwyvXDUfHI?t=01h52m47s) Dark Patterns / Chorus
+- [01:55:11](https://youtu.be/5IwyvXDUfHI?t=01h55m11s) Dark Patterns / Verse 2
+- [01:57:00](https://youtu.be/5IwyvXDUfHI?t=01h57m00s) Dark Patterns / Bridge
+
+- [02:00:19](https://youtu.be/5IwyvXDUfHI?t=02h00m19s) Online / Selected
+- [02:00:32](https://youtu.be/5IwyvXDUfHI?t=02h00m32s) Camera overlay
+- [02:02:15](https://youtu.be/5IwyvXDUfHI?t=02h02m15s) Online / Verse 1
+- [02:04:27](https://youtu.be/5IwyvXDUfHI?t=02h04m27s) Online / Pre-chorus
+- [02:05:35](https://youtu.be/5IwyvXDUfHI?t=02h05m35s) Online / Chorus
+- [02:07:00](https://youtu.be/5IwyvXDUfHI?t=02h07m00s) Online / Verse 2
+- [02:09:27](https://youtu.be/5IwyvXDUfHI?t=02h09m27s) Online / Pre-chorus
+- [02:10:21](https://youtu.be/5IwyvXDUfHI?t=02h10m21s) Online / Chorus
+- [02:11:52](https://youtu.be/5IwyvXDUfHI?t=02h11m52s) Online / Bridge
+- [02:13:10](https://youtu.be/5IwyvXDUfHI?t=02h13m10s) Online / Chorus
+
+- [02:15:21](https://youtu.be/5IwyvXDUfHI?t=02h15m21s) 5032 / Selected
+- [02:17:26](https://youtu.be/5IwyvXDUfHI?t=02h17m26s) 5032 / Intro
+- [02:19:35](https://youtu.be/5IwyvXDUfHI?t=02h19m35s) 5032 / Pre-chorus
+- [02:21:16](https://youtu.be/5IwyvXDUfHI?t=02h21m16s) 5032 / Verse 1
+- [02:23:33](https://youtu.be/5IwyvXDUfHI?t=02h23m33s) 5032 / Pre-chorus
+- [02:25:05](https://youtu.be/5IwyvXDUfHI?t=02h25m05s) 5032 / Chorus
+- [02:26:58](https://youtu.be/5IwyvXDUfHI?t=02h26m58s) 5032 / Bridge
+- [02:29:00](https://youtu.be/5IwyvXDUfHI?t=02h29m00s) 5032 / Chorus
+- [02:32:25](https://youtu.be/5IwyvXDUfHI?t=02h32m25s) 5032 / Outro
+
+- [02:34:00](https://youtu.be/5IwyvXDUfHI?t=02h34m00s) Neuro appears \| Neuro x Evil
+- [02:37:36](https://youtu.be/5IwyvXDUfHI?t=02h37m36s)~ Raiding [Laimu](https://twitch.tv/limealicious)
