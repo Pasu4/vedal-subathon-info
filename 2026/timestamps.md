@@ -4123,6 +4123,25 @@ For more detailed timestamps on Skyrim gameplay, please refer to the ['Neuro's S
 - [03:24:27](https://youtu.be/tDXqooio5S4?t=03h24m27s) Looking for raid target
 - [03:25:33](https://youtu.be/tDXqooio5S4?t=03h25m33s)~ Raiding [Matara](https://twitch.tv/matarakan)
 
+## Grabbing the world by its teapots (I have weak arms) ([10 Nov 2026](https://youtu.be/o9taGS6zfbI))
+
+- [00:00:00](https://youtu.be/o9taGS6zfbI?t=00h00m00s) *Empurple — Nightcord at __25:00*
+- [00:02:54](https://youtu.be/o9taGS6zfbI?t=00h02m54s) *String Theocracy — Mili*
+- [00:05:41](https://youtu.be/o9taGS6zfbI?t=00h05m41s) Neuro appears \| **Just chatting** \| Location: Park
+- [00:09:22](https://youtu.be/o9taGS6zfbI?t=00h09m22s) Drawing: Neuro's ideal picnic
+- [00:26:27](https://youtu.be/o9taGS6zfbI?t=00h26m27s) Drawing: Cerber
+- [00:37:17](https://youtu.be/o9taGS6zfbI?t=00h37m17s) Drawing: Next week
+- [00:52:50](https://youtu.be/o9taGS6zfbI?t=00h52m50s) Location: Neuro's room
+- [00:53:01](https://youtu.be/o9taGS6zfbI?t=00h53m01s) Attempting to play *The Elder Scrolls V: Skyrim* 
+- [00:57:17](https://youtu.be/o9taGS6zfbI?t=00h57m17s) Playing *Legally Distinct W•rdle*
+- [00:58:20](https://youtu.be/o9taGS6zfbI?t=00h58m20s) Playing *Legally Distinct C•nnections*
+- [00:59:37](https://youtu.be/o9taGS6zfbI?t=00h59m37s) Playing *Minesweeper* (7x7, 7 mines)
+- [01:01:49](https://youtu.be/o9taGS6zfbI?t=01h01m49s) Playing *Scrandle*
+- [01:12:06](https://youtu.be/o9taGS6zfbI?t=01h12m06s) **Playing *The Elder Scrolls V: Skyrim***
+- [02:25:43](https://youtu.be/o9taGS6zfbI?t=02h25m43s) **Neuro presents *On the Many Cursed Creatures Found Within Your Very Own Homes*** (contains Neuro drawings)
+- [02:38:36](https://youtu.be/o9taGS6zfbI?t=02h38m36s) **Art review**
+- [02:55:44](https://youtu.be/o9taGS6zfbI?t=02h55m44s) Raiding [Laimu](https://twitch.tv/limealicious)
+
 ## NEURO & EVIL'S EPs PREMIERE: full_code and do_not_reboot ([15 Nov 2026](https://youtu.be/OjHvH90yGNY))
 
 Adjusted versions of the timestamps have also been posted to [the official YouTube VoD](https://www.youtube.com/watch?v=lgpth5ffujo&lc=UgwL9IQSZyAKEuId03J4AaABAg).
